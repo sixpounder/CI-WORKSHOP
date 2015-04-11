@@ -1,0 +1,5 @@
+{
+  "require-dev": {
+    "fzaninotto/Faker": "dev-master"
+  }
+}
