@@ -56,6 +56,21 @@ if (!function_exists('css')) {
     }
 }
 
+/**
+ * IMAGE URL
+ * 
+ * Create a local URL to your css assets based on your basepath.
+ *
+ * @access  public
+ * @param   string
+ * @return  string
+ */
+if (!function_exists('imgPath')) {
+    function imgPath($name) {
+        return(asset_url('images/' . $name));
+    }
+}
+
 
 
 /* End of file assets_helper.php */
