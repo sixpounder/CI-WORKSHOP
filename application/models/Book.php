@@ -11,7 +11,7 @@ class Book extends CI_Model {
   }
 
   public function getAll() {
-    return $this->db->select()
+    return $this->db->select('books.id as id, books.title as title, authors.id as author_id, authors.name as author_name')
       ->from(self::ENTITY)
       ->join('authors', 'books.author_id = authors.id')
       ->order_by('title ASC')
@@ -19,7 +19,7 @@ class Book extends CI_Model {
   }
 
   public function get($id) {
-    if (!$id) {
+    if (!$id || $id == 0) {
       return null;
     }
 
@@ -40,10 +40,23 @@ class Book extends CI_Model {
   }
 
   public function create($data) {
-    if (!isset($data['id'])) {
-      $data['id'] = $this->db->insert_id() + 1;
-    }
+    $data['id'] = $this->db->insert_id(); //<-- This seems to have problems with sqlite, using a workaround
+
+    $id = $this->db->select_max('id')->from(self::ENTITY)->get()->result()[0]->id + 1;
+    $data['id'] = $id;
+
     if($this->db->insert(self::ENTITY, $data)) {
+      return $data;
+    } else {
+      return (object)array('status' => FALSE, 'code' => $this->db->_error_number(), 'message' => $this->db->_error_message());
+    }
+    
+  }
+
+  public function update($id,$data) {
+    $updated = $this->db->update(self::ENTITY, $data, "id = " . $id);
+
+    if($updated) {
       return $data;
     } else {
       return (object)array('status' => FALSE, 'code' => $this->db->_error_number(), 'message' => $this->db->_error_message());

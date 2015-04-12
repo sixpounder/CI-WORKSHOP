@@ -65,7 +65,7 @@ class Database extends CI_Controller {
             'id' => $i + 1,
             'title' => $this->faker->sentence(4),
             'author_id' => $this->faker->numberBetween(1,100),
-            'cover' => $this->faker->randomElement(array('c1.jpg', 'c2.jpg', 'c3.jpg'))
+            'cover' => $this->faker->randomElement(array('/assets/images/c1.jpg', '/assets/images/c2.jpg', '/assets/images/c3.jpg'))
         );
 
         $this->books_model->create($data);

@@ -19,9 +19,37 @@ class Books extends MY_Controller {
   {
     $book = $this->books_model->get($id);
     $this->setOutputData('book', $book);
-    $this->setTitle($book->title);
+    if ($book == null) {
+      show_404();
+    } else {
+      $this->setTitle($book->title);
 
-    $this->load->helper('html');
-    $this->view('books/show');
+      $this->load->helper('html');
+      $this->view('books/show');  
+    }
+    
+  }
+
+  public function create()
+  {
+    $this->load->helper('form');
+    $this->loadModel('Author', 'authors_model');
+
+    $this->setOutputData('authors', $this->authors_model->getAll());
+    $this->setTitle('New book');
+    
+    $this->view('books/new');
+  }
+
+  public function edit($id)
+  {
+    $this->load->helper('form');
+    $this->loadModel('Author', 'authors_model');
+
+    $this->setOutputData('authors', $this->authors_model->getAll());
+    $this->setOutputData('book', $this->books_model->get($id));
+    $this->setTitle('Edit book');
+    
+    $this->view('books/edit');
   }
 }

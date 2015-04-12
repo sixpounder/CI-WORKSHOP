@@ -11,16 +11,20 @@ class Author extends CI_Model {
   }
 
   public function getAll() {
-    return $this->db->get(self::ENTITY)->result();
+    return $this->db->select()->from(self::ENTITY)->order_by('name ASC')->get()->result();
+  }
+
+  public function getAllArray() {
+    return $this->db->select()->from(self::ENTITY)->order_by('name ASC')->get()->result_array();
   }
 
   public function get($id) {
-    return $this->db->get(self::ENTITY)->where('id', $id)->result();
+    return $this->db->select()->from(self::ENTITY)->where('id', $id)->get()->result();
   }
 
   public function search($match) {
     $matches = array('name' => $match);
-    return $this->db->get(self::ENTITY)->like($matches)->result();
+    return $this->db->select()->from(self::ENTITY)->like($matches)->get()->result();
   }
 
   public function create($data) {

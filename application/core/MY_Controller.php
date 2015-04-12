@@ -49,8 +49,9 @@ class MY_Controller extends CI_Controller {
   public function view($viewName)
   {
     $this->load->library('parser');
+    $navbar = $this->load->view('navbar', $this->outputData, TRUE);
     $content = $this->load->view($viewName, $this->outputData, TRUE);
-    $this->parser->parse($this->__layout, array('content' => $content, 'title' => $this->outputData['title'] ? $this->outputData['title'] : 'Bookshelf'));
+    $this->parser->parse($this->__layout, array('navbar' => $navbar, 'content' => $content, 'title' => $this->outputData['title'] ? $this->outputData['title'] : 'Bookshelf'));
   }
 
   public function json($stuff = null)

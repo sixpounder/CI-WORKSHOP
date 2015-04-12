@@ -20,7 +20,7 @@
       <a href="/books/{{book.id}}">
         <h4>
           {{book.title}}
-          <small>by {{book.name}}</small>
+          <small>by {{book.author_name}}</small>
         </h4>
       </a>
       
