@@ -6,7 +6,7 @@ class Books extends MY_Controller {
   public function __construct() {
     parent::__construct();
     $this->loadModel('Book', 'books_model');
-    $this->setOutputData('title', 'Libreria');
+    $this->setTitle('Bookshelf');
   }
 
   public function index()
@@ -32,13 +32,18 @@ class Books extends MY_Controller {
 
   public function create()
   {
-    $this->load->helper('form');
-    $this->loadModel('Author', 'authors_model');
-
-    $this->setOutputData('authors', $this->authors_model->getAll());
-    $this->setTitle('New book');
-    
-    $this->view('books/new');
+    if($this->is_logged_in()) {
+      
+      $this->load->helper('form');
+      $this->loadModel('Author', 'authors_model');
+  
+      $this->setOutputData('authors', $this->authors_model->getAll());
+      $this->setTitle('New book');
+      
+      $this->view('books/new');
+    } else {
+      $this->forbidden();
+    }
   }
 
   public function edit($id)

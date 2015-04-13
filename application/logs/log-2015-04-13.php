@@ -8616,3 +8616,11281 @@ INFO - 2015-04-13 11:06:36 --> Helper loaded: inflector_helper
 INFO - 2015-04-13 11:06:36 --> Database Driver Class Initialized
 INFO - 2015-04-13 11:06:36 --> Model Class Initialized
 INFO - 2015-04-13 11:06:36 --> Model Class Initialized
+INFO - 2015-04-13 12:04:59 --> Config Class Initialized
+INFO - 2015-04-13 12:04:59 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:04:59 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:04:59 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:04:59 --> URI Class Initialized
+DEBUG - 2015-04-13 12:04:59 --> No URI present. Default controller set.
+INFO - 2015-04-13 12:04:59 --> Router Class Initialized
+INFO - 2015-04-13 12:04:59 --> Output Class Initialized
+INFO - 2015-04-13 12:04:59 --> Security Class Initialized
+DEBUG - 2015-04-13 12:04:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:04:59 --> Input Class Initialized
+INFO - 2015-04-13 12:04:59 --> Language Class Initialized
+INFO - 2015-04-13 12:04:59 --> Loader Class Initialized
+INFO - 2015-04-13 12:04:59 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:04:59 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:04:59 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:04:59 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:04:59 --> Controller Class Initialized
+INFO - 2015-04-13 12:04:59 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:04:59 --> Model Class Initialized
+INFO - 2015-04-13 12:04:59 --> Model Class Initialized
+INFO - 2015-04-13 12:04:59 --> Parser Class Initialized
+INFO - 2015-04-13 12:04:59 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:04:59 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:04:59 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:04:59 --> Final output sent to browser
+DEBUG - 2015-04-13 12:04:59 --> Total execution time: 0.0366
+INFO - 2015-04-13 12:05:00 --> Config Class Initialized
+INFO - 2015-04-13 12:05:00 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:05:00 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:05:00 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:05:00 --> URI Class Initialized
+INFO - 2015-04-13 12:05:00 --> Router Class Initialized
+INFO - 2015-04-13 12:05:00 --> Output Class Initialized
+INFO - 2015-04-13 12:05:00 --> Security Class Initialized
+DEBUG - 2015-04-13 12:05:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:05:00 --> Input Class Initialized
+INFO - 2015-04-13 12:05:00 --> Language Class Initialized
+INFO - 2015-04-13 12:05:00 --> Loader Class Initialized
+INFO - 2015-04-13 12:05:00 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:05:00 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:05:00 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:05:00 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:05:00 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:05:00 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:05:00 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:05:00 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:05:00 --> Model Class Initialized
+INFO - 2015-04-13 12:05:00 --> Model Class Initialized
+INFO - 2015-04-13 12:05:03 --> Config Class Initialized
+INFO - 2015-04-13 12:05:03 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:05:03 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:05:03 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:05:03 --> URI Class Initialized
+INFO - 2015-04-13 12:05:03 --> Router Class Initialized
+INFO - 2015-04-13 12:05:03 --> Output Class Initialized
+INFO - 2015-04-13 12:05:03 --> Security Class Initialized
+DEBUG - 2015-04-13 12:05:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:05:03 --> Input Class Initialized
+INFO - 2015-04-13 12:05:03 --> Language Class Initialized
+INFO - 2015-04-13 12:05:03 --> Loader Class Initialized
+INFO - 2015-04-13 12:05:03 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:05:03 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:05:03 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:05:03 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:05:03 --> Controller Class Initialized
+INFO - 2015-04-13 12:05:03 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:05:03 --> Model Class Initialized
+INFO - 2015-04-13 12:05:03 --> Model Class Initialized
+INFO - 2015-04-13 12:05:03 --> Parser Class Initialized
+INFO - 2015-04-13 12:05:03 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:05:03 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:05:03 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:05:03 --> Final output sent to browser
+DEBUG - 2015-04-13 12:05:03 --> Total execution time: 0.0107
+INFO - 2015-04-13 12:05:05 --> Config Class Initialized
+INFO - 2015-04-13 12:05:05 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:05:05 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:05:05 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:05:05 --> URI Class Initialized
+INFO - 2015-04-13 12:05:05 --> Router Class Initialized
+INFO - 2015-04-13 12:05:05 --> Output Class Initialized
+INFO - 2015-04-13 12:05:05 --> Security Class Initialized
+DEBUG - 2015-04-13 12:05:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:05:05 --> Input Class Initialized
+INFO - 2015-04-13 12:05:05 --> Language Class Initialized
+INFO - 2015-04-13 12:05:05 --> Loader Class Initialized
+INFO - 2015-04-13 12:05:05 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:05:05 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:05:05 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:05:05 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:05:05 --> Controller Class Initialized
+INFO - 2015-04-13 12:05:05 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:05:05 --> Model Class Initialized
+INFO - 2015-04-13 12:05:05 --> Model Class Initialized
+INFO - 2015-04-13 12:05:05 --> Helper loaded: form_helper
+INFO - 2015-04-13 12:05:05 --> Parser Class Initialized
+INFO - 2015-04-13 12:05:05 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:05:05 --> File loaded: /home/ubuntu/workspace/application/views/users/login.php
+INFO - 2015-04-13 12:05:05 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:05:05 --> Final output sent to browser
+DEBUG - 2015-04-13 12:05:05 --> Total execution time: 0.0118
+INFO - 2015-04-13 12:05:07 --> Config Class Initialized
+INFO - 2015-04-13 12:05:07 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:05:07 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:05:07 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:05:07 --> URI Class Initialized
+DEBUG - 2015-04-13 12:05:07 --> No URI present. Default controller set.
+INFO - 2015-04-13 12:05:07 --> Router Class Initialized
+INFO - 2015-04-13 12:05:07 --> Output Class Initialized
+INFO - 2015-04-13 12:05:07 --> Security Class Initialized
+DEBUG - 2015-04-13 12:05:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:05:07 --> Input Class Initialized
+INFO - 2015-04-13 12:05:07 --> Language Class Initialized
+INFO - 2015-04-13 12:05:07 --> Loader Class Initialized
+INFO - 2015-04-13 12:05:07 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:05:07 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:05:07 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:05:07 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:05:07 --> Controller Class Initialized
+INFO - 2015-04-13 12:05:07 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:05:07 --> Model Class Initialized
+INFO - 2015-04-13 12:05:07 --> Model Class Initialized
+INFO - 2015-04-13 12:05:07 --> Parser Class Initialized
+INFO - 2015-04-13 12:05:07 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:05:07 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:05:07 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:05:07 --> Final output sent to browser
+DEBUG - 2015-04-13 12:05:07 --> Total execution time: 0.0076
+INFO - 2015-04-13 12:05:08 --> Config Class Initialized
+INFO - 2015-04-13 12:05:08 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:05:08 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:05:08 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:05:08 --> URI Class Initialized
+INFO - 2015-04-13 12:05:08 --> Router Class Initialized
+INFO - 2015-04-13 12:05:08 --> Output Class Initialized
+INFO - 2015-04-13 12:05:08 --> Security Class Initialized
+DEBUG - 2015-04-13 12:05:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:05:08 --> Input Class Initialized
+INFO - 2015-04-13 12:05:08 --> Language Class Initialized
+INFO - 2015-04-13 12:05:08 --> Loader Class Initialized
+INFO - 2015-04-13 12:05:08 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:05:08 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:05:08 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:05:08 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:05:08 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:05:08 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:05:08 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:05:08 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:05:08 --> Model Class Initialized
+INFO - 2015-04-13 12:05:08 --> Model Class Initialized
+INFO - 2015-04-13 12:05:14 --> Config Class Initialized
+INFO - 2015-04-13 12:05:14 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:05:14 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:05:14 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:05:14 --> URI Class Initialized
+INFO - 2015-04-13 12:05:14 --> Router Class Initialized
+INFO - 2015-04-13 12:05:14 --> Output Class Initialized
+INFO - 2015-04-13 12:05:14 --> Security Class Initialized
+DEBUG - 2015-04-13 12:05:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:05:14 --> Input Class Initialized
+INFO - 2015-04-13 12:05:14 --> Language Class Initialized
+INFO - 2015-04-13 12:05:14 --> Loader Class Initialized
+INFO - 2015-04-13 12:05:14 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:05:14 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:05:14 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:05:14 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:05:14 --> Controller Class Initialized
+INFO - 2015-04-13 12:05:14 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:05:14 --> Model Class Initialized
+INFO - 2015-04-13 12:05:14 --> Model Class Initialized
+INFO - 2015-04-13 12:05:14 --> Parser Class Initialized
+INFO - 2015-04-13 12:05:14 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:05:14 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:05:14 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:05:14 --> Final output sent to browser
+DEBUG - 2015-04-13 12:05:14 --> Total execution time: 0.0078
+INFO - 2015-04-13 12:05:19 --> Config Class Initialized
+INFO - 2015-04-13 12:05:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:05:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:05:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:05:19 --> URI Class Initialized
+DEBUG - 2015-04-13 12:05:19 --> No URI present. Default controller set.
+INFO - 2015-04-13 12:05:19 --> Router Class Initialized
+INFO - 2015-04-13 12:05:19 --> Output Class Initialized
+INFO - 2015-04-13 12:05:19 --> Security Class Initialized
+DEBUG - 2015-04-13 12:05:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:05:19 --> Input Class Initialized
+INFO - 2015-04-13 12:05:19 --> Language Class Initialized
+INFO - 2015-04-13 12:05:19 --> Loader Class Initialized
+INFO - 2015-04-13 12:05:19 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:05:19 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:05:19 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:05:19 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:05:19 --> Controller Class Initialized
+INFO - 2015-04-13 12:05:19 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:05:19 --> Model Class Initialized
+INFO - 2015-04-13 12:05:19 --> Model Class Initialized
+INFO - 2015-04-13 12:05:19 --> Parser Class Initialized
+INFO - 2015-04-13 12:05:19 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:05:19 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:05:19 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:05:19 --> Final output sent to browser
+DEBUG - 2015-04-13 12:05:19 --> Total execution time: 0.0109
+INFO - 2015-04-13 12:05:19 --> Config Class Initialized
+INFO - 2015-04-13 12:05:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:05:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:05:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:05:19 --> URI Class Initialized
+INFO - 2015-04-13 12:05:19 --> Router Class Initialized
+INFO - 2015-04-13 12:05:19 --> Output Class Initialized
+INFO - 2015-04-13 12:05:19 --> Security Class Initialized
+DEBUG - 2015-04-13 12:05:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:05:19 --> Input Class Initialized
+INFO - 2015-04-13 12:05:19 --> Language Class Initialized
+INFO - 2015-04-13 12:05:19 --> Loader Class Initialized
+INFO - 2015-04-13 12:05:19 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:05:19 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:05:19 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:05:19 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:05:19 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:05:19 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:05:19 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:05:19 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:05:19 --> Model Class Initialized
+INFO - 2015-04-13 12:05:19 --> Model Class Initialized
+INFO - 2015-04-13 12:06:26 --> Config Class Initialized
+INFO - 2015-04-13 12:06:26 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:06:26 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:06:26 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:06:26 --> URI Class Initialized
+INFO - 2015-04-13 12:06:26 --> Router Class Initialized
+INFO - 2015-04-13 12:06:26 --> Output Class Initialized
+INFO - 2015-04-13 12:06:26 --> Security Class Initialized
+DEBUG - 2015-04-13 12:06:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:06:26 --> Input Class Initialized
+INFO - 2015-04-13 12:06:26 --> Language Class Initialized
+INFO - 2015-04-13 12:06:26 --> Loader Class Initialized
+INFO - 2015-04-13 12:06:26 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:06:26 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:06:26 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:06:26 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:06:26 --> Controller Class Initialized
+INFO - 2015-04-13 12:06:26 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:06:26 --> Model Class Initialized
+INFO - 2015-04-13 12:06:26 --> Model Class Initialized
+INFO - 2015-04-13 12:06:26 --> Parser Class Initialized
+INFO - 2015-04-13 12:06:26 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:06:26 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:06:26 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:06:26 --> Final output sent to browser
+DEBUG - 2015-04-13 12:06:26 --> Total execution time: 0.0096
+INFO - 2015-04-13 12:06:34 --> Config Class Initialized
+INFO - 2015-04-13 12:06:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:06:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:06:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:06:34 --> URI Class Initialized
+INFO - 2015-04-13 12:06:34 --> Router Class Initialized
+INFO - 2015-04-13 12:06:34 --> Output Class Initialized
+INFO - 2015-04-13 12:06:34 --> Security Class Initialized
+DEBUG - 2015-04-13 12:06:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:06:34 --> Input Class Initialized
+INFO - 2015-04-13 12:06:34 --> Language Class Initialized
+INFO - 2015-04-13 12:06:34 --> Loader Class Initialized
+INFO - 2015-04-13 12:06:34 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:06:34 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:06:34 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:06:34 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:06:34 --> Controller Class Initialized
+INFO - 2015-04-13 12:06:34 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:06:34 --> Model Class Initialized
+INFO - 2015-04-13 12:06:34 --> Model Class Initialized
+INFO - 2015-04-13 12:06:34 --> Parser Class Initialized
+INFO - 2015-04-13 12:06:34 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:06:34 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:06:34 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:06:34 --> Final output sent to browser
+DEBUG - 2015-04-13 12:06:34 --> Total execution time: 0.0074
+INFO - 2015-04-13 12:06:36 --> Config Class Initialized
+INFO - 2015-04-13 12:06:36 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:06:36 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:06:36 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:06:36 --> URI Class Initialized
+INFO - 2015-04-13 12:06:36 --> Router Class Initialized
+INFO - 2015-04-13 12:06:36 --> Output Class Initialized
+INFO - 2015-04-13 12:06:36 --> Security Class Initialized
+DEBUG - 2015-04-13 12:06:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:06:36 --> Input Class Initialized
+INFO - 2015-04-13 12:06:36 --> Language Class Initialized
+INFO - 2015-04-13 12:06:36 --> Loader Class Initialized
+INFO - 2015-04-13 12:06:36 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:06:36 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:06:36 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:06:36 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:06:36 --> Controller Class Initialized
+INFO - 2015-04-13 12:06:36 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:06:36 --> Model Class Initialized
+INFO - 2015-04-13 12:06:36 --> Model Class Initialized
+INFO - 2015-04-13 12:06:36 --> Parser Class Initialized
+INFO - 2015-04-13 12:06:36 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:06:36 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:06:36 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:06:36 --> Final output sent to browser
+DEBUG - 2015-04-13 12:06:36 --> Total execution time: 0.0101
+INFO - 2015-04-13 12:06:37 --> Config Class Initialized
+INFO - 2015-04-13 12:06:37 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:06:37 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:06:37 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:06:37 --> URI Class Initialized
+INFO - 2015-04-13 12:06:37 --> Router Class Initialized
+INFO - 2015-04-13 12:06:37 --> Output Class Initialized
+INFO - 2015-04-13 12:06:37 --> Security Class Initialized
+DEBUG - 2015-04-13 12:06:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:06:37 --> Input Class Initialized
+INFO - 2015-04-13 12:06:37 --> Language Class Initialized
+INFO - 2015-04-13 12:06:37 --> Loader Class Initialized
+INFO - 2015-04-13 12:06:37 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:06:37 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:06:37 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:06:37 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:06:37 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:06:37 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:06:37 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:06:37 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:06:37 --> Model Class Initialized
+INFO - 2015-04-13 12:06:37 --> Model Class Initialized
+INFO - 2015-04-13 12:06:37 --> Config Class Initialized
+INFO - 2015-04-13 12:06:37 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:06:37 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:06:37 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:06:37 --> URI Class Initialized
+INFO - 2015-04-13 12:06:37 --> Router Class Initialized
+INFO - 2015-04-13 12:06:37 --> Output Class Initialized
+INFO - 2015-04-13 12:06:37 --> Security Class Initialized
+DEBUG - 2015-04-13 12:06:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:06:37 --> Input Class Initialized
+INFO - 2015-04-13 12:06:37 --> Language Class Initialized
+INFO - 2015-04-13 12:06:37 --> Loader Class Initialized
+INFO - 2015-04-13 12:06:37 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:06:37 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:06:37 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:06:37 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:06:37 --> Controller Class Initialized
+INFO - 2015-04-13 12:06:37 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:06:37 --> Model Class Initialized
+INFO - 2015-04-13 12:06:37 --> Model Class Initialized
+INFO - 2015-04-13 12:06:37 --> Parser Class Initialized
+INFO - 2015-04-13 12:06:37 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:06:37 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:06:37 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:06:37 --> Final output sent to browser
+DEBUG - 2015-04-13 12:06:37 --> Total execution time: 0.0075
+INFO - 2015-04-13 12:07:46 --> Config Class Initialized
+INFO - 2015-04-13 12:07:46 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:07:46 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:07:46 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:07:46 --> URI Class Initialized
+INFO - 2015-04-13 12:07:46 --> Router Class Initialized
+INFO - 2015-04-13 12:07:46 --> Output Class Initialized
+INFO - 2015-04-13 12:07:46 --> Security Class Initialized
+DEBUG - 2015-04-13 12:07:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:07:46 --> Input Class Initialized
+INFO - 2015-04-13 12:07:46 --> Language Class Initialized
+INFO - 2015-04-13 12:07:46 --> Loader Class Initialized
+INFO - 2015-04-13 12:07:46 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:07:46 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:07:46 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:07:46 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:07:46 --> Controller Class Initialized
+INFO - 2015-04-13 12:07:46 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:07:46 --> Model Class Initialized
+INFO - 2015-04-13 12:07:46 --> Model Class Initialized
+INFO - 2015-04-13 12:07:46 --> Helper loaded: form_helper
+INFO - 2015-04-13 12:07:46 --> Parser Class Initialized
+INFO - 2015-04-13 12:07:46 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:07:46 --> File loaded: /home/ubuntu/workspace/application/views/users/login.php
+INFO - 2015-04-13 12:07:46 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:07:46 --> Final output sent to browser
+DEBUG - 2015-04-13 12:07:46 --> Total execution time: 0.0066
+INFO - 2015-04-13 12:07:47 --> Config Class Initialized
+INFO - 2015-04-13 12:07:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:07:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:07:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:07:47 --> URI Class Initialized
+INFO - 2015-04-13 12:07:47 --> Router Class Initialized
+INFO - 2015-04-13 12:07:47 --> Output Class Initialized
+INFO - 2015-04-13 12:07:47 --> Security Class Initialized
+DEBUG - 2015-04-13 12:07:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:07:47 --> Input Class Initialized
+INFO - 2015-04-13 12:07:47 --> Language Class Initialized
+INFO - 2015-04-13 12:07:47 --> Loader Class Initialized
+INFO - 2015-04-13 12:07:47 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:07:47 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:07:47 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:07:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:07:47 --> Controller Class Initialized
+INFO - 2015-04-13 12:07:47 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:07:47 --> Model Class Initialized
+INFO - 2015-04-13 12:07:47 --> Model Class Initialized
+INFO - 2015-04-13 12:07:47 --> Helper loaded: form_helper
+INFO - 2015-04-13 12:07:47 --> Form Validation Class Initialized
+INFO - 2015-04-13 12:07:47 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2015-04-13 12:07:47 --> Config Class Initialized
+INFO - 2015-04-13 12:07:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:07:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:07:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:07:47 --> URI Class Initialized
+DEBUG - 2015-04-13 12:07:47 --> No URI present. Default controller set.
+INFO - 2015-04-13 12:07:47 --> Router Class Initialized
+INFO - 2015-04-13 12:07:47 --> Output Class Initialized
+INFO - 2015-04-13 12:07:47 --> Security Class Initialized
+DEBUG - 2015-04-13 12:07:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:07:47 --> Input Class Initialized
+INFO - 2015-04-13 12:07:47 --> Language Class Initialized
+INFO - 2015-04-13 12:07:47 --> Loader Class Initialized
+INFO - 2015-04-13 12:07:47 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:07:47 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:07:47 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:07:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:07:47 --> Controller Class Initialized
+INFO - 2015-04-13 12:07:47 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:07:47 --> Model Class Initialized
+INFO - 2015-04-13 12:07:47 --> Model Class Initialized
+INFO - 2015-04-13 12:07:47 --> Parser Class Initialized
+INFO - 2015-04-13 12:07:47 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:07:47 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:07:47 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:07:47 --> Final output sent to browser
+DEBUG - 2015-04-13 12:07:47 --> Total execution time: 0.0071
+INFO - 2015-04-13 12:07:47 --> Config Class Initialized
+INFO - 2015-04-13 12:07:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:07:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:07:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:07:47 --> URI Class Initialized
+INFO - 2015-04-13 12:07:47 --> Router Class Initialized
+INFO - 2015-04-13 12:07:47 --> Output Class Initialized
+INFO - 2015-04-13 12:07:47 --> Security Class Initialized
+DEBUG - 2015-04-13 12:07:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:07:47 --> Input Class Initialized
+INFO - 2015-04-13 12:07:47 --> Language Class Initialized
+INFO - 2015-04-13 12:07:47 --> Loader Class Initialized
+INFO - 2015-04-13 12:07:47 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:07:47 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:07:47 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:07:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:07:47 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:07:47 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:07:47 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:07:47 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:07:47 --> Model Class Initialized
+INFO - 2015-04-13 12:07:47 --> Model Class Initialized
+INFO - 2015-04-13 12:07:48 --> Config Class Initialized
+INFO - 2015-04-13 12:07:48 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:07:48 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:07:48 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:07:48 --> URI Class Initialized
+INFO - 2015-04-13 12:07:48 --> Router Class Initialized
+INFO - 2015-04-13 12:07:48 --> Output Class Initialized
+INFO - 2015-04-13 12:07:48 --> Security Class Initialized
+DEBUG - 2015-04-13 12:07:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:07:48 --> Input Class Initialized
+INFO - 2015-04-13 12:07:48 --> Language Class Initialized
+INFO - 2015-04-13 12:07:48 --> Loader Class Initialized
+INFO - 2015-04-13 12:07:48 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:07:48 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:07:48 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:07:48 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:07:48 --> Controller Class Initialized
+INFO - 2015-04-13 12:07:48 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:07:48 --> Model Class Initialized
+INFO - 2015-04-13 12:07:48 --> Model Class Initialized
+INFO - 2015-04-13 12:07:48 --> Parser Class Initialized
+INFO - 2015-04-13 12:07:48 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:07:48 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:07:48 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:07:48 --> Final output sent to browser
+DEBUG - 2015-04-13 12:07:48 --> Total execution time: 0.0058
+INFO - 2015-04-13 12:07:50 --> Config Class Initialized
+INFO - 2015-04-13 12:07:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:07:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:07:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:07:50 --> URI Class Initialized
+INFO - 2015-04-13 12:07:50 --> Router Class Initialized
+INFO - 2015-04-13 12:07:50 --> Output Class Initialized
+INFO - 2015-04-13 12:07:50 --> Security Class Initialized
+DEBUG - 2015-04-13 12:07:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:07:50 --> Input Class Initialized
+INFO - 2015-04-13 12:07:50 --> Language Class Initialized
+INFO - 2015-04-13 12:07:50 --> Loader Class Initialized
+INFO - 2015-04-13 12:07:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:07:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:07:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:07:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:07:50 --> Controller Class Initialized
+INFO - 2015-04-13 12:07:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:07:50 --> Model Class Initialized
+INFO - 2015-04-13 12:07:50 --> Model Class Initialized
+INFO - 2015-04-13 12:07:50 --> Helper loaded: form_helper
+INFO - 2015-04-13 12:07:50 --> Model Class Initialized
+INFO - 2015-04-13 12:07:50 --> Parser Class Initialized
+INFO - 2015-04-13 12:07:50 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:07:50 --> File loaded: /home/ubuntu/workspace/application/views/books/edit.php
+INFO - 2015-04-13 12:07:50 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:07:50 --> Final output sent to browser
+DEBUG - 2015-04-13 12:07:50 --> Total execution time: 0.0079
+INFO - 2015-04-13 12:07:50 --> Config Class Initialized
+INFO - 2015-04-13 12:07:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:07:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:07:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:07:50 --> URI Class Initialized
+INFO - 2015-04-13 12:07:50 --> Router Class Initialized
+INFO - 2015-04-13 12:07:50 --> Output Class Initialized
+INFO - 2015-04-13 12:07:50 --> Security Class Initialized
+DEBUG - 2015-04-13 12:07:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:07:50 --> Input Class Initialized
+INFO - 2015-04-13 12:07:50 --> Language Class Initialized
+INFO - 2015-04-13 12:07:50 --> Loader Class Initialized
+INFO - 2015-04-13 12:07:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:07:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:07:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:07:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:07:50 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:07:50 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:07:50 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:07:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:07:50 --> Model Class Initialized
+INFO - 2015-04-13 12:07:50 --> Model Class Initialized
+INFO - 2015-04-13 12:07:50 --> Searching book with id 77
+INFO - 2015-04-13 12:07:55 --> Config Class Initialized
+INFO - 2015-04-13 12:07:55 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:07:55 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:07:55 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:07:55 --> URI Class Initialized
+INFO - 2015-04-13 12:07:55 --> Router Class Initialized
+INFO - 2015-04-13 12:07:55 --> Output Class Initialized
+INFO - 2015-04-13 12:07:55 --> Security Class Initialized
+DEBUG - 2015-04-13 12:07:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:07:55 --> Input Class Initialized
+INFO - 2015-04-13 12:07:55 --> Language Class Initialized
+INFO - 2015-04-13 12:07:55 --> Loader Class Initialized
+INFO - 2015-04-13 12:07:55 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:07:55 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:07:55 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:07:55 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:07:55 --> Controller Class Initialized
+INFO - 2015-04-13 12:07:55 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:07:55 --> Model Class Initialized
+INFO - 2015-04-13 12:07:55 --> Model Class Initialized
+INFO - 2015-04-13 12:07:55 --> Parser Class Initialized
+INFO - 2015-04-13 12:07:55 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:07:55 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:07:55 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:07:55 --> Final output sent to browser
+DEBUG - 2015-04-13 12:07:55 --> Total execution time: 0.0066
+INFO - 2015-04-13 12:07:56 --> Config Class Initialized
+INFO - 2015-04-13 12:07:56 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:07:56 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:07:56 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:07:56 --> URI Class Initialized
+INFO - 2015-04-13 12:07:56 --> Router Class Initialized
+INFO - 2015-04-13 12:07:56 --> Output Class Initialized
+INFO - 2015-04-13 12:07:56 --> Security Class Initialized
+DEBUG - 2015-04-13 12:07:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:07:56 --> Input Class Initialized
+INFO - 2015-04-13 12:07:56 --> Language Class Initialized
+INFO - 2015-04-13 12:07:56 --> Loader Class Initialized
+INFO - 2015-04-13 12:07:56 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:07:56 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:07:56 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:07:56 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:07:56 --> Controller Class Initialized
+INFO - 2015-04-13 12:07:56 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:07:56 --> Model Class Initialized
+INFO - 2015-04-13 12:07:56 --> Model Class Initialized
+INFO - 2015-04-13 12:07:56 --> Helper loaded: form_helper
+INFO - 2015-04-13 12:07:56 --> Model Class Initialized
+INFO - 2015-04-13 12:07:56 --> Parser Class Initialized
+INFO - 2015-04-13 12:07:56 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:07:56 --> File loaded: /home/ubuntu/workspace/application/views/books/edit.php
+INFO - 2015-04-13 12:07:56 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:07:56 --> Final output sent to browser
+DEBUG - 2015-04-13 12:07:56 --> Total execution time: 0.0110
+INFO - 2015-04-13 12:07:56 --> Config Class Initialized
+INFO - 2015-04-13 12:07:56 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:07:56 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:07:56 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:07:56 --> URI Class Initialized
+INFO - 2015-04-13 12:07:56 --> Router Class Initialized
+INFO - 2015-04-13 12:07:56 --> Output Class Initialized
+INFO - 2015-04-13 12:07:56 --> Security Class Initialized
+DEBUG - 2015-04-13 12:07:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:07:56 --> Input Class Initialized
+INFO - 2015-04-13 12:07:56 --> Language Class Initialized
+INFO - 2015-04-13 12:07:56 --> Loader Class Initialized
+INFO - 2015-04-13 12:07:56 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:07:56 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:07:56 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:07:56 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:07:56 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:07:56 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:07:56 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:07:56 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:07:56 --> Model Class Initialized
+INFO - 2015-04-13 12:07:56 --> Model Class Initialized
+INFO - 2015-04-13 12:07:56 --> Searching book with id 77
+INFO - 2015-04-13 12:10:42 --> Config Class Initialized
+INFO - 2015-04-13 12:10:42 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:10:42 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:10:42 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:10:42 --> URI Class Initialized
+INFO - 2015-04-13 12:10:42 --> Router Class Initialized
+INFO - 2015-04-13 12:10:42 --> Output Class Initialized
+INFO - 2015-04-13 12:10:42 --> Security Class Initialized
+DEBUG - 2015-04-13 12:10:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:10:42 --> Input Class Initialized
+INFO - 2015-04-13 12:10:42 --> Language Class Initialized
+INFO - 2015-04-13 12:10:42 --> Loader Class Initialized
+INFO - 2015-04-13 12:10:42 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:10:42 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:10:42 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:10:42 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:10:42 --> Controller Class Initialized
+INFO - 2015-04-13 12:10:42 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:10:42 --> Model Class Initialized
+INFO - 2015-04-13 12:10:42 --> Model Class Initialized
+INFO - 2015-04-13 12:10:42 --> Parser Class Initialized
+INFO - 2015-04-13 12:10:42 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:10:42 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:10:42 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:10:42 --> Final output sent to browser
+DEBUG - 2015-04-13 12:10:42 --> Total execution time: 0.0094
+INFO - 2015-04-13 12:10:44 --> Config Class Initialized
+INFO - 2015-04-13 12:10:44 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:10:44 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:10:44 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:10:44 --> URI Class Initialized
+INFO - 2015-04-13 12:10:44 --> Router Class Initialized
+INFO - 2015-04-13 12:10:44 --> Output Class Initialized
+INFO - 2015-04-13 12:10:44 --> Security Class Initialized
+DEBUG - 2015-04-13 12:10:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:10:44 --> Input Class Initialized
+INFO - 2015-04-13 12:10:44 --> Language Class Initialized
+INFO - 2015-04-13 12:10:44 --> Loader Class Initialized
+INFO - 2015-04-13 12:10:44 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:10:44 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:10:44 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:10:44 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:10:44 --> Controller Class Initialized
+INFO - 2015-04-13 12:10:44 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:10:44 --> Model Class Initialized
+INFO - 2015-04-13 12:10:44 --> Model Class Initialized
+INFO - 2015-04-13 12:10:44 --> Parser Class Initialized
+INFO - 2015-04-13 12:10:44 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:10:44 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:10:44 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:10:44 --> Final output sent to browser
+DEBUG - 2015-04-13 12:10:44 --> Total execution time: 0.0085
+INFO - 2015-04-13 12:10:45 --> Config Class Initialized
+INFO - 2015-04-13 12:10:45 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:10:45 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:10:45 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:10:45 --> URI Class Initialized
+INFO - 2015-04-13 12:10:45 --> Router Class Initialized
+INFO - 2015-04-13 12:10:45 --> Output Class Initialized
+INFO - 2015-04-13 12:10:45 --> Security Class Initialized
+DEBUG - 2015-04-13 12:10:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:10:45 --> Input Class Initialized
+INFO - 2015-04-13 12:10:45 --> Language Class Initialized
+INFO - 2015-04-13 12:10:45 --> Loader Class Initialized
+INFO - 2015-04-13 12:10:45 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:10:45 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:10:45 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:10:45 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:10:45 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:10:45 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:10:45 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:10:45 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:10:45 --> Model Class Initialized
+INFO - 2015-04-13 12:10:45 --> Model Class Initialized
+INFO - 2015-04-13 12:10:46 --> Config Class Initialized
+INFO - 2015-04-13 12:10:46 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:10:46 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:10:46 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:10:46 --> URI Class Initialized
+INFO - 2015-04-13 12:10:46 --> Router Class Initialized
+INFO - 2015-04-13 12:10:46 --> Output Class Initialized
+INFO - 2015-04-13 12:10:46 --> Security Class Initialized
+DEBUG - 2015-04-13 12:10:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:10:46 --> Input Class Initialized
+INFO - 2015-04-13 12:10:46 --> Language Class Initialized
+INFO - 2015-04-13 12:10:46 --> Loader Class Initialized
+INFO - 2015-04-13 12:10:46 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:10:46 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:10:46 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:10:46 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:10:46 --> Controller Class Initialized
+INFO - 2015-04-13 12:10:46 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:10:46 --> Model Class Initialized
+INFO - 2015-04-13 12:10:46 --> Model Class Initialized
+INFO - 2015-04-13 12:10:46 --> Parser Class Initialized
+INFO - 2015-04-13 12:10:46 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:10:46 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:10:46 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:10:46 --> Final output sent to browser
+DEBUG - 2015-04-13 12:10:46 --> Total execution time: 0.0062
+INFO - 2015-04-13 12:10:47 --> Config Class Initialized
+INFO - 2015-04-13 12:10:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:10:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:10:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:10:47 --> URI Class Initialized
+INFO - 2015-04-13 12:10:47 --> Router Class Initialized
+INFO - 2015-04-13 12:10:47 --> Output Class Initialized
+INFO - 2015-04-13 12:10:47 --> Security Class Initialized
+DEBUG - 2015-04-13 12:10:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:10:47 --> Input Class Initialized
+INFO - 2015-04-13 12:10:47 --> Language Class Initialized
+INFO - 2015-04-13 12:10:47 --> Loader Class Initialized
+INFO - 2015-04-13 12:10:47 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:10:47 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:10:47 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:10:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:10:47 --> Controller Class Initialized
+INFO - 2015-04-13 12:10:47 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:10:47 --> Model Class Initialized
+INFO - 2015-04-13 12:10:47 --> Model Class Initialized
+INFO - 2015-04-13 12:10:47 --> Helper loaded: form_helper
+INFO - 2015-04-13 12:10:47 --> Model Class Initialized
+INFO - 2015-04-13 12:10:47 --> Parser Class Initialized
+INFO - 2015-04-13 12:10:47 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:10:47 --> File loaded: /home/ubuntu/workspace/application/views/books/edit.php
+INFO - 2015-04-13 12:10:47 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:10:47 --> Final output sent to browser
+DEBUG - 2015-04-13 12:10:47 --> Total execution time: 0.0101
+INFO - 2015-04-13 12:10:48 --> Config Class Initialized
+INFO - 2015-04-13 12:10:48 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:10:48 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:10:48 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:10:48 --> URI Class Initialized
+INFO - 2015-04-13 12:10:48 --> Router Class Initialized
+INFO - 2015-04-13 12:10:48 --> Output Class Initialized
+INFO - 2015-04-13 12:10:48 --> Security Class Initialized
+DEBUG - 2015-04-13 12:10:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:10:48 --> Input Class Initialized
+INFO - 2015-04-13 12:10:48 --> Language Class Initialized
+INFO - 2015-04-13 12:10:48 --> Loader Class Initialized
+INFO - 2015-04-13 12:10:48 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:10:48 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:10:48 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:10:48 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:10:48 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:10:48 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:10:48 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:10:48 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:10:48 --> Model Class Initialized
+INFO - 2015-04-13 12:10:48 --> Model Class Initialized
+INFO - 2015-04-13 12:10:48 --> Searching book with id 29
+INFO - 2015-04-13 12:11:18 --> Config Class Initialized
+INFO - 2015-04-13 12:11:18 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:11:18 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:11:18 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:11:18 --> URI Class Initialized
+INFO - 2015-04-13 12:11:18 --> Router Class Initialized
+INFO - 2015-04-13 12:11:18 --> Output Class Initialized
+INFO - 2015-04-13 12:11:18 --> Security Class Initialized
+DEBUG - 2015-04-13 12:11:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:11:18 --> Input Class Initialized
+INFO - 2015-04-13 12:11:18 --> Language Class Initialized
+INFO - 2015-04-13 12:11:18 --> Loader Class Initialized
+INFO - 2015-04-13 12:11:18 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:11:18 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:11:18 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:11:18 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:11:18 --> Controller Class Initialized
+INFO - 2015-04-13 12:11:18 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:11:18 --> Model Class Initialized
+INFO - 2015-04-13 12:11:18 --> Model Class Initialized
+INFO - 2015-04-13 12:11:18 --> Helper loaded: form_helper
+INFO - 2015-04-13 12:11:18 --> Model Class Initialized
+INFO - 2015-04-13 12:11:18 --> Parser Class Initialized
+INFO - 2015-04-13 12:11:18 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:11:18 --> File loaded: /home/ubuntu/workspace/application/views/books/edit.php
+INFO - 2015-04-13 12:11:18 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:11:18 --> Final output sent to browser
+DEBUG - 2015-04-13 12:11:18 --> Total execution time: 0.0084
+INFO - 2015-04-13 12:11:18 --> Config Class Initialized
+INFO - 2015-04-13 12:11:18 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:11:18 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:11:18 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:11:18 --> URI Class Initialized
+INFO - 2015-04-13 12:11:18 --> Router Class Initialized
+INFO - 2015-04-13 12:11:18 --> Output Class Initialized
+INFO - 2015-04-13 12:11:18 --> Security Class Initialized
+DEBUG - 2015-04-13 12:11:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:11:18 --> Input Class Initialized
+INFO - 2015-04-13 12:11:18 --> Language Class Initialized
+INFO - 2015-04-13 12:11:18 --> Loader Class Initialized
+INFO - 2015-04-13 12:11:18 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:11:18 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:11:18 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:11:18 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:11:18 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:11:18 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:11:18 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:11:18 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:11:18 --> Model Class Initialized
+INFO - 2015-04-13 12:11:18 --> Model Class Initialized
+INFO - 2015-04-13 12:11:18 --> Searching book with id 29
+INFO - 2015-04-13 12:12:20 --> Config Class Initialized
+INFO - 2015-04-13 12:12:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:20 --> URI Class Initialized
+INFO - 2015-04-13 12:12:20 --> Router Class Initialized
+INFO - 2015-04-13 12:12:20 --> Output Class Initialized
+INFO - 2015-04-13 12:12:20 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:20 --> Input Class Initialized
+INFO - 2015-04-13 12:12:20 --> Language Class Initialized
+INFO - 2015-04-13 12:12:20 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:20 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:20 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:20 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:20 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:20 --> Controller Class Initialized
+INFO - 2015-04-13 12:12:20 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:20 --> Model Class Initialized
+INFO - 2015-04-13 12:12:20 --> Model Class Initialized
+INFO - 2015-04-13 12:12:20 --> Helper loaded: form_helper
+INFO - 2015-04-13 12:12:20 --> Model Class Initialized
+INFO - 2015-04-13 12:12:20 --> Parser Class Initialized
+INFO - 2015-04-13 12:12:20 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:12:20 --> File loaded: /home/ubuntu/workspace/application/views/books/edit.php
+INFO - 2015-04-13 12:12:20 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:12:20 --> Final output sent to browser
+DEBUG - 2015-04-13 12:12:20 --> Total execution time: 0.0078
+INFO - 2015-04-13 12:12:20 --> Config Class Initialized
+INFO - 2015-04-13 12:12:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:20 --> URI Class Initialized
+INFO - 2015-04-13 12:12:20 --> Router Class Initialized
+INFO - 2015-04-13 12:12:20 --> Output Class Initialized
+INFO - 2015-04-13 12:12:20 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:20 --> Input Class Initialized
+INFO - 2015-04-13 12:12:20 --> Language Class Initialized
+INFO - 2015-04-13 12:12:20 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:20 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:20 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:20 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:20 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:20 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:12:20 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:12:20 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:12:20 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:20 --> Model Class Initialized
+INFO - 2015-04-13 12:12:20 --> Model Class Initialized
+INFO - 2015-04-13 12:12:20 --> Searching book with id 29
+INFO - 2015-04-13 12:12:32 --> Config Class Initialized
+INFO - 2015-04-13 12:12:32 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:32 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:32 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:32 --> URI Class Initialized
+INFO - 2015-04-13 12:12:32 --> Router Class Initialized
+INFO - 2015-04-13 12:12:32 --> Output Class Initialized
+INFO - 2015-04-13 12:12:32 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:32 --> Input Class Initialized
+INFO - 2015-04-13 12:12:32 --> Language Class Initialized
+INFO - 2015-04-13 12:12:32 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:32 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:32 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:32 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:32 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:12:32 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:12:32 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:12:32 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:32 --> Model Class Initialized
+INFO - 2015-04-13 12:12:32 --> Model Class Initialized
+INFO - 2015-04-13 12:12:32 --> Updating book with id 29
+INFO - 2015-04-13 12:12:32 --> {"id":"29","title":"Art Harris's life","author_id":"16","cover":"\/assets\/images\/c2.jpg","$promise":"","$resolved":"","$get":"","$save":"","$query":"","$remove":"","$delete":"","$update":"","$create":"","$destroy":"","toJSON":"[object Object]"}
+INFO - 2015-04-13 12:12:32 --> Final output sent to browser
+DEBUG - 2015-04-13 12:12:32 --> Total execution time: 0.0132
+INFO - 2015-04-13 12:12:32 --> Config Class Initialized
+INFO - 2015-04-13 12:12:32 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:32 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:32 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:32 --> URI Class Initialized
+INFO - 2015-04-13 12:12:32 --> Router Class Initialized
+INFO - 2015-04-13 12:12:32 --> Output Class Initialized
+INFO - 2015-04-13 12:12:32 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:32 --> Input Class Initialized
+INFO - 2015-04-13 12:12:32 --> Language Class Initialized
+INFO - 2015-04-13 12:12:32 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:32 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:32 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:32 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:32 --> Controller Class Initialized
+INFO - 2015-04-13 12:12:32 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:32 --> Model Class Initialized
+INFO - 2015-04-13 12:12:32 --> Model Class Initialized
+INFO - 2015-04-13 12:12:32 --> Parser Class Initialized
+INFO - 2015-04-13 12:12:32 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:12:32 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:12:32 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:12:32 --> Final output sent to browser
+DEBUG - 2015-04-13 12:12:32 --> Total execution time: 0.0058
+INFO - 2015-04-13 12:12:36 --> Config Class Initialized
+INFO - 2015-04-13 12:12:36 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:36 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:36 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:36 --> URI Class Initialized
+INFO - 2015-04-13 12:12:36 --> Router Class Initialized
+INFO - 2015-04-13 12:12:36 --> Output Class Initialized
+INFO - 2015-04-13 12:12:36 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:36 --> Input Class Initialized
+INFO - 2015-04-13 12:12:36 --> Language Class Initialized
+INFO - 2015-04-13 12:12:36 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:36 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:36 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:36 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:36 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:36 --> Controller Class Initialized
+INFO - 2015-04-13 12:12:36 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:36 --> Model Class Initialized
+INFO - 2015-04-13 12:12:36 --> Model Class Initialized
+INFO - 2015-04-13 12:12:36 --> Parser Class Initialized
+INFO - 2015-04-13 12:12:36 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:12:36 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:12:36 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:12:36 --> Final output sent to browser
+DEBUG - 2015-04-13 12:12:36 --> Total execution time: 0.0080
+INFO - 2015-04-13 12:12:37 --> Config Class Initialized
+INFO - 2015-04-13 12:12:37 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:37 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:37 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:37 --> URI Class Initialized
+INFO - 2015-04-13 12:12:37 --> Router Class Initialized
+INFO - 2015-04-13 12:12:37 --> Output Class Initialized
+INFO - 2015-04-13 12:12:37 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:37 --> Input Class Initialized
+INFO - 2015-04-13 12:12:37 --> Language Class Initialized
+INFO - 2015-04-13 12:12:37 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:37 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:37 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:37 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:37 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:37 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:12:37 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:12:37 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:12:37 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:37 --> Model Class Initialized
+INFO - 2015-04-13 12:12:37 --> Model Class Initialized
+INFO - 2015-04-13 12:12:39 --> Config Class Initialized
+INFO - 2015-04-13 12:12:39 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:39 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:39 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:39 --> URI Class Initialized
+INFO - 2015-04-13 12:12:39 --> Router Class Initialized
+INFO - 2015-04-13 12:12:39 --> Output Class Initialized
+INFO - 2015-04-13 12:12:39 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:39 --> Input Class Initialized
+INFO - 2015-04-13 12:12:39 --> Language Class Initialized
+INFO - 2015-04-13 12:12:39 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:39 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:39 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:39 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:39 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:39 --> Controller Class Initialized
+INFO - 2015-04-13 12:12:39 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:39 --> Model Class Initialized
+INFO - 2015-04-13 12:12:39 --> Model Class Initialized
+INFO - 2015-04-13 12:12:39 --> Parser Class Initialized
+INFO - 2015-04-13 12:12:39 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:12:39 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:12:39 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:12:39 --> Final output sent to browser
+DEBUG - 2015-04-13 12:12:39 --> Total execution time: 0.0069
+INFO - 2015-04-13 12:12:40 --> Config Class Initialized
+INFO - 2015-04-13 12:12:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:40 --> URI Class Initialized
+INFO - 2015-04-13 12:12:40 --> Router Class Initialized
+INFO - 2015-04-13 12:12:40 --> Output Class Initialized
+INFO - 2015-04-13 12:12:40 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:40 --> Input Class Initialized
+INFO - 2015-04-13 12:12:40 --> Language Class Initialized
+INFO - 2015-04-13 12:12:40 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:40 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:40 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:40 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:40 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:40 --> Controller Class Initialized
+INFO - 2015-04-13 12:12:40 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:40 --> Model Class Initialized
+INFO - 2015-04-13 12:12:40 --> Model Class Initialized
+INFO - 2015-04-13 12:12:40 --> Helper loaded: form_helper
+INFO - 2015-04-13 12:12:40 --> Model Class Initialized
+INFO - 2015-04-13 12:12:40 --> Parser Class Initialized
+INFO - 2015-04-13 12:12:40 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:12:40 --> File loaded: /home/ubuntu/workspace/application/views/books/edit.php
+INFO - 2015-04-13 12:12:40 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:12:40 --> Final output sent to browser
+DEBUG - 2015-04-13 12:12:40 --> Total execution time: 0.0106
+INFO - 2015-04-13 12:12:41 --> Config Class Initialized
+INFO - 2015-04-13 12:12:41 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:41 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:41 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:41 --> URI Class Initialized
+INFO - 2015-04-13 12:12:41 --> Router Class Initialized
+INFO - 2015-04-13 12:12:41 --> Output Class Initialized
+INFO - 2015-04-13 12:12:41 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:41 --> Input Class Initialized
+INFO - 2015-04-13 12:12:41 --> Language Class Initialized
+INFO - 2015-04-13 12:12:41 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:41 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:41 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:41 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:41 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:41 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:12:41 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:12:41 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:12:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:41 --> Model Class Initialized
+INFO - 2015-04-13 12:12:41 --> Model Class Initialized
+INFO - 2015-04-13 12:12:41 --> Searching book with id 45
+INFO - 2015-04-13 12:12:43 --> Config Class Initialized
+INFO - 2015-04-13 12:12:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:43 --> URI Class Initialized
+INFO - 2015-04-13 12:12:43 --> Router Class Initialized
+INFO - 2015-04-13 12:12:43 --> Output Class Initialized
+INFO - 2015-04-13 12:12:43 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:43 --> Input Class Initialized
+INFO - 2015-04-13 12:12:43 --> Language Class Initialized
+INFO - 2015-04-13 12:12:43 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:43 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:43 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:43 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:43 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:43 --> Controller Class Initialized
+INFO - 2015-04-13 12:12:43 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:43 --> Model Class Initialized
+INFO - 2015-04-13 12:12:43 --> Model Class Initialized
+INFO - 2015-04-13 12:12:43 --> Parser Class Initialized
+INFO - 2015-04-13 12:12:43 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:12:43 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:12:43 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:12:43 --> Final output sent to browser
+DEBUG - 2015-04-13 12:12:43 --> Total execution time: 0.0097
+INFO - 2015-04-13 12:12:46 --> Config Class Initialized
+INFO - 2015-04-13 12:12:46 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:46 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:46 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:46 --> URI Class Initialized
+INFO - 2015-04-13 12:12:46 --> Router Class Initialized
+INFO - 2015-04-13 12:12:46 --> Output Class Initialized
+INFO - 2015-04-13 12:12:46 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:46 --> Input Class Initialized
+INFO - 2015-04-13 12:12:46 --> Language Class Initialized
+INFO - 2015-04-13 12:12:46 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:46 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:46 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:46 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:46 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:46 --> Controller Class Initialized
+INFO - 2015-04-13 12:12:46 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:46 --> Model Class Initialized
+INFO - 2015-04-13 12:12:46 --> Model Class Initialized
+INFO - 2015-04-13 12:12:46 --> Parser Class Initialized
+INFO - 2015-04-13 12:12:46 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:12:46 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:12:46 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:12:46 --> Final output sent to browser
+DEBUG - 2015-04-13 12:12:46 --> Total execution time: 0.0073
+INFO - 2015-04-13 12:12:46 --> Config Class Initialized
+INFO - 2015-04-13 12:12:46 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:46 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:46 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:46 --> URI Class Initialized
+INFO - 2015-04-13 12:12:46 --> Router Class Initialized
+INFO - 2015-04-13 12:12:46 --> Output Class Initialized
+INFO - 2015-04-13 12:12:46 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:46 --> Input Class Initialized
+INFO - 2015-04-13 12:12:46 --> Language Class Initialized
+INFO - 2015-04-13 12:12:46 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:46 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:46 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:46 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:46 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:46 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:12:46 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:12:46 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:12:46 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:46 --> Model Class Initialized
+INFO - 2015-04-13 12:12:46 --> Model Class Initialized
+INFO - 2015-04-13 12:12:47 --> Config Class Initialized
+INFO - 2015-04-13 12:12:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:47 --> URI Class Initialized
+INFO - 2015-04-13 12:12:47 --> Router Class Initialized
+INFO - 2015-04-13 12:12:47 --> Output Class Initialized
+INFO - 2015-04-13 12:12:47 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:47 --> Input Class Initialized
+INFO - 2015-04-13 12:12:47 --> Language Class Initialized
+INFO - 2015-04-13 12:12:47 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:47 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:47 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:47 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:47 --> Controller Class Initialized
+INFO - 2015-04-13 12:12:47 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:47 --> Model Class Initialized
+INFO - 2015-04-13 12:12:47 --> Model Class Initialized
+INFO - 2015-04-13 12:12:47 --> Parser Class Initialized
+INFO - 2015-04-13 12:12:47 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:12:47 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:12:47 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:12:47 --> Final output sent to browser
+DEBUG - 2015-04-13 12:12:47 --> Total execution time: 0.0076
+INFO - 2015-04-13 12:12:49 --> Config Class Initialized
+INFO - 2015-04-13 12:12:49 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:49 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:49 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:49 --> URI Class Initialized
+INFO - 2015-04-13 12:12:49 --> Router Class Initialized
+INFO - 2015-04-13 12:12:49 --> Output Class Initialized
+INFO - 2015-04-13 12:12:49 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:49 --> Input Class Initialized
+INFO - 2015-04-13 12:12:49 --> Language Class Initialized
+INFO - 2015-04-13 12:12:49 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:49 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:49 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:49 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:49 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:49 --> Controller Class Initialized
+INFO - 2015-04-13 12:12:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:49 --> Model Class Initialized
+INFO - 2015-04-13 12:12:49 --> Model Class Initialized
+INFO - 2015-04-13 12:12:49 --> Parser Class Initialized
+INFO - 2015-04-13 12:12:49 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:12:49 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:12:49 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:12:49 --> Final output sent to browser
+DEBUG - 2015-04-13 12:12:49 --> Total execution time: 0.0067
+INFO - 2015-04-13 12:12:50 --> Config Class Initialized
+INFO - 2015-04-13 12:12:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:50 --> URI Class Initialized
+INFO - 2015-04-13 12:12:50 --> Router Class Initialized
+INFO - 2015-04-13 12:12:50 --> Output Class Initialized
+INFO - 2015-04-13 12:12:50 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:50 --> Input Class Initialized
+INFO - 2015-04-13 12:12:50 --> Language Class Initialized
+INFO - 2015-04-13 12:12:50 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:50 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:12:50 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:12:50 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:12:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:50 --> Model Class Initialized
+INFO - 2015-04-13 12:12:50 --> Model Class Initialized
+INFO - 2015-04-13 12:12:51 --> Config Class Initialized
+INFO - 2015-04-13 12:12:51 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:51 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:51 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:51 --> URI Class Initialized
+INFO - 2015-04-13 12:12:51 --> Router Class Initialized
+INFO - 2015-04-13 12:12:51 --> Output Class Initialized
+INFO - 2015-04-13 12:12:51 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:51 --> Input Class Initialized
+INFO - 2015-04-13 12:12:51 --> Language Class Initialized
+INFO - 2015-04-13 12:12:51 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:51 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:51 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:51 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:51 --> Controller Class Initialized
+INFO - 2015-04-13 12:12:51 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:51 --> Model Class Initialized
+INFO - 2015-04-13 12:12:51 --> Model Class Initialized
+INFO - 2015-04-13 12:12:51 --> Parser Class Initialized
+INFO - 2015-04-13 12:12:51 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:12:51 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:12:51 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:12:51 --> Final output sent to browser
+DEBUG - 2015-04-13 12:12:51 --> Total execution time: 0.0066
+INFO - 2015-04-13 12:12:53 --> Config Class Initialized
+INFO - 2015-04-13 12:12:53 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:53 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:53 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:53 --> URI Class Initialized
+INFO - 2015-04-13 12:12:53 --> Router Class Initialized
+INFO - 2015-04-13 12:12:53 --> Output Class Initialized
+INFO - 2015-04-13 12:12:53 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:53 --> Input Class Initialized
+INFO - 2015-04-13 12:12:53 --> Language Class Initialized
+INFO - 2015-04-13 12:12:53 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:53 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:53 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:53 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:53 --> Controller Class Initialized
+INFO - 2015-04-13 12:12:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:53 --> Model Class Initialized
+INFO - 2015-04-13 12:12:53 --> Model Class Initialized
+INFO - 2015-04-13 12:12:53 --> Parser Class Initialized
+INFO - 2015-04-13 12:12:53 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:12:53 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:12:53 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:12:53 --> Final output sent to browser
+DEBUG - 2015-04-13 12:12:53 --> Total execution time: 0.0081
+INFO - 2015-04-13 12:12:53 --> Config Class Initialized
+INFO - 2015-04-13 12:12:53 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:12:53 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:12:53 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:12:53 --> URI Class Initialized
+INFO - 2015-04-13 12:12:53 --> Router Class Initialized
+INFO - 2015-04-13 12:12:53 --> Output Class Initialized
+INFO - 2015-04-13 12:12:53 --> Security Class Initialized
+DEBUG - 2015-04-13 12:12:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:12:53 --> Input Class Initialized
+INFO - 2015-04-13 12:12:53 --> Language Class Initialized
+INFO - 2015-04-13 12:12:53 --> Loader Class Initialized
+INFO - 2015-04-13 12:12:53 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:12:53 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:12:53 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:12:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:12:53 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:12:53 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:12:53 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:12:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:12:53 --> Model Class Initialized
+INFO - 2015-04-13 12:12:53 --> Model Class Initialized
+INFO - 2015-04-13 12:13:25 --> Config Class Initialized
+INFO - 2015-04-13 12:13:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:13:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:13:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:13:25 --> URI Class Initialized
+INFO - 2015-04-13 12:13:25 --> Router Class Initialized
+INFO - 2015-04-13 12:13:25 --> Output Class Initialized
+INFO - 2015-04-13 12:13:25 --> Security Class Initialized
+DEBUG - 2015-04-13 12:13:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:13:25 --> Input Class Initialized
+INFO - 2015-04-13 12:13:25 --> Language Class Initialized
+INFO - 2015-04-13 12:13:25 --> Loader Class Initialized
+INFO - 2015-04-13 12:13:25 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:13:25 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:13:25 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:13:25 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:13:25 --> Controller Class Initialized
+INFO - 2015-04-13 12:13:25 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:13:25 --> Model Class Initialized
+INFO - 2015-04-13 12:13:25 --> Model Class Initialized
+INFO - 2015-04-13 12:13:25 --> Parser Class Initialized
+INFO - 2015-04-13 12:13:25 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:13:25 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:13:25 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:13:25 --> Final output sent to browser
+DEBUG - 2015-04-13 12:13:25 --> Total execution time: 0.0076
+INFO - 2015-04-13 12:14:26 --> Config Class Initialized
+INFO - 2015-04-13 12:14:26 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:14:26 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:14:26 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:14:26 --> URI Class Initialized
+INFO - 2015-04-13 12:14:26 --> Router Class Initialized
+INFO - 2015-04-13 12:14:26 --> Output Class Initialized
+INFO - 2015-04-13 12:14:26 --> Security Class Initialized
+DEBUG - 2015-04-13 12:14:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:14:26 --> Input Class Initialized
+INFO - 2015-04-13 12:14:26 --> Language Class Initialized
+INFO - 2015-04-13 12:14:26 --> Loader Class Initialized
+INFO - 2015-04-13 12:14:26 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:14:26 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:14:26 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:14:26 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:14:26 --> Controller Class Initialized
+INFO - 2015-04-13 12:14:26 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:14:26 --> Model Class Initialized
+INFO - 2015-04-13 12:14:26 --> Model Class Initialized
+INFO - 2015-04-13 12:14:26 --> Parser Class Initialized
+INFO - 2015-04-13 12:14:26 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:14:26 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:14:26 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:14:26 --> Final output sent to browser
+DEBUG - 2015-04-13 12:14:26 --> Total execution time: 0.0086
+INFO - 2015-04-13 12:14:27 --> Config Class Initialized
+INFO - 2015-04-13 12:14:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:14:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:14:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:14:27 --> URI Class Initialized
+INFO - 2015-04-13 12:14:27 --> Router Class Initialized
+INFO - 2015-04-13 12:14:27 --> Output Class Initialized
+INFO - 2015-04-13 12:14:27 --> Security Class Initialized
+DEBUG - 2015-04-13 12:14:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:14:27 --> Input Class Initialized
+INFO - 2015-04-13 12:14:27 --> Language Class Initialized
+INFO - 2015-04-13 12:14:27 --> Loader Class Initialized
+INFO - 2015-04-13 12:14:27 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:14:27 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:14:27 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:14:27 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:14:27 --> Controller Class Initialized
+INFO - 2015-04-13 12:14:27 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:14:27 --> Model Class Initialized
+INFO - 2015-04-13 12:14:27 --> Model Class Initialized
+INFO - 2015-04-13 12:14:27 --> Parser Class Initialized
+INFO - 2015-04-13 12:14:27 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:14:27 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:14:27 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:14:27 --> Final output sent to browser
+DEBUG - 2015-04-13 12:14:27 --> Total execution time: 0.0114
+INFO - 2015-04-13 12:14:27 --> Config Class Initialized
+INFO - 2015-04-13 12:14:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:14:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:14:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:14:27 --> URI Class Initialized
+INFO - 2015-04-13 12:14:27 --> Router Class Initialized
+INFO - 2015-04-13 12:14:27 --> Output Class Initialized
+INFO - 2015-04-13 12:14:27 --> Security Class Initialized
+DEBUG - 2015-04-13 12:14:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:14:27 --> Input Class Initialized
+INFO - 2015-04-13 12:14:27 --> Language Class Initialized
+INFO - 2015-04-13 12:14:27 --> Loader Class Initialized
+INFO - 2015-04-13 12:14:27 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:14:27 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:14:27 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:14:27 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:14:27 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:14:27 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:14:27 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:14:27 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:14:27 --> Model Class Initialized
+INFO - 2015-04-13 12:14:27 --> Model Class Initialized
+INFO - 2015-04-13 12:14:33 --> Config Class Initialized
+INFO - 2015-04-13 12:14:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:14:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:14:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:14:33 --> URI Class Initialized
+INFO - 2015-04-13 12:14:33 --> Router Class Initialized
+INFO - 2015-04-13 12:14:33 --> Output Class Initialized
+INFO - 2015-04-13 12:14:33 --> Security Class Initialized
+DEBUG - 2015-04-13 12:14:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:14:33 --> Input Class Initialized
+INFO - 2015-04-13 12:14:33 --> Language Class Initialized
+ERROR - 2015-04-13 12:14:33 --> 404 Page Not Found: Authors/81
+INFO - 2015-04-13 12:14:36 --> Config Class Initialized
+INFO - 2015-04-13 12:14:36 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:14:36 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:14:36 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:14:36 --> URI Class Initialized
+INFO - 2015-04-13 12:14:36 --> Router Class Initialized
+INFO - 2015-04-13 12:14:36 --> Output Class Initialized
+INFO - 2015-04-13 12:14:36 --> Security Class Initialized
+DEBUG - 2015-04-13 12:14:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:14:36 --> Input Class Initialized
+INFO - 2015-04-13 12:14:36 --> Language Class Initialized
+INFO - 2015-04-13 12:14:36 --> Loader Class Initialized
+INFO - 2015-04-13 12:14:36 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:14:36 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:14:36 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:14:36 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:14:36 --> Controller Class Initialized
+INFO - 2015-04-13 12:14:36 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:14:36 --> Model Class Initialized
+INFO - 2015-04-13 12:14:36 --> Model Class Initialized
+INFO - 2015-04-13 12:14:36 --> Parser Class Initialized
+INFO - 2015-04-13 12:14:36 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:14:36 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:14:36 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:14:36 --> Final output sent to browser
+DEBUG - 2015-04-13 12:14:36 --> Total execution time: 0.0071
+INFO - 2015-04-13 12:14:36 --> Config Class Initialized
+INFO - 2015-04-13 12:14:36 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:14:36 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:14:36 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:14:36 --> URI Class Initialized
+INFO - 2015-04-13 12:14:36 --> Router Class Initialized
+INFO - 2015-04-13 12:14:36 --> Output Class Initialized
+INFO - 2015-04-13 12:14:36 --> Security Class Initialized
+DEBUG - 2015-04-13 12:14:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:14:36 --> Input Class Initialized
+INFO - 2015-04-13 12:14:36 --> Language Class Initialized
+INFO - 2015-04-13 12:14:36 --> Loader Class Initialized
+INFO - 2015-04-13 12:14:36 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:14:36 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:14:36 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:14:36 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:14:36 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:14:36 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:14:36 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:14:36 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:14:36 --> Model Class Initialized
+INFO - 2015-04-13 12:14:36 --> Model Class Initialized
+INFO - 2015-04-13 12:14:40 --> Config Class Initialized
+INFO - 2015-04-13 12:14:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:14:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:14:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:14:40 --> URI Class Initialized
+INFO - 2015-04-13 12:14:40 --> Router Class Initialized
+INFO - 2015-04-13 12:14:40 --> Output Class Initialized
+INFO - 2015-04-13 12:14:40 --> Security Class Initialized
+DEBUG - 2015-04-13 12:14:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:14:40 --> Input Class Initialized
+INFO - 2015-04-13 12:14:40 --> Language Class Initialized
+INFO - 2015-04-13 12:14:40 --> Loader Class Initialized
+INFO - 2015-04-13 12:14:40 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:14:40 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:14:40 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:14:40 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:14:40 --> Controller Class Initialized
+INFO - 2015-04-13 12:14:40 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:14:40 --> Model Class Initialized
+INFO - 2015-04-13 12:14:40 --> Model Class Initialized
+INFO - 2015-04-13 12:14:40 --> Parser Class Initialized
+INFO - 2015-04-13 12:14:40 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:14:40 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:14:40 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:14:40 --> Final output sent to browser
+DEBUG - 2015-04-13 12:14:40 --> Total execution time: 0.0096
+INFO - 2015-04-13 12:14:41 --> Config Class Initialized
+INFO - 2015-04-13 12:14:41 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:14:41 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:14:41 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:14:41 --> URI Class Initialized
+INFO - 2015-04-13 12:14:41 --> Router Class Initialized
+INFO - 2015-04-13 12:14:41 --> Output Class Initialized
+INFO - 2015-04-13 12:14:41 --> Security Class Initialized
+DEBUG - 2015-04-13 12:14:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:14:41 --> Input Class Initialized
+INFO - 2015-04-13 12:14:41 --> Language Class Initialized
+INFO - 2015-04-13 12:14:41 --> Loader Class Initialized
+INFO - 2015-04-13 12:14:41 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:14:41 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:14:41 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:14:41 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:14:41 --> Controller Class Initialized
+INFO - 2015-04-13 12:14:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:14:41 --> Model Class Initialized
+INFO - 2015-04-13 12:14:41 --> Model Class Initialized
+INFO - 2015-04-13 12:14:41 --> Parser Class Initialized
+INFO - 2015-04-13 12:14:41 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:14:41 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:14:41 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:14:41 --> Final output sent to browser
+DEBUG - 2015-04-13 12:14:41 --> Total execution time: 0.0080
+INFO - 2015-04-13 12:14:41 --> Config Class Initialized
+INFO - 2015-04-13 12:14:41 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:14:41 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:14:41 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:14:41 --> URI Class Initialized
+INFO - 2015-04-13 12:14:41 --> Router Class Initialized
+INFO - 2015-04-13 12:14:41 --> Output Class Initialized
+INFO - 2015-04-13 12:14:41 --> Security Class Initialized
+DEBUG - 2015-04-13 12:14:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:14:41 --> Input Class Initialized
+INFO - 2015-04-13 12:14:41 --> Language Class Initialized
+INFO - 2015-04-13 12:14:41 --> Loader Class Initialized
+INFO - 2015-04-13 12:14:41 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:14:41 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:14:41 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:14:41 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:14:41 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:14:41 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:14:41 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:14:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:14:41 --> Model Class Initialized
+INFO - 2015-04-13 12:14:41 --> Model Class Initialized
+INFO - 2015-04-13 12:14:43 --> Config Class Initialized
+INFO - 2015-04-13 12:14:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:14:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:14:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:14:43 --> URI Class Initialized
+INFO - 2015-04-13 12:14:43 --> Router Class Initialized
+INFO - 2015-04-13 12:14:43 --> Output Class Initialized
+INFO - 2015-04-13 12:14:43 --> Security Class Initialized
+DEBUG - 2015-04-13 12:14:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:14:43 --> Input Class Initialized
+INFO - 2015-04-13 12:14:43 --> Language Class Initialized
+INFO - 2015-04-13 12:14:43 --> Loader Class Initialized
+INFO - 2015-04-13 12:14:43 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:14:43 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:14:43 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:14:43 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:14:43 --> Controller Class Initialized
+INFO - 2015-04-13 12:14:43 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:14:43 --> Model Class Initialized
+INFO - 2015-04-13 12:14:43 --> Model Class Initialized
+INFO - 2015-04-13 12:14:43 --> Parser Class Initialized
+INFO - 2015-04-13 12:14:43 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:14:43 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 12:14:43 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:14:43 --> Final output sent to browser
+DEBUG - 2015-04-13 12:14:43 --> Total execution time: 0.0081
+INFO - 2015-04-13 12:14:45 --> Config Class Initialized
+INFO - 2015-04-13 12:14:45 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:14:45 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:14:45 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:14:45 --> URI Class Initialized
+INFO - 2015-04-13 12:14:45 --> Router Class Initialized
+INFO - 2015-04-13 12:14:45 --> Output Class Initialized
+INFO - 2015-04-13 12:14:45 --> Security Class Initialized
+DEBUG - 2015-04-13 12:14:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:14:45 --> Input Class Initialized
+INFO - 2015-04-13 12:14:45 --> Language Class Initialized
+INFO - 2015-04-13 12:14:45 --> Loader Class Initialized
+INFO - 2015-04-13 12:14:45 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:14:45 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:14:45 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:14:45 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:14:45 --> Controller Class Initialized
+INFO - 2015-04-13 12:14:45 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:14:45 --> Model Class Initialized
+INFO - 2015-04-13 12:14:45 --> Model Class Initialized
+INFO - 2015-04-13 12:14:45 --> Parser Class Initialized
+INFO - 2015-04-13 12:14:45 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:14:45 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:14:45 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:14:45 --> Final output sent to browser
+DEBUG - 2015-04-13 12:14:45 --> Total execution time: 0.0067
+INFO - 2015-04-13 12:14:45 --> Config Class Initialized
+INFO - 2015-04-13 12:14:45 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:14:45 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:14:45 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:14:45 --> URI Class Initialized
+INFO - 2015-04-13 12:14:45 --> Router Class Initialized
+INFO - 2015-04-13 12:14:45 --> Output Class Initialized
+INFO - 2015-04-13 12:14:45 --> Security Class Initialized
+DEBUG - 2015-04-13 12:14:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:14:45 --> Input Class Initialized
+INFO - 2015-04-13 12:14:45 --> Language Class Initialized
+INFO - 2015-04-13 12:14:45 --> Loader Class Initialized
+INFO - 2015-04-13 12:14:45 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:14:45 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:14:45 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:14:45 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:14:45 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:14:45 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:14:45 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:14:45 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:14:45 --> Model Class Initialized
+INFO - 2015-04-13 12:14:45 --> Model Class Initialized
+INFO - 2015-04-13 12:22:45 --> Config Class Initialized
+INFO - 2015-04-13 12:22:45 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:22:45 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:22:45 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:22:45 --> URI Class Initialized
+INFO - 2015-04-13 12:22:45 --> Router Class Initialized
+INFO - 2015-04-13 12:22:45 --> Output Class Initialized
+INFO - 2015-04-13 12:22:45 --> Security Class Initialized
+DEBUG - 2015-04-13 12:22:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:22:45 --> Input Class Initialized
+INFO - 2015-04-13 12:22:45 --> Language Class Initialized
+INFO - 2015-04-13 12:22:45 --> Loader Class Initialized
+INFO - 2015-04-13 12:22:45 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:22:45 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:22:45 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:22:45 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:22:45 --> Controller Class Initialized
+INFO - 2015-04-13 12:22:45 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:22:45 --> Model Class Initialized
+INFO - 2015-04-13 12:22:45 --> Model Class Initialized
+INFO - 2015-04-13 12:22:45 --> Parser Class Initialized
+INFO - 2015-04-13 12:22:45 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:22:45 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:22:45 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:22:45 --> Final output sent to browser
+DEBUG - 2015-04-13 12:22:45 --> Total execution time: 0.0101
+INFO - 2015-04-13 12:22:45 --> Config Class Initialized
+INFO - 2015-04-13 12:22:45 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:22:45 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:22:45 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:22:45 --> URI Class Initialized
+INFO - 2015-04-13 12:22:45 --> Router Class Initialized
+INFO - 2015-04-13 12:22:45 --> Output Class Initialized
+INFO - 2015-04-13 12:22:45 --> Security Class Initialized
+DEBUG - 2015-04-13 12:22:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:22:45 --> Input Class Initialized
+INFO - 2015-04-13 12:22:45 --> Language Class Initialized
+INFO - 2015-04-13 12:22:45 --> Loader Class Initialized
+INFO - 2015-04-13 12:22:45 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:22:45 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:22:45 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:22:45 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:22:45 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:22:45 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:22:45 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:22:45 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:22:45 --> Model Class Initialized
+INFO - 2015-04-13 12:22:45 --> Model Class Initialized
+INFO - 2015-04-13 12:22:48 --> Config Class Initialized
+INFO - 2015-04-13 12:22:48 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:22:48 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:22:48 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:22:48 --> URI Class Initialized
+INFO - 2015-04-13 12:22:48 --> Router Class Initialized
+INFO - 2015-04-13 12:22:48 --> Output Class Initialized
+INFO - 2015-04-13 12:22:48 --> Security Class Initialized
+DEBUG - 2015-04-13 12:22:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:22:48 --> Input Class Initialized
+INFO - 2015-04-13 12:22:48 --> Language Class Initialized
+ERROR - 2015-04-13 12:22:48 --> 404 Page Not Found: Authors/index
+INFO - 2015-04-13 12:22:57 --> Config Class Initialized
+INFO - 2015-04-13 12:22:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:22:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:22:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:22:57 --> URI Class Initialized
+INFO - 2015-04-13 12:22:57 --> Router Class Initialized
+INFO - 2015-04-13 12:22:57 --> Output Class Initialized
+INFO - 2015-04-13 12:22:57 --> Security Class Initialized
+DEBUG - 2015-04-13 12:22:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:22:57 --> Input Class Initialized
+INFO - 2015-04-13 12:22:57 --> Language Class Initialized
+INFO - 2015-04-13 12:22:57 --> Loader Class Initialized
+INFO - 2015-04-13 12:22:57 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:22:57 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:22:57 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:22:57 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:22:57 --> Controller Class Initialized
+INFO - 2015-04-13 12:22:57 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:22:57 --> Model Class Initialized
+INFO - 2015-04-13 12:22:57 --> Model Class Initialized
+INFO - 2015-04-13 12:22:57 --> Parser Class Initialized
+INFO - 2015-04-13 12:22:57 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:23:23 --> Config Class Initialized
+INFO - 2015-04-13 12:23:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:23:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:23:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:23:23 --> URI Class Initialized
+INFO - 2015-04-13 12:23:23 --> Router Class Initialized
+INFO - 2015-04-13 12:23:23 --> Output Class Initialized
+INFO - 2015-04-13 12:23:23 --> Security Class Initialized
+DEBUG - 2015-04-13 12:23:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:23:23 --> Input Class Initialized
+INFO - 2015-04-13 12:23:23 --> Language Class Initialized
+INFO - 2015-04-13 12:23:23 --> Loader Class Initialized
+INFO - 2015-04-13 12:23:23 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:23:23 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:23:23 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:23:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:23:23 --> Controller Class Initialized
+INFO - 2015-04-13 12:23:23 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:23:23 --> Model Class Initialized
+INFO - 2015-04-13 12:23:23 --> Model Class Initialized
+INFO - 2015-04-13 12:23:23 --> Parser Class Initialized
+INFO - 2015-04-13 12:23:23 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:23:23 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:23:23 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:23:23 --> Final output sent to browser
+DEBUG - 2015-04-13 12:23:23 --> Total execution time: 0.0077
+INFO - 2015-04-13 12:24:03 --> Config Class Initialized
+INFO - 2015-04-13 12:24:03 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:24:03 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:24:03 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:24:03 --> URI Class Initialized
+INFO - 2015-04-13 12:24:03 --> Router Class Initialized
+INFO - 2015-04-13 12:24:03 --> Output Class Initialized
+INFO - 2015-04-13 12:24:03 --> Security Class Initialized
+DEBUG - 2015-04-13 12:24:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:24:03 --> Input Class Initialized
+INFO - 2015-04-13 12:24:03 --> Language Class Initialized
+INFO - 2015-04-13 12:24:03 --> Loader Class Initialized
+INFO - 2015-04-13 12:24:03 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:24:03 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:24:03 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:24:03 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:24:03 --> Controller Class Initialized
+INFO - 2015-04-13 12:24:03 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:24:03 --> Model Class Initialized
+INFO - 2015-04-13 12:24:03 --> Model Class Initialized
+INFO - 2015-04-13 12:24:03 --> Parser Class Initialized
+INFO - 2015-04-13 12:24:03 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:24:03 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:24:03 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:24:03 --> Final output sent to browser
+DEBUG - 2015-04-13 12:24:03 --> Total execution time: 0.0117
+INFO - 2015-04-13 12:24:04 --> Config Class Initialized
+INFO - 2015-04-13 12:24:04 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:24:04 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:24:04 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:24:04 --> URI Class Initialized
+INFO - 2015-04-13 12:24:04 --> Router Class Initialized
+INFO - 2015-04-13 12:24:04 --> Output Class Initialized
+INFO - 2015-04-13 12:24:04 --> Security Class Initialized
+DEBUG - 2015-04-13 12:24:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:24:04 --> Input Class Initialized
+INFO - 2015-04-13 12:24:04 --> Language Class Initialized
+INFO - 2015-04-13 12:24:04 --> Loader Class Initialized
+INFO - 2015-04-13 12:24:04 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:24:04 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:24:04 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:24:04 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:24:04 --> Controller Class Initialized
+INFO - 2015-04-13 12:24:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:24:04 --> Model Class Initialized
+INFO - 2015-04-13 12:24:04 --> Model Class Initialized
+INFO - 2015-04-13 12:24:04 --> Parser Class Initialized
+INFO - 2015-04-13 12:24:04 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:24:04 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:24:04 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:24:04 --> Final output sent to browser
+DEBUG - 2015-04-13 12:24:04 --> Total execution time: 0.0115
+INFO - 2015-04-13 12:24:06 --> Config Class Initialized
+INFO - 2015-04-13 12:24:06 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:24:06 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:24:06 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:24:06 --> URI Class Initialized
+DEBUG - 2015-04-13 12:24:06 --> No URI present. Default controller set.
+INFO - 2015-04-13 12:24:06 --> Router Class Initialized
+INFO - 2015-04-13 12:24:06 --> Output Class Initialized
+INFO - 2015-04-13 12:24:06 --> Security Class Initialized
+DEBUG - 2015-04-13 12:24:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:24:06 --> Input Class Initialized
+INFO - 2015-04-13 12:24:06 --> Language Class Initialized
+INFO - 2015-04-13 12:24:06 --> Loader Class Initialized
+INFO - 2015-04-13 12:24:06 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:24:06 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:24:06 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:24:06 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:24:06 --> Controller Class Initialized
+INFO - 2015-04-13 12:24:06 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:24:06 --> Model Class Initialized
+INFO - 2015-04-13 12:24:06 --> Model Class Initialized
+INFO - 2015-04-13 12:24:06 --> Parser Class Initialized
+INFO - 2015-04-13 12:24:06 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:24:06 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:24:06 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:24:06 --> Final output sent to browser
+DEBUG - 2015-04-13 12:24:06 --> Total execution time: 0.0102
+INFO - 2015-04-13 12:24:06 --> Config Class Initialized
+INFO - 2015-04-13 12:24:06 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:24:06 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:24:06 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:24:06 --> URI Class Initialized
+INFO - 2015-04-13 12:24:06 --> Router Class Initialized
+INFO - 2015-04-13 12:24:06 --> Output Class Initialized
+INFO - 2015-04-13 12:24:06 --> Security Class Initialized
+DEBUG - 2015-04-13 12:24:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:24:06 --> Input Class Initialized
+INFO - 2015-04-13 12:24:06 --> Language Class Initialized
+INFO - 2015-04-13 12:24:06 --> Loader Class Initialized
+INFO - 2015-04-13 12:24:06 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:24:06 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:24:06 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:24:06 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:24:06 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:24:06 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:24:06 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:24:06 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:24:06 --> Model Class Initialized
+INFO - 2015-04-13 12:24:06 --> Model Class Initialized
+INFO - 2015-04-13 12:24:07 --> Config Class Initialized
+INFO - 2015-04-13 12:24:07 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:24:07 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:24:07 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:24:07 --> URI Class Initialized
+INFO - 2015-04-13 12:24:07 --> Router Class Initialized
+INFO - 2015-04-13 12:24:07 --> Output Class Initialized
+INFO - 2015-04-13 12:24:07 --> Security Class Initialized
+DEBUG - 2015-04-13 12:24:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:24:07 --> Input Class Initialized
+INFO - 2015-04-13 12:24:07 --> Language Class Initialized
+INFO - 2015-04-13 12:24:07 --> Loader Class Initialized
+INFO - 2015-04-13 12:24:07 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:24:07 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:24:07 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:24:07 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:24:07 --> Controller Class Initialized
+INFO - 2015-04-13 12:24:07 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:24:07 --> Model Class Initialized
+INFO - 2015-04-13 12:24:07 --> Model Class Initialized
+INFO - 2015-04-13 12:24:07 --> Parser Class Initialized
+INFO - 2015-04-13 12:24:07 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:24:07 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:24:07 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:24:07 --> Final output sent to browser
+DEBUG - 2015-04-13 12:24:07 --> Total execution time: 0.0092
+INFO - 2015-04-13 12:25:56 --> Config Class Initialized
+INFO - 2015-04-13 12:25:56 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:25:56 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:25:56 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:25:56 --> URI Class Initialized
+INFO - 2015-04-13 12:25:56 --> Router Class Initialized
+INFO - 2015-04-13 12:25:56 --> Output Class Initialized
+INFO - 2015-04-13 12:25:56 --> Security Class Initialized
+DEBUG - 2015-04-13 12:25:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:25:56 --> Input Class Initialized
+INFO - 2015-04-13 12:25:56 --> Language Class Initialized
+ERROR - 2015-04-13 12:25:56 --> 404 Page Not Found: api/Authors/index
+INFO - 2015-04-13 12:26:11 --> Config Class Initialized
+INFO - 2015-04-13 12:26:11 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:26:11 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:26:11 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:26:11 --> URI Class Initialized
+INFO - 2015-04-13 12:26:11 --> Router Class Initialized
+INFO - 2015-04-13 12:26:11 --> Output Class Initialized
+INFO - 2015-04-13 12:26:11 --> Security Class Initialized
+DEBUG - 2015-04-13 12:26:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:26:11 --> Input Class Initialized
+INFO - 2015-04-13 12:26:11 --> Language Class Initialized
+INFO - 2015-04-13 12:26:11 --> Loader Class Initialized
+INFO - 2015-04-13 12:26:11 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:26:11 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:26:11 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:26:11 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:26:11 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:26:11 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:26:11 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:26:11 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:26:11 --> Model Class Initialized
+INFO - 2015-04-13 12:26:11 --> Model Class Initialized
+INFO - 2015-04-13 12:26:57 --> Config Class Initialized
+INFO - 2015-04-13 12:26:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:26:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:26:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:26:57 --> URI Class Initialized
+INFO - 2015-04-13 12:26:57 --> Router Class Initialized
+INFO - 2015-04-13 12:26:57 --> Output Class Initialized
+INFO - 2015-04-13 12:26:57 --> Security Class Initialized
+DEBUG - 2015-04-13 12:26:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:26:57 --> Input Class Initialized
+INFO - 2015-04-13 12:26:57 --> Language Class Initialized
+INFO - 2015-04-13 12:26:57 --> Loader Class Initialized
+INFO - 2015-04-13 12:26:57 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:26:57 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:26:57 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:26:57 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:26:57 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:26:57 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:26:57 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:26:57 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:26:57 --> Model Class Initialized
+INFO - 2015-04-13 12:26:57 --> Model Class Initialized
+INFO - 2015-04-13 12:28:11 --> Config Class Initialized
+INFO - 2015-04-13 12:28:11 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:28:11 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:28:11 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:28:11 --> URI Class Initialized
+DEBUG - 2015-04-13 12:28:11 --> No URI present. Default controller set.
+INFO - 2015-04-13 12:28:11 --> Router Class Initialized
+INFO - 2015-04-13 12:28:11 --> Output Class Initialized
+INFO - 2015-04-13 12:28:11 --> Security Class Initialized
+DEBUG - 2015-04-13 12:28:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:28:11 --> Input Class Initialized
+INFO - 2015-04-13 12:28:11 --> Language Class Initialized
+INFO - 2015-04-13 12:28:11 --> Loader Class Initialized
+INFO - 2015-04-13 12:28:11 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:28:11 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:28:11 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:28:11 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:28:11 --> Controller Class Initialized
+INFO - 2015-04-13 12:28:11 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:28:11 --> Model Class Initialized
+INFO - 2015-04-13 12:28:11 --> Model Class Initialized
+INFO - 2015-04-13 12:28:11 --> Parser Class Initialized
+INFO - 2015-04-13 12:28:11 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:28:11 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:28:11 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:28:11 --> Final output sent to browser
+DEBUG - 2015-04-13 12:28:11 --> Total execution time: 0.0073
+INFO - 2015-04-13 12:28:11 --> Config Class Initialized
+INFO - 2015-04-13 12:28:11 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:28:11 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:28:11 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:28:11 --> URI Class Initialized
+INFO - 2015-04-13 12:28:11 --> Router Class Initialized
+INFO - 2015-04-13 12:28:11 --> Output Class Initialized
+INFO - 2015-04-13 12:28:11 --> Security Class Initialized
+DEBUG - 2015-04-13 12:28:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:28:11 --> Input Class Initialized
+INFO - 2015-04-13 12:28:11 --> Language Class Initialized
+INFO - 2015-04-13 12:28:11 --> Loader Class Initialized
+INFO - 2015-04-13 12:28:11 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:28:11 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:28:11 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:28:11 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:28:11 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:28:11 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:28:11 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:28:11 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:28:11 --> Model Class Initialized
+INFO - 2015-04-13 12:28:11 --> Model Class Initialized
+INFO - 2015-04-13 12:28:12 --> Config Class Initialized
+INFO - 2015-04-13 12:28:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:28:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:28:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:28:12 --> URI Class Initialized
+INFO - 2015-04-13 12:28:12 --> Router Class Initialized
+INFO - 2015-04-13 12:28:12 --> Output Class Initialized
+INFO - 2015-04-13 12:28:12 --> Security Class Initialized
+DEBUG - 2015-04-13 12:28:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:28:12 --> Input Class Initialized
+INFO - 2015-04-13 12:28:12 --> Language Class Initialized
+INFO - 2015-04-13 12:28:12 --> Loader Class Initialized
+INFO - 2015-04-13 12:28:12 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:28:12 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:28:12 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:28:12 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:28:12 --> Controller Class Initialized
+INFO - 2015-04-13 12:28:12 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:28:12 --> Model Class Initialized
+INFO - 2015-04-13 12:28:12 --> Model Class Initialized
+INFO - 2015-04-13 12:28:12 --> Parser Class Initialized
+INFO - 2015-04-13 12:28:12 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:28:12 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:28:12 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:28:12 --> Final output sent to browser
+DEBUG - 2015-04-13 12:28:12 --> Total execution time: 0.0072
+INFO - 2015-04-13 12:31:22 --> Config Class Initialized
+INFO - 2015-04-13 12:31:22 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:31:22 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:31:22 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:31:22 --> URI Class Initialized
+INFO - 2015-04-13 12:31:22 --> Router Class Initialized
+INFO - 2015-04-13 12:31:22 --> Output Class Initialized
+INFO - 2015-04-13 12:31:22 --> Security Class Initialized
+DEBUG - 2015-04-13 12:31:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:31:22 --> Input Class Initialized
+INFO - 2015-04-13 12:31:22 --> Language Class Initialized
+ERROR - 2015-04-13 12:31:22 --> Severity: Parsing Error --> syntax error, unexpected '}' /home/ubuntu/workspace/application/controllers/api/Books.php 33
+INFO - 2015-04-13 12:31:31 --> Config Class Initialized
+INFO - 2015-04-13 12:31:31 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:31:31 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:31:31 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:31:31 --> URI Class Initialized
+INFO - 2015-04-13 12:31:31 --> Router Class Initialized
+INFO - 2015-04-13 12:31:31 --> Output Class Initialized
+INFO - 2015-04-13 12:31:31 --> Security Class Initialized
+DEBUG - 2015-04-13 12:31:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:31:31 --> Input Class Initialized
+INFO - 2015-04-13 12:31:31 --> Language Class Initialized
+INFO - 2015-04-13 12:31:31 --> Loader Class Initialized
+INFO - 2015-04-13 12:31:31 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:31:31 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:31:31 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:31:31 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:31:31 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:31:31 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:31:31 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:31:31 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:31:31 --> Model Class Initialized
+INFO - 2015-04-13 12:31:31 --> Model Class Initialized
+INFO - 2015-04-13 12:31:40 --> Config Class Initialized
+INFO - 2015-04-13 12:31:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:31:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:31:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:31:40 --> URI Class Initialized
+INFO - 2015-04-13 12:31:40 --> Router Class Initialized
+INFO - 2015-04-13 12:31:40 --> Output Class Initialized
+INFO - 2015-04-13 12:31:40 --> Security Class Initialized
+DEBUG - 2015-04-13 12:31:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:31:40 --> Input Class Initialized
+INFO - 2015-04-13 12:31:40 --> Language Class Initialized
+INFO - 2015-04-13 12:31:40 --> Loader Class Initialized
+INFO - 2015-04-13 12:31:40 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:31:40 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:31:40 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:31:40 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:31:40 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:31:40 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:31:40 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:31:40 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:31:40 --> Model Class Initialized
+INFO - 2015-04-13 12:31:40 --> Model Class Initialized
+INFO - 2015-04-13 12:31:42 --> Config Class Initialized
+INFO - 2015-04-13 12:31:42 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:31:42 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:31:42 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:31:42 --> URI Class Initialized
+INFO - 2015-04-13 12:31:42 --> Router Class Initialized
+INFO - 2015-04-13 12:31:42 --> Output Class Initialized
+INFO - 2015-04-13 12:31:42 --> Security Class Initialized
+DEBUG - 2015-04-13 12:31:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:31:42 --> Input Class Initialized
+INFO - 2015-04-13 12:31:42 --> Language Class Initialized
+INFO - 2015-04-13 12:31:42 --> Loader Class Initialized
+INFO - 2015-04-13 12:31:42 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:31:42 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:31:42 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:31:42 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:31:42 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:31:42 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:31:42 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:31:42 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:31:42 --> Model Class Initialized
+INFO - 2015-04-13 12:31:42 --> Model Class Initialized
+INFO - 2015-04-13 12:31:44 --> Config Class Initialized
+INFO - 2015-04-13 12:31:44 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:31:44 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:31:44 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:31:44 --> URI Class Initialized
+INFO - 2015-04-13 12:31:44 --> Router Class Initialized
+INFO - 2015-04-13 12:31:44 --> Output Class Initialized
+INFO - 2015-04-13 12:31:44 --> Security Class Initialized
+DEBUG - 2015-04-13 12:31:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:31:44 --> Input Class Initialized
+INFO - 2015-04-13 12:31:44 --> Language Class Initialized
+INFO - 2015-04-13 12:31:44 --> Loader Class Initialized
+INFO - 2015-04-13 12:31:44 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:31:44 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:31:44 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:31:44 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:31:44 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:31:44 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:31:44 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:31:44 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:31:44 --> Model Class Initialized
+INFO - 2015-04-13 12:31:44 --> Model Class Initialized
+INFO - 2015-04-13 12:31:46 --> Config Class Initialized
+INFO - 2015-04-13 12:31:46 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:31:46 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:31:46 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:31:46 --> URI Class Initialized
+INFO - 2015-04-13 12:31:46 --> Router Class Initialized
+INFO - 2015-04-13 12:31:46 --> Output Class Initialized
+INFO - 2015-04-13 12:31:46 --> Security Class Initialized
+DEBUG - 2015-04-13 12:31:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:31:46 --> Input Class Initialized
+INFO - 2015-04-13 12:31:46 --> Language Class Initialized
+INFO - 2015-04-13 12:31:46 --> Loader Class Initialized
+INFO - 2015-04-13 12:31:46 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:31:46 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:31:46 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:31:46 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:31:46 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:31:46 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:31:46 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:31:46 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:31:46 --> Model Class Initialized
+INFO - 2015-04-13 12:31:46 --> Model Class Initialized
+INFO - 2015-04-13 12:31:47 --> Config Class Initialized
+INFO - 2015-04-13 12:31:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:31:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:31:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:31:47 --> URI Class Initialized
+INFO - 2015-04-13 12:31:47 --> Router Class Initialized
+INFO - 2015-04-13 12:31:47 --> Output Class Initialized
+INFO - 2015-04-13 12:31:47 --> Security Class Initialized
+DEBUG - 2015-04-13 12:31:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:31:47 --> Input Class Initialized
+INFO - 2015-04-13 12:31:47 --> Language Class Initialized
+INFO - 2015-04-13 12:31:47 --> Loader Class Initialized
+INFO - 2015-04-13 12:31:47 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:31:47 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:31:47 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:31:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:31:47 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:31:47 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:31:47 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:31:47 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:31:47 --> Model Class Initialized
+INFO - 2015-04-13 12:31:47 --> Model Class Initialized
+INFO - 2015-04-13 12:31:49 --> Config Class Initialized
+INFO - 2015-04-13 12:31:49 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:31:49 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:31:49 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:31:49 --> URI Class Initialized
+INFO - 2015-04-13 12:31:49 --> Router Class Initialized
+INFO - 2015-04-13 12:31:49 --> Output Class Initialized
+INFO - 2015-04-13 12:31:49 --> Security Class Initialized
+DEBUG - 2015-04-13 12:31:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:31:49 --> Input Class Initialized
+INFO - 2015-04-13 12:31:49 --> Language Class Initialized
+INFO - 2015-04-13 12:31:49 --> Loader Class Initialized
+INFO - 2015-04-13 12:31:49 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:31:49 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:31:49 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:31:49 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:31:49 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:31:49 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:31:49 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:31:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:31:49 --> Model Class Initialized
+INFO - 2015-04-13 12:31:49 --> Model Class Initialized
+INFO - 2015-04-13 12:31:50 --> Config Class Initialized
+INFO - 2015-04-13 12:31:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:31:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:31:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:31:50 --> URI Class Initialized
+INFO - 2015-04-13 12:31:50 --> Router Class Initialized
+INFO - 2015-04-13 12:31:50 --> Output Class Initialized
+INFO - 2015-04-13 12:31:50 --> Security Class Initialized
+DEBUG - 2015-04-13 12:31:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:31:50 --> Input Class Initialized
+INFO - 2015-04-13 12:31:50 --> Language Class Initialized
+INFO - 2015-04-13 12:31:50 --> Loader Class Initialized
+INFO - 2015-04-13 12:31:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:31:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:31:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:31:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:31:50 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:31:50 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:31:50 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:31:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:31:50 --> Model Class Initialized
+INFO - 2015-04-13 12:31:50 --> Model Class Initialized
+INFO - 2015-04-13 12:31:51 --> Config Class Initialized
+INFO - 2015-04-13 12:31:51 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:31:51 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:31:51 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:31:51 --> URI Class Initialized
+INFO - 2015-04-13 12:31:51 --> Router Class Initialized
+INFO - 2015-04-13 12:31:51 --> Output Class Initialized
+INFO - 2015-04-13 12:31:51 --> Security Class Initialized
+DEBUG - 2015-04-13 12:31:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:31:51 --> Input Class Initialized
+INFO - 2015-04-13 12:31:51 --> Language Class Initialized
+INFO - 2015-04-13 12:31:51 --> Loader Class Initialized
+INFO - 2015-04-13 12:31:51 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:31:51 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:31:51 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:31:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:31:51 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:31:51 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:31:51 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:31:51 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:31:51 --> Model Class Initialized
+INFO - 2015-04-13 12:31:51 --> Model Class Initialized
+INFO - 2015-04-13 12:31:52 --> Config Class Initialized
+INFO - 2015-04-13 12:31:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:31:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:31:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:31:52 --> URI Class Initialized
+INFO - 2015-04-13 12:31:52 --> Router Class Initialized
+INFO - 2015-04-13 12:31:52 --> Output Class Initialized
+INFO - 2015-04-13 12:31:52 --> Security Class Initialized
+DEBUG - 2015-04-13 12:31:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:31:52 --> Input Class Initialized
+INFO - 2015-04-13 12:31:52 --> Language Class Initialized
+INFO - 2015-04-13 12:31:52 --> Loader Class Initialized
+INFO - 2015-04-13 12:31:52 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:31:52 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:31:52 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:31:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:31:52 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:31:52 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:31:52 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:31:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:31:52 --> Model Class Initialized
+INFO - 2015-04-13 12:31:52 --> Model Class Initialized
+INFO - 2015-04-13 12:34:52 --> Config Class Initialized
+INFO - 2015-04-13 12:34:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:34:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:34:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:34:52 --> URI Class Initialized
+INFO - 2015-04-13 12:34:52 --> Router Class Initialized
+INFO - 2015-04-13 12:34:52 --> Output Class Initialized
+INFO - 2015-04-13 12:34:52 --> Security Class Initialized
+DEBUG - 2015-04-13 12:34:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:34:52 --> Input Class Initialized
+INFO - 2015-04-13 12:34:52 --> Language Class Initialized
+INFO - 2015-04-13 12:34:52 --> Loader Class Initialized
+INFO - 2015-04-13 12:34:52 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:34:52 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:34:52 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:34:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:34:52 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:34:52 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:34:52 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:34:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:34:52 --> Model Class Initialized
+INFO - 2015-04-13 12:34:52 --> Model Class Initialized
+ERROR - 2015-04-13 12:34:52 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `autho' at line 1 - Invalid query: SELECT `authors`.`id`, `authors`.`name`, COUNT(books.*) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC
+INFO - 2015-04-13 12:34:52 --> Language file loaded: language/english/db_lang.php
+INFO - 2015-04-13 12:35:13 --> Config Class Initialized
+INFO - 2015-04-13 12:35:13 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:35:13 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:35:13 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:35:13 --> URI Class Initialized
+INFO - 2015-04-13 12:35:13 --> Router Class Initialized
+INFO - 2015-04-13 12:35:13 --> Output Class Initialized
+INFO - 2015-04-13 12:35:13 --> Security Class Initialized
+DEBUG - 2015-04-13 12:35:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:35:13 --> Input Class Initialized
+INFO - 2015-04-13 12:35:13 --> Language Class Initialized
+INFO - 2015-04-13 12:35:13 --> Loader Class Initialized
+INFO - 2015-04-13 12:35:13 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:35:13 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:35:13 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:35:13 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:35:13 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:35:13 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:35:13 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:35:13 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:35:13 --> Model Class Initialized
+INFO - 2015-04-13 12:35:13 --> Model Class Initialized
+INFO - 2015-04-13 12:35:34 --> Config Class Initialized
+INFO - 2015-04-13 12:35:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:35:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:35:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:35:34 --> URI Class Initialized
+INFO - 2015-04-13 12:35:34 --> Router Class Initialized
+INFO - 2015-04-13 12:35:34 --> Output Class Initialized
+INFO - 2015-04-13 12:35:34 --> Security Class Initialized
+DEBUG - 2015-04-13 12:35:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:35:34 --> Input Class Initialized
+INFO - 2015-04-13 12:35:34 --> Language Class Initialized
+INFO - 2015-04-13 12:35:34 --> Loader Class Initialized
+INFO - 2015-04-13 12:35:34 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:35:34 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:35:34 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:35:34 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:35:34 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:35:34 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:35:34 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:35:34 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:35:34 --> Model Class Initialized
+INFO - 2015-04-13 12:35:34 --> Model Class Initialized
+INFO - 2015-04-13 12:46:55 --> Config Class Initialized
+INFO - 2015-04-13 12:46:55 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:46:55 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:46:55 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:46:55 --> URI Class Initialized
+DEBUG - 2015-04-13 12:46:55 --> No URI present. Default controller set.
+INFO - 2015-04-13 12:46:55 --> Router Class Initialized
+INFO - 2015-04-13 12:46:55 --> Output Class Initialized
+INFO - 2015-04-13 12:46:55 --> Security Class Initialized
+DEBUG - 2015-04-13 12:46:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:46:55 --> Input Class Initialized
+INFO - 2015-04-13 12:46:55 --> Language Class Initialized
+INFO - 2015-04-13 12:46:55 --> Loader Class Initialized
+INFO - 2015-04-13 12:46:55 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:46:55 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:46:55 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:46:55 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:46:55 --> Controller Class Initialized
+INFO - 2015-04-13 12:46:55 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:46:55 --> Model Class Initialized
+INFO - 2015-04-13 12:46:55 --> Model Class Initialized
+INFO - 2015-04-13 12:46:55 --> Parser Class Initialized
+INFO - 2015-04-13 12:46:55 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:46:55 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 12:46:55 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:46:55 --> Final output sent to browser
+DEBUG - 2015-04-13 12:46:55 --> Total execution time: 0.0079
+INFO - 2015-04-13 12:46:56 --> Config Class Initialized
+INFO - 2015-04-13 12:46:56 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:46:56 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:46:56 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:46:56 --> URI Class Initialized
+INFO - 2015-04-13 12:46:56 --> Router Class Initialized
+INFO - 2015-04-13 12:46:56 --> Output Class Initialized
+INFO - 2015-04-13 12:46:56 --> Security Class Initialized
+DEBUG - 2015-04-13 12:46:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:46:56 --> Input Class Initialized
+INFO - 2015-04-13 12:46:56 --> Language Class Initialized
+INFO - 2015-04-13 12:46:56 --> Loader Class Initialized
+INFO - 2015-04-13 12:46:56 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:46:56 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:46:56 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:46:56 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:46:56 --> Controller Class Initialized
+INFO - 2015-04-13 12:46:56 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:46:56 --> Model Class Initialized
+INFO - 2015-04-13 12:46:56 --> Model Class Initialized
+INFO - 2015-04-13 12:46:56 --> Parser Class Initialized
+INFO - 2015-04-13 12:46:56 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:46:56 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:46:56 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:46:56 --> Final output sent to browser
+DEBUG - 2015-04-13 12:46:56 --> Total execution time: 0.0063
+INFO - 2015-04-13 12:47:02 --> Config Class Initialized
+INFO - 2015-04-13 12:47:02 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:02 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:02 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:02 --> URI Class Initialized
+INFO - 2015-04-13 12:47:02 --> Router Class Initialized
+INFO - 2015-04-13 12:47:02 --> Output Class Initialized
+INFO - 2015-04-13 12:47:02 --> Security Class Initialized
+INFO - 2015-04-13 12:47:02 --> Config Class Initialized
+INFO - 2015-04-13 12:47:02 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:02 --> Input Class Initialized
+DEBUG - 2015-04-13 12:47:02 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:02 --> Language Class Initialized
+INFO - 2015-04-13 12:47:02 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:02 --> URI Class Initialized
+INFO - 2015-04-13 12:47:02 --> Router Class Initialized
+ERROR - 2015-04-13 12:47:02 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:47:02 --> Output Class Initialized
+INFO - 2015-04-13 12:47:02 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:02 --> Input Class Initialized
+INFO - 2015-04-13 12:47:02 --> Language Class Initialized
+ERROR - 2015-04-13 12:47:02 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:47:14 --> Config Class Initialized
+INFO - 2015-04-13 12:47:14 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:14 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:14 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:14 --> URI Class Initialized
+INFO - 2015-04-13 12:47:14 --> Router Class Initialized
+INFO - 2015-04-13 12:47:14 --> Output Class Initialized
+INFO - 2015-04-13 12:47:14 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:14 --> Input Class Initialized
+INFO - 2015-04-13 12:47:14 --> Language Class Initialized
+INFO - 2015-04-13 12:47:14 --> Loader Class Initialized
+INFO - 2015-04-13 12:47:14 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:47:14 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:47:14 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:47:14 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:47:14 --> Controller Class Initialized
+INFO - 2015-04-13 12:47:14 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:47:14 --> Model Class Initialized
+INFO - 2015-04-13 12:47:14 --> Model Class Initialized
+INFO - 2015-04-13 12:47:14 --> Parser Class Initialized
+INFO - 2015-04-13 12:47:14 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:47:14 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:47:14 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:47:14 --> Final output sent to browser
+DEBUG - 2015-04-13 12:47:14 --> Total execution time: 0.0072
+INFO - 2015-04-13 12:47:15 --> Config Class Initialized
+INFO - 2015-04-13 12:47:15 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:15 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:15 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:15 --> URI Class Initialized
+INFO - 2015-04-13 12:47:15 --> Router Class Initialized
+INFO - 2015-04-13 12:47:15 --> Output Class Initialized
+INFO - 2015-04-13 12:47:15 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:15 --> Input Class Initialized
+INFO - 2015-04-13 12:47:15 --> Language Class Initialized
+ERROR - 2015-04-13 12:47:15 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:47:15 --> Config Class Initialized
+INFO - 2015-04-13 12:47:15 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:15 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:15 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:15 --> URI Class Initialized
+INFO - 2015-04-13 12:47:15 --> Router Class Initialized
+INFO - 2015-04-13 12:47:15 --> Output Class Initialized
+INFO - 2015-04-13 12:47:15 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:15 --> Input Class Initialized
+INFO - 2015-04-13 12:47:15 --> Language Class Initialized
+ERROR - 2015-04-13 12:47:15 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:47:18 --> Config Class Initialized
+INFO - 2015-04-13 12:47:18 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:18 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:18 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:18 --> URI Class Initialized
+INFO - 2015-04-13 12:47:18 --> Router Class Initialized
+INFO - 2015-04-13 12:47:18 --> Output Class Initialized
+INFO - 2015-04-13 12:47:18 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:18 --> Input Class Initialized
+INFO - 2015-04-13 12:47:18 --> Language Class Initialized
+INFO - 2015-04-13 12:47:18 --> Loader Class Initialized
+INFO - 2015-04-13 12:47:18 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:47:18 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:47:18 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:47:18 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:47:18 --> Controller Class Initialized
+INFO - 2015-04-13 12:47:18 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:47:18 --> Model Class Initialized
+INFO - 2015-04-13 12:47:18 --> Model Class Initialized
+INFO - 2015-04-13 12:47:18 --> Parser Class Initialized
+INFO - 2015-04-13 12:47:18 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:47:18 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:47:18 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:47:18 --> Final output sent to browser
+DEBUG - 2015-04-13 12:47:18 --> Total execution time: 0.0077
+INFO - 2015-04-13 12:47:19 --> Config Class Initialized
+INFO - 2015-04-13 12:47:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:19 --> URI Class Initialized
+INFO - 2015-04-13 12:47:19 --> Router Class Initialized
+INFO - 2015-04-13 12:47:19 --> Output Class Initialized
+INFO - 2015-04-13 12:47:19 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:19 --> Input Class Initialized
+INFO - 2015-04-13 12:47:19 --> Language Class Initialized
+INFO - 2015-04-13 12:47:19 --> Config Class Initialized
+INFO - 2015-04-13 12:47:19 --> Hooks Class Initialized
+ERROR - 2015-04-13 12:47:19 --> 404 Page Not Found: Assets/js
+DEBUG - 2015-04-13 12:47:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:19 --> URI Class Initialized
+INFO - 2015-04-13 12:47:19 --> Router Class Initialized
+INFO - 2015-04-13 12:47:19 --> Output Class Initialized
+INFO - 2015-04-13 12:47:19 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:19 --> Input Class Initialized
+INFO - 2015-04-13 12:47:19 --> Language Class Initialized
+ERROR - 2015-04-13 12:47:19 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:47:19 --> Config Class Initialized
+INFO - 2015-04-13 12:47:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:19 --> URI Class Initialized
+INFO - 2015-04-13 12:47:19 --> Router Class Initialized
+INFO - 2015-04-13 12:47:19 --> Output Class Initialized
+INFO - 2015-04-13 12:47:19 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:19 --> Input Class Initialized
+INFO - 2015-04-13 12:47:19 --> Language Class Initialized
+INFO - 2015-04-13 12:47:19 --> Loader Class Initialized
+INFO - 2015-04-13 12:47:19 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:47:19 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:47:19 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:47:19 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:47:19 --> Controller Class Initialized
+INFO - 2015-04-13 12:47:19 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:47:19 --> Model Class Initialized
+INFO - 2015-04-13 12:47:19 --> Model Class Initialized
+INFO - 2015-04-13 12:47:19 --> Parser Class Initialized
+INFO - 2015-04-13 12:47:19 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:47:19 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:47:19 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:47:19 --> Final output sent to browser
+DEBUG - 2015-04-13 12:47:19 --> Total execution time: 0.0066
+INFO - 2015-04-13 12:47:20 --> Config Class Initialized
+INFO - 2015-04-13 12:47:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:20 --> URI Class Initialized
+INFO - 2015-04-13 12:47:20 --> Router Class Initialized
+INFO - 2015-04-13 12:47:20 --> Output Class Initialized
+INFO - 2015-04-13 12:47:20 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:20 --> Input Class Initialized
+INFO - 2015-04-13 12:47:20 --> Language Class Initialized
+ERROR - 2015-04-13 12:47:20 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:47:20 --> Config Class Initialized
+INFO - 2015-04-13 12:47:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:20 --> URI Class Initialized
+INFO - 2015-04-13 12:47:20 --> Router Class Initialized
+INFO - 2015-04-13 12:47:20 --> Output Class Initialized
+INFO - 2015-04-13 12:47:20 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:20 --> Input Class Initialized
+INFO - 2015-04-13 12:47:20 --> Language Class Initialized
+ERROR - 2015-04-13 12:47:20 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:47:24 --> Config Class Initialized
+INFO - 2015-04-13 12:47:24 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:24 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:24 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:24 --> URI Class Initialized
+INFO - 2015-04-13 12:47:24 --> Router Class Initialized
+INFO - 2015-04-13 12:47:24 --> Output Class Initialized
+INFO - 2015-04-13 12:47:24 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:24 --> Input Class Initialized
+INFO - 2015-04-13 12:47:24 --> Language Class Initialized
+INFO - 2015-04-13 12:47:24 --> Loader Class Initialized
+INFO - 2015-04-13 12:47:24 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:47:24 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:47:24 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:47:24 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:47:24 --> Controller Class Initialized
+INFO - 2015-04-13 12:47:24 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:47:24 --> Model Class Initialized
+INFO - 2015-04-13 12:47:24 --> Model Class Initialized
+INFO - 2015-04-13 12:47:24 --> Parser Class Initialized
+INFO - 2015-04-13 12:47:24 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:47:24 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:47:24 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:47:24 --> Final output sent to browser
+DEBUG - 2015-04-13 12:47:24 --> Total execution time: 0.0100
+INFO - 2015-04-13 12:47:27 --> Config Class Initialized
+INFO - 2015-04-13 12:47:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:27 --> URI Class Initialized
+INFO - 2015-04-13 12:47:27 --> Router Class Initialized
+INFO - 2015-04-13 12:47:27 --> Output Class Initialized
+INFO - 2015-04-13 12:47:27 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:27 --> Input Class Initialized
+INFO - 2015-04-13 12:47:27 --> Language Class Initialized
+ERROR - 2015-04-13 12:47:27 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:47:27 --> Config Class Initialized
+INFO - 2015-04-13 12:47:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:27 --> URI Class Initialized
+INFO - 2015-04-13 12:47:27 --> Router Class Initialized
+INFO - 2015-04-13 12:47:27 --> Output Class Initialized
+INFO - 2015-04-13 12:47:27 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:27 --> Input Class Initialized
+INFO - 2015-04-13 12:47:27 --> Language Class Initialized
+ERROR - 2015-04-13 12:47:27 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:47:33 --> Config Class Initialized
+INFO - 2015-04-13 12:47:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:33 --> URI Class Initialized
+INFO - 2015-04-13 12:47:33 --> Router Class Initialized
+INFO - 2015-04-13 12:47:33 --> Output Class Initialized
+INFO - 2015-04-13 12:47:33 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:33 --> Input Class Initialized
+INFO - 2015-04-13 12:47:33 --> Language Class Initialized
+INFO - 2015-04-13 12:47:33 --> Loader Class Initialized
+INFO - 2015-04-13 12:47:33 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:47:33 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:47:33 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:47:33 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:47:33 --> Controller Class Initialized
+INFO - 2015-04-13 12:47:33 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:47:33 --> Model Class Initialized
+INFO - 2015-04-13 12:47:33 --> Model Class Initialized
+INFO - 2015-04-13 12:47:33 --> Parser Class Initialized
+INFO - 2015-04-13 12:47:33 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:47:33 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:47:33 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:47:33 --> Final output sent to browser
+DEBUG - 2015-04-13 12:47:33 --> Total execution time: 0.0075
+INFO - 2015-04-13 12:47:34 --> Config Class Initialized
+INFO - 2015-04-13 12:47:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:34 --> URI Class Initialized
+INFO - 2015-04-13 12:47:34 --> Router Class Initialized
+INFO - 2015-04-13 12:47:34 --> Output Class Initialized
+INFO - 2015-04-13 12:47:34 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:34 --> Input Class Initialized
+INFO - 2015-04-13 12:47:34 --> Language Class Initialized
+INFO - 2015-04-13 12:47:34 --> Loader Class Initialized
+INFO - 2015-04-13 12:47:34 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:47:34 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:47:34 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:47:34 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:47:34 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:47:34 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:47:34 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:47:34 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:47:34 --> Model Class Initialized
+INFO - 2015-04-13 12:47:34 --> Model Class Initialized
+INFO - 2015-04-13 12:47:34 --> Config Class Initialized
+INFO - 2015-04-13 12:47:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:34 --> URI Class Initialized
+INFO - 2015-04-13 12:47:34 --> Router Class Initialized
+INFO - 2015-04-13 12:47:34 --> Output Class Initialized
+INFO - 2015-04-13 12:47:34 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:34 --> Input Class Initialized
+INFO - 2015-04-13 12:47:34 --> Language Class Initialized
+ERROR - 2015-04-13 12:47:34 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:47:34 --> Config Class Initialized
+INFO - 2015-04-13 12:47:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:34 --> URI Class Initialized
+INFO - 2015-04-13 12:47:34 --> Router Class Initialized
+INFO - 2015-04-13 12:47:34 --> Output Class Initialized
+INFO - 2015-04-13 12:47:34 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:34 --> Input Class Initialized
+INFO - 2015-04-13 12:47:34 --> Language Class Initialized
+ERROR - 2015-04-13 12:47:34 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:47:56 --> Config Class Initialized
+INFO - 2015-04-13 12:47:56 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:56 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:56 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:56 --> URI Class Initialized
+INFO - 2015-04-13 12:47:56 --> Router Class Initialized
+INFO - 2015-04-13 12:47:56 --> Output Class Initialized
+INFO - 2015-04-13 12:47:56 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:56 --> Input Class Initialized
+INFO - 2015-04-13 12:47:56 --> Language Class Initialized
+INFO - 2015-04-13 12:47:56 --> Loader Class Initialized
+INFO - 2015-04-13 12:47:56 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:47:56 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:47:56 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:47:56 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:47:56 --> Controller Class Initialized
+INFO - 2015-04-13 12:47:56 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:47:56 --> Model Class Initialized
+INFO - 2015-04-13 12:47:56 --> Model Class Initialized
+INFO - 2015-04-13 12:47:56 --> Parser Class Initialized
+INFO - 2015-04-13 12:47:56 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:47:56 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:47:56 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:47:56 --> Final output sent to browser
+DEBUG - 2015-04-13 12:47:56 --> Total execution time: 0.0070
+INFO - 2015-04-13 12:47:57 --> Config Class Initialized
+INFO - 2015-04-13 12:47:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:57 --> URI Class Initialized
+INFO - 2015-04-13 12:47:57 --> Router Class Initialized
+INFO - 2015-04-13 12:47:57 --> Output Class Initialized
+INFO - 2015-04-13 12:47:57 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:57 --> Input Class Initialized
+INFO - 2015-04-13 12:47:57 --> Language Class Initialized
+INFO - 2015-04-13 12:47:57 --> Loader Class Initialized
+INFO - 2015-04-13 12:47:57 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:47:57 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:47:57 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:47:57 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:47:57 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:47:57 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:47:57 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:47:57 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:47:57 --> Model Class Initialized
+INFO - 2015-04-13 12:47:57 --> Model Class Initialized
+INFO - 2015-04-13 12:47:57 --> Config Class Initialized
+INFO - 2015-04-13 12:47:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:57 --> URI Class Initialized
+INFO - 2015-04-13 12:47:57 --> Router Class Initialized
+INFO - 2015-04-13 12:47:57 --> Output Class Initialized
+INFO - 2015-04-13 12:47:57 --> Security Class Initialized
+INFO - 2015-04-13 12:47:57 --> Config Class Initialized
+INFO - 2015-04-13 12:47:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:47:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:57 --> Input Class Initialized
+DEBUG - 2015-04-13 12:47:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:47:57 --> Language Class Initialized
+INFO - 2015-04-13 12:47:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:47:57 --> URI Class Initialized
+ERROR - 2015-04-13 12:47:57 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:47:57 --> Router Class Initialized
+INFO - 2015-04-13 12:47:57 --> Output Class Initialized
+INFO - 2015-04-13 12:47:57 --> Security Class Initialized
+DEBUG - 2015-04-13 12:47:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:47:57 --> Input Class Initialized
+INFO - 2015-04-13 12:47:57 --> Language Class Initialized
+ERROR - 2015-04-13 12:47:57 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:48:23 --> Config Class Initialized
+INFO - 2015-04-13 12:48:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:48:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:48:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:48:23 --> URI Class Initialized
+INFO - 2015-04-13 12:48:23 --> Router Class Initialized
+INFO - 2015-04-13 12:48:23 --> Output Class Initialized
+INFO - 2015-04-13 12:48:23 --> Security Class Initialized
+DEBUG - 2015-04-13 12:48:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:48:23 --> Input Class Initialized
+INFO - 2015-04-13 12:48:23 --> Language Class Initialized
+INFO - 2015-04-13 12:48:23 --> Loader Class Initialized
+INFO - 2015-04-13 12:48:23 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:48:23 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:48:23 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:48:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:48:23 --> Controller Class Initialized
+INFO - 2015-04-13 12:48:23 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:48:23 --> Model Class Initialized
+INFO - 2015-04-13 12:48:23 --> Model Class Initialized
+INFO - 2015-04-13 12:48:23 --> Final output sent to browser
+DEBUG - 2015-04-13 12:48:23 --> Total execution time: 0.0054
+INFO - 2015-04-13 12:48:25 --> Config Class Initialized
+INFO - 2015-04-13 12:48:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:48:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:48:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:48:25 --> URI Class Initialized
+INFO - 2015-04-13 12:48:25 --> Router Class Initialized
+INFO - 2015-04-13 12:48:25 --> Output Class Initialized
+INFO - 2015-04-13 12:48:25 --> Security Class Initialized
+DEBUG - 2015-04-13 12:48:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:48:25 --> Input Class Initialized
+INFO - 2015-04-13 12:48:25 --> Language Class Initialized
+INFO - 2015-04-13 12:48:25 --> Loader Class Initialized
+INFO - 2015-04-13 12:48:25 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:48:25 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:48:25 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:48:25 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:48:25 --> Controller Class Initialized
+INFO - 2015-04-13 12:48:25 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:48:25 --> Model Class Initialized
+INFO - 2015-04-13 12:48:25 --> Model Class Initialized
+INFO - 2015-04-13 12:48:25 --> Parser Class Initialized
+INFO - 2015-04-13 12:48:25 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:48:25 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:48:25 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:48:25 --> Final output sent to browser
+DEBUG - 2015-04-13 12:48:25 --> Total execution time: 0.0075
+INFO - 2015-04-13 12:48:25 --> Config Class Initialized
+INFO - 2015-04-13 12:48:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:48:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:48:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:48:25 --> URI Class Initialized
+INFO - 2015-04-13 12:48:25 --> Router Class Initialized
+INFO - 2015-04-13 12:48:25 --> Output Class Initialized
+INFO - 2015-04-13 12:48:25 --> Security Class Initialized
+DEBUG - 2015-04-13 12:48:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:48:25 --> Input Class Initialized
+INFO - 2015-04-13 12:48:25 --> Language Class Initialized
+INFO - 2015-04-13 12:48:25 --> Loader Class Initialized
+INFO - 2015-04-13 12:48:25 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:48:25 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:48:25 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:48:25 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:48:25 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:48:25 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:48:25 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:48:25 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:48:25 --> Model Class Initialized
+INFO - 2015-04-13 12:48:25 --> Model Class Initialized
+INFO - 2015-04-13 12:49:54 --> Config Class Initialized
+INFO - 2015-04-13 12:49:54 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:49:54 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:49:54 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:49:54 --> URI Class Initialized
+INFO - 2015-04-13 12:49:54 --> Router Class Initialized
+INFO - 2015-04-13 12:49:54 --> Output Class Initialized
+INFO - 2015-04-13 12:49:54 --> Security Class Initialized
+DEBUG - 2015-04-13 12:49:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:49:54 --> Input Class Initialized
+INFO - 2015-04-13 12:49:54 --> Language Class Initialized
+INFO - 2015-04-13 12:49:54 --> Loader Class Initialized
+INFO - 2015-04-13 12:49:54 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:49:54 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:49:54 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:49:54 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:49:54 --> Controller Class Initialized
+INFO - 2015-04-13 12:49:54 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:49:54 --> Model Class Initialized
+INFO - 2015-04-13 12:49:54 --> Model Class Initialized
+INFO - 2015-04-13 12:49:54 --> Final output sent to browser
+DEBUG - 2015-04-13 12:49:54 --> Total execution time: 0.0050
+INFO - 2015-04-13 12:50:51 --> Config Class Initialized
+INFO - 2015-04-13 12:50:51 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:50:51 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:50:51 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:50:51 --> URI Class Initialized
+INFO - 2015-04-13 12:50:51 --> Router Class Initialized
+INFO - 2015-04-13 12:50:51 --> Output Class Initialized
+INFO - 2015-04-13 12:50:51 --> Security Class Initialized
+DEBUG - 2015-04-13 12:50:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:50:51 --> Input Class Initialized
+INFO - 2015-04-13 12:50:51 --> Language Class Initialized
+INFO - 2015-04-13 12:50:51 --> Loader Class Initialized
+INFO - 2015-04-13 12:50:51 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:50:51 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:50:51 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:50:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:50:51 --> Controller Class Initialized
+INFO - 2015-04-13 12:50:51 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:50:51 --> Model Class Initialized
+INFO - 2015-04-13 12:50:51 --> Model Class Initialized
+INFO - 2015-04-13 12:50:51 --> Final output sent to browser
+DEBUG - 2015-04-13 12:50:51 --> Total execution time: 0.0051
+INFO - 2015-04-13 12:51:35 --> Config Class Initialized
+INFO - 2015-04-13 12:51:35 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:51:35 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:51:35 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:51:35 --> URI Class Initialized
+INFO - 2015-04-13 12:51:35 --> Router Class Initialized
+INFO - 2015-04-13 12:51:35 --> Output Class Initialized
+INFO - 2015-04-13 12:51:35 --> Security Class Initialized
+DEBUG - 2015-04-13 12:51:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:51:35 --> Input Class Initialized
+INFO - 2015-04-13 12:51:35 --> Language Class Initialized
+INFO - 2015-04-13 12:51:35 --> Loader Class Initialized
+INFO - 2015-04-13 12:51:35 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:51:35 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:51:35 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:51:35 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:51:35 --> Controller Class Initialized
+INFO - 2015-04-13 12:51:35 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:51:35 --> Model Class Initialized
+INFO - 2015-04-13 12:51:35 --> Model Class Initialized
+INFO - 2015-04-13 12:51:35 --> Parser Class Initialized
+INFO - 2015-04-13 12:51:35 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+ERROR - 2015-04-13 12:51:35 --> Severity: Notice --> Undefined variable: author /home/ubuntu/workspace/application/views/authors/show.php 1
+ERROR - 2015-04-13 12:51:35 --> Severity: Notice --> Trying to get property of non-object /home/ubuntu/workspace/application/views/authors/show.php 1
+INFO - 2015-04-13 12:51:35 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:51:35 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:51:35 --> Final output sent to browser
+DEBUG - 2015-04-13 12:51:35 --> Total execution time: 0.0080
+INFO - 2015-04-13 12:51:56 --> Config Class Initialized
+INFO - 2015-04-13 12:51:56 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:51:56 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:51:56 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:51:56 --> URI Class Initialized
+INFO - 2015-04-13 12:51:56 --> Router Class Initialized
+INFO - 2015-04-13 12:51:56 --> Output Class Initialized
+INFO - 2015-04-13 12:51:56 --> Security Class Initialized
+DEBUG - 2015-04-13 12:51:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:51:56 --> Input Class Initialized
+INFO - 2015-04-13 12:51:56 --> Language Class Initialized
+INFO - 2015-04-13 12:51:56 --> Loader Class Initialized
+INFO - 2015-04-13 12:51:56 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:51:56 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:51:56 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:51:56 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:51:56 --> Controller Class Initialized
+INFO - 2015-04-13 12:51:56 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:51:56 --> Model Class Initialized
+INFO - 2015-04-13 12:51:56 --> Model Class Initialized
+INFO - 2015-04-13 12:51:56 --> Parser Class Initialized
+INFO - 2015-04-13 12:51:56 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:51:56 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:51:56 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:51:56 --> Final output sent to browser
+DEBUG - 2015-04-13 12:51:56 --> Total execution time: 0.0081
+INFO - 2015-04-13 12:51:57 --> Config Class Initialized
+INFO - 2015-04-13 12:51:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:51:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:51:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:51:57 --> URI Class Initialized
+INFO - 2015-04-13 12:51:57 --> Router Class Initialized
+INFO - 2015-04-13 12:51:57 --> Output Class Initialized
+INFO - 2015-04-13 12:51:57 --> Security Class Initialized
+DEBUG - 2015-04-13 12:51:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:51:57 --> Input Class Initialized
+INFO - 2015-04-13 12:51:57 --> Language Class Initialized
+INFO - 2015-04-13 12:51:57 --> Loader Class Initialized
+INFO - 2015-04-13 12:51:57 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:51:57 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:51:57 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:51:57 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:51:57 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:51:57 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:51:57 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:51:57 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:51:57 --> Model Class Initialized
+INFO - 2015-04-13 12:51:57 --> Model Class Initialized
+INFO - 2015-04-13 12:51:57 --> Searching author with id 89
+ERROR - 2015-04-13 12:51:57 --> Severity: Notice --> Undefined property: Authors::$author_model /home/ubuntu/workspace/application/controllers/api/Authors.php 53
+ERROR - 2015-04-13 12:51:57 --> Severity: Error --> Call to a member function get() on a non-object /home/ubuntu/workspace/application/controllers/api/Authors.php 53
+INFO - 2015-04-13 12:51:58 --> Config Class Initialized
+INFO - 2015-04-13 12:51:58 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:51:58 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:51:58 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:51:58 --> URI Class Initialized
+INFO - 2015-04-13 12:51:58 --> Router Class Initialized
+INFO - 2015-04-13 12:51:58 --> Output Class Initialized
+INFO - 2015-04-13 12:51:58 --> Security Class Initialized
+DEBUG - 2015-04-13 12:51:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:51:58 --> Input Class Initialized
+INFO - 2015-04-13 12:51:58 --> Language Class Initialized
+INFO - 2015-04-13 12:51:58 --> Loader Class Initialized
+INFO - 2015-04-13 12:51:58 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:51:58 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:51:58 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:51:58 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:51:58 --> Controller Class Initialized
+INFO - 2015-04-13 12:51:58 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:51:58 --> Model Class Initialized
+INFO - 2015-04-13 12:51:58 --> Model Class Initialized
+INFO - 2015-04-13 12:51:58 --> Parser Class Initialized
+INFO - 2015-04-13 12:51:58 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:51:58 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:51:58 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:51:58 --> Final output sent to browser
+DEBUG - 2015-04-13 12:51:58 --> Total execution time: 0.0065
+INFO - 2015-04-13 12:51:58 --> Config Class Initialized
+INFO - 2015-04-13 12:51:58 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:51:58 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:51:58 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:51:58 --> URI Class Initialized
+INFO - 2015-04-13 12:51:58 --> Router Class Initialized
+INFO - 2015-04-13 12:51:58 --> Output Class Initialized
+INFO - 2015-04-13 12:51:58 --> Security Class Initialized
+DEBUG - 2015-04-13 12:51:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:51:58 --> Input Class Initialized
+INFO - 2015-04-13 12:51:58 --> Language Class Initialized
+INFO - 2015-04-13 12:51:58 --> Loader Class Initialized
+INFO - 2015-04-13 12:51:58 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:51:58 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:51:58 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:51:58 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:51:58 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:51:58 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:51:58 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:51:58 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:51:58 --> Model Class Initialized
+INFO - 2015-04-13 12:51:58 --> Model Class Initialized
+INFO - 2015-04-13 12:51:58 --> Searching author with id 89
+ERROR - 2015-04-13 12:51:58 --> Severity: Notice --> Undefined property: Authors::$author_model /home/ubuntu/workspace/application/controllers/api/Authors.php 53
+ERROR - 2015-04-13 12:51:58 --> Severity: Error --> Call to a member function get() on a non-object /home/ubuntu/workspace/application/controllers/api/Authors.php 53
+INFO - 2015-04-13 12:52:07 --> Config Class Initialized
+INFO - 2015-04-13 12:52:07 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:52:07 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:52:07 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:52:07 --> URI Class Initialized
+INFO - 2015-04-13 12:52:07 --> Router Class Initialized
+INFO - 2015-04-13 12:52:07 --> Output Class Initialized
+INFO - 2015-04-13 12:52:07 --> Security Class Initialized
+DEBUG - 2015-04-13 12:52:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:52:07 --> Input Class Initialized
+INFO - 2015-04-13 12:52:07 --> Language Class Initialized
+ERROR - 2015-04-13 12:52:07 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:52:07 --> Config Class Initialized
+INFO - 2015-04-13 12:52:07 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:52:07 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:52:07 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:52:07 --> URI Class Initialized
+INFO - 2015-04-13 12:52:07 --> Router Class Initialized
+INFO - 2015-04-13 12:52:07 --> Output Class Initialized
+INFO - 2015-04-13 12:52:07 --> Security Class Initialized
+DEBUG - 2015-04-13 12:52:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:52:07 --> Input Class Initialized
+INFO - 2015-04-13 12:52:07 --> Language Class Initialized
+ERROR - 2015-04-13 12:52:07 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:52:14 --> Config Class Initialized
+INFO - 2015-04-13 12:52:14 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:52:14 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:52:14 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:52:14 --> URI Class Initialized
+INFO - 2015-04-13 12:52:14 --> Router Class Initialized
+INFO - 2015-04-13 12:52:14 --> Output Class Initialized
+INFO - 2015-04-13 12:52:14 --> Security Class Initialized
+DEBUG - 2015-04-13 12:52:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:52:14 --> Input Class Initialized
+INFO - 2015-04-13 12:52:14 --> Language Class Initialized
+INFO - 2015-04-13 12:52:14 --> Loader Class Initialized
+INFO - 2015-04-13 12:52:14 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:52:14 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:52:14 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:52:14 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:52:14 --> Controller Class Initialized
+INFO - 2015-04-13 12:52:14 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:52:14 --> Model Class Initialized
+INFO - 2015-04-13 12:52:14 --> Model Class Initialized
+INFO - 2015-04-13 12:52:14 --> Parser Class Initialized
+INFO - 2015-04-13 12:52:14 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:52:14 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:52:14 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:52:14 --> Final output sent to browser
+DEBUG - 2015-04-13 12:52:14 --> Total execution time: 0.0106
+INFO - 2015-04-13 12:52:15 --> Config Class Initialized
+INFO - 2015-04-13 12:52:15 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:52:15 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:52:15 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:52:15 --> URI Class Initialized
+INFO - 2015-04-13 12:52:15 --> Router Class Initialized
+INFO - 2015-04-13 12:52:15 --> Output Class Initialized
+INFO - 2015-04-13 12:52:15 --> Security Class Initialized
+DEBUG - 2015-04-13 12:52:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:52:15 --> Input Class Initialized
+INFO - 2015-04-13 12:52:15 --> Language Class Initialized
+INFO - 2015-04-13 12:52:15 --> Loader Class Initialized
+INFO - 2015-04-13 12:52:15 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:52:15 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:52:15 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:52:15 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:52:15 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:52:15 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:52:15 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:52:15 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:52:15 --> Model Class Initialized
+INFO - 2015-04-13 12:52:15 --> Model Class Initialized
+INFO - 2015-04-13 12:52:15 --> Searching author with id 89
+ERROR - 2015-04-13 12:52:15 --> Severity: Notice --> Undefined property: Authors::$author_model /home/ubuntu/workspace/application/controllers/api/Authors.php 53
+ERROR - 2015-04-13 12:52:15 --> Severity: Error --> Call to a member function get() on a non-object /home/ubuntu/workspace/application/controllers/api/Authors.php 53
+INFO - 2015-04-13 12:52:15 --> Config Class Initialized
+INFO - 2015-04-13 12:52:15 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:52:15 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:52:15 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:52:15 --> URI Class Initialized
+INFO - 2015-04-13 12:52:15 --> Router Class Initialized
+INFO - 2015-04-13 12:52:15 --> Output Class Initialized
+INFO - 2015-04-13 12:52:15 --> Security Class Initialized
+DEBUG - 2015-04-13 12:52:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:52:15 --> Input Class Initialized
+INFO - 2015-04-13 12:52:15 --> Language Class Initialized
+INFO - 2015-04-13 12:52:15 --> Config Class Initialized
+ERROR - 2015-04-13 12:52:15 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:52:15 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:52:15 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:52:15 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:52:15 --> URI Class Initialized
+INFO - 2015-04-13 12:52:15 --> Router Class Initialized
+INFO - 2015-04-13 12:52:15 --> Output Class Initialized
+INFO - 2015-04-13 12:52:15 --> Security Class Initialized
+DEBUG - 2015-04-13 12:52:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:52:15 --> Input Class Initialized
+INFO - 2015-04-13 12:52:15 --> Language Class Initialized
+ERROR - 2015-04-13 12:52:15 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:52:30 --> Config Class Initialized
+INFO - 2015-04-13 12:52:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:52:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:52:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:52:30 --> URI Class Initialized
+INFO - 2015-04-13 12:52:30 --> Router Class Initialized
+INFO - 2015-04-13 12:52:30 --> Output Class Initialized
+INFO - 2015-04-13 12:52:30 --> Security Class Initialized
+DEBUG - 2015-04-13 12:52:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:52:30 --> Input Class Initialized
+INFO - 2015-04-13 12:52:30 --> Language Class Initialized
+INFO - 2015-04-13 12:52:30 --> Loader Class Initialized
+INFO - 2015-04-13 12:52:30 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:52:30 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:52:30 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:52:30 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:52:30 --> Controller Class Initialized
+INFO - 2015-04-13 12:52:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:52:30 --> Model Class Initialized
+INFO - 2015-04-13 12:52:30 --> Model Class Initialized
+INFO - 2015-04-13 12:52:30 --> Parser Class Initialized
+INFO - 2015-04-13 12:52:30 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:52:30 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:52:30 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:52:30 --> Final output sent to browser
+DEBUG - 2015-04-13 12:52:30 --> Total execution time: 0.0101
+INFO - 2015-04-13 12:52:30 --> Config Class Initialized
+INFO - 2015-04-13 12:52:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:52:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:52:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:52:30 --> URI Class Initialized
+INFO - 2015-04-13 12:52:30 --> Router Class Initialized
+INFO - 2015-04-13 12:52:30 --> Output Class Initialized
+INFO - 2015-04-13 12:52:30 --> Security Class Initialized
+DEBUG - 2015-04-13 12:52:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:52:30 --> Input Class Initialized
+INFO - 2015-04-13 12:52:30 --> Language Class Initialized
+INFO - 2015-04-13 12:52:30 --> Loader Class Initialized
+INFO - 2015-04-13 12:52:30 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:52:30 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:52:30 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:52:30 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:52:30 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:52:30 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:52:30 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:52:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:52:30 --> Model Class Initialized
+INFO - 2015-04-13 12:52:30 --> Model Class Initialized
+INFO - 2015-04-13 12:52:30 --> Searching author with id 89
+INFO - 2015-04-13 12:52:30 --> Config Class Initialized
+INFO - 2015-04-13 12:52:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:52:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:52:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:52:30 --> URI Class Initialized
+INFO - 2015-04-13 12:52:30 --> Router Class Initialized
+INFO - 2015-04-13 12:52:30 --> Output Class Initialized
+INFO - 2015-04-13 12:52:30 --> Security Class Initialized
+DEBUG - 2015-04-13 12:52:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:52:30 --> Input Class Initialized
+INFO - 2015-04-13 12:52:30 --> Language Class Initialized
+ERROR - 2015-04-13 12:52:30 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:52:30 --> Config Class Initialized
+INFO - 2015-04-13 12:52:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:52:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:52:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:52:30 --> URI Class Initialized
+INFO - 2015-04-13 12:52:30 --> Router Class Initialized
+INFO - 2015-04-13 12:52:30 --> Output Class Initialized
+INFO - 2015-04-13 12:52:30 --> Security Class Initialized
+DEBUG - 2015-04-13 12:52:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:52:30 --> Input Class Initialized
+INFO - 2015-04-13 12:52:30 --> Language Class Initialized
+ERROR - 2015-04-13 12:52:30 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:53:56 --> Config Class Initialized
+INFO - 2015-04-13 12:53:56 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:53:56 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:53:56 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:53:56 --> URI Class Initialized
+INFO - 2015-04-13 12:53:56 --> Router Class Initialized
+INFO - 2015-04-13 12:53:56 --> Output Class Initialized
+INFO - 2015-04-13 12:53:56 --> Security Class Initialized
+DEBUG - 2015-04-13 12:53:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:53:56 --> Input Class Initialized
+INFO - 2015-04-13 12:53:56 --> Language Class Initialized
+INFO - 2015-04-13 12:53:56 --> Loader Class Initialized
+INFO - 2015-04-13 12:53:56 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:53:56 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:53:56 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:53:56 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:53:56 --> Controller Class Initialized
+INFO - 2015-04-13 12:53:56 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:53:56 --> Model Class Initialized
+INFO - 2015-04-13 12:53:56 --> Model Class Initialized
+INFO - 2015-04-13 12:53:56 --> Parser Class Initialized
+INFO - 2015-04-13 12:53:56 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:53:56 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:53:56 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:53:56 --> Final output sent to browser
+DEBUG - 2015-04-13 12:53:56 --> Total execution time: 0.0082
+INFO - 2015-04-13 12:53:57 --> Config Class Initialized
+INFO - 2015-04-13 12:53:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:53:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:53:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:53:57 --> URI Class Initialized
+INFO - 2015-04-13 12:53:57 --> Router Class Initialized
+INFO - 2015-04-13 12:53:57 --> Output Class Initialized
+INFO - 2015-04-13 12:53:57 --> Security Class Initialized
+DEBUG - 2015-04-13 12:53:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:53:57 --> Input Class Initialized
+INFO - 2015-04-13 12:53:57 --> Language Class Initialized
+INFO - 2015-04-13 12:53:57 --> Loader Class Initialized
+INFO - 2015-04-13 12:53:57 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:53:57 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:53:57 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:53:57 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:53:57 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:53:57 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:53:57 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:53:57 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:53:57 --> Model Class Initialized
+INFO - 2015-04-13 12:53:57 --> Model Class Initialized
+INFO - 2015-04-13 12:53:57 --> Searching author with id 89
+ERROR - 2015-04-13 12:53:57 --> Severity: Notice --> Undefined variable: book /home/ubuntu/workspace/application/models/Author.php 31
+ERROR - 2015-04-13 12:53:57 --> Severity: Error --> Call to a member function num_rows() on a non-object /home/ubuntu/workspace/application/models/Author.php 31
+INFO - 2015-04-13 12:53:57 --> Config Class Initialized
+INFO - 2015-04-13 12:53:57 --> Config Class Initialized
+INFO - 2015-04-13 12:53:57 --> Hooks Class Initialized
+INFO - 2015-04-13 12:53:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:53:57 --> UTF-8 Support Enabled
+DEBUG - 2015-04-13 12:53:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:53:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:53:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:53:57 --> URI Class Initialized
+INFO - 2015-04-13 12:53:57 --> URI Class Initialized
+INFO - 2015-04-13 12:53:57 --> Router Class Initialized
+INFO - 2015-04-13 12:53:57 --> Router Class Initialized
+INFO - 2015-04-13 12:53:57 --> Output Class Initialized
+INFO - 2015-04-13 12:53:57 --> Output Class Initialized
+INFO - 2015-04-13 12:53:57 --> Security Class Initialized
+INFO - 2015-04-13 12:53:57 --> Security Class Initialized
+DEBUG - 2015-04-13 12:53:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-04-13 12:53:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:53:57 --> Input Class Initialized
+INFO - 2015-04-13 12:53:57 --> Input Class Initialized
+INFO - 2015-04-13 12:53:57 --> Language Class Initialized
+INFO - 2015-04-13 12:53:57 --> Language Class Initialized
+ERROR - 2015-04-13 12:53:57 --> 404 Page Not Found: Assets/js
+ERROR - 2015-04-13 12:53:57 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:54:08 --> Config Class Initialized
+INFO - 2015-04-13 12:54:08 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:54:08 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:08 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:08 --> URI Class Initialized
+INFO - 2015-04-13 12:54:08 --> Router Class Initialized
+INFO - 2015-04-13 12:54:08 --> Output Class Initialized
+INFO - 2015-04-13 12:54:08 --> Security Class Initialized
+DEBUG - 2015-04-13 12:54:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:08 --> Input Class Initialized
+INFO - 2015-04-13 12:54:08 --> Language Class Initialized
+INFO - 2015-04-13 12:54:08 --> Loader Class Initialized
+INFO - 2015-04-13 12:54:08 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:54:08 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:54:08 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:54:08 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:54:08 --> Controller Class Initialized
+INFO - 2015-04-13 12:54:08 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:54:08 --> Model Class Initialized
+INFO - 2015-04-13 12:54:08 --> Model Class Initialized
+INFO - 2015-04-13 12:54:08 --> Parser Class Initialized
+INFO - 2015-04-13 12:54:08 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:54:08 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:54:08 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:54:08 --> Final output sent to browser
+DEBUG - 2015-04-13 12:54:08 --> Total execution time: 0.0056
+INFO - 2015-04-13 12:54:08 --> Config Class Initialized
+INFO - 2015-04-13 12:54:08 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:54:08 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:08 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:08 --> URI Class Initialized
+INFO - 2015-04-13 12:54:08 --> Router Class Initialized
+INFO - 2015-04-13 12:54:08 --> Output Class Initialized
+INFO - 2015-04-13 12:54:08 --> Security Class Initialized
+DEBUG - 2015-04-13 12:54:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:08 --> Input Class Initialized
+INFO - 2015-04-13 12:54:08 --> Language Class Initialized
+INFO - 2015-04-13 12:54:08 --> Loader Class Initialized
+INFO - 2015-04-13 12:54:08 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:54:08 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:54:08 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:54:08 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:54:08 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:54:08 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:54:08 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:54:08 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:54:08 --> Model Class Initialized
+INFO - 2015-04-13 12:54:08 --> Model Class Initialized
+INFO - 2015-04-13 12:54:08 --> Searching author with id 89
+INFO - 2015-04-13 12:54:09 --> Config Class Initialized
+INFO - 2015-04-13 12:54:09 --> Config Class Initialized
+INFO - 2015-04-13 12:54:09 --> Hooks Class Initialized
+INFO - 2015-04-13 12:54:09 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:54:09 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:09 --> Utf8 Class Initialized
+DEBUG - 2015-04-13 12:54:09 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:09 --> URI Class Initialized
+INFO - 2015-04-13 12:54:09 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:09 --> Router Class Initialized
+INFO - 2015-04-13 12:54:09 --> URI Class Initialized
+INFO - 2015-04-13 12:54:09 --> Output Class Initialized
+INFO - 2015-04-13 12:54:09 --> Router Class Initialized
+INFO - 2015-04-13 12:54:09 --> Security Class Initialized
+INFO - 2015-04-13 12:54:09 --> Output Class Initialized
+INFO - 2015-04-13 12:54:09 --> Security Class Initialized
+DEBUG - 2015-04-13 12:54:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:09 --> Input Class Initialized
+DEBUG - 2015-04-13 12:54:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:09 --> Input Class Initialized
+INFO - 2015-04-13 12:54:09 --> Language Class Initialized
+INFO - 2015-04-13 12:54:09 --> Language Class Initialized
+ERROR - 2015-04-13 12:54:09 --> 404 Page Not Found: Assets/js
+ERROR - 2015-04-13 12:54:09 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:54:19 --> Config Class Initialized
+INFO - 2015-04-13 12:54:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:54:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:19 --> URI Class Initialized
+INFO - 2015-04-13 12:54:19 --> Router Class Initialized
+INFO - 2015-04-13 12:54:19 --> Output Class Initialized
+INFO - 2015-04-13 12:54:19 --> Security Class Initialized
+DEBUG - 2015-04-13 12:54:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:19 --> Input Class Initialized
+INFO - 2015-04-13 12:54:19 --> Language Class Initialized
+INFO - 2015-04-13 12:54:19 --> Loader Class Initialized
+INFO - 2015-04-13 12:54:19 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:54:19 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:54:19 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:54:19 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:54:19 --> Controller Class Initialized
+INFO - 2015-04-13 12:54:19 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:54:19 --> Model Class Initialized
+INFO - 2015-04-13 12:54:19 --> Model Class Initialized
+INFO - 2015-04-13 12:54:19 --> Parser Class Initialized
+INFO - 2015-04-13 12:54:19 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:54:19 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:54:19 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:54:19 --> Final output sent to browser
+DEBUG - 2015-04-13 12:54:19 --> Total execution time: 0.0059
+INFO - 2015-04-13 12:54:20 --> Config Class Initialized
+INFO - 2015-04-13 12:54:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:54:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:20 --> URI Class Initialized
+INFO - 2015-04-13 12:54:20 --> Router Class Initialized
+INFO - 2015-04-13 12:54:20 --> Output Class Initialized
+INFO - 2015-04-13 12:54:20 --> Security Class Initialized
+DEBUG - 2015-04-13 12:54:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:20 --> Input Class Initialized
+INFO - 2015-04-13 12:54:20 --> Language Class Initialized
+INFO - 2015-04-13 12:54:20 --> Loader Class Initialized
+INFO - 2015-04-13 12:54:20 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:54:20 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:54:20 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:54:20 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:54:20 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:54:20 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:54:20 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:54:20 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:54:20 --> Model Class Initialized
+INFO - 2015-04-13 12:54:20 --> Model Class Initialized
+INFO - 2015-04-13 12:54:20 --> Searching author with id 89
+INFO - 2015-04-13 12:54:20 --> Config Class Initialized
+INFO - 2015-04-13 12:54:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:54:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:20 --> URI Class Initialized
+INFO - 2015-04-13 12:54:20 --> Router Class Initialized
+INFO - 2015-04-13 12:54:20 --> Output Class Initialized
+INFO - 2015-04-13 12:54:20 --> Security Class Initialized
+DEBUG - 2015-04-13 12:54:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:20 --> Input Class Initialized
+INFO - 2015-04-13 12:54:20 --> Language Class Initialized
+ERROR - 2015-04-13 12:54:20 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:54:20 --> Config Class Initialized
+INFO - 2015-04-13 12:54:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:54:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:20 --> URI Class Initialized
+INFO - 2015-04-13 12:54:20 --> Router Class Initialized
+INFO - 2015-04-13 12:54:20 --> Output Class Initialized
+INFO - 2015-04-13 12:54:20 --> Security Class Initialized
+DEBUG - 2015-04-13 12:54:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:20 --> Input Class Initialized
+INFO - 2015-04-13 12:54:20 --> Language Class Initialized
+ERROR - 2015-04-13 12:54:20 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:54:39 --> Config Class Initialized
+INFO - 2015-04-13 12:54:39 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:54:39 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:39 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:39 --> URI Class Initialized
+INFO - 2015-04-13 12:54:39 --> Router Class Initialized
+INFO - 2015-04-13 12:54:39 --> Output Class Initialized
+INFO - 2015-04-13 12:54:39 --> Security Class Initialized
+DEBUG - 2015-04-13 12:54:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:39 --> Input Class Initialized
+INFO - 2015-04-13 12:54:39 --> Language Class Initialized
+INFO - 2015-04-13 12:54:39 --> Loader Class Initialized
+INFO - 2015-04-13 12:54:39 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:54:39 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:54:39 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:54:39 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:54:39 --> Controller Class Initialized
+INFO - 2015-04-13 12:54:39 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:54:39 --> Model Class Initialized
+INFO - 2015-04-13 12:54:39 --> Model Class Initialized
+INFO - 2015-04-13 12:54:39 --> Parser Class Initialized
+INFO - 2015-04-13 12:54:39 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:54:39 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:54:39 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:54:39 --> Final output sent to browser
+DEBUG - 2015-04-13 12:54:39 --> Total execution time: 0.0060
+INFO - 2015-04-13 12:54:40 --> Config Class Initialized
+INFO - 2015-04-13 12:54:40 --> Hooks Class Initialized
+INFO - 2015-04-13 12:54:40 --> Config Class Initialized
+INFO - 2015-04-13 12:54:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:54:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:40 --> URI Class Initialized
+DEBUG - 2015-04-13 12:54:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:40 --> Router Class Initialized
+INFO - 2015-04-13 12:54:40 --> URI Class Initialized
+INFO - 2015-04-13 12:54:40 --> Output Class Initialized
+INFO - 2015-04-13 12:54:40 --> Security Class Initialized
+INFO - 2015-04-13 12:54:40 --> Router Class Initialized
+DEBUG - 2015-04-13 12:54:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:40 --> Input Class Initialized
+INFO - 2015-04-13 12:54:40 --> Output Class Initialized
+INFO - 2015-04-13 12:54:40 --> Language Class Initialized
+INFO - 2015-04-13 12:54:40 --> Security Class Initialized
+DEBUG - 2015-04-13 12:54:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-04-13 12:54:40 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:54:40 --> Input Class Initialized
+INFO - 2015-04-13 12:54:40 --> Language Class Initialized
+ERROR - 2015-04-13 12:54:40 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:54:43 --> Config Class Initialized
+INFO - 2015-04-13 12:54:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:54:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:43 --> URI Class Initialized
+INFO - 2015-04-13 12:54:43 --> Router Class Initialized
+INFO - 2015-04-13 12:54:43 --> Output Class Initialized
+INFO - 2015-04-13 12:54:43 --> Security Class Initialized
+DEBUG - 2015-04-13 12:54:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:43 --> Input Class Initialized
+INFO - 2015-04-13 12:54:43 --> Language Class Initialized
+INFO - 2015-04-13 12:54:43 --> Loader Class Initialized
+INFO - 2015-04-13 12:54:43 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:54:43 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:54:43 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:54:43 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:54:43 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:54:43 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:54:43 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:54:43 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:54:43 --> Model Class Initialized
+INFO - 2015-04-13 12:54:43 --> Model Class Initialized
+INFO - 2015-04-13 12:54:43 --> Searching author with id 89
+INFO - 2015-04-13 12:54:50 --> Config Class Initialized
+INFO - 2015-04-13 12:54:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:54:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:50 --> URI Class Initialized
+INFO - 2015-04-13 12:54:50 --> Router Class Initialized
+INFO - 2015-04-13 12:54:50 --> Output Class Initialized
+INFO - 2015-04-13 12:54:50 --> Security Class Initialized
+DEBUG - 2015-04-13 12:54:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:50 --> Input Class Initialized
+INFO - 2015-04-13 12:54:50 --> Language Class Initialized
+INFO - 2015-04-13 12:54:50 --> Loader Class Initialized
+INFO - 2015-04-13 12:54:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:54:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:54:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:54:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:54:50 --> Controller Class Initialized
+INFO - 2015-04-13 12:54:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:54:50 --> Model Class Initialized
+INFO - 2015-04-13 12:54:50 --> Model Class Initialized
+INFO - 2015-04-13 12:54:50 --> Parser Class Initialized
+INFO - 2015-04-13 12:54:50 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:54:50 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:54:50 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:54:50 --> Final output sent to browser
+DEBUG - 2015-04-13 12:54:50 --> Total execution time: 0.0057
+INFO - 2015-04-13 12:54:50 --> Config Class Initialized
+INFO - 2015-04-13 12:54:50 --> Config Class Initialized
+INFO - 2015-04-13 12:54:50 --> Hooks Class Initialized
+INFO - 2015-04-13 12:54:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:54:50 --> UTF-8 Support Enabled
+DEBUG - 2015-04-13 12:54:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:50 --> URI Class Initialized
+INFO - 2015-04-13 12:54:50 --> URI Class Initialized
+INFO - 2015-04-13 12:54:50 --> Router Class Initialized
+INFO - 2015-04-13 12:54:50 --> Router Class Initialized
+INFO - 2015-04-13 12:54:50 --> Output Class Initialized
+INFO - 2015-04-13 12:54:50 --> Output Class Initialized
+INFO - 2015-04-13 12:54:50 --> Security Class Initialized
+INFO - 2015-04-13 12:54:50 --> Security Class Initialized
+DEBUG - 2015-04-13 12:54:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:50 --> Input Class Initialized
+INFO - 2015-04-13 12:54:50 --> Language Class Initialized
+DEBUG - 2015-04-13 12:54:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:50 --> Input Class Initialized
+ERROR - 2015-04-13 12:54:50 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:54:50 --> Language Class Initialized
+ERROR - 2015-04-13 12:54:50 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:54:52 --> Config Class Initialized
+INFO - 2015-04-13 12:54:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:54:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:54:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:54:52 --> URI Class Initialized
+INFO - 2015-04-13 12:54:52 --> Router Class Initialized
+INFO - 2015-04-13 12:54:52 --> Output Class Initialized
+INFO - 2015-04-13 12:54:52 --> Security Class Initialized
+DEBUG - 2015-04-13 12:54:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:54:52 --> Input Class Initialized
+INFO - 2015-04-13 12:54:52 --> Language Class Initialized
+INFO - 2015-04-13 12:54:52 --> Loader Class Initialized
+INFO - 2015-04-13 12:54:52 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:54:52 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:54:52 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:54:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:54:52 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:54:52 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:54:52 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:54:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:54:52 --> Model Class Initialized
+INFO - 2015-04-13 12:54:52 --> Model Class Initialized
+INFO - 2015-04-13 12:54:52 --> Searching author with id 89
+INFO - 2015-04-13 12:57:08 --> Config Class Initialized
+INFO - 2015-04-13 12:57:08 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:08 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:08 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:08 --> URI Class Initialized
+INFO - 2015-04-13 12:57:08 --> Router Class Initialized
+INFO - 2015-04-13 12:57:08 --> Output Class Initialized
+INFO - 2015-04-13 12:57:08 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:08 --> Input Class Initialized
+INFO - 2015-04-13 12:57:08 --> Language Class Initialized
+INFO - 2015-04-13 12:57:08 --> Loader Class Initialized
+INFO - 2015-04-13 12:57:08 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:57:08 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:57:08 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:57:08 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:57:08 --> Controller Class Initialized
+INFO - 2015-04-13 12:57:08 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:57:08 --> Model Class Initialized
+INFO - 2015-04-13 12:57:08 --> Model Class Initialized
+INFO - 2015-04-13 12:57:08 --> Parser Class Initialized
+INFO - 2015-04-13 12:57:08 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:57:08 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:57:08 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:57:08 --> Final output sent to browser
+DEBUG - 2015-04-13 12:57:08 --> Total execution time: 0.0066
+INFO - 2015-04-13 12:57:08 --> Config Class Initialized
+INFO - 2015-04-13 12:57:08 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:08 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:08 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:08 --> URI Class Initialized
+INFO - 2015-04-13 12:57:08 --> Router Class Initialized
+INFO - 2015-04-13 12:57:08 --> Output Class Initialized
+INFO - 2015-04-13 12:57:08 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:08 --> Input Class Initialized
+INFO - 2015-04-13 12:57:08 --> Language Class Initialized
+INFO - 2015-04-13 12:57:08 --> Loader Class Initialized
+INFO - 2015-04-13 12:57:08 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:57:08 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:57:08 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:57:08 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:57:08 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:57:08 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:57:08 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:57:08 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:57:08 --> Model Class Initialized
+INFO - 2015-04-13 12:57:08 --> Model Class Initialized
+INFO - 2015-04-13 12:57:08 --> Searching author with id 89
+INFO - 2015-04-13 12:57:08 --> Config Class Initialized
+INFO - 2015-04-13 12:57:08 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:08 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:08 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:08 --> URI Class Initialized
+INFO - 2015-04-13 12:57:08 --> Router Class Initialized
+INFO - 2015-04-13 12:57:08 --> Output Class Initialized
+INFO - 2015-04-13 12:57:08 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:08 --> Input Class Initialized
+INFO - 2015-04-13 12:57:08 --> Language Class Initialized
+ERROR - 2015-04-13 12:57:08 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:57:08 --> Config Class Initialized
+INFO - 2015-04-13 12:57:08 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:08 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:08 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:08 --> URI Class Initialized
+INFO - 2015-04-13 12:57:08 --> Router Class Initialized
+INFO - 2015-04-13 12:57:08 --> Output Class Initialized
+INFO - 2015-04-13 12:57:08 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:08 --> Input Class Initialized
+INFO - 2015-04-13 12:57:08 --> Language Class Initialized
+ERROR - 2015-04-13 12:57:08 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:57:11 --> Config Class Initialized
+INFO - 2015-04-13 12:57:11 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:11 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:11 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:11 --> URI Class Initialized
+INFO - 2015-04-13 12:57:11 --> Router Class Initialized
+INFO - 2015-04-13 12:57:11 --> Output Class Initialized
+INFO - 2015-04-13 12:57:11 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:11 --> Input Class Initialized
+INFO - 2015-04-13 12:57:11 --> Language Class Initialized
+INFO - 2015-04-13 12:57:11 --> Loader Class Initialized
+INFO - 2015-04-13 12:57:11 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:57:11 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:57:11 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:57:11 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:57:11 --> Controller Class Initialized
+INFO - 2015-04-13 12:57:11 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:57:11 --> Model Class Initialized
+INFO - 2015-04-13 12:57:11 --> Model Class Initialized
+INFO - 2015-04-13 12:57:11 --> Parser Class Initialized
+INFO - 2015-04-13 12:57:11 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:57:11 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 12:57:11 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:57:11 --> Final output sent to browser
+DEBUG - 2015-04-13 12:57:11 --> Total execution time: 0.0076
+INFO - 2015-04-13 12:57:12 --> Config Class Initialized
+INFO - 2015-04-13 12:57:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:12 --> URI Class Initialized
+INFO - 2015-04-13 12:57:12 --> Router Class Initialized
+INFO - 2015-04-13 12:57:12 --> Output Class Initialized
+INFO - 2015-04-13 12:57:12 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:12 --> Input Class Initialized
+INFO - 2015-04-13 12:57:12 --> Language Class Initialized
+INFO - 2015-04-13 12:57:12 --> Loader Class Initialized
+INFO - 2015-04-13 12:57:12 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:57:12 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:57:12 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:57:12 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:57:12 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:57:12 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:57:12 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:57:12 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:57:12 --> Model Class Initialized
+INFO - 2015-04-13 12:57:12 --> Model Class Initialized
+INFO - 2015-04-13 12:57:12 --> Config Class Initialized
+INFO - 2015-04-13 12:57:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:12 --> URI Class Initialized
+INFO - 2015-04-13 12:57:12 --> Router Class Initialized
+INFO - 2015-04-13 12:57:12 --> Output Class Initialized
+INFO - 2015-04-13 12:57:12 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:12 --> Input Class Initialized
+INFO - 2015-04-13 12:57:12 --> Language Class Initialized
+ERROR - 2015-04-13 12:57:12 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:57:12 --> Config Class Initialized
+INFO - 2015-04-13 12:57:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:12 --> URI Class Initialized
+INFO - 2015-04-13 12:57:12 --> Router Class Initialized
+INFO - 2015-04-13 12:57:12 --> Output Class Initialized
+INFO - 2015-04-13 12:57:12 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:12 --> Input Class Initialized
+INFO - 2015-04-13 12:57:12 --> Language Class Initialized
+ERROR - 2015-04-13 12:57:12 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:57:22 --> Config Class Initialized
+INFO - 2015-04-13 12:57:22 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:22 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:22 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:22 --> URI Class Initialized
+INFO - 2015-04-13 12:57:22 --> Router Class Initialized
+INFO - 2015-04-13 12:57:22 --> Output Class Initialized
+INFO - 2015-04-13 12:57:22 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:22 --> Input Class Initialized
+INFO - 2015-04-13 12:57:22 --> Language Class Initialized
+INFO - 2015-04-13 12:57:22 --> Loader Class Initialized
+INFO - 2015-04-13 12:57:22 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:57:22 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:57:22 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:57:22 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:57:22 --> Controller Class Initialized
+INFO - 2015-04-13 12:57:22 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:57:22 --> Model Class Initialized
+INFO - 2015-04-13 12:57:22 --> Model Class Initialized
+INFO - 2015-04-13 12:57:22 --> Parser Class Initialized
+INFO - 2015-04-13 12:57:22 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:57:22 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:57:22 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:57:22 --> Final output sent to browser
+DEBUG - 2015-04-13 12:57:22 --> Total execution time: 0.0066
+INFO - 2015-04-13 12:57:23 --> Config Class Initialized
+INFO - 2015-04-13 12:57:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:23 --> URI Class Initialized
+INFO - 2015-04-13 12:57:23 --> Router Class Initialized
+INFO - 2015-04-13 12:57:23 --> Output Class Initialized
+INFO - 2015-04-13 12:57:23 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:23 --> Input Class Initialized
+INFO - 2015-04-13 12:57:23 --> Language Class Initialized
+ERROR - 2015-04-13 12:57:23 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:57:23 --> Config Class Initialized
+INFO - 2015-04-13 12:57:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:23 --> URI Class Initialized
+INFO - 2015-04-13 12:57:23 --> Router Class Initialized
+INFO - 2015-04-13 12:57:23 --> Output Class Initialized
+INFO - 2015-04-13 12:57:23 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:23 --> Input Class Initialized
+INFO - 2015-04-13 12:57:23 --> Language Class Initialized
+ERROR - 2015-04-13 12:57:23 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:57:23 --> Config Class Initialized
+INFO - 2015-04-13 12:57:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:23 --> URI Class Initialized
+INFO - 2015-04-13 12:57:23 --> Router Class Initialized
+INFO - 2015-04-13 12:57:23 --> Output Class Initialized
+INFO - 2015-04-13 12:57:23 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:23 --> Input Class Initialized
+INFO - 2015-04-13 12:57:23 --> Language Class Initialized
+INFO - 2015-04-13 12:57:23 --> Loader Class Initialized
+INFO - 2015-04-13 12:57:23 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:57:23 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:57:23 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:57:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:57:23 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:57:23 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:57:23 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:57:23 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:57:23 --> Model Class Initialized
+INFO - 2015-04-13 12:57:23 --> Model Class Initialized
+INFO - 2015-04-13 12:57:23 --> Searching author with id 61
+INFO - 2015-04-13 12:57:35 --> Config Class Initialized
+INFO - 2015-04-13 12:57:35 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:35 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:35 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:35 --> URI Class Initialized
+INFO - 2015-04-13 12:57:35 --> Router Class Initialized
+INFO - 2015-04-13 12:57:35 --> Output Class Initialized
+INFO - 2015-04-13 12:57:35 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:35 --> Input Class Initialized
+INFO - 2015-04-13 12:57:35 --> Language Class Initialized
+INFO - 2015-04-13 12:57:35 --> Loader Class Initialized
+INFO - 2015-04-13 12:57:35 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:57:35 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:57:35 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:57:35 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:57:35 --> Controller Class Initialized
+INFO - 2015-04-13 12:57:35 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:57:35 --> Model Class Initialized
+INFO - 2015-04-13 12:57:35 --> Model Class Initialized
+INFO - 2015-04-13 12:57:35 --> Parser Class Initialized
+INFO - 2015-04-13 12:57:35 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:57:35 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:57:35 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:57:35 --> Final output sent to browser
+DEBUG - 2015-04-13 12:57:35 --> Total execution time: 0.0058
+INFO - 2015-04-13 12:57:36 --> Config Class Initialized
+INFO - 2015-04-13 12:57:36 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:36 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:36 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:36 --> URI Class Initialized
+INFO - 2015-04-13 12:57:36 --> Router Class Initialized
+INFO - 2015-04-13 12:57:36 --> Output Class Initialized
+INFO - 2015-04-13 12:57:36 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:36 --> Input Class Initialized
+INFO - 2015-04-13 12:57:36 --> Language Class Initialized
+INFO - 2015-04-13 12:57:36 --> Loader Class Initialized
+INFO - 2015-04-13 12:57:36 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:57:36 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:57:36 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:57:36 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:57:36 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:57:36 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:57:36 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:57:36 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:57:36 --> Model Class Initialized
+INFO - 2015-04-13 12:57:36 --> Model Class Initialized
+INFO - 2015-04-13 12:57:36 --> Searching author with id 61
+INFO - 2015-04-13 12:57:36 --> Config Class Initialized
+INFO - 2015-04-13 12:57:36 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:36 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:36 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:36 --> URI Class Initialized
+INFO - 2015-04-13 12:57:36 --> Router Class Initialized
+INFO - 2015-04-13 12:57:36 --> Output Class Initialized
+INFO - 2015-04-13 12:57:36 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:36 --> Input Class Initialized
+INFO - 2015-04-13 12:57:36 --> Language Class Initialized
+ERROR - 2015-04-13 12:57:36 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:57:36 --> Config Class Initialized
+INFO - 2015-04-13 12:57:36 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:36 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:36 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:36 --> URI Class Initialized
+INFO - 2015-04-13 12:57:36 --> Router Class Initialized
+INFO - 2015-04-13 12:57:36 --> Output Class Initialized
+INFO - 2015-04-13 12:57:36 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:36 --> Input Class Initialized
+INFO - 2015-04-13 12:57:36 --> Language Class Initialized
+ERROR - 2015-04-13 12:57:36 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:57:47 --> Config Class Initialized
+INFO - 2015-04-13 12:57:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:47 --> URI Class Initialized
+INFO - 2015-04-13 12:57:47 --> Router Class Initialized
+INFO - 2015-04-13 12:57:47 --> Output Class Initialized
+INFO - 2015-04-13 12:57:47 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:47 --> Input Class Initialized
+INFO - 2015-04-13 12:57:47 --> Language Class Initialized
+INFO - 2015-04-13 12:57:47 --> Loader Class Initialized
+INFO - 2015-04-13 12:57:47 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:57:47 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:57:47 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:57:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:57:47 --> Controller Class Initialized
+INFO - 2015-04-13 12:57:47 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:57:47 --> Model Class Initialized
+INFO - 2015-04-13 12:57:47 --> Model Class Initialized
+INFO - 2015-04-13 12:57:47 --> Parser Class Initialized
+INFO - 2015-04-13 12:57:47 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:57:47 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:57:47 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:57:47 --> Final output sent to browser
+DEBUG - 2015-04-13 12:57:47 --> Total execution time: 0.0055
+INFO - 2015-04-13 12:57:47 --> Config Class Initialized
+INFO - 2015-04-13 12:57:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:47 --> URI Class Initialized
+INFO - 2015-04-13 12:57:47 --> Router Class Initialized
+INFO - 2015-04-13 12:57:47 --> Output Class Initialized
+INFO - 2015-04-13 12:57:47 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:47 --> Input Class Initialized
+INFO - 2015-04-13 12:57:47 --> Language Class Initialized
+INFO - 2015-04-13 12:57:47 --> Loader Class Initialized
+INFO - 2015-04-13 12:57:47 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:57:47 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:57:47 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:57:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:57:47 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:57:47 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:57:47 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:57:47 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:57:47 --> Model Class Initialized
+INFO - 2015-04-13 12:57:47 --> Model Class Initialized
+INFO - 2015-04-13 12:57:47 --> Searching author with id 61
+INFO - 2015-04-13 12:57:47 --> Config Class Initialized
+INFO - 2015-04-13 12:57:47 --> Config Class Initialized
+INFO - 2015-04-13 12:57:47 --> Hooks Class Initialized
+INFO - 2015-04-13 12:57:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:47 --> UTF-8 Support Enabled
+DEBUG - 2015-04-13 12:57:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:47 --> URI Class Initialized
+INFO - 2015-04-13 12:57:47 --> URI Class Initialized
+INFO - 2015-04-13 12:57:47 --> Router Class Initialized
+INFO - 2015-04-13 12:57:47 --> Router Class Initialized
+INFO - 2015-04-13 12:57:47 --> Output Class Initialized
+INFO - 2015-04-13 12:57:47 --> Output Class Initialized
+INFO - 2015-04-13 12:57:47 --> Security Class Initialized
+INFO - 2015-04-13 12:57:47 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-04-13 12:57:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:47 --> Input Class Initialized
+INFO - 2015-04-13 12:57:47 --> Input Class Initialized
+INFO - 2015-04-13 12:57:47 --> Language Class Initialized
+INFO - 2015-04-13 12:57:47 --> Language Class Initialized
+ERROR - 2015-04-13 12:57:47 --> 404 Page Not Found: Assets/js
+ERROR - 2015-04-13 12:57:47 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:57:54 --> Config Class Initialized
+INFO - 2015-04-13 12:57:54 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:54 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:54 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:54 --> URI Class Initialized
+INFO - 2015-04-13 12:57:54 --> Router Class Initialized
+INFO - 2015-04-13 12:57:54 --> Output Class Initialized
+INFO - 2015-04-13 12:57:54 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:54 --> Input Class Initialized
+INFO - 2015-04-13 12:57:54 --> Language Class Initialized
+INFO - 2015-04-13 12:57:54 --> Loader Class Initialized
+INFO - 2015-04-13 12:57:54 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:57:54 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:57:54 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:57:54 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:57:54 --> Controller Class Initialized
+INFO - 2015-04-13 12:57:54 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:57:54 --> Model Class Initialized
+INFO - 2015-04-13 12:57:54 --> Model Class Initialized
+INFO - 2015-04-13 12:57:54 --> Parser Class Initialized
+INFO - 2015-04-13 12:57:54 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:57:54 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:57:54 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:57:54 --> Final output sent to browser
+DEBUG - 2015-04-13 12:57:54 --> Total execution time: 0.0052
+INFO - 2015-04-13 12:57:54 --> Config Class Initialized
+INFO - 2015-04-13 12:57:54 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:54 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:54 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:54 --> URI Class Initialized
+INFO - 2015-04-13 12:57:54 --> Router Class Initialized
+INFO - 2015-04-13 12:57:54 --> Output Class Initialized
+INFO - 2015-04-13 12:57:54 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:54 --> Input Class Initialized
+INFO - 2015-04-13 12:57:54 --> Language Class Initialized
+INFO - 2015-04-13 12:57:54 --> Loader Class Initialized
+INFO - 2015-04-13 12:57:54 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:57:54 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:57:54 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:57:54 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:57:54 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:57:54 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:57:54 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:57:54 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:57:54 --> Model Class Initialized
+INFO - 2015-04-13 12:57:54 --> Model Class Initialized
+INFO - 2015-04-13 12:57:54 --> Searching author with id 61
+INFO - 2015-04-13 12:57:54 --> Config Class Initialized
+INFO - 2015-04-13 12:57:54 --> Config Class Initialized
+INFO - 2015-04-13 12:57:54 --> Hooks Class Initialized
+INFO - 2015-04-13 12:57:54 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:57:54 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:54 --> Utf8 Class Initialized
+DEBUG - 2015-04-13 12:57:54 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:57:54 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:57:54 --> URI Class Initialized
+INFO - 2015-04-13 12:57:54 --> URI Class Initialized
+INFO - 2015-04-13 12:57:54 --> Router Class Initialized
+INFO - 2015-04-13 12:57:54 --> Router Class Initialized
+INFO - 2015-04-13 12:57:54 --> Output Class Initialized
+INFO - 2015-04-13 12:57:54 --> Output Class Initialized
+INFO - 2015-04-13 12:57:54 --> Security Class Initialized
+INFO - 2015-04-13 12:57:54 --> Security Class Initialized
+DEBUG - 2015-04-13 12:57:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:54 --> Input Class Initialized
+DEBUG - 2015-04-13 12:57:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:57:54 --> Language Class Initialized
+INFO - 2015-04-13 12:57:54 --> Input Class Initialized
+INFO - 2015-04-13 12:57:54 --> Language Class Initialized
+ERROR - 2015-04-13 12:57:54 --> 404 Page Not Found: Assets/js
+ERROR - 2015-04-13 12:57:54 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:58:13 --> Config Class Initialized
+INFO - 2015-04-13 12:58:13 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:58:13 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:58:13 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:58:13 --> URI Class Initialized
+INFO - 2015-04-13 12:58:13 --> Router Class Initialized
+INFO - 2015-04-13 12:58:13 --> Output Class Initialized
+INFO - 2015-04-13 12:58:13 --> Security Class Initialized
+DEBUG - 2015-04-13 12:58:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:58:13 --> Input Class Initialized
+INFO - 2015-04-13 12:58:13 --> Language Class Initialized
+INFO - 2015-04-13 12:58:13 --> Loader Class Initialized
+INFO - 2015-04-13 12:58:13 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:58:13 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:58:13 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:58:13 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:58:13 --> Controller Class Initialized
+INFO - 2015-04-13 12:58:13 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:58:13 --> Model Class Initialized
+INFO - 2015-04-13 12:58:13 --> Model Class Initialized
+INFO - 2015-04-13 12:58:13 --> Parser Class Initialized
+INFO - 2015-04-13 12:58:13 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:58:13 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:58:13 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:58:13 --> Final output sent to browser
+DEBUG - 2015-04-13 12:58:13 --> Total execution time: 0.0050
+INFO - 2015-04-13 12:58:14 --> Config Class Initialized
+INFO - 2015-04-13 12:58:14 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:58:14 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:58:14 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:58:14 --> URI Class Initialized
+INFO - 2015-04-13 12:58:14 --> Router Class Initialized
+INFO - 2015-04-13 12:58:14 --> Output Class Initialized
+INFO - 2015-04-13 12:58:14 --> Security Class Initialized
+DEBUG - 2015-04-13 12:58:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:58:14 --> Input Class Initialized
+INFO - 2015-04-13 12:58:14 --> Language Class Initialized
+INFO - 2015-04-13 12:58:14 --> Loader Class Initialized
+INFO - 2015-04-13 12:58:14 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:58:14 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:58:14 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:58:14 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:58:14 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:58:14 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:58:14 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:58:14 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:58:14 --> Model Class Initialized
+INFO - 2015-04-13 12:58:14 --> Model Class Initialized
+INFO - 2015-04-13 12:58:14 --> Searching author with id 61
+INFO - 2015-04-13 12:58:14 --> Config Class Initialized
+INFO - 2015-04-13 12:58:14 --> Hooks Class Initialized
+INFO - 2015-04-13 12:58:14 --> Config Class Initialized
+DEBUG - 2015-04-13 12:58:14 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:58:14 --> Hooks Class Initialized
+INFO - 2015-04-13 12:58:14 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:58:14 --> URI Class Initialized
+DEBUG - 2015-04-13 12:58:14 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:58:14 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:58:14 --> Router Class Initialized
+INFO - 2015-04-13 12:58:14 --> URI Class Initialized
+INFO - 2015-04-13 12:58:14 --> Output Class Initialized
+INFO - 2015-04-13 12:58:14 --> Security Class Initialized
+INFO - 2015-04-13 12:58:14 --> Router Class Initialized
+DEBUG - 2015-04-13 12:58:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:58:14 --> Output Class Initialized
+INFO - 2015-04-13 12:58:14 --> Input Class Initialized
+INFO - 2015-04-13 12:58:14 --> Language Class Initialized
+INFO - 2015-04-13 12:58:14 --> Security Class Initialized
+ERROR - 2015-04-13 12:58:14 --> 404 Page Not Found: Assets/js
+DEBUG - 2015-04-13 12:58:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:58:14 --> Input Class Initialized
+INFO - 2015-04-13 12:58:14 --> Language Class Initialized
+ERROR - 2015-04-13 12:58:14 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:58:40 --> Config Class Initialized
+INFO - 2015-04-13 12:58:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:58:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:58:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:58:40 --> URI Class Initialized
+INFO - 2015-04-13 12:58:40 --> Router Class Initialized
+INFO - 2015-04-13 12:58:40 --> Output Class Initialized
+INFO - 2015-04-13 12:58:40 --> Security Class Initialized
+DEBUG - 2015-04-13 12:58:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:58:40 --> Input Class Initialized
+INFO - 2015-04-13 12:58:40 --> Language Class Initialized
+INFO - 2015-04-13 12:58:40 --> Loader Class Initialized
+INFO - 2015-04-13 12:58:40 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:58:40 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:58:40 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:58:40 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:58:40 --> Controller Class Initialized
+INFO - 2015-04-13 12:58:40 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:58:40 --> Model Class Initialized
+INFO - 2015-04-13 12:58:40 --> Model Class Initialized
+INFO - 2015-04-13 12:58:40 --> Parser Class Initialized
+INFO - 2015-04-13 12:58:40 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:58:40 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:58:40 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:58:40 --> Final output sent to browser
+DEBUG - 2015-04-13 12:58:40 --> Total execution time: 0.0056
+INFO - 2015-04-13 12:58:40 --> Config Class Initialized
+INFO - 2015-04-13 12:58:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:58:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:58:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:58:40 --> URI Class Initialized
+INFO - 2015-04-13 12:58:40 --> Router Class Initialized
+INFO - 2015-04-13 12:58:40 --> Output Class Initialized
+INFO - 2015-04-13 12:58:40 --> Security Class Initialized
+DEBUG - 2015-04-13 12:58:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:58:40 --> Input Class Initialized
+INFO - 2015-04-13 12:58:40 --> Language Class Initialized
+ERROR - 2015-04-13 12:58:40 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 12:58:40 --> Config Class Initialized
+INFO - 2015-04-13 12:58:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:58:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:58:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:58:40 --> URI Class Initialized
+INFO - 2015-04-13 12:58:40 --> Router Class Initialized
+INFO - 2015-04-13 12:58:40 --> Output Class Initialized
+INFO - 2015-04-13 12:58:40 --> Security Class Initialized
+DEBUG - 2015-04-13 12:58:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:58:40 --> Input Class Initialized
+INFO - 2015-04-13 12:58:40 --> Language Class Initialized
+INFO - 2015-04-13 12:58:40 --> Loader Class Initialized
+INFO - 2015-04-13 12:58:40 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:58:40 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:58:40 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:58:40 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:58:40 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:58:40 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:58:40 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:58:40 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:58:40 --> Model Class Initialized
+INFO - 2015-04-13 12:58:40 --> Model Class Initialized
+INFO - 2015-04-13 12:58:40 --> Searching author with id 61
+INFO - 2015-04-13 12:58:40 --> Config Class Initialized
+INFO - 2015-04-13 12:58:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:58:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:58:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:58:40 --> URI Class Initialized
+INFO - 2015-04-13 12:58:40 --> Router Class Initialized
+INFO - 2015-04-13 12:58:40 --> Output Class Initialized
+INFO - 2015-04-13 12:58:40 --> Security Class Initialized
+DEBUG - 2015-04-13 12:58:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:58:40 --> Input Class Initialized
+INFO - 2015-04-13 12:58:40 --> Language Class Initialized
+ERROR - 2015-04-13 12:58:40 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:58:40 --> Config Class Initialized
+INFO - 2015-04-13 12:58:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:58:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:58:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:58:40 --> URI Class Initialized
+INFO - 2015-04-13 12:58:40 --> Router Class Initialized
+INFO - 2015-04-13 12:58:40 --> Output Class Initialized
+INFO - 2015-04-13 12:58:40 --> Security Class Initialized
+DEBUG - 2015-04-13 12:58:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:58:40 --> Input Class Initialized
+INFO - 2015-04-13 12:58:40 --> Language Class Initialized
+ERROR - 2015-04-13 12:58:40 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:59:16 --> Config Class Initialized
+INFO - 2015-04-13 12:59:16 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:59:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:59:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:59:17 --> URI Class Initialized
+INFO - 2015-04-13 12:59:17 --> Router Class Initialized
+INFO - 2015-04-13 12:59:17 --> Output Class Initialized
+INFO - 2015-04-13 12:59:17 --> Security Class Initialized
+DEBUG - 2015-04-13 12:59:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:59:17 --> Input Class Initialized
+INFO - 2015-04-13 12:59:17 --> Language Class Initialized
+INFO - 2015-04-13 12:59:17 --> Loader Class Initialized
+INFO - 2015-04-13 12:59:17 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:59:17 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:59:17 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:59:17 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:59:17 --> Controller Class Initialized
+INFO - 2015-04-13 12:59:17 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:59:17 --> Model Class Initialized
+INFO - 2015-04-13 12:59:17 --> Model Class Initialized
+INFO - 2015-04-13 12:59:17 --> Parser Class Initialized
+INFO - 2015-04-13 12:59:17 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:59:17 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:59:17 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:59:17 --> Final output sent to browser
+DEBUG - 2015-04-13 12:59:17 --> Total execution time: 0.0058
+INFO - 2015-04-13 12:59:17 --> Config Class Initialized
+INFO - 2015-04-13 12:59:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:59:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:59:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:59:17 --> URI Class Initialized
+INFO - 2015-04-13 12:59:17 --> Router Class Initialized
+INFO - 2015-04-13 12:59:17 --> Output Class Initialized
+INFO - 2015-04-13 12:59:17 --> Security Class Initialized
+DEBUG - 2015-04-13 12:59:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:59:17 --> Input Class Initialized
+INFO - 2015-04-13 12:59:17 --> Language Class Initialized
+ERROR - 2015-04-13 12:59:17 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 12:59:17 --> Config Class Initialized
+INFO - 2015-04-13 12:59:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:59:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:59:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:59:17 --> URI Class Initialized
+INFO - 2015-04-13 12:59:17 --> Router Class Initialized
+INFO - 2015-04-13 12:59:17 --> Output Class Initialized
+INFO - 2015-04-13 12:59:17 --> Security Class Initialized
+DEBUG - 2015-04-13 12:59:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:59:17 --> Input Class Initialized
+INFO - 2015-04-13 12:59:17 --> Language Class Initialized
+INFO - 2015-04-13 12:59:17 --> Loader Class Initialized
+INFO - 2015-04-13 12:59:17 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:59:17 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:59:17 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:59:17 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:59:17 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:59:17 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:59:17 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:59:17 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:59:17 --> Model Class Initialized
+INFO - 2015-04-13 12:59:17 --> Model Class Initialized
+INFO - 2015-04-13 12:59:17 --> Searching author with id 61
+INFO - 2015-04-13 12:59:17 --> Config Class Initialized
+INFO - 2015-04-13 12:59:17 --> Config Class Initialized
+INFO - 2015-04-13 12:59:17 --> Hooks Class Initialized
+INFO - 2015-04-13 12:59:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:59:17 --> UTF-8 Support Enabled
+DEBUG - 2015-04-13 12:59:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:59:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:59:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:59:17 --> URI Class Initialized
+INFO - 2015-04-13 12:59:17 --> URI Class Initialized
+INFO - 2015-04-13 12:59:17 --> Router Class Initialized
+INFO - 2015-04-13 12:59:17 --> Output Class Initialized
+INFO - 2015-04-13 12:59:17 --> Router Class Initialized
+INFO - 2015-04-13 12:59:17 --> Security Class Initialized
+INFO - 2015-04-13 12:59:17 --> Output Class Initialized
+DEBUG - 2015-04-13 12:59:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:59:17 --> Input Class Initialized
+INFO - 2015-04-13 12:59:17 --> Security Class Initialized
+INFO - 2015-04-13 12:59:17 --> Language Class Initialized
+DEBUG - 2015-04-13 12:59:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:59:17 --> Input Class Initialized
+ERROR - 2015-04-13 12:59:17 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:59:17 --> Language Class Initialized
+ERROR - 2015-04-13 12:59:17 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:59:51 --> Config Class Initialized
+INFO - 2015-04-13 12:59:51 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:59:51 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:59:51 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:59:51 --> URI Class Initialized
+INFO - 2015-04-13 12:59:51 --> Router Class Initialized
+INFO - 2015-04-13 12:59:51 --> Output Class Initialized
+INFO - 2015-04-13 12:59:51 --> Security Class Initialized
+DEBUG - 2015-04-13 12:59:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:59:51 --> Input Class Initialized
+INFO - 2015-04-13 12:59:51 --> Language Class Initialized
+INFO - 2015-04-13 12:59:51 --> Loader Class Initialized
+INFO - 2015-04-13 12:59:51 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:59:51 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:59:51 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:59:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:59:51 --> Controller Class Initialized
+INFO - 2015-04-13 12:59:51 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:59:51 --> Model Class Initialized
+INFO - 2015-04-13 12:59:51 --> Model Class Initialized
+INFO - 2015-04-13 12:59:51 --> Parser Class Initialized
+INFO - 2015-04-13 12:59:51 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 12:59:51 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 12:59:51 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 12:59:51 --> Final output sent to browser
+DEBUG - 2015-04-13 12:59:51 --> Total execution time: 0.0057
+INFO - 2015-04-13 12:59:51 --> Config Class Initialized
+INFO - 2015-04-13 12:59:51 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:59:51 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:59:51 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:59:51 --> URI Class Initialized
+INFO - 2015-04-13 12:59:51 --> Router Class Initialized
+INFO - 2015-04-13 12:59:51 --> Output Class Initialized
+INFO - 2015-04-13 12:59:51 --> Security Class Initialized
+DEBUG - 2015-04-13 12:59:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:59:51 --> Input Class Initialized
+INFO - 2015-04-13 12:59:51 --> Language Class Initialized
+ERROR - 2015-04-13 12:59:51 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 12:59:52 --> Config Class Initialized
+INFO - 2015-04-13 12:59:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:59:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:59:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:59:52 --> URI Class Initialized
+INFO - 2015-04-13 12:59:52 --> Router Class Initialized
+INFO - 2015-04-13 12:59:52 --> Output Class Initialized
+INFO - 2015-04-13 12:59:52 --> Security Class Initialized
+DEBUG - 2015-04-13 12:59:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:59:52 --> Input Class Initialized
+INFO - 2015-04-13 12:59:52 --> Language Class Initialized
+ERROR - 2015-04-13 12:59:52 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:59:52 --> Config Class Initialized
+INFO - 2015-04-13 12:59:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:59:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:59:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:59:52 --> URI Class Initialized
+INFO - 2015-04-13 12:59:52 --> Router Class Initialized
+INFO - 2015-04-13 12:59:52 --> Output Class Initialized
+INFO - 2015-04-13 12:59:52 --> Security Class Initialized
+DEBUG - 2015-04-13 12:59:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:59:52 --> Input Class Initialized
+INFO - 2015-04-13 12:59:52 --> Language Class Initialized
+ERROR - 2015-04-13 12:59:52 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 12:59:52 --> Config Class Initialized
+INFO - 2015-04-13 12:59:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 12:59:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 12:59:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 12:59:52 --> URI Class Initialized
+INFO - 2015-04-13 12:59:52 --> Router Class Initialized
+INFO - 2015-04-13 12:59:52 --> Output Class Initialized
+INFO - 2015-04-13 12:59:52 --> Security Class Initialized
+DEBUG - 2015-04-13 12:59:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 12:59:52 --> Input Class Initialized
+INFO - 2015-04-13 12:59:52 --> Language Class Initialized
+INFO - 2015-04-13 12:59:52 --> Loader Class Initialized
+INFO - 2015-04-13 12:59:52 --> Helper loaded: url_helper
+INFO - 2015-04-13 12:59:52 --> Helper loaded: html_helper
+INFO - 2015-04-13 12:59:52 --> Helper loaded: assets_helper
+INFO - 2015-04-13 12:59:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 12:59:52 --> Controller Class Initialized
+DEBUG - 2015-04-13 12:59:52 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 12:59:52 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 12:59:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 12:59:52 --> Model Class Initialized
+INFO - 2015-04-13 12:59:52 --> Model Class Initialized
+INFO - 2015-04-13 12:59:52 --> Searching author with id 61
+INFO - 2015-04-13 13:00:23 --> Config Class Initialized
+INFO - 2015-04-13 13:00:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:23 --> URI Class Initialized
+INFO - 2015-04-13 13:00:23 --> Router Class Initialized
+INFO - 2015-04-13 13:00:23 --> Output Class Initialized
+INFO - 2015-04-13 13:00:23 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:23 --> Input Class Initialized
+INFO - 2015-04-13 13:00:23 --> Language Class Initialized
+INFO - 2015-04-13 13:00:23 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:23 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:23 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:23 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:23 --> Controller Class Initialized
+INFO - 2015-04-13 13:00:23 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:23 --> Model Class Initialized
+INFO - 2015-04-13 13:00:23 --> Model Class Initialized
+INFO - 2015-04-13 13:00:23 --> Parser Class Initialized
+INFO - 2015-04-13 13:00:23 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:00:23 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:00:23 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:00:23 --> Final output sent to browser
+DEBUG - 2015-04-13 13:00:23 --> Total execution time: 0.0073
+INFO - 2015-04-13 13:00:23 --> Config Class Initialized
+INFO - 2015-04-13 13:00:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:23 --> URI Class Initialized
+INFO - 2015-04-13 13:00:23 --> Router Class Initialized
+INFO - 2015-04-13 13:00:23 --> Output Class Initialized
+INFO - 2015-04-13 13:00:23 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:23 --> Input Class Initialized
+INFO - 2015-04-13 13:00:23 --> Language Class Initialized
+ERROR - 2015-04-13 13:00:23 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:00:23 --> Config Class Initialized
+INFO - 2015-04-13 13:00:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:23 --> URI Class Initialized
+INFO - 2015-04-13 13:00:23 --> Router Class Initialized
+INFO - 2015-04-13 13:00:23 --> Output Class Initialized
+INFO - 2015-04-13 13:00:23 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:23 --> Input Class Initialized
+INFO - 2015-04-13 13:00:23 --> Language Class Initialized
+INFO - 2015-04-13 13:00:23 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:23 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:23 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:23 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:23 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:00:23 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:00:23 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:00:23 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:23 --> Model Class Initialized
+INFO - 2015-04-13 13:00:23 --> Model Class Initialized
+INFO - 2015-04-13 13:00:23 --> Searching author with id 61
+INFO - 2015-04-13 13:00:24 --> Config Class Initialized
+INFO - 2015-04-13 13:00:24 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:24 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:24 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:24 --> URI Class Initialized
+INFO - 2015-04-13 13:00:24 --> Router Class Initialized
+INFO - 2015-04-13 13:00:24 --> Output Class Initialized
+INFO - 2015-04-13 13:00:24 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:24 --> Input Class Initialized
+INFO - 2015-04-13 13:00:24 --> Language Class Initialized
+INFO - 2015-04-13 13:00:24 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:24 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:24 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:24 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:24 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:24 --> Controller Class Initialized
+INFO - 2015-04-13 13:00:24 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:24 --> Model Class Initialized
+INFO - 2015-04-13 13:00:24 --> Model Class Initialized
+INFO - 2015-04-13 13:00:24 --> Parser Class Initialized
+INFO - 2015-04-13 13:00:24 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:00:24 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:00:24 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:00:24 --> Final output sent to browser
+DEBUG - 2015-04-13 13:00:24 --> Total execution time: 0.0057
+INFO - 2015-04-13 13:00:24 --> Config Class Initialized
+INFO - 2015-04-13 13:00:24 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:24 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:24 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:24 --> URI Class Initialized
+INFO - 2015-04-13 13:00:24 --> Router Class Initialized
+INFO - 2015-04-13 13:00:24 --> Output Class Initialized
+INFO - 2015-04-13 13:00:24 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:24 --> Input Class Initialized
+INFO - 2015-04-13 13:00:24 --> Language Class Initialized
+ERROR - 2015-04-13 13:00:24 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:00:25 --> Config Class Initialized
+INFO - 2015-04-13 13:00:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:25 --> URI Class Initialized
+INFO - 2015-04-13 13:00:25 --> Router Class Initialized
+INFO - 2015-04-13 13:00:25 --> Output Class Initialized
+INFO - 2015-04-13 13:00:25 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:25 --> Input Class Initialized
+INFO - 2015-04-13 13:00:25 --> Language Class Initialized
+INFO - 2015-04-13 13:00:25 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:25 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:25 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:25 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:25 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:25 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:00:25 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:00:25 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:00:25 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:25 --> Model Class Initialized
+INFO - 2015-04-13 13:00:25 --> Model Class Initialized
+INFO - 2015-04-13 13:00:25 --> Searching author with id 61
+INFO - 2015-04-13 13:00:33 --> Config Class Initialized
+INFO - 2015-04-13 13:00:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:33 --> URI Class Initialized
+INFO - 2015-04-13 13:00:33 --> Router Class Initialized
+INFO - 2015-04-13 13:00:33 --> Output Class Initialized
+INFO - 2015-04-13 13:00:33 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:33 --> Input Class Initialized
+INFO - 2015-04-13 13:00:33 --> Language Class Initialized
+INFO - 2015-04-13 13:00:33 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:33 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:33 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:33 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:33 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:33 --> Controller Class Initialized
+INFO - 2015-04-13 13:00:33 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:33 --> Model Class Initialized
+INFO - 2015-04-13 13:00:33 --> Model Class Initialized
+INFO - 2015-04-13 13:00:33 --> Parser Class Initialized
+INFO - 2015-04-13 13:00:33 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:00:33 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:00:33 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:00:33 --> Final output sent to browser
+DEBUG - 2015-04-13 13:00:33 --> Total execution time: 0.0066
+INFO - 2015-04-13 13:00:33 --> Config Class Initialized
+INFO - 2015-04-13 13:00:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:33 --> URI Class Initialized
+INFO - 2015-04-13 13:00:33 --> Router Class Initialized
+INFO - 2015-04-13 13:00:33 --> Output Class Initialized
+INFO - 2015-04-13 13:00:33 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:33 --> Input Class Initialized
+INFO - 2015-04-13 13:00:33 --> Language Class Initialized
+ERROR - 2015-04-13 13:00:33 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:00:34 --> Config Class Initialized
+INFO - 2015-04-13 13:00:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:34 --> URI Class Initialized
+INFO - 2015-04-13 13:00:34 --> Router Class Initialized
+INFO - 2015-04-13 13:00:34 --> Output Class Initialized
+INFO - 2015-04-13 13:00:34 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:34 --> Input Class Initialized
+INFO - 2015-04-13 13:00:34 --> Language Class Initialized
+INFO - 2015-04-13 13:00:34 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:34 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:34 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:34 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:34 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:34 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:00:34 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:00:34 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:00:34 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:34 --> Model Class Initialized
+INFO - 2015-04-13 13:00:34 --> Model Class Initialized
+INFO - 2015-04-13 13:00:34 --> Searching author with id 61
+INFO - 2015-04-13 13:00:35 --> Config Class Initialized
+INFO - 2015-04-13 13:00:35 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:35 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:35 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:35 --> URI Class Initialized
+INFO - 2015-04-13 13:00:35 --> Router Class Initialized
+INFO - 2015-04-13 13:00:35 --> Output Class Initialized
+INFO - 2015-04-13 13:00:35 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:35 --> Input Class Initialized
+INFO - 2015-04-13 13:00:35 --> Language Class Initialized
+INFO - 2015-04-13 13:00:35 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:35 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:35 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:35 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:35 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:35 --> Controller Class Initialized
+INFO - 2015-04-13 13:00:35 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:35 --> Model Class Initialized
+INFO - 2015-04-13 13:00:35 --> Model Class Initialized
+INFO - 2015-04-13 13:00:35 --> Parser Class Initialized
+INFO - 2015-04-13 13:00:35 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:00:35 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:00:35 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:00:35 --> Final output sent to browser
+DEBUG - 2015-04-13 13:00:35 --> Total execution time: 0.0058
+INFO - 2015-04-13 13:00:35 --> Config Class Initialized
+INFO - 2015-04-13 13:00:35 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:35 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:35 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:35 --> URI Class Initialized
+INFO - 2015-04-13 13:00:35 --> Router Class Initialized
+INFO - 2015-04-13 13:00:35 --> Output Class Initialized
+INFO - 2015-04-13 13:00:35 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:35 --> Input Class Initialized
+INFO - 2015-04-13 13:00:35 --> Language Class Initialized
+ERROR - 2015-04-13 13:00:35 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:00:35 --> Config Class Initialized
+INFO - 2015-04-13 13:00:35 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:35 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:35 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:35 --> URI Class Initialized
+INFO - 2015-04-13 13:00:35 --> Router Class Initialized
+INFO - 2015-04-13 13:00:35 --> Output Class Initialized
+INFO - 2015-04-13 13:00:35 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:35 --> Input Class Initialized
+INFO - 2015-04-13 13:00:35 --> Language Class Initialized
+INFO - 2015-04-13 13:00:35 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:35 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:35 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:35 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:35 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:35 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:00:35 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:00:35 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:00:35 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:35 --> Model Class Initialized
+INFO - 2015-04-13 13:00:35 --> Model Class Initialized
+INFO - 2015-04-13 13:00:35 --> Searching author with id 61
+INFO - 2015-04-13 13:00:36 --> Config Class Initialized
+INFO - 2015-04-13 13:00:36 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:36 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:36 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:36 --> URI Class Initialized
+INFO - 2015-04-13 13:00:36 --> Router Class Initialized
+INFO - 2015-04-13 13:00:36 --> Output Class Initialized
+INFO - 2015-04-13 13:00:36 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:36 --> Input Class Initialized
+INFO - 2015-04-13 13:00:36 --> Language Class Initialized
+INFO - 2015-04-13 13:00:36 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:36 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:36 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:36 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:36 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:36 --> Controller Class Initialized
+INFO - 2015-04-13 13:00:36 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:36 --> Model Class Initialized
+INFO - 2015-04-13 13:00:36 --> Model Class Initialized
+INFO - 2015-04-13 13:00:36 --> Parser Class Initialized
+INFO - 2015-04-13 13:00:36 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:00:36 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:00:36 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:00:36 --> Final output sent to browser
+DEBUG - 2015-04-13 13:00:36 --> Total execution time: 0.0094
+INFO - 2015-04-13 13:00:36 --> Config Class Initialized
+INFO - 2015-04-13 13:00:36 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:36 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:36 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:36 --> URI Class Initialized
+INFO - 2015-04-13 13:00:36 --> Router Class Initialized
+INFO - 2015-04-13 13:00:36 --> Output Class Initialized
+INFO - 2015-04-13 13:00:36 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:36 --> Input Class Initialized
+INFO - 2015-04-13 13:00:36 --> Language Class Initialized
+ERROR - 2015-04-13 13:00:36 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:00:36 --> Config Class Initialized
+INFO - 2015-04-13 13:00:36 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:36 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:36 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:36 --> URI Class Initialized
+INFO - 2015-04-13 13:00:36 --> Router Class Initialized
+INFO - 2015-04-13 13:00:36 --> Output Class Initialized
+INFO - 2015-04-13 13:00:36 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:36 --> Input Class Initialized
+INFO - 2015-04-13 13:00:36 --> Language Class Initialized
+INFO - 2015-04-13 13:00:36 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:36 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:36 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:36 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:36 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:36 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:00:36 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:00:36 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:00:36 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:36 --> Model Class Initialized
+INFO - 2015-04-13 13:00:36 --> Model Class Initialized
+INFO - 2015-04-13 13:00:36 --> Searching author with id 61
+INFO - 2015-04-13 13:00:40 --> Config Class Initialized
+INFO - 2015-04-13 13:00:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:40 --> URI Class Initialized
+INFO - 2015-04-13 13:00:40 --> Router Class Initialized
+INFO - 2015-04-13 13:00:40 --> Output Class Initialized
+INFO - 2015-04-13 13:00:40 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:40 --> Input Class Initialized
+INFO - 2015-04-13 13:00:40 --> Language Class Initialized
+INFO - 2015-04-13 13:00:40 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:40 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:40 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:40 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:40 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:40 --> Controller Class Initialized
+INFO - 2015-04-13 13:00:40 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:40 --> Model Class Initialized
+INFO - 2015-04-13 13:00:40 --> Model Class Initialized
+INFO - 2015-04-13 13:00:40 --> Parser Class Initialized
+INFO - 2015-04-13 13:00:40 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:00:40 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:00:40 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:00:40 --> Final output sent to browser
+DEBUG - 2015-04-13 13:00:40 --> Total execution time: 0.0087
+INFO - 2015-04-13 13:00:41 --> Config Class Initialized
+INFO - 2015-04-13 13:00:41 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:41 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:41 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:41 --> URI Class Initialized
+INFO - 2015-04-13 13:00:41 --> Router Class Initialized
+INFO - 2015-04-13 13:00:41 --> Output Class Initialized
+INFO - 2015-04-13 13:00:41 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:41 --> Input Class Initialized
+INFO - 2015-04-13 13:00:41 --> Language Class Initialized
+ERROR - 2015-04-13 13:00:41 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:00:41 --> Config Class Initialized
+INFO - 2015-04-13 13:00:41 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:41 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:41 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:41 --> URI Class Initialized
+INFO - 2015-04-13 13:00:41 --> Router Class Initialized
+INFO - 2015-04-13 13:00:41 --> Output Class Initialized
+INFO - 2015-04-13 13:00:41 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:41 --> Input Class Initialized
+INFO - 2015-04-13 13:00:41 --> Language Class Initialized
+INFO - 2015-04-13 13:00:41 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:41 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:41 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:41 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:41 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:41 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:00:41 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:00:41 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:00:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:41 --> Model Class Initialized
+INFO - 2015-04-13 13:00:41 --> Model Class Initialized
+INFO - 2015-04-13 13:00:41 --> Searching author with id 61
+INFO - 2015-04-13 13:00:42 --> Config Class Initialized
+INFO - 2015-04-13 13:00:42 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:42 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:42 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:42 --> URI Class Initialized
+INFO - 2015-04-13 13:00:42 --> Router Class Initialized
+INFO - 2015-04-13 13:00:42 --> Output Class Initialized
+INFO - 2015-04-13 13:00:42 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:42 --> Input Class Initialized
+INFO - 2015-04-13 13:00:42 --> Language Class Initialized
+INFO - 2015-04-13 13:00:42 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:42 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:42 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:42 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:42 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:42 --> Controller Class Initialized
+INFO - 2015-04-13 13:00:42 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:42 --> Model Class Initialized
+INFO - 2015-04-13 13:00:42 --> Model Class Initialized
+INFO - 2015-04-13 13:00:42 --> Parser Class Initialized
+INFO - 2015-04-13 13:00:42 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:00:42 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:00:42 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:00:42 --> Final output sent to browser
+DEBUG - 2015-04-13 13:00:42 --> Total execution time: 0.0057
+INFO - 2015-04-13 13:00:42 --> Config Class Initialized
+INFO - 2015-04-13 13:00:42 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:42 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:42 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:42 --> URI Class Initialized
+INFO - 2015-04-13 13:00:42 --> Router Class Initialized
+INFO - 2015-04-13 13:00:42 --> Output Class Initialized
+INFO - 2015-04-13 13:00:42 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:42 --> Input Class Initialized
+INFO - 2015-04-13 13:00:42 --> Language Class Initialized
+ERROR - 2015-04-13 13:00:42 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:00:42 --> Config Class Initialized
+INFO - 2015-04-13 13:00:42 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:42 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:42 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:42 --> URI Class Initialized
+INFO - 2015-04-13 13:00:42 --> Router Class Initialized
+INFO - 2015-04-13 13:00:42 --> Output Class Initialized
+INFO - 2015-04-13 13:00:42 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:42 --> Input Class Initialized
+INFO - 2015-04-13 13:00:42 --> Language Class Initialized
+INFO - 2015-04-13 13:00:42 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:42 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:42 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:42 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:42 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:42 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:00:42 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:00:42 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:00:42 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:42 --> Model Class Initialized
+INFO - 2015-04-13 13:00:42 --> Model Class Initialized
+INFO - 2015-04-13 13:00:42 --> Searching author with id 61
+INFO - 2015-04-13 13:00:43 --> Config Class Initialized
+INFO - 2015-04-13 13:00:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:43 --> URI Class Initialized
+INFO - 2015-04-13 13:00:43 --> Router Class Initialized
+INFO - 2015-04-13 13:00:43 --> Output Class Initialized
+INFO - 2015-04-13 13:00:43 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:43 --> Input Class Initialized
+INFO - 2015-04-13 13:00:43 --> Language Class Initialized
+INFO - 2015-04-13 13:00:43 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:43 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:43 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:43 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:43 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:43 --> Controller Class Initialized
+INFO - 2015-04-13 13:00:43 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:43 --> Model Class Initialized
+INFO - 2015-04-13 13:00:43 --> Model Class Initialized
+INFO - 2015-04-13 13:00:43 --> Parser Class Initialized
+INFO - 2015-04-13 13:00:43 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:00:43 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:00:43 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:00:43 --> Final output sent to browser
+DEBUG - 2015-04-13 13:00:43 --> Total execution time: 0.0054
+INFO - 2015-04-13 13:00:43 --> Config Class Initialized
+INFO - 2015-04-13 13:00:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:43 --> URI Class Initialized
+INFO - 2015-04-13 13:00:43 --> Router Class Initialized
+INFO - 2015-04-13 13:00:43 --> Output Class Initialized
+INFO - 2015-04-13 13:00:43 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:43 --> Input Class Initialized
+INFO - 2015-04-13 13:00:43 --> Language Class Initialized
+ERROR - 2015-04-13 13:00:43 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:00:43 --> Config Class Initialized
+INFO - 2015-04-13 13:00:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:43 --> URI Class Initialized
+INFO - 2015-04-13 13:00:43 --> Router Class Initialized
+INFO - 2015-04-13 13:00:43 --> Output Class Initialized
+INFO - 2015-04-13 13:00:43 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:43 --> Input Class Initialized
+INFO - 2015-04-13 13:00:43 --> Language Class Initialized
+INFO - 2015-04-13 13:00:43 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:43 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:43 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:43 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:43 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:43 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:00:43 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:00:43 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:00:43 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:43 --> Model Class Initialized
+INFO - 2015-04-13 13:00:43 --> Model Class Initialized
+INFO - 2015-04-13 13:00:43 --> Searching author with id 61
+INFO - 2015-04-13 13:00:47 --> Config Class Initialized
+INFO - 2015-04-13 13:00:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:47 --> URI Class Initialized
+INFO - 2015-04-13 13:00:47 --> Router Class Initialized
+INFO - 2015-04-13 13:00:47 --> Output Class Initialized
+INFO - 2015-04-13 13:00:47 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:47 --> Input Class Initialized
+INFO - 2015-04-13 13:00:47 --> Language Class Initialized
+INFO - 2015-04-13 13:00:47 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:47 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:47 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:47 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:47 --> Controller Class Initialized
+INFO - 2015-04-13 13:00:47 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:47 --> Model Class Initialized
+INFO - 2015-04-13 13:00:47 --> Model Class Initialized
+INFO - 2015-04-13 13:00:47 --> Parser Class Initialized
+INFO - 2015-04-13 13:00:47 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:00:47 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:00:47 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:00:47 --> Final output sent to browser
+DEBUG - 2015-04-13 13:00:47 --> Total execution time: 0.0072
+INFO - 2015-04-13 13:00:47 --> Config Class Initialized
+INFO - 2015-04-13 13:00:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:47 --> URI Class Initialized
+INFO - 2015-04-13 13:00:47 --> Router Class Initialized
+INFO - 2015-04-13 13:00:47 --> Output Class Initialized
+INFO - 2015-04-13 13:00:47 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:47 --> Input Class Initialized
+INFO - 2015-04-13 13:00:47 --> Language Class Initialized
+ERROR - 2015-04-13 13:00:47 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:00:47 --> Config Class Initialized
+INFO - 2015-04-13 13:00:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:00:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:00:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:00:47 --> URI Class Initialized
+INFO - 2015-04-13 13:00:47 --> Router Class Initialized
+INFO - 2015-04-13 13:00:47 --> Output Class Initialized
+INFO - 2015-04-13 13:00:47 --> Security Class Initialized
+DEBUG - 2015-04-13 13:00:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:00:47 --> Input Class Initialized
+INFO - 2015-04-13 13:00:47 --> Language Class Initialized
+INFO - 2015-04-13 13:00:47 --> Loader Class Initialized
+INFO - 2015-04-13 13:00:47 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:00:47 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:00:47 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:00:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:00:47 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:00:47 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:00:47 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:00:47 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:00:47 --> Model Class Initialized
+INFO - 2015-04-13 13:00:47 --> Model Class Initialized
+INFO - 2015-04-13 13:00:47 --> Searching author with id 61
+INFO - 2015-04-13 13:01:19 --> Config Class Initialized
+INFO - 2015-04-13 13:01:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:01:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:01:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:01:19 --> URI Class Initialized
+INFO - 2015-04-13 13:01:19 --> Router Class Initialized
+INFO - 2015-04-13 13:01:19 --> Output Class Initialized
+INFO - 2015-04-13 13:01:19 --> Security Class Initialized
+DEBUG - 2015-04-13 13:01:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:01:19 --> Input Class Initialized
+INFO - 2015-04-13 13:01:19 --> Language Class Initialized
+INFO - 2015-04-13 13:01:19 --> Loader Class Initialized
+INFO - 2015-04-13 13:01:19 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:01:19 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:01:19 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:01:19 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:01:19 --> Controller Class Initialized
+INFO - 2015-04-13 13:01:19 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:01:19 --> Model Class Initialized
+INFO - 2015-04-13 13:01:19 --> Model Class Initialized
+INFO - 2015-04-13 13:01:19 --> Parser Class Initialized
+INFO - 2015-04-13 13:01:19 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:01:19 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:01:19 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:01:19 --> Final output sent to browser
+DEBUG - 2015-04-13 13:01:19 --> Total execution time: 0.0086
+INFO - 2015-04-13 13:01:19 --> Config Class Initialized
+INFO - 2015-04-13 13:01:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:01:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:01:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:01:19 --> URI Class Initialized
+INFO - 2015-04-13 13:01:19 --> Router Class Initialized
+INFO - 2015-04-13 13:01:19 --> Output Class Initialized
+INFO - 2015-04-13 13:01:19 --> Security Class Initialized
+DEBUG - 2015-04-13 13:01:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:01:19 --> Input Class Initialized
+INFO - 2015-04-13 13:01:19 --> Language Class Initialized
+ERROR - 2015-04-13 13:01:19 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:01:19 --> Config Class Initialized
+INFO - 2015-04-13 13:01:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:01:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:01:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:01:19 --> URI Class Initialized
+INFO - 2015-04-13 13:01:19 --> Router Class Initialized
+INFO - 2015-04-13 13:01:19 --> Output Class Initialized
+INFO - 2015-04-13 13:01:19 --> Security Class Initialized
+DEBUG - 2015-04-13 13:01:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:01:19 --> Input Class Initialized
+INFO - 2015-04-13 13:01:19 --> Language Class Initialized
+INFO - 2015-04-13 13:01:19 --> Loader Class Initialized
+INFO - 2015-04-13 13:01:19 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:01:19 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:01:19 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:01:19 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:01:19 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:01:19 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:01:19 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:01:19 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:01:19 --> Model Class Initialized
+INFO - 2015-04-13 13:01:19 --> Model Class Initialized
+INFO - 2015-04-13 13:01:19 --> Searching author with id 61
+INFO - 2015-04-13 13:02:13 --> Config Class Initialized
+INFO - 2015-04-13 13:02:13 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:02:13 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:02:13 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:02:13 --> URI Class Initialized
+INFO - 2015-04-13 13:02:13 --> Router Class Initialized
+INFO - 2015-04-13 13:02:13 --> Output Class Initialized
+INFO - 2015-04-13 13:02:13 --> Security Class Initialized
+DEBUG - 2015-04-13 13:02:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:02:13 --> Input Class Initialized
+INFO - 2015-04-13 13:02:13 --> Language Class Initialized
+INFO - 2015-04-13 13:02:13 --> Loader Class Initialized
+INFO - 2015-04-13 13:02:13 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:02:13 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:02:13 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:02:13 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:02:13 --> Controller Class Initialized
+INFO - 2015-04-13 13:02:13 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:02:13 --> Model Class Initialized
+INFO - 2015-04-13 13:02:13 --> Model Class Initialized
+INFO - 2015-04-13 13:02:13 --> Parser Class Initialized
+INFO - 2015-04-13 13:02:13 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:02:13 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:02:13 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:02:13 --> Final output sent to browser
+DEBUG - 2015-04-13 13:02:13 --> Total execution time: 0.0057
+INFO - 2015-04-13 13:02:13 --> Config Class Initialized
+INFO - 2015-04-13 13:02:13 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:02:13 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:02:13 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:02:13 --> URI Class Initialized
+INFO - 2015-04-13 13:02:13 --> Router Class Initialized
+INFO - 2015-04-13 13:02:13 --> Output Class Initialized
+INFO - 2015-04-13 13:02:13 --> Security Class Initialized
+DEBUG - 2015-04-13 13:02:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:02:13 --> Input Class Initialized
+INFO - 2015-04-13 13:02:13 --> Language Class Initialized
+ERROR - 2015-04-13 13:02:13 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:02:13 --> Config Class Initialized
+INFO - 2015-04-13 13:02:13 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:02:13 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:02:13 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:02:13 --> URI Class Initialized
+INFO - 2015-04-13 13:02:13 --> Router Class Initialized
+INFO - 2015-04-13 13:02:13 --> Output Class Initialized
+INFO - 2015-04-13 13:02:13 --> Security Class Initialized
+DEBUG - 2015-04-13 13:02:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:02:13 --> Input Class Initialized
+INFO - 2015-04-13 13:02:13 --> Language Class Initialized
+INFO - 2015-04-13 13:02:13 --> Loader Class Initialized
+INFO - 2015-04-13 13:02:13 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:02:13 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:02:13 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:02:13 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:02:13 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:02:13 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:02:13 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:02:13 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:02:13 --> Model Class Initialized
+INFO - 2015-04-13 13:02:13 --> Model Class Initialized
+INFO - 2015-04-13 13:02:13 --> Searching author with id 61
+INFO - 2015-04-13 13:02:15 --> Config Class Initialized
+INFO - 2015-04-13 13:02:15 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:02:15 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:02:15 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:02:15 --> URI Class Initialized
+INFO - 2015-04-13 13:02:15 --> Router Class Initialized
+INFO - 2015-04-13 13:02:15 --> Output Class Initialized
+INFO - 2015-04-13 13:02:15 --> Security Class Initialized
+DEBUG - 2015-04-13 13:02:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:02:15 --> Input Class Initialized
+INFO - 2015-04-13 13:02:15 --> Language Class Initialized
+INFO - 2015-04-13 13:02:15 --> Loader Class Initialized
+INFO - 2015-04-13 13:02:15 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:02:15 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:02:15 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:02:15 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:02:15 --> Controller Class Initialized
+INFO - 2015-04-13 13:02:15 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:02:15 --> Model Class Initialized
+INFO - 2015-04-13 13:02:15 --> Model Class Initialized
+INFO - 2015-04-13 13:02:15 --> Parser Class Initialized
+INFO - 2015-04-13 13:02:15 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:02:15 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:02:15 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:02:15 --> Final output sent to browser
+DEBUG - 2015-04-13 13:02:15 --> Total execution time: 0.0060
+INFO - 2015-04-13 13:02:15 --> Config Class Initialized
+INFO - 2015-04-13 13:02:15 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:02:15 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:02:15 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:02:15 --> URI Class Initialized
+INFO - 2015-04-13 13:02:15 --> Router Class Initialized
+INFO - 2015-04-13 13:02:15 --> Output Class Initialized
+INFO - 2015-04-13 13:02:15 --> Security Class Initialized
+DEBUG - 2015-04-13 13:02:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:02:15 --> Input Class Initialized
+INFO - 2015-04-13 13:02:15 --> Language Class Initialized
+ERROR - 2015-04-13 13:02:15 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:02:15 --> Config Class Initialized
+INFO - 2015-04-13 13:02:15 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:02:15 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:02:15 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:02:15 --> URI Class Initialized
+INFO - 2015-04-13 13:02:15 --> Router Class Initialized
+INFO - 2015-04-13 13:02:15 --> Output Class Initialized
+INFO - 2015-04-13 13:02:15 --> Security Class Initialized
+DEBUG - 2015-04-13 13:02:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:02:15 --> Input Class Initialized
+INFO - 2015-04-13 13:02:15 --> Language Class Initialized
+INFO - 2015-04-13 13:02:15 --> Loader Class Initialized
+INFO - 2015-04-13 13:02:15 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:02:15 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:02:15 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:02:15 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:02:15 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:02:15 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:02:15 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:02:15 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:02:15 --> Model Class Initialized
+INFO - 2015-04-13 13:02:15 --> Model Class Initialized
+INFO - 2015-04-13 13:02:15 --> Searching author with id 61
+INFO - 2015-04-13 13:02:44 --> Config Class Initialized
+INFO - 2015-04-13 13:02:44 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:02:44 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:02:44 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:02:44 --> URI Class Initialized
+INFO - 2015-04-13 13:02:44 --> Router Class Initialized
+INFO - 2015-04-13 13:02:44 --> Output Class Initialized
+INFO - 2015-04-13 13:02:44 --> Security Class Initialized
+DEBUG - 2015-04-13 13:02:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:02:44 --> Input Class Initialized
+INFO - 2015-04-13 13:02:44 --> Language Class Initialized
+INFO - 2015-04-13 13:02:44 --> Loader Class Initialized
+INFO - 2015-04-13 13:02:44 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:02:44 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:02:44 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:02:44 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:02:44 --> Controller Class Initialized
+INFO - 2015-04-13 13:02:44 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:02:44 --> Model Class Initialized
+INFO - 2015-04-13 13:02:44 --> Model Class Initialized
+INFO - 2015-04-13 13:02:44 --> Parser Class Initialized
+INFO - 2015-04-13 13:02:44 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:02:44 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:02:44 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:02:44 --> Final output sent to browser
+DEBUG - 2015-04-13 13:02:44 --> Total execution time: 0.0105
+INFO - 2015-04-13 13:02:44 --> Config Class Initialized
+INFO - 2015-04-13 13:02:44 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:02:44 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:02:44 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:02:44 --> URI Class Initialized
+INFO - 2015-04-13 13:02:44 --> Router Class Initialized
+INFO - 2015-04-13 13:02:44 --> Output Class Initialized
+INFO - 2015-04-13 13:02:44 --> Security Class Initialized
+DEBUG - 2015-04-13 13:02:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:02:44 --> Input Class Initialized
+INFO - 2015-04-13 13:02:44 --> Language Class Initialized
+ERROR - 2015-04-13 13:02:44 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:02:44 --> Config Class Initialized
+INFO - 2015-04-13 13:02:44 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:02:44 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:02:44 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:02:44 --> URI Class Initialized
+INFO - 2015-04-13 13:02:44 --> Router Class Initialized
+INFO - 2015-04-13 13:02:44 --> Output Class Initialized
+INFO - 2015-04-13 13:02:44 --> Security Class Initialized
+DEBUG - 2015-04-13 13:02:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:02:44 --> Input Class Initialized
+INFO - 2015-04-13 13:02:44 --> Language Class Initialized
+INFO - 2015-04-13 13:02:44 --> Loader Class Initialized
+INFO - 2015-04-13 13:02:44 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:02:44 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:02:44 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:02:44 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:02:44 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:02:44 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:02:44 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:02:44 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:02:44 --> Model Class Initialized
+INFO - 2015-04-13 13:02:44 --> Model Class Initialized
+INFO - 2015-04-13 13:02:44 --> Searching author with id 61
+INFO - 2015-04-13 13:03:14 --> Config Class Initialized
+INFO - 2015-04-13 13:03:14 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:03:14 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:03:14 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:03:14 --> URI Class Initialized
+INFO - 2015-04-13 13:03:14 --> Router Class Initialized
+INFO - 2015-04-13 13:03:14 --> Output Class Initialized
+INFO - 2015-04-13 13:03:14 --> Security Class Initialized
+DEBUG - 2015-04-13 13:03:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:03:14 --> Input Class Initialized
+INFO - 2015-04-13 13:03:14 --> Language Class Initialized
+INFO - 2015-04-13 13:03:14 --> Loader Class Initialized
+INFO - 2015-04-13 13:03:14 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:03:14 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:03:14 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:03:14 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:03:14 --> Controller Class Initialized
+INFO - 2015-04-13 13:03:14 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:03:14 --> Model Class Initialized
+INFO - 2015-04-13 13:03:14 --> Model Class Initialized
+INFO - 2015-04-13 13:03:14 --> Parser Class Initialized
+INFO - 2015-04-13 13:03:14 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:03:14 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:03:14 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:03:14 --> Final output sent to browser
+DEBUG - 2015-04-13 13:03:14 --> Total execution time: 0.0193
+INFO - 2015-04-13 13:03:15 --> Config Class Initialized
+INFO - 2015-04-13 13:03:15 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:03:15 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:03:15 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:03:15 --> URI Class Initialized
+INFO - 2015-04-13 13:03:15 --> Router Class Initialized
+INFO - 2015-04-13 13:03:15 --> Output Class Initialized
+INFO - 2015-04-13 13:03:15 --> Security Class Initialized
+DEBUG - 2015-04-13 13:03:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:03:15 --> Input Class Initialized
+INFO - 2015-04-13 13:03:15 --> Language Class Initialized
+ERROR - 2015-04-13 13:03:15 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:03:15 --> Config Class Initialized
+INFO - 2015-04-13 13:03:15 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:03:15 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:03:15 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:03:15 --> URI Class Initialized
+INFO - 2015-04-13 13:03:15 --> Router Class Initialized
+INFO - 2015-04-13 13:03:15 --> Output Class Initialized
+INFO - 2015-04-13 13:03:15 --> Security Class Initialized
+DEBUG - 2015-04-13 13:03:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:03:15 --> Input Class Initialized
+INFO - 2015-04-13 13:03:15 --> Language Class Initialized
+INFO - 2015-04-13 13:03:15 --> Loader Class Initialized
+INFO - 2015-04-13 13:03:15 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:03:15 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:03:15 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:03:15 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:03:15 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:03:15 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:03:15 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:03:15 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:03:15 --> Model Class Initialized
+INFO - 2015-04-13 13:03:15 --> Model Class Initialized
+INFO - 2015-04-13 13:03:15 --> Searching author with id 61
+INFO - 2015-04-13 13:03:47 --> Config Class Initialized
+INFO - 2015-04-13 13:03:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:03:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:03:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:03:47 --> URI Class Initialized
+INFO - 2015-04-13 13:03:47 --> Router Class Initialized
+INFO - 2015-04-13 13:03:47 --> Output Class Initialized
+INFO - 2015-04-13 13:03:47 --> Security Class Initialized
+DEBUG - 2015-04-13 13:03:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:03:47 --> Input Class Initialized
+INFO - 2015-04-13 13:03:47 --> Language Class Initialized
+INFO - 2015-04-13 13:03:47 --> Loader Class Initialized
+INFO - 2015-04-13 13:03:47 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:03:47 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:03:47 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:03:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:03:47 --> Controller Class Initialized
+INFO - 2015-04-13 13:03:47 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:03:47 --> Model Class Initialized
+INFO - 2015-04-13 13:03:47 --> Model Class Initialized
+INFO - 2015-04-13 13:03:47 --> Parser Class Initialized
+INFO - 2015-04-13 13:03:47 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:03:47 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:03:47 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:03:47 --> Final output sent to browser
+DEBUG - 2015-04-13 13:03:47 --> Total execution time: 0.0090
+INFO - 2015-04-13 13:03:47 --> Config Class Initialized
+INFO - 2015-04-13 13:03:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:03:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:03:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:03:47 --> URI Class Initialized
+INFO - 2015-04-13 13:03:47 --> Router Class Initialized
+INFO - 2015-04-13 13:03:47 --> Output Class Initialized
+INFO - 2015-04-13 13:03:47 --> Security Class Initialized
+DEBUG - 2015-04-13 13:03:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:03:47 --> Input Class Initialized
+INFO - 2015-04-13 13:03:47 --> Language Class Initialized
+ERROR - 2015-04-13 13:03:47 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:03:47 --> Config Class Initialized
+INFO - 2015-04-13 13:03:47 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:03:47 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:03:47 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:03:47 --> URI Class Initialized
+INFO - 2015-04-13 13:03:47 --> Router Class Initialized
+INFO - 2015-04-13 13:03:47 --> Output Class Initialized
+INFO - 2015-04-13 13:03:47 --> Security Class Initialized
+DEBUG - 2015-04-13 13:03:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:03:47 --> Input Class Initialized
+INFO - 2015-04-13 13:03:47 --> Language Class Initialized
+INFO - 2015-04-13 13:03:47 --> Loader Class Initialized
+INFO - 2015-04-13 13:03:47 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:03:47 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:03:47 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:03:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:03:47 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:03:47 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:03:47 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:03:47 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:03:47 --> Model Class Initialized
+INFO - 2015-04-13 13:03:47 --> Model Class Initialized
+INFO - 2015-04-13 13:03:47 --> Searching author with id 61
+INFO - 2015-04-13 13:04:50 --> Config Class Initialized
+INFO - 2015-04-13 13:04:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:04:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:04:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:04:50 --> URI Class Initialized
+INFO - 2015-04-13 13:04:50 --> Router Class Initialized
+INFO - 2015-04-13 13:04:50 --> Output Class Initialized
+INFO - 2015-04-13 13:04:50 --> Security Class Initialized
+DEBUG - 2015-04-13 13:04:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:04:50 --> Input Class Initialized
+INFO - 2015-04-13 13:04:50 --> Language Class Initialized
+INFO - 2015-04-13 13:04:50 --> Loader Class Initialized
+INFO - 2015-04-13 13:04:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:04:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:04:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:04:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:04:50 --> Controller Class Initialized
+INFO - 2015-04-13 13:04:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:04:50 --> Model Class Initialized
+INFO - 2015-04-13 13:04:50 --> Model Class Initialized
+INFO - 2015-04-13 13:04:50 --> Parser Class Initialized
+INFO - 2015-04-13 13:04:50 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:04:50 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:04:50 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:04:50 --> Final output sent to browser
+DEBUG - 2015-04-13 13:04:50 --> Total execution time: 0.0081
+INFO - 2015-04-13 13:04:50 --> Config Class Initialized
+INFO - 2015-04-13 13:04:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:04:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:04:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:04:50 --> URI Class Initialized
+INFO - 2015-04-13 13:04:50 --> Router Class Initialized
+INFO - 2015-04-13 13:04:50 --> Output Class Initialized
+INFO - 2015-04-13 13:04:50 --> Security Class Initialized
+DEBUG - 2015-04-13 13:04:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:04:50 --> Input Class Initialized
+INFO - 2015-04-13 13:04:50 --> Language Class Initialized
+ERROR - 2015-04-13 13:04:50 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:04:51 --> Config Class Initialized
+INFO - 2015-04-13 13:04:51 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:04:51 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:04:51 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:04:51 --> URI Class Initialized
+INFO - 2015-04-13 13:04:51 --> Router Class Initialized
+INFO - 2015-04-13 13:04:51 --> Output Class Initialized
+INFO - 2015-04-13 13:04:51 --> Security Class Initialized
+DEBUG - 2015-04-13 13:04:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:04:51 --> Input Class Initialized
+INFO - 2015-04-13 13:04:51 --> Language Class Initialized
+INFO - 2015-04-13 13:04:51 --> Loader Class Initialized
+INFO - 2015-04-13 13:04:51 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:04:51 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:04:51 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:04:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:04:51 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:04:51 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:04:51 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:04:51 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:04:51 --> Model Class Initialized
+INFO - 2015-04-13 13:04:51 --> Model Class Initialized
+INFO - 2015-04-13 13:04:51 --> Searching author with id 61
+INFO - 2015-04-13 13:05:04 --> Config Class Initialized
+INFO - 2015-04-13 13:05:04 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:05:04 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:05:04 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:05:04 --> URI Class Initialized
+INFO - 2015-04-13 13:05:04 --> Router Class Initialized
+INFO - 2015-04-13 13:05:04 --> Output Class Initialized
+INFO - 2015-04-13 13:05:04 --> Security Class Initialized
+DEBUG - 2015-04-13 13:05:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:05:04 --> Input Class Initialized
+INFO - 2015-04-13 13:05:04 --> Language Class Initialized
+INFO - 2015-04-13 13:05:04 --> Loader Class Initialized
+INFO - 2015-04-13 13:05:04 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:05:04 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:05:04 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:05:04 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:05:04 --> Controller Class Initialized
+INFO - 2015-04-13 13:05:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:05:04 --> Model Class Initialized
+INFO - 2015-04-13 13:05:04 --> Model Class Initialized
+INFO - 2015-04-13 13:05:04 --> Parser Class Initialized
+INFO - 2015-04-13 13:05:04 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:05:04 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:05:04 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:05:04 --> Final output sent to browser
+DEBUG - 2015-04-13 13:05:04 --> Total execution time: 0.0058
+INFO - 2015-04-13 13:05:04 --> Config Class Initialized
+INFO - 2015-04-13 13:05:04 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:05:04 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:05:04 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:05:04 --> URI Class Initialized
+INFO - 2015-04-13 13:05:04 --> Router Class Initialized
+INFO - 2015-04-13 13:05:04 --> Output Class Initialized
+INFO - 2015-04-13 13:05:04 --> Security Class Initialized
+DEBUG - 2015-04-13 13:05:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:05:04 --> Input Class Initialized
+INFO - 2015-04-13 13:05:04 --> Language Class Initialized
+ERROR - 2015-04-13 13:05:04 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:05:04 --> Config Class Initialized
+INFO - 2015-04-13 13:05:04 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:05:04 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:05:04 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:05:04 --> URI Class Initialized
+INFO - 2015-04-13 13:05:04 --> Router Class Initialized
+INFO - 2015-04-13 13:05:04 --> Output Class Initialized
+INFO - 2015-04-13 13:05:04 --> Security Class Initialized
+DEBUG - 2015-04-13 13:05:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:05:04 --> Input Class Initialized
+INFO - 2015-04-13 13:05:04 --> Language Class Initialized
+INFO - 2015-04-13 13:05:04 --> Loader Class Initialized
+INFO - 2015-04-13 13:05:04 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:05:04 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:05:04 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:05:04 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:05:04 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:05:04 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:05:04 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:05:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:05:04 --> Model Class Initialized
+INFO - 2015-04-13 13:05:04 --> Model Class Initialized
+INFO - 2015-04-13 13:05:04 --> Searching author with id 61
+INFO - 2015-04-13 13:05:12 --> Config Class Initialized
+INFO - 2015-04-13 13:05:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:05:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:05:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:05:12 --> URI Class Initialized
+INFO - 2015-04-13 13:05:12 --> Router Class Initialized
+INFO - 2015-04-13 13:05:12 --> Output Class Initialized
+INFO - 2015-04-13 13:05:12 --> Security Class Initialized
+DEBUG - 2015-04-13 13:05:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:05:12 --> Input Class Initialized
+INFO - 2015-04-13 13:05:12 --> Language Class Initialized
+INFO - 2015-04-13 13:05:12 --> Loader Class Initialized
+INFO - 2015-04-13 13:05:12 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:05:12 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:05:12 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:05:12 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:05:12 --> Controller Class Initialized
+INFO - 2015-04-13 13:05:12 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:05:12 --> Model Class Initialized
+INFO - 2015-04-13 13:05:12 --> Model Class Initialized
+INFO - 2015-04-13 13:05:12 --> Parser Class Initialized
+INFO - 2015-04-13 13:05:12 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:05:12 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:05:12 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:05:12 --> Final output sent to browser
+DEBUG - 2015-04-13 13:05:12 --> Total execution time: 0.0063
+INFO - 2015-04-13 13:05:12 --> Config Class Initialized
+INFO - 2015-04-13 13:05:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:05:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:05:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:05:12 --> URI Class Initialized
+INFO - 2015-04-13 13:05:12 --> Router Class Initialized
+INFO - 2015-04-13 13:05:12 --> Output Class Initialized
+INFO - 2015-04-13 13:05:12 --> Security Class Initialized
+DEBUG - 2015-04-13 13:05:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:05:12 --> Input Class Initialized
+INFO - 2015-04-13 13:05:12 --> Language Class Initialized
+ERROR - 2015-04-13 13:05:12 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:05:12 --> Config Class Initialized
+INFO - 2015-04-13 13:05:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:05:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:05:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:05:12 --> URI Class Initialized
+INFO - 2015-04-13 13:05:12 --> Router Class Initialized
+INFO - 2015-04-13 13:05:12 --> Output Class Initialized
+INFO - 2015-04-13 13:05:12 --> Security Class Initialized
+DEBUG - 2015-04-13 13:05:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:05:12 --> Input Class Initialized
+INFO - 2015-04-13 13:05:12 --> Language Class Initialized
+INFO - 2015-04-13 13:05:12 --> Loader Class Initialized
+INFO - 2015-04-13 13:05:12 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:05:12 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:05:12 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:05:12 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:05:12 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:05:12 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:05:12 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:05:12 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:05:12 --> Model Class Initialized
+INFO - 2015-04-13 13:05:12 --> Model Class Initialized
+INFO - 2015-04-13 13:05:12 --> Searching author with id 61
+INFO - 2015-04-13 13:05:25 --> Config Class Initialized
+INFO - 2015-04-13 13:05:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:05:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:05:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:05:25 --> URI Class Initialized
+INFO - 2015-04-13 13:05:25 --> Router Class Initialized
+INFO - 2015-04-13 13:05:25 --> Output Class Initialized
+INFO - 2015-04-13 13:05:25 --> Security Class Initialized
+DEBUG - 2015-04-13 13:05:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:05:25 --> Input Class Initialized
+INFO - 2015-04-13 13:05:25 --> Language Class Initialized
+INFO - 2015-04-13 13:05:25 --> Loader Class Initialized
+INFO - 2015-04-13 13:05:25 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:05:25 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:05:25 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:05:25 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:05:25 --> Controller Class Initialized
+INFO - 2015-04-13 13:05:25 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:05:25 --> Model Class Initialized
+INFO - 2015-04-13 13:05:25 --> Model Class Initialized
+INFO - 2015-04-13 13:05:25 --> Parser Class Initialized
+INFO - 2015-04-13 13:05:25 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:05:25 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:05:25 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:05:25 --> Final output sent to browser
+DEBUG - 2015-04-13 13:05:25 --> Total execution time: 0.0053
+INFO - 2015-04-13 13:05:25 --> Config Class Initialized
+INFO - 2015-04-13 13:05:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:05:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:05:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:05:25 --> URI Class Initialized
+INFO - 2015-04-13 13:05:25 --> Router Class Initialized
+INFO - 2015-04-13 13:05:25 --> Output Class Initialized
+INFO - 2015-04-13 13:05:25 --> Security Class Initialized
+DEBUG - 2015-04-13 13:05:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:05:25 --> Input Class Initialized
+INFO - 2015-04-13 13:05:25 --> Language Class Initialized
+ERROR - 2015-04-13 13:05:25 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:05:25 --> Config Class Initialized
+INFO - 2015-04-13 13:05:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:05:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:05:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:05:25 --> URI Class Initialized
+INFO - 2015-04-13 13:05:25 --> Router Class Initialized
+INFO - 2015-04-13 13:05:25 --> Output Class Initialized
+INFO - 2015-04-13 13:05:25 --> Security Class Initialized
+DEBUG - 2015-04-13 13:05:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:05:25 --> Input Class Initialized
+INFO - 2015-04-13 13:05:25 --> Language Class Initialized
+INFO - 2015-04-13 13:05:25 --> Loader Class Initialized
+INFO - 2015-04-13 13:05:25 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:05:25 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:05:25 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:05:25 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:05:25 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:05:25 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:05:25 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:05:25 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:05:25 --> Model Class Initialized
+INFO - 2015-04-13 13:05:25 --> Model Class Initialized
+INFO - 2015-04-13 13:05:25 --> Searching author with id 61
+INFO - 2015-04-13 13:06:41 --> Config Class Initialized
+INFO - 2015-04-13 13:06:41 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:06:41 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:06:41 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:06:41 --> URI Class Initialized
+INFO - 2015-04-13 13:06:41 --> Router Class Initialized
+INFO - 2015-04-13 13:06:41 --> Output Class Initialized
+INFO - 2015-04-13 13:06:41 --> Security Class Initialized
+DEBUG - 2015-04-13 13:06:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:06:41 --> Input Class Initialized
+INFO - 2015-04-13 13:06:41 --> Language Class Initialized
+INFO - 2015-04-13 13:06:41 --> Loader Class Initialized
+INFO - 2015-04-13 13:06:41 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:06:41 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:06:41 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:06:41 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:06:41 --> Controller Class Initialized
+INFO - 2015-04-13 13:06:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:06:41 --> Model Class Initialized
+INFO - 2015-04-13 13:06:41 --> Model Class Initialized
+INFO - 2015-04-13 13:06:41 --> Parser Class Initialized
+INFO - 2015-04-13 13:06:41 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:06:41 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:06:41 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:06:41 --> Final output sent to browser
+DEBUG - 2015-04-13 13:06:41 --> Total execution time: 0.0089
+INFO - 2015-04-13 13:06:41 --> Config Class Initialized
+INFO - 2015-04-13 13:06:41 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:06:41 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:06:41 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:06:41 --> URI Class Initialized
+INFO - 2015-04-13 13:06:41 --> Router Class Initialized
+INFO - 2015-04-13 13:06:41 --> Output Class Initialized
+INFO - 2015-04-13 13:06:41 --> Security Class Initialized
+DEBUG - 2015-04-13 13:06:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:06:41 --> Input Class Initialized
+INFO - 2015-04-13 13:06:41 --> Language Class Initialized
+INFO - 2015-04-13 13:06:41 --> Loader Class Initialized
+INFO - 2015-04-13 13:06:41 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:06:41 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:06:41 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:06:41 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:06:41 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:06:41 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:06:41 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:06:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:06:41 --> Model Class Initialized
+INFO - 2015-04-13 13:06:41 --> Model Class Initialized
+INFO - 2015-04-13 13:06:42 --> Config Class Initialized
+INFO - 2015-04-13 13:06:42 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:06:42 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:06:42 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:06:42 --> URI Class Initialized
+INFO - 2015-04-13 13:06:42 --> Router Class Initialized
+INFO - 2015-04-13 13:06:42 --> Output Class Initialized
+INFO - 2015-04-13 13:06:42 --> Security Class Initialized
+DEBUG - 2015-04-13 13:06:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:06:42 --> Input Class Initialized
+INFO - 2015-04-13 13:06:42 --> Language Class Initialized
+INFO - 2015-04-13 13:06:42 --> Loader Class Initialized
+INFO - 2015-04-13 13:06:42 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:06:42 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:06:42 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:06:42 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:06:42 --> Controller Class Initialized
+INFO - 2015-04-13 13:06:42 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:06:42 --> Model Class Initialized
+INFO - 2015-04-13 13:06:42 --> Model Class Initialized
+INFO - 2015-04-13 13:06:42 --> Parser Class Initialized
+INFO - 2015-04-13 13:06:42 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:06:42 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:06:42 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:06:42 --> Final output sent to browser
+DEBUG - 2015-04-13 13:06:42 --> Total execution time: 0.0067
+INFO - 2015-04-13 13:06:42 --> Config Class Initialized
+INFO - 2015-04-13 13:06:42 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:06:42 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:06:42 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:06:42 --> URI Class Initialized
+INFO - 2015-04-13 13:06:42 --> Router Class Initialized
+INFO - 2015-04-13 13:06:42 --> Output Class Initialized
+INFO - 2015-04-13 13:06:42 --> Security Class Initialized
+DEBUG - 2015-04-13 13:06:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:06:42 --> Input Class Initialized
+INFO - 2015-04-13 13:06:42 --> Language Class Initialized
+ERROR - 2015-04-13 13:06:42 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:06:43 --> Config Class Initialized
+INFO - 2015-04-13 13:06:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:06:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:06:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:06:43 --> URI Class Initialized
+INFO - 2015-04-13 13:06:43 --> Router Class Initialized
+INFO - 2015-04-13 13:06:43 --> Output Class Initialized
+INFO - 2015-04-13 13:06:43 --> Security Class Initialized
+DEBUG - 2015-04-13 13:06:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:06:43 --> Input Class Initialized
+INFO - 2015-04-13 13:06:43 --> Language Class Initialized
+INFO - 2015-04-13 13:06:43 --> Loader Class Initialized
+INFO - 2015-04-13 13:06:43 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:06:43 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:06:43 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:06:43 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:06:43 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:06:43 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:06:43 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:06:43 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:06:43 --> Model Class Initialized
+INFO - 2015-04-13 13:06:43 --> Model Class Initialized
+INFO - 2015-04-13 13:06:43 --> Searching author with id 79
+INFO - 2015-04-13 13:08:33 --> Config Class Initialized
+INFO - 2015-04-13 13:08:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:33 --> URI Class Initialized
+INFO - 2015-04-13 13:08:33 --> Router Class Initialized
+INFO - 2015-04-13 13:08:33 --> Output Class Initialized
+INFO - 2015-04-13 13:08:33 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:33 --> Input Class Initialized
+INFO - 2015-04-13 13:08:33 --> Language Class Initialized
+INFO - 2015-04-13 13:08:33 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:33 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:33 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:33 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:33 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:33 --> Controller Class Initialized
+INFO - 2015-04-13 13:08:33 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:33 --> Model Class Initialized
+INFO - 2015-04-13 13:08:33 --> Model Class Initialized
+INFO - 2015-04-13 13:08:33 --> Parser Class Initialized
+INFO - 2015-04-13 13:08:33 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:08:33 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:08:33 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:08:33 --> Final output sent to browser
+DEBUG - 2015-04-13 13:08:33 --> Total execution time: 0.0056
+INFO - 2015-04-13 13:08:34 --> Config Class Initialized
+INFO - 2015-04-13 13:08:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:34 --> URI Class Initialized
+INFO - 2015-04-13 13:08:34 --> Router Class Initialized
+INFO - 2015-04-13 13:08:34 --> Output Class Initialized
+INFO - 2015-04-13 13:08:34 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:34 --> Input Class Initialized
+INFO - 2015-04-13 13:08:34 --> Language Class Initialized
+ERROR - 2015-04-13 13:08:34 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:08:34 --> Config Class Initialized
+INFO - 2015-04-13 13:08:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:34 --> URI Class Initialized
+INFO - 2015-04-13 13:08:34 --> Router Class Initialized
+INFO - 2015-04-13 13:08:34 --> Output Class Initialized
+INFO - 2015-04-13 13:08:34 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:34 --> Input Class Initialized
+INFO - 2015-04-13 13:08:34 --> Language Class Initialized
+INFO - 2015-04-13 13:08:34 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:34 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:34 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:34 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:34 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:34 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:08:34 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:08:34 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:08:34 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:34 --> Model Class Initialized
+INFO - 2015-04-13 13:08:34 --> Model Class Initialized
+INFO - 2015-04-13 13:08:34 --> Searching author with id 79
+INFO - 2015-04-13 13:08:35 --> Config Class Initialized
+INFO - 2015-04-13 13:08:35 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:35 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:35 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:35 --> URI Class Initialized
+INFO - 2015-04-13 13:08:35 --> Router Class Initialized
+INFO - 2015-04-13 13:08:35 --> Output Class Initialized
+INFO - 2015-04-13 13:08:35 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:35 --> Input Class Initialized
+INFO - 2015-04-13 13:08:35 --> Language Class Initialized
+INFO - 2015-04-13 13:08:35 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:35 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:35 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:35 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:35 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:35 --> Controller Class Initialized
+INFO - 2015-04-13 13:08:35 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:35 --> Model Class Initialized
+INFO - 2015-04-13 13:08:35 --> Model Class Initialized
+INFO - 2015-04-13 13:08:35 --> Parser Class Initialized
+INFO - 2015-04-13 13:08:35 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:08:35 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:08:35 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:08:35 --> Final output sent to browser
+DEBUG - 2015-04-13 13:08:35 --> Total execution time: 0.0051
+INFO - 2015-04-13 13:08:35 --> Config Class Initialized
+INFO - 2015-04-13 13:08:35 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:35 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:35 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:35 --> URI Class Initialized
+INFO - 2015-04-13 13:08:35 --> Router Class Initialized
+INFO - 2015-04-13 13:08:35 --> Output Class Initialized
+INFO - 2015-04-13 13:08:35 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:35 --> Input Class Initialized
+INFO - 2015-04-13 13:08:35 --> Language Class Initialized
+ERROR - 2015-04-13 13:08:35 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:08:35 --> Config Class Initialized
+INFO - 2015-04-13 13:08:35 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:35 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:35 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:35 --> URI Class Initialized
+INFO - 2015-04-13 13:08:35 --> Router Class Initialized
+INFO - 2015-04-13 13:08:35 --> Output Class Initialized
+INFO - 2015-04-13 13:08:35 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:35 --> Input Class Initialized
+INFO - 2015-04-13 13:08:35 --> Language Class Initialized
+INFO - 2015-04-13 13:08:35 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:35 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:35 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:35 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:35 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:35 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:08:35 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:08:35 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:08:35 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:35 --> Model Class Initialized
+INFO - 2015-04-13 13:08:35 --> Model Class Initialized
+INFO - 2015-04-13 13:08:35 --> Searching author with id 79
+INFO - 2015-04-13 13:08:48 --> Config Class Initialized
+INFO - 2015-04-13 13:08:48 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:48 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:48 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:48 --> URI Class Initialized
+INFO - 2015-04-13 13:08:48 --> Router Class Initialized
+INFO - 2015-04-13 13:08:48 --> Output Class Initialized
+INFO - 2015-04-13 13:08:48 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:48 --> Input Class Initialized
+INFO - 2015-04-13 13:08:48 --> Language Class Initialized
+INFO - 2015-04-13 13:08:48 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:48 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:48 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:48 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:48 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:48 --> Controller Class Initialized
+INFO - 2015-04-13 13:08:48 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:48 --> Model Class Initialized
+INFO - 2015-04-13 13:08:48 --> Model Class Initialized
+INFO - 2015-04-13 13:08:48 --> Parser Class Initialized
+INFO - 2015-04-13 13:08:48 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:08:48 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:08:48 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:08:48 --> Final output sent to browser
+DEBUG - 2015-04-13 13:08:48 --> Total execution time: 0.0059
+INFO - 2015-04-13 13:08:49 --> Config Class Initialized
+INFO - 2015-04-13 13:08:49 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:49 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:49 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:49 --> URI Class Initialized
+INFO - 2015-04-13 13:08:49 --> Router Class Initialized
+INFO - 2015-04-13 13:08:49 --> Output Class Initialized
+INFO - 2015-04-13 13:08:49 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:49 --> Input Class Initialized
+INFO - 2015-04-13 13:08:49 --> Language Class Initialized
+ERROR - 2015-04-13 13:08:49 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:08:49 --> Config Class Initialized
+INFO - 2015-04-13 13:08:49 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:49 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:49 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:49 --> URI Class Initialized
+INFO - 2015-04-13 13:08:49 --> Router Class Initialized
+INFO - 2015-04-13 13:08:49 --> Output Class Initialized
+INFO - 2015-04-13 13:08:49 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:49 --> Input Class Initialized
+INFO - 2015-04-13 13:08:49 --> Language Class Initialized
+INFO - 2015-04-13 13:08:49 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:49 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:49 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:49 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:49 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:49 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:08:49 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:08:49 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:08:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:49 --> Model Class Initialized
+INFO - 2015-04-13 13:08:49 --> Model Class Initialized
+INFO - 2015-04-13 13:08:49 --> Searching author with id 79
+INFO - 2015-04-13 13:08:50 --> Config Class Initialized
+INFO - 2015-04-13 13:08:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:50 --> URI Class Initialized
+INFO - 2015-04-13 13:08:50 --> Router Class Initialized
+INFO - 2015-04-13 13:08:50 --> Output Class Initialized
+INFO - 2015-04-13 13:08:50 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:50 --> Input Class Initialized
+INFO - 2015-04-13 13:08:50 --> Language Class Initialized
+INFO - 2015-04-13 13:08:50 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:50 --> Controller Class Initialized
+INFO - 2015-04-13 13:08:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:50 --> Model Class Initialized
+INFO - 2015-04-13 13:08:50 --> Model Class Initialized
+INFO - 2015-04-13 13:08:50 --> Parser Class Initialized
+INFO - 2015-04-13 13:08:50 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:08:50 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:08:50 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:08:50 --> Final output sent to browser
+DEBUG - 2015-04-13 13:08:50 --> Total execution time: 0.0060
+INFO - 2015-04-13 13:08:50 --> Config Class Initialized
+INFO - 2015-04-13 13:08:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:50 --> URI Class Initialized
+INFO - 2015-04-13 13:08:50 --> Router Class Initialized
+INFO - 2015-04-13 13:08:50 --> Output Class Initialized
+INFO - 2015-04-13 13:08:50 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:50 --> Input Class Initialized
+INFO - 2015-04-13 13:08:50 --> Language Class Initialized
+ERROR - 2015-04-13 13:08:50 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:08:50 --> Config Class Initialized
+INFO - 2015-04-13 13:08:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:50 --> URI Class Initialized
+INFO - 2015-04-13 13:08:50 --> Router Class Initialized
+INFO - 2015-04-13 13:08:50 --> Output Class Initialized
+INFO - 2015-04-13 13:08:50 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:50 --> Input Class Initialized
+INFO - 2015-04-13 13:08:50 --> Language Class Initialized
+INFO - 2015-04-13 13:08:50 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:50 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:08:50 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:08:50 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:08:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:50 --> Model Class Initialized
+INFO - 2015-04-13 13:08:50 --> Model Class Initialized
+INFO - 2015-04-13 13:08:50 --> Searching author with id 79
+INFO - 2015-04-13 13:08:51 --> Config Class Initialized
+INFO - 2015-04-13 13:08:51 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:51 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:51 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:51 --> URI Class Initialized
+INFO - 2015-04-13 13:08:51 --> Router Class Initialized
+INFO - 2015-04-13 13:08:51 --> Output Class Initialized
+INFO - 2015-04-13 13:08:51 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:51 --> Input Class Initialized
+INFO - 2015-04-13 13:08:51 --> Language Class Initialized
+INFO - 2015-04-13 13:08:51 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:51 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:51 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:51 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:51 --> Controller Class Initialized
+INFO - 2015-04-13 13:08:51 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:51 --> Model Class Initialized
+INFO - 2015-04-13 13:08:51 --> Model Class Initialized
+INFO - 2015-04-13 13:08:51 --> Parser Class Initialized
+INFO - 2015-04-13 13:08:51 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:08:51 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:08:51 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:08:51 --> Final output sent to browser
+DEBUG - 2015-04-13 13:08:51 --> Total execution time: 0.0057
+INFO - 2015-04-13 13:08:51 --> Config Class Initialized
+INFO - 2015-04-13 13:08:51 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:51 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:51 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:51 --> URI Class Initialized
+INFO - 2015-04-13 13:08:51 --> Router Class Initialized
+INFO - 2015-04-13 13:08:51 --> Output Class Initialized
+INFO - 2015-04-13 13:08:51 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:51 --> Input Class Initialized
+INFO - 2015-04-13 13:08:51 --> Language Class Initialized
+ERROR - 2015-04-13 13:08:51 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:08:51 --> Config Class Initialized
+INFO - 2015-04-13 13:08:51 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:51 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:51 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:51 --> URI Class Initialized
+INFO - 2015-04-13 13:08:51 --> Router Class Initialized
+INFO - 2015-04-13 13:08:51 --> Output Class Initialized
+INFO - 2015-04-13 13:08:51 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:51 --> Input Class Initialized
+INFO - 2015-04-13 13:08:51 --> Language Class Initialized
+INFO - 2015-04-13 13:08:51 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:51 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:51 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:51 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:51 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:08:51 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:08:51 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:08:51 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:51 --> Model Class Initialized
+INFO - 2015-04-13 13:08:51 --> Model Class Initialized
+INFO - 2015-04-13 13:08:51 --> Searching author with id 79
+INFO - 2015-04-13 13:08:55 --> Config Class Initialized
+INFO - 2015-04-13 13:08:55 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:55 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:55 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:55 --> URI Class Initialized
+INFO - 2015-04-13 13:08:55 --> Router Class Initialized
+INFO - 2015-04-13 13:08:55 --> Output Class Initialized
+INFO - 2015-04-13 13:08:55 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:55 --> Input Class Initialized
+INFO - 2015-04-13 13:08:55 --> Language Class Initialized
+INFO - 2015-04-13 13:08:55 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:55 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:55 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:55 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:55 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:55 --> Controller Class Initialized
+INFO - 2015-04-13 13:08:55 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:55 --> Model Class Initialized
+INFO - 2015-04-13 13:08:55 --> Model Class Initialized
+INFO - 2015-04-13 13:08:55 --> Parser Class Initialized
+INFO - 2015-04-13 13:08:55 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:08:55 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:08:55 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:08:55 --> Final output sent to browser
+DEBUG - 2015-04-13 13:08:55 --> Total execution time: 0.0081
+INFO - 2015-04-13 13:08:55 --> Config Class Initialized
+INFO - 2015-04-13 13:08:55 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:55 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:55 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:55 --> URI Class Initialized
+INFO - 2015-04-13 13:08:55 --> Router Class Initialized
+INFO - 2015-04-13 13:08:55 --> Output Class Initialized
+INFO - 2015-04-13 13:08:55 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:55 --> Input Class Initialized
+INFO - 2015-04-13 13:08:55 --> Language Class Initialized
+ERROR - 2015-04-13 13:08:55 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:08:55 --> Config Class Initialized
+INFO - 2015-04-13 13:08:55 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:55 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:55 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:55 --> URI Class Initialized
+INFO - 2015-04-13 13:08:55 --> Router Class Initialized
+INFO - 2015-04-13 13:08:55 --> Output Class Initialized
+INFO - 2015-04-13 13:08:55 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:55 --> Input Class Initialized
+INFO - 2015-04-13 13:08:55 --> Language Class Initialized
+INFO - 2015-04-13 13:08:55 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:55 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:55 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:55 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:55 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:55 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:08:55 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:08:55 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:08:55 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:55 --> Model Class Initialized
+INFO - 2015-04-13 13:08:55 --> Model Class Initialized
+INFO - 2015-04-13 13:08:55 --> Searching author with id 79
+INFO - 2015-04-13 13:08:56 --> Config Class Initialized
+INFO - 2015-04-13 13:08:56 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:56 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:56 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:56 --> URI Class Initialized
+INFO - 2015-04-13 13:08:56 --> Router Class Initialized
+INFO - 2015-04-13 13:08:56 --> Output Class Initialized
+INFO - 2015-04-13 13:08:56 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:56 --> Input Class Initialized
+INFO - 2015-04-13 13:08:56 --> Language Class Initialized
+INFO - 2015-04-13 13:08:56 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:56 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:56 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:56 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:56 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:56 --> Controller Class Initialized
+INFO - 2015-04-13 13:08:56 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:56 --> Model Class Initialized
+INFO - 2015-04-13 13:08:56 --> Model Class Initialized
+INFO - 2015-04-13 13:08:56 --> Parser Class Initialized
+INFO - 2015-04-13 13:08:56 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:08:56 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:08:56 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:08:56 --> Final output sent to browser
+DEBUG - 2015-04-13 13:08:56 --> Total execution time: 0.0056
+INFO - 2015-04-13 13:08:56 --> Config Class Initialized
+INFO - 2015-04-13 13:08:56 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:56 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:56 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:56 --> URI Class Initialized
+INFO - 2015-04-13 13:08:56 --> Router Class Initialized
+INFO - 2015-04-13 13:08:56 --> Output Class Initialized
+INFO - 2015-04-13 13:08:56 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:56 --> Input Class Initialized
+INFO - 2015-04-13 13:08:56 --> Language Class Initialized
+ERROR - 2015-04-13 13:08:56 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:08:56 --> Config Class Initialized
+INFO - 2015-04-13 13:08:56 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:08:56 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:08:56 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:08:56 --> URI Class Initialized
+INFO - 2015-04-13 13:08:56 --> Router Class Initialized
+INFO - 2015-04-13 13:08:56 --> Output Class Initialized
+INFO - 2015-04-13 13:08:56 --> Security Class Initialized
+DEBUG - 2015-04-13 13:08:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:08:56 --> Input Class Initialized
+INFO - 2015-04-13 13:08:56 --> Language Class Initialized
+INFO - 2015-04-13 13:08:56 --> Loader Class Initialized
+INFO - 2015-04-13 13:08:56 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:08:56 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:08:56 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:08:56 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:08:56 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:08:56 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:08:56 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:08:56 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:08:56 --> Model Class Initialized
+INFO - 2015-04-13 13:08:56 --> Model Class Initialized
+INFO - 2015-04-13 13:08:56 --> Searching author with id 79
+INFO - 2015-04-13 13:09:01 --> Config Class Initialized
+INFO - 2015-04-13 13:09:01 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:09:01 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:09:01 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:09:01 --> URI Class Initialized
+INFO - 2015-04-13 13:09:01 --> Router Class Initialized
+INFO - 2015-04-13 13:09:01 --> Output Class Initialized
+INFO - 2015-04-13 13:09:01 --> Security Class Initialized
+DEBUG - 2015-04-13 13:09:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:09:01 --> Input Class Initialized
+INFO - 2015-04-13 13:09:01 --> Language Class Initialized
+ERROR - 2015-04-13 13:09:01 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:09:01 --> Config Class Initialized
+INFO - 2015-04-13 13:09:01 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:09:01 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:09:01 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:09:01 --> URI Class Initialized
+INFO - 2015-04-13 13:09:01 --> Router Class Initialized
+INFO - 2015-04-13 13:09:01 --> Output Class Initialized
+INFO - 2015-04-13 13:09:01 --> Security Class Initialized
+DEBUG - 2015-04-13 13:09:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:09:01 --> Input Class Initialized
+INFO - 2015-04-13 13:09:01 --> Language Class Initialized
+ERROR - 2015-04-13 13:09:01 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:09:17 --> Config Class Initialized
+INFO - 2015-04-13 13:09:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:09:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:09:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:09:17 --> URI Class Initialized
+INFO - 2015-04-13 13:09:17 --> Router Class Initialized
+INFO - 2015-04-13 13:09:17 --> Output Class Initialized
+INFO - 2015-04-13 13:09:17 --> Security Class Initialized
+DEBUG - 2015-04-13 13:09:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:09:17 --> Input Class Initialized
+INFO - 2015-04-13 13:09:17 --> Language Class Initialized
+INFO - 2015-04-13 13:09:17 --> Loader Class Initialized
+INFO - 2015-04-13 13:09:17 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:09:17 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:09:17 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:09:17 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:09:17 --> Controller Class Initialized
+INFO - 2015-04-13 13:09:17 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:09:17 --> Model Class Initialized
+INFO - 2015-04-13 13:09:17 --> Model Class Initialized
+INFO - 2015-04-13 13:09:17 --> Parser Class Initialized
+INFO - 2015-04-13 13:09:17 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:09:17 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:09:17 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:09:17 --> Final output sent to browser
+DEBUG - 2015-04-13 13:09:17 --> Total execution time: 0.0061
+INFO - 2015-04-13 13:09:17 --> Config Class Initialized
+INFO - 2015-04-13 13:09:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:09:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:09:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:09:17 --> URI Class Initialized
+INFO - 2015-04-13 13:09:17 --> Router Class Initialized
+INFO - 2015-04-13 13:09:17 --> Output Class Initialized
+INFO - 2015-04-13 13:09:17 --> Security Class Initialized
+DEBUG - 2015-04-13 13:09:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:09:17 --> Input Class Initialized
+INFO - 2015-04-13 13:09:17 --> Language Class Initialized
+ERROR - 2015-04-13 13:09:17 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:09:17 --> Config Class Initialized
+INFO - 2015-04-13 13:09:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:09:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:09:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:09:17 --> URI Class Initialized
+INFO - 2015-04-13 13:09:17 --> Router Class Initialized
+INFO - 2015-04-13 13:09:17 --> Output Class Initialized
+INFO - 2015-04-13 13:09:17 --> Security Class Initialized
+DEBUG - 2015-04-13 13:09:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:09:17 --> Input Class Initialized
+INFO - 2015-04-13 13:09:17 --> Language Class Initialized
+INFO - 2015-04-13 13:09:17 --> Loader Class Initialized
+INFO - 2015-04-13 13:09:17 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:09:17 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:09:17 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:09:17 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:09:17 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:09:17 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:09:17 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:09:17 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:09:17 --> Model Class Initialized
+INFO - 2015-04-13 13:09:17 --> Model Class Initialized
+INFO - 2015-04-13 13:09:17 --> Searching author with id 79
+INFO - 2015-04-13 13:09:17 --> Config Class Initialized
+INFO - 2015-04-13 13:09:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:09:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:09:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:09:17 --> URI Class Initialized
+INFO - 2015-04-13 13:09:17 --> Router Class Initialized
+INFO - 2015-04-13 13:09:17 --> Output Class Initialized
+INFO - 2015-04-13 13:09:17 --> Security Class Initialized
+DEBUG - 2015-04-13 13:09:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:09:17 --> Input Class Initialized
+INFO - 2015-04-13 13:09:17 --> Config Class Initialized
+INFO - 2015-04-13 13:09:17 --> Language Class Initialized
+INFO - 2015-04-13 13:09:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:09:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:09:17 --> Utf8 Class Initialized
+ERROR - 2015-04-13 13:09:17 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:09:17 --> URI Class Initialized
+INFO - 2015-04-13 13:09:17 --> Router Class Initialized
+INFO - 2015-04-13 13:09:17 --> Output Class Initialized
+INFO - 2015-04-13 13:09:17 --> Security Class Initialized
+DEBUG - 2015-04-13 13:09:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:09:17 --> Input Class Initialized
+INFO - 2015-04-13 13:09:17 --> Language Class Initialized
+ERROR - 2015-04-13 13:09:17 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:09:19 --> Config Class Initialized
+INFO - 2015-04-13 13:09:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:09:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:09:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:09:19 --> URI Class Initialized
+INFO - 2015-04-13 13:09:19 --> Router Class Initialized
+INFO - 2015-04-13 13:09:19 --> Output Class Initialized
+INFO - 2015-04-13 13:09:19 --> Security Class Initialized
+DEBUG - 2015-04-13 13:09:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:09:19 --> Input Class Initialized
+INFO - 2015-04-13 13:09:19 --> Language Class Initialized
+INFO - 2015-04-13 13:09:19 --> Loader Class Initialized
+INFO - 2015-04-13 13:09:19 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:09:19 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:09:19 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:09:19 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:09:19 --> Controller Class Initialized
+INFO - 2015-04-13 13:09:19 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:09:19 --> Model Class Initialized
+INFO - 2015-04-13 13:09:19 --> Model Class Initialized
+INFO - 2015-04-13 13:09:19 --> Parser Class Initialized
+INFO - 2015-04-13 13:09:19 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:09:19 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:09:19 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:09:19 --> Final output sent to browser
+DEBUG - 2015-04-13 13:09:19 --> Total execution time: 0.0050
+INFO - 2015-04-13 13:09:20 --> Config Class Initialized
+INFO - 2015-04-13 13:09:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:09:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:09:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:09:20 --> URI Class Initialized
+INFO - 2015-04-13 13:09:20 --> Router Class Initialized
+INFO - 2015-04-13 13:09:20 --> Output Class Initialized
+INFO - 2015-04-13 13:09:20 --> Security Class Initialized
+DEBUG - 2015-04-13 13:09:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:09:20 --> Input Class Initialized
+INFO - 2015-04-13 13:09:20 --> Language Class Initialized
+ERROR - 2015-04-13 13:09:20 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:09:20 --> Config Class Initialized
+INFO - 2015-04-13 13:09:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:09:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:09:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:09:20 --> URI Class Initialized
+INFO - 2015-04-13 13:09:20 --> Router Class Initialized
+INFO - 2015-04-13 13:09:20 --> Output Class Initialized
+INFO - 2015-04-13 13:09:20 --> Security Class Initialized
+DEBUG - 2015-04-13 13:09:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:09:20 --> Input Class Initialized
+INFO - 2015-04-13 13:09:20 --> Language Class Initialized
+INFO - 2015-04-13 13:09:20 --> Loader Class Initialized
+INFO - 2015-04-13 13:09:20 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:09:20 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:09:20 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:09:20 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:09:20 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:09:20 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:09:20 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:09:20 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:09:20 --> Model Class Initialized
+INFO - 2015-04-13 13:09:20 --> Model Class Initialized
+INFO - 2015-04-13 13:09:20 --> Searching author with id 79
+INFO - 2015-04-13 13:09:20 --> Config Class Initialized
+INFO - 2015-04-13 13:09:20 --> Config Class Initialized
+INFO - 2015-04-13 13:09:20 --> Hooks Class Initialized
+INFO - 2015-04-13 13:09:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:09:20 --> UTF-8 Support Enabled
+DEBUG - 2015-04-13 13:09:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:09:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:09:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:09:20 --> URI Class Initialized
+INFO - 2015-04-13 13:09:20 --> URI Class Initialized
+INFO - 2015-04-13 13:09:20 --> Router Class Initialized
+INFO - 2015-04-13 13:09:20 --> Router Class Initialized
+INFO - 2015-04-13 13:09:20 --> Output Class Initialized
+INFO - 2015-04-13 13:09:20 --> Output Class Initialized
+INFO - 2015-04-13 13:09:20 --> Security Class Initialized
+INFO - 2015-04-13 13:09:20 --> Security Class Initialized
+DEBUG - 2015-04-13 13:09:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-04-13 13:09:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:09:20 --> Input Class Initialized
+INFO - 2015-04-13 13:09:20 --> Input Class Initialized
+INFO - 2015-04-13 13:09:20 --> Language Class Initialized
+INFO - 2015-04-13 13:09:20 --> Language Class Initialized
+ERROR - 2015-04-13 13:09:20 --> 404 Page Not Found: Assets/js
+ERROR - 2015-04-13 13:09:20 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:10:19 --> Config Class Initialized
+INFO - 2015-04-13 13:10:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:10:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:10:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:10:19 --> URI Class Initialized
+INFO - 2015-04-13 13:10:19 --> Router Class Initialized
+INFO - 2015-04-13 13:10:19 --> Output Class Initialized
+INFO - 2015-04-13 13:10:19 --> Security Class Initialized
+DEBUG - 2015-04-13 13:10:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:10:19 --> Input Class Initialized
+INFO - 2015-04-13 13:10:19 --> Language Class Initialized
+INFO - 2015-04-13 13:10:19 --> Loader Class Initialized
+INFO - 2015-04-13 13:10:19 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:10:19 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:10:19 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:10:19 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:10:19 --> Controller Class Initialized
+INFO - 2015-04-13 13:10:19 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:10:19 --> Model Class Initialized
+INFO - 2015-04-13 13:10:19 --> Model Class Initialized
+INFO - 2015-04-13 13:10:19 --> Parser Class Initialized
+INFO - 2015-04-13 13:10:19 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:10:19 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:10:19 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:10:19 --> Final output sent to browser
+DEBUG - 2015-04-13 13:10:19 --> Total execution time: 0.0073
+INFO - 2015-04-13 13:10:19 --> Config Class Initialized
+INFO - 2015-04-13 13:10:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:10:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:10:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:10:19 --> URI Class Initialized
+INFO - 2015-04-13 13:10:19 --> Router Class Initialized
+INFO - 2015-04-13 13:10:19 --> Output Class Initialized
+INFO - 2015-04-13 13:10:19 --> Security Class Initialized
+DEBUG - 2015-04-13 13:10:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:10:19 --> Input Class Initialized
+INFO - 2015-04-13 13:10:19 --> Language Class Initialized
+ERROR - 2015-04-13 13:10:19 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:10:20 --> Config Class Initialized
+INFO - 2015-04-13 13:10:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:10:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:10:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:10:20 --> URI Class Initialized
+INFO - 2015-04-13 13:10:20 --> Config Class Initialized
+INFO - 2015-04-13 13:10:20 --> Router Class Initialized
+INFO - 2015-04-13 13:10:20 --> Hooks Class Initialized
+INFO - 2015-04-13 13:10:20 --> Config Class Initialized
+INFO - 2015-04-13 13:10:20 --> Hooks Class Initialized
+INFO - 2015-04-13 13:10:20 --> Output Class Initialized
+DEBUG - 2015-04-13 13:10:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:10:20 --> Utf8 Class Initialized
+DEBUG - 2015-04-13 13:10:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:10:20 --> Security Class Initialized
+INFO - 2015-04-13 13:10:20 --> URI Class Initialized
+INFO - 2015-04-13 13:10:20 --> Utf8 Class Initialized
+DEBUG - 2015-04-13 13:10:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:10:20 --> Input Class Initialized
+INFO - 2015-04-13 13:10:20 --> URI Class Initialized
+INFO - 2015-04-13 13:10:20 --> Router Class Initialized
+INFO - 2015-04-13 13:10:20 --> Language Class Initialized
+INFO - 2015-04-13 13:10:20 --> Router Class Initialized
+INFO - 2015-04-13 13:10:20 --> Output Class Initialized
+INFO - 2015-04-13 13:10:20 --> Security Class Initialized
+INFO - 2015-04-13 13:10:20 --> Output Class Initialized
+INFO - 2015-04-13 13:10:20 --> Security Class Initialized
+INFO - 2015-04-13 13:10:20 --> Loader Class Initialized
+DEBUG - 2015-04-13 13:10:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:10:20 --> Input Class Initialized
+DEBUG - 2015-04-13 13:10:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:10:20 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:10:20 --> Input Class Initialized
+INFO - 2015-04-13 13:10:20 --> Language Class Initialized
+INFO - 2015-04-13 13:10:20 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:10:20 --> Language Class Initialized
+INFO - 2015-04-13 13:10:20 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 13:10:20 --> 404 Page Not Found: Assets/js
+ERROR - 2015-04-13 13:10:20 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:10:20 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:10:20 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:10:20 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:10:20 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:10:20 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:10:20 --> Model Class Initialized
+INFO - 2015-04-13 13:10:20 --> Model Class Initialized
+INFO - 2015-04-13 13:10:20 --> Searching author with id 79
+INFO - 2015-04-13 13:10:25 --> Config Class Initialized
+INFO - 2015-04-13 13:10:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:10:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:10:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:10:25 --> URI Class Initialized
+INFO - 2015-04-13 13:10:25 --> Router Class Initialized
+INFO - 2015-04-13 13:10:25 --> Output Class Initialized
+INFO - 2015-04-13 13:10:25 --> Security Class Initialized
+DEBUG - 2015-04-13 13:10:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:10:25 --> Input Class Initialized
+INFO - 2015-04-13 13:10:25 --> Language Class Initialized
+INFO - 2015-04-13 13:10:25 --> Loader Class Initialized
+INFO - 2015-04-13 13:10:25 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:10:25 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:10:25 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:10:25 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:10:25 --> Controller Class Initialized
+INFO - 2015-04-13 13:10:25 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:10:25 --> Model Class Initialized
+INFO - 2015-04-13 13:10:25 --> Model Class Initialized
+INFO - 2015-04-13 13:10:25 --> Parser Class Initialized
+INFO - 2015-04-13 13:10:25 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:10:25 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:10:25 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:10:25 --> Final output sent to browser
+DEBUG - 2015-04-13 13:10:25 --> Total execution time: 0.0072
+INFO - 2015-04-13 13:10:25 --> Config Class Initialized
+INFO - 2015-04-13 13:10:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:10:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:10:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:10:25 --> URI Class Initialized
+INFO - 2015-04-13 13:10:25 --> Router Class Initialized
+INFO - 2015-04-13 13:10:25 --> Output Class Initialized
+INFO - 2015-04-13 13:10:25 --> Security Class Initialized
+DEBUG - 2015-04-13 13:10:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:10:25 --> Input Class Initialized
+INFO - 2015-04-13 13:10:25 --> Language Class Initialized
+ERROR - 2015-04-13 13:10:25 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:10:26 --> Config Class Initialized
+INFO - 2015-04-13 13:10:26 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:10:26 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:10:26 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:10:26 --> URI Class Initialized
+INFO - 2015-04-13 13:10:26 --> Router Class Initialized
+INFO - 2015-04-13 13:10:26 --> Output Class Initialized
+INFO - 2015-04-13 13:10:26 --> Security Class Initialized
+DEBUG - 2015-04-13 13:10:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:10:26 --> Input Class Initialized
+INFO - 2015-04-13 13:10:26 --> Language Class Initialized
+INFO - 2015-04-13 13:10:26 --> Loader Class Initialized
+INFO - 2015-04-13 13:10:26 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:10:26 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:10:26 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:10:26 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:10:26 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:10:26 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:10:26 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:10:26 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:10:26 --> Model Class Initialized
+INFO - 2015-04-13 13:10:26 --> Model Class Initialized
+INFO - 2015-04-13 13:10:26 --> Searching author with id 79
+INFO - 2015-04-13 13:11:24 --> Config Class Initialized
+INFO - 2015-04-13 13:11:24 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:11:24 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:11:24 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:11:24 --> URI Class Initialized
+INFO - 2015-04-13 13:11:24 --> Router Class Initialized
+INFO - 2015-04-13 13:11:24 --> Output Class Initialized
+INFO - 2015-04-13 13:11:24 --> Security Class Initialized
+DEBUG - 2015-04-13 13:11:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:11:24 --> Input Class Initialized
+INFO - 2015-04-13 13:11:24 --> Language Class Initialized
+INFO - 2015-04-13 13:11:24 --> Loader Class Initialized
+INFO - 2015-04-13 13:11:24 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:11:24 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:11:24 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:11:24 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:11:24 --> Controller Class Initialized
+INFO - 2015-04-13 13:11:24 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:11:24 --> Model Class Initialized
+INFO - 2015-04-13 13:11:24 --> Model Class Initialized
+INFO - 2015-04-13 13:11:24 --> Parser Class Initialized
+INFO - 2015-04-13 13:11:24 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:11:24 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:11:24 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:11:24 --> Final output sent to browser
+DEBUG - 2015-04-13 13:11:24 --> Total execution time: 0.0063
+INFO - 2015-04-13 13:11:24 --> Config Class Initialized
+INFO - 2015-04-13 13:11:24 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:11:24 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:11:24 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:11:24 --> URI Class Initialized
+INFO - 2015-04-13 13:11:24 --> Router Class Initialized
+INFO - 2015-04-13 13:11:24 --> Output Class Initialized
+INFO - 2015-04-13 13:11:24 --> Security Class Initialized
+DEBUG - 2015-04-13 13:11:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:11:24 --> Input Class Initialized
+INFO - 2015-04-13 13:11:24 --> Language Class Initialized
+ERROR - 2015-04-13 13:11:24 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:11:25 --> Config Class Initialized
+INFO - 2015-04-13 13:11:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:11:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:11:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:11:25 --> URI Class Initialized
+INFO - 2015-04-13 13:11:25 --> Router Class Initialized
+INFO - 2015-04-13 13:11:25 --> Output Class Initialized
+INFO - 2015-04-13 13:11:25 --> Security Class Initialized
+DEBUG - 2015-04-13 13:11:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:11:25 --> Input Class Initialized
+INFO - 2015-04-13 13:11:25 --> Language Class Initialized
+INFO - 2015-04-13 13:11:25 --> Loader Class Initialized
+INFO - 2015-04-13 13:11:25 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:11:25 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:11:25 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:11:25 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:11:25 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:11:25 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:11:25 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:11:25 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:11:25 --> Model Class Initialized
+INFO - 2015-04-13 13:11:25 --> Model Class Initialized
+INFO - 2015-04-13 13:11:25 --> Searching author with id 79
+INFO - 2015-04-13 13:11:54 --> Config Class Initialized
+INFO - 2015-04-13 13:11:54 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:11:54 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:11:54 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:11:54 --> URI Class Initialized
+INFO - 2015-04-13 13:11:54 --> Router Class Initialized
+INFO - 2015-04-13 13:11:54 --> Output Class Initialized
+INFO - 2015-04-13 13:11:54 --> Security Class Initialized
+DEBUG - 2015-04-13 13:11:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:11:54 --> Input Class Initialized
+INFO - 2015-04-13 13:11:54 --> Language Class Initialized
+INFO - 2015-04-13 13:11:54 --> Loader Class Initialized
+INFO - 2015-04-13 13:11:54 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:11:54 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:11:54 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:11:54 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:11:54 --> Controller Class Initialized
+INFO - 2015-04-13 13:11:54 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:11:54 --> Model Class Initialized
+INFO - 2015-04-13 13:11:54 --> Model Class Initialized
+INFO - 2015-04-13 13:11:54 --> Parser Class Initialized
+INFO - 2015-04-13 13:11:54 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:11:54 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:11:54 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:11:54 --> Final output sent to browser
+DEBUG - 2015-04-13 13:11:54 --> Total execution time: 0.0062
+INFO - 2015-04-13 13:11:54 --> Config Class Initialized
+INFO - 2015-04-13 13:11:54 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:11:54 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:11:54 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:11:54 --> URI Class Initialized
+INFO - 2015-04-13 13:11:54 --> Router Class Initialized
+INFO - 2015-04-13 13:11:54 --> Output Class Initialized
+INFO - 2015-04-13 13:11:54 --> Security Class Initialized
+DEBUG - 2015-04-13 13:11:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:11:54 --> Input Class Initialized
+INFO - 2015-04-13 13:11:54 --> Language Class Initialized
+ERROR - 2015-04-13 13:11:54 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:11:54 --> Config Class Initialized
+INFO - 2015-04-13 13:11:54 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:11:54 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:11:54 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:11:54 --> URI Class Initialized
+INFO - 2015-04-13 13:11:54 --> Router Class Initialized
+INFO - 2015-04-13 13:11:54 --> Output Class Initialized
+INFO - 2015-04-13 13:11:54 --> Security Class Initialized
+DEBUG - 2015-04-13 13:11:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:11:54 --> Input Class Initialized
+INFO - 2015-04-13 13:11:54 --> Language Class Initialized
+INFO - 2015-04-13 13:11:54 --> Loader Class Initialized
+INFO - 2015-04-13 13:11:54 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:11:54 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:11:54 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:11:54 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:11:54 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:11:54 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:11:54 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:11:54 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:11:54 --> Model Class Initialized
+INFO - 2015-04-13 13:11:54 --> Model Class Initialized
+INFO - 2015-04-13 13:11:54 --> Searching author with id 79
+INFO - 2015-04-13 13:11:58 --> Config Class Initialized
+INFO - 2015-04-13 13:11:58 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:11:58 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:11:58 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:11:58 --> URI Class Initialized
+INFO - 2015-04-13 13:11:58 --> Router Class Initialized
+INFO - 2015-04-13 13:11:58 --> Output Class Initialized
+INFO - 2015-04-13 13:11:58 --> Security Class Initialized
+DEBUG - 2015-04-13 13:11:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:11:58 --> Input Class Initialized
+INFO - 2015-04-13 13:11:58 --> Language Class Initialized
+INFO - 2015-04-13 13:11:58 --> Loader Class Initialized
+INFO - 2015-04-13 13:11:58 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:11:58 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:11:58 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:11:58 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:11:58 --> Controller Class Initialized
+INFO - 2015-04-13 13:11:58 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:11:58 --> Model Class Initialized
+INFO - 2015-04-13 13:11:58 --> Model Class Initialized
+INFO - 2015-04-13 13:11:58 --> Parser Class Initialized
+INFO - 2015-04-13 13:11:58 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:11:58 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:11:58 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:11:58 --> Final output sent to browser
+DEBUG - 2015-04-13 13:11:58 --> Total execution time: 0.0086
+INFO - 2015-04-13 13:12:00 --> Config Class Initialized
+INFO - 2015-04-13 13:12:00 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:12:00 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:12:00 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:12:00 --> URI Class Initialized
+INFO - 2015-04-13 13:12:00 --> Router Class Initialized
+INFO - 2015-04-13 13:12:00 --> Output Class Initialized
+INFO - 2015-04-13 13:12:00 --> Security Class Initialized
+DEBUG - 2015-04-13 13:12:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:12:00 --> Input Class Initialized
+INFO - 2015-04-13 13:12:00 --> Language Class Initialized
+INFO - 2015-04-13 13:12:00 --> Loader Class Initialized
+INFO - 2015-04-13 13:12:00 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:12:00 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:12:00 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:12:00 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:12:00 --> Controller Class Initialized
+INFO - 2015-04-13 13:12:00 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:12:00 --> Model Class Initialized
+INFO - 2015-04-13 13:12:00 --> Model Class Initialized
+INFO - 2015-04-13 13:12:00 --> Parser Class Initialized
+INFO - 2015-04-13 13:12:00 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:12:00 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:12:00 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:12:00 --> Final output sent to browser
+DEBUG - 2015-04-13 13:12:00 --> Total execution time: 0.0055
+INFO - 2015-04-13 13:12:00 --> Config Class Initialized
+INFO - 2015-04-13 13:12:00 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:12:00 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:12:00 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:12:00 --> URI Class Initialized
+INFO - 2015-04-13 13:12:00 --> Router Class Initialized
+INFO - 2015-04-13 13:12:00 --> Output Class Initialized
+INFO - 2015-04-13 13:12:00 --> Security Class Initialized
+DEBUG - 2015-04-13 13:12:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:12:00 --> Input Class Initialized
+INFO - 2015-04-13 13:12:00 --> Language Class Initialized
+INFO - 2015-04-13 13:12:00 --> Loader Class Initialized
+INFO - 2015-04-13 13:12:00 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:12:00 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:12:00 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:12:00 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:12:00 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:12:00 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:12:00 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:12:00 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:12:00 --> Model Class Initialized
+INFO - 2015-04-13 13:12:00 --> Model Class Initialized
+INFO - 2015-04-13 13:12:00 --> Searching author with id 79
+INFO - 2015-04-13 13:12:52 --> Config Class Initialized
+INFO - 2015-04-13 13:12:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:12:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:12:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:12:52 --> URI Class Initialized
+INFO - 2015-04-13 13:12:52 --> Router Class Initialized
+INFO - 2015-04-13 13:12:52 --> Output Class Initialized
+INFO - 2015-04-13 13:12:52 --> Security Class Initialized
+DEBUG - 2015-04-13 13:12:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:12:52 --> Input Class Initialized
+INFO - 2015-04-13 13:12:52 --> Language Class Initialized
+INFO - 2015-04-13 13:12:52 --> Loader Class Initialized
+INFO - 2015-04-13 13:12:52 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:12:52 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:12:52 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:12:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:12:52 --> Controller Class Initialized
+INFO - 2015-04-13 13:12:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:12:52 --> Model Class Initialized
+INFO - 2015-04-13 13:12:52 --> Model Class Initialized
+INFO - 2015-04-13 13:12:52 --> Parser Class Initialized
+INFO - 2015-04-13 13:12:52 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:12:52 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:12:52 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:12:52 --> Final output sent to browser
+DEBUG - 2015-04-13 13:12:52 --> Total execution time: 0.0067
+INFO - 2015-04-13 13:12:52 --> Config Class Initialized
+INFO - 2015-04-13 13:12:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:12:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:12:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:12:52 --> URI Class Initialized
+INFO - 2015-04-13 13:12:52 --> Router Class Initialized
+INFO - 2015-04-13 13:12:52 --> Output Class Initialized
+INFO - 2015-04-13 13:12:52 --> Security Class Initialized
+DEBUG - 2015-04-13 13:12:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:12:52 --> Input Class Initialized
+INFO - 2015-04-13 13:12:52 --> Language Class Initialized
+ERROR - 2015-04-13 13:12:52 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:12:52 --> Config Class Initialized
+INFO - 2015-04-13 13:12:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:12:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:12:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:12:52 --> URI Class Initialized
+INFO - 2015-04-13 13:12:52 --> Router Class Initialized
+INFO - 2015-04-13 13:12:52 --> Output Class Initialized
+INFO - 2015-04-13 13:12:52 --> Security Class Initialized
+DEBUG - 2015-04-13 13:12:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:12:52 --> Input Class Initialized
+INFO - 2015-04-13 13:12:52 --> Language Class Initialized
+INFO - 2015-04-13 13:12:52 --> Loader Class Initialized
+INFO - 2015-04-13 13:12:52 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:12:52 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:12:52 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:12:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:12:52 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:12:52 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:12:52 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:12:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:12:52 --> Model Class Initialized
+INFO - 2015-04-13 13:12:52 --> Model Class Initialized
+INFO - 2015-04-13 13:12:52 --> Searching author with id 79
+INFO - 2015-04-13 13:13:05 --> Config Class Initialized
+INFO - 2015-04-13 13:13:05 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:13:05 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:13:05 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:13:05 --> URI Class Initialized
+INFO - 2015-04-13 13:13:05 --> Router Class Initialized
+INFO - 2015-04-13 13:13:05 --> Output Class Initialized
+INFO - 2015-04-13 13:13:05 --> Security Class Initialized
+DEBUG - 2015-04-13 13:13:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:13:05 --> Input Class Initialized
+INFO - 2015-04-13 13:13:05 --> Language Class Initialized
+INFO - 2015-04-13 13:13:05 --> Loader Class Initialized
+INFO - 2015-04-13 13:13:05 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:13:05 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:13:05 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:13:05 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:13:05 --> Controller Class Initialized
+INFO - 2015-04-13 13:13:05 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:13:05 --> Model Class Initialized
+INFO - 2015-04-13 13:13:05 --> Model Class Initialized
+INFO - 2015-04-13 13:13:05 --> Parser Class Initialized
+INFO - 2015-04-13 13:13:05 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:13:05 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:13:05 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:13:05 --> Final output sent to browser
+DEBUG - 2015-04-13 13:13:05 --> Total execution time: 0.0054
+INFO - 2015-04-13 13:13:05 --> Config Class Initialized
+INFO - 2015-04-13 13:13:05 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:13:05 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:13:05 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:13:05 --> URI Class Initialized
+INFO - 2015-04-13 13:13:05 --> Router Class Initialized
+INFO - 2015-04-13 13:13:05 --> Output Class Initialized
+INFO - 2015-04-13 13:13:05 --> Security Class Initialized
+DEBUG - 2015-04-13 13:13:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:13:05 --> Input Class Initialized
+INFO - 2015-04-13 13:13:05 --> Language Class Initialized
+ERROR - 2015-04-13 13:13:05 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:13:05 --> Config Class Initialized
+INFO - 2015-04-13 13:13:05 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:13:05 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:13:05 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:13:05 --> URI Class Initialized
+INFO - 2015-04-13 13:13:05 --> Router Class Initialized
+INFO - 2015-04-13 13:13:05 --> Output Class Initialized
+INFO - 2015-04-13 13:13:05 --> Security Class Initialized
+DEBUG - 2015-04-13 13:13:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:13:05 --> Input Class Initialized
+INFO - 2015-04-13 13:13:05 --> Language Class Initialized
+INFO - 2015-04-13 13:13:05 --> Loader Class Initialized
+INFO - 2015-04-13 13:13:05 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:13:05 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:13:05 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:13:05 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:13:05 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:13:05 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:13:05 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:13:05 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:13:05 --> Model Class Initialized
+INFO - 2015-04-13 13:13:05 --> Model Class Initialized
+INFO - 2015-04-13 13:13:05 --> Searching author with id 79
+INFO - 2015-04-13 13:13:06 --> Config Class Initialized
+INFO - 2015-04-13 13:13:06 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:13:06 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:13:06 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:13:06 --> URI Class Initialized
+INFO - 2015-04-13 13:13:06 --> Router Class Initialized
+INFO - 2015-04-13 13:13:06 --> Output Class Initialized
+INFO - 2015-04-13 13:13:06 --> Security Class Initialized
+DEBUG - 2015-04-13 13:13:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:13:06 --> Input Class Initialized
+INFO - 2015-04-13 13:13:06 --> Language Class Initialized
+INFO - 2015-04-13 13:13:07 --> Loader Class Initialized
+INFO - 2015-04-13 13:13:07 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:13:07 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:13:07 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:13:07 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:13:07 --> Controller Class Initialized
+INFO - 2015-04-13 13:13:07 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:13:07 --> Model Class Initialized
+INFO - 2015-04-13 13:13:07 --> Model Class Initialized
+INFO - 2015-04-13 13:13:07 --> Parser Class Initialized
+INFO - 2015-04-13 13:13:07 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:13:07 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:13:07 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:13:07 --> Final output sent to browser
+DEBUG - 2015-04-13 13:13:07 --> Total execution time: 0.0069
+INFO - 2015-04-13 13:13:07 --> Config Class Initialized
+INFO - 2015-04-13 13:13:07 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:13:07 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:13:07 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:13:07 --> URI Class Initialized
+INFO - 2015-04-13 13:13:07 --> Router Class Initialized
+INFO - 2015-04-13 13:13:07 --> Output Class Initialized
+INFO - 2015-04-13 13:13:07 --> Security Class Initialized
+DEBUG - 2015-04-13 13:13:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:13:07 --> Input Class Initialized
+INFO - 2015-04-13 13:13:07 --> Language Class Initialized
+ERROR - 2015-04-13 13:13:07 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:13:07 --> Config Class Initialized
+INFO - 2015-04-13 13:13:07 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:13:07 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:13:07 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:13:07 --> URI Class Initialized
+INFO - 2015-04-13 13:13:07 --> Router Class Initialized
+INFO - 2015-04-13 13:13:07 --> Output Class Initialized
+INFO - 2015-04-13 13:13:07 --> Security Class Initialized
+DEBUG - 2015-04-13 13:13:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:13:07 --> Input Class Initialized
+INFO - 2015-04-13 13:13:07 --> Language Class Initialized
+INFO - 2015-04-13 13:13:07 --> Loader Class Initialized
+INFO - 2015-04-13 13:13:07 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:13:07 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:13:07 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:13:07 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:13:07 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:13:07 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:13:07 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:13:07 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:13:07 --> Model Class Initialized
+INFO - 2015-04-13 13:13:07 --> Model Class Initialized
+INFO - 2015-04-13 13:13:07 --> Searching author with id 79
+INFO - 2015-04-13 13:13:12 --> Config Class Initialized
+INFO - 2015-04-13 13:13:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:13:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:13:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:13:12 --> URI Class Initialized
+INFO - 2015-04-13 13:13:12 --> Router Class Initialized
+INFO - 2015-04-13 13:13:12 --> Output Class Initialized
+INFO - 2015-04-13 13:13:12 --> Security Class Initialized
+DEBUG - 2015-04-13 13:13:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:13:12 --> Input Class Initialized
+INFO - 2015-04-13 13:13:12 --> Language Class Initialized
+INFO - 2015-04-13 13:13:12 --> Loader Class Initialized
+INFO - 2015-04-13 13:13:12 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:13:12 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:13:12 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:13:12 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:13:12 --> Controller Class Initialized
+INFO - 2015-04-13 13:13:12 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:13:12 --> Model Class Initialized
+INFO - 2015-04-13 13:13:12 --> Model Class Initialized
+INFO - 2015-04-13 13:13:12 --> Parser Class Initialized
+INFO - 2015-04-13 13:13:12 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:13:12 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:13:12 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:13:12 --> Final output sent to browser
+DEBUG - 2015-04-13 13:13:12 --> Total execution time: 0.0054
+INFO - 2015-04-13 13:13:12 --> Config Class Initialized
+INFO - 2015-04-13 13:13:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:13:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:13:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:13:12 --> URI Class Initialized
+INFO - 2015-04-13 13:13:12 --> Router Class Initialized
+INFO - 2015-04-13 13:13:12 --> Output Class Initialized
+INFO - 2015-04-13 13:13:12 --> Security Class Initialized
+DEBUG - 2015-04-13 13:13:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:13:12 --> Input Class Initialized
+INFO - 2015-04-13 13:13:12 --> Language Class Initialized
+ERROR - 2015-04-13 13:13:12 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:13:12 --> Config Class Initialized
+INFO - 2015-04-13 13:13:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:13:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:13:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:13:12 --> URI Class Initialized
+INFO - 2015-04-13 13:13:12 --> Router Class Initialized
+INFO - 2015-04-13 13:13:12 --> Output Class Initialized
+INFO - 2015-04-13 13:13:12 --> Security Class Initialized
+DEBUG - 2015-04-13 13:13:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:13:12 --> Input Class Initialized
+INFO - 2015-04-13 13:13:12 --> Language Class Initialized
+INFO - 2015-04-13 13:13:12 --> Loader Class Initialized
+INFO - 2015-04-13 13:13:12 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:13:12 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:13:12 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:13:12 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:13:12 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:13:12 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:13:12 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:13:12 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:13:12 --> Model Class Initialized
+INFO - 2015-04-13 13:13:12 --> Model Class Initialized
+INFO - 2015-04-13 13:13:12 --> Searching author with id 79
+INFO - 2015-04-13 13:14:01 --> Config Class Initialized
+INFO - 2015-04-13 13:14:01 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:01 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:01 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:01 --> URI Class Initialized
+INFO - 2015-04-13 13:14:01 --> Router Class Initialized
+INFO - 2015-04-13 13:14:01 --> Output Class Initialized
+INFO - 2015-04-13 13:14:01 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:01 --> Input Class Initialized
+INFO - 2015-04-13 13:14:01 --> Language Class Initialized
+INFO - 2015-04-13 13:14:01 --> Loader Class Initialized
+INFO - 2015-04-13 13:14:01 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:14:01 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:14:01 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:14:01 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:14:01 --> Controller Class Initialized
+INFO - 2015-04-13 13:14:01 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:14:01 --> Model Class Initialized
+INFO - 2015-04-13 13:14:01 --> Model Class Initialized
+INFO - 2015-04-13 13:14:01 --> Parser Class Initialized
+INFO - 2015-04-13 13:14:01 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:14:01 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:14:01 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:14:01 --> Final output sent to browser
+DEBUG - 2015-04-13 13:14:01 --> Total execution time: 0.0070
+INFO - 2015-04-13 13:14:02 --> Config Class Initialized
+INFO - 2015-04-13 13:14:02 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:02 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:02 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:02 --> URI Class Initialized
+INFO - 2015-04-13 13:14:02 --> Router Class Initialized
+INFO - 2015-04-13 13:14:02 --> Output Class Initialized
+INFO - 2015-04-13 13:14:02 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:02 --> Input Class Initialized
+INFO - 2015-04-13 13:14:02 --> Language Class Initialized
+ERROR - 2015-04-13 13:14:02 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:14:02 --> Config Class Initialized
+INFO - 2015-04-13 13:14:02 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:02 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:02 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:02 --> URI Class Initialized
+INFO - 2015-04-13 13:14:02 --> Router Class Initialized
+INFO - 2015-04-13 13:14:02 --> Output Class Initialized
+INFO - 2015-04-13 13:14:02 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:02 --> Input Class Initialized
+INFO - 2015-04-13 13:14:02 --> Language Class Initialized
+INFO - 2015-04-13 13:14:02 --> Loader Class Initialized
+INFO - 2015-04-13 13:14:02 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:14:02 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:14:02 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:14:02 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:14:02 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:14:02 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:14:02 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:14:02 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:14:02 --> Model Class Initialized
+INFO - 2015-04-13 13:14:02 --> Model Class Initialized
+INFO - 2015-04-13 13:14:02 --> Searching author with id 79
+INFO - 2015-04-13 13:14:23 --> Config Class Initialized
+INFO - 2015-04-13 13:14:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:23 --> URI Class Initialized
+INFO - 2015-04-13 13:14:23 --> Router Class Initialized
+INFO - 2015-04-13 13:14:23 --> Output Class Initialized
+INFO - 2015-04-13 13:14:23 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:23 --> Input Class Initialized
+INFO - 2015-04-13 13:14:23 --> Language Class Initialized
+INFO - 2015-04-13 13:14:23 --> Loader Class Initialized
+INFO - 2015-04-13 13:14:23 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:14:23 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:14:23 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:14:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:14:23 --> Controller Class Initialized
+INFO - 2015-04-13 13:14:23 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:14:23 --> Model Class Initialized
+INFO - 2015-04-13 13:14:23 --> Model Class Initialized
+INFO - 2015-04-13 13:14:23 --> Parser Class Initialized
+INFO - 2015-04-13 13:14:23 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:14:23 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:14:23 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:14:23 --> Final output sent to browser
+DEBUG - 2015-04-13 13:14:23 --> Total execution time: 0.0094
+INFO - 2015-04-13 13:14:23 --> Config Class Initialized
+INFO - 2015-04-13 13:14:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:23 --> URI Class Initialized
+INFO - 2015-04-13 13:14:23 --> Router Class Initialized
+INFO - 2015-04-13 13:14:23 --> Output Class Initialized
+INFO - 2015-04-13 13:14:23 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:23 --> Input Class Initialized
+INFO - 2015-04-13 13:14:23 --> Language Class Initialized
+ERROR - 2015-04-13 13:14:23 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:14:24 --> Config Class Initialized
+INFO - 2015-04-13 13:14:24 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:24 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:24 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:24 --> URI Class Initialized
+INFO - 2015-04-13 13:14:24 --> Router Class Initialized
+INFO - 2015-04-13 13:14:24 --> Output Class Initialized
+INFO - 2015-04-13 13:14:24 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:24 --> Input Class Initialized
+INFO - 2015-04-13 13:14:24 --> Language Class Initialized
+INFO - 2015-04-13 13:14:24 --> Loader Class Initialized
+INFO - 2015-04-13 13:14:24 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:14:24 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:14:24 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:14:24 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:14:24 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:14:24 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:14:24 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:14:24 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:14:24 --> Model Class Initialized
+INFO - 2015-04-13 13:14:24 --> Model Class Initialized
+INFO - 2015-04-13 13:14:24 --> Searching author with id 79
+INFO - 2015-04-13 13:14:30 --> Config Class Initialized
+INFO - 2015-04-13 13:14:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:30 --> URI Class Initialized
+INFO - 2015-04-13 13:14:30 --> Router Class Initialized
+INFO - 2015-04-13 13:14:30 --> Output Class Initialized
+INFO - 2015-04-13 13:14:30 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:30 --> Input Class Initialized
+INFO - 2015-04-13 13:14:30 --> Language Class Initialized
+INFO - 2015-04-13 13:14:30 --> Loader Class Initialized
+INFO - 2015-04-13 13:14:30 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:14:30 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:14:30 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:14:30 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:14:30 --> Controller Class Initialized
+INFO - 2015-04-13 13:14:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:14:30 --> Model Class Initialized
+INFO - 2015-04-13 13:14:30 --> Model Class Initialized
+INFO - 2015-04-13 13:14:30 --> Parser Class Initialized
+INFO - 2015-04-13 13:14:30 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:14:30 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:14:30 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:14:30 --> Final output sent to browser
+DEBUG - 2015-04-13 13:14:30 --> Total execution time: 0.0066
+INFO - 2015-04-13 13:14:30 --> Config Class Initialized
+INFO - 2015-04-13 13:14:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:30 --> URI Class Initialized
+INFO - 2015-04-13 13:14:30 --> Router Class Initialized
+INFO - 2015-04-13 13:14:30 --> Output Class Initialized
+INFO - 2015-04-13 13:14:30 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:30 --> Input Class Initialized
+INFO - 2015-04-13 13:14:30 --> Language Class Initialized
+ERROR - 2015-04-13 13:14:30 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:14:30 --> Config Class Initialized
+INFO - 2015-04-13 13:14:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:30 --> URI Class Initialized
+INFO - 2015-04-13 13:14:30 --> Router Class Initialized
+INFO - 2015-04-13 13:14:30 --> Output Class Initialized
+INFO - 2015-04-13 13:14:30 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:30 --> Input Class Initialized
+INFO - 2015-04-13 13:14:30 --> Language Class Initialized
+INFO - 2015-04-13 13:14:30 --> Loader Class Initialized
+INFO - 2015-04-13 13:14:30 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:14:30 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:14:30 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:14:30 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:14:30 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:14:30 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:14:30 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:14:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:14:30 --> Model Class Initialized
+INFO - 2015-04-13 13:14:30 --> Model Class Initialized
+INFO - 2015-04-13 13:14:30 --> Searching author with id 79
+INFO - 2015-04-13 13:14:36 --> Config Class Initialized
+INFO - 2015-04-13 13:14:36 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:36 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:36 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:36 --> URI Class Initialized
+INFO - 2015-04-13 13:14:36 --> Router Class Initialized
+INFO - 2015-04-13 13:14:36 --> Output Class Initialized
+INFO - 2015-04-13 13:14:36 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:36 --> Input Class Initialized
+INFO - 2015-04-13 13:14:36 --> Language Class Initialized
+INFO - 2015-04-13 13:14:36 --> Loader Class Initialized
+INFO - 2015-04-13 13:14:36 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:14:36 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:14:36 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:14:36 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:14:36 --> Controller Class Initialized
+INFO - 2015-04-13 13:14:36 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:14:36 --> Model Class Initialized
+INFO - 2015-04-13 13:14:36 --> Model Class Initialized
+INFO - 2015-04-13 13:14:36 --> Parser Class Initialized
+INFO - 2015-04-13 13:14:36 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:14:36 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:14:36 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:14:36 --> Final output sent to browser
+DEBUG - 2015-04-13 13:14:36 --> Total execution time: 0.0064
+INFO - 2015-04-13 13:14:36 --> Config Class Initialized
+INFO - 2015-04-13 13:14:36 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:36 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:36 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:36 --> URI Class Initialized
+INFO - 2015-04-13 13:14:36 --> Router Class Initialized
+INFO - 2015-04-13 13:14:36 --> Output Class Initialized
+INFO - 2015-04-13 13:14:36 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:36 --> Input Class Initialized
+INFO - 2015-04-13 13:14:36 --> Language Class Initialized
+ERROR - 2015-04-13 13:14:36 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:14:37 --> Config Class Initialized
+INFO - 2015-04-13 13:14:37 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:37 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:37 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:37 --> URI Class Initialized
+INFO - 2015-04-13 13:14:37 --> Router Class Initialized
+INFO - 2015-04-13 13:14:37 --> Output Class Initialized
+INFO - 2015-04-13 13:14:37 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:37 --> Input Class Initialized
+INFO - 2015-04-13 13:14:37 --> Language Class Initialized
+INFO - 2015-04-13 13:14:37 --> Loader Class Initialized
+INFO - 2015-04-13 13:14:37 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:14:37 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:14:37 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:14:37 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:14:37 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:14:37 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:14:37 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:14:37 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:14:37 --> Model Class Initialized
+INFO - 2015-04-13 13:14:37 --> Model Class Initialized
+INFO - 2015-04-13 13:14:37 --> Searching author with id 79
+INFO - 2015-04-13 13:14:53 --> Config Class Initialized
+INFO - 2015-04-13 13:14:53 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:53 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:53 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:53 --> URI Class Initialized
+INFO - 2015-04-13 13:14:53 --> Router Class Initialized
+INFO - 2015-04-13 13:14:53 --> Output Class Initialized
+INFO - 2015-04-13 13:14:53 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:53 --> Input Class Initialized
+INFO - 2015-04-13 13:14:53 --> Language Class Initialized
+INFO - 2015-04-13 13:14:53 --> Loader Class Initialized
+INFO - 2015-04-13 13:14:53 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:14:53 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:14:53 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:14:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:14:53 --> Controller Class Initialized
+INFO - 2015-04-13 13:14:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:14:53 --> Model Class Initialized
+INFO - 2015-04-13 13:14:53 --> Model Class Initialized
+INFO - 2015-04-13 13:14:53 --> Parser Class Initialized
+INFO - 2015-04-13 13:14:53 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:14:53 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:14:53 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:14:53 --> Final output sent to browser
+DEBUG - 2015-04-13 13:14:53 --> Total execution time: 0.0069
+INFO - 2015-04-13 13:14:57 --> Config Class Initialized
+INFO - 2015-04-13 13:14:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:57 --> URI Class Initialized
+INFO - 2015-04-13 13:14:57 --> Router Class Initialized
+INFO - 2015-04-13 13:14:57 --> Output Class Initialized
+INFO - 2015-04-13 13:14:57 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:57 --> Input Class Initialized
+INFO - 2015-04-13 13:14:57 --> Language Class Initialized
+INFO - 2015-04-13 13:14:57 --> Loader Class Initialized
+INFO - 2015-04-13 13:14:57 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:14:57 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:14:57 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:14:57 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:14:57 --> Controller Class Initialized
+INFO - 2015-04-13 13:14:57 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:14:57 --> Model Class Initialized
+INFO - 2015-04-13 13:14:57 --> Model Class Initialized
+INFO - 2015-04-13 13:14:57 --> Parser Class Initialized
+INFO - 2015-04-13 13:14:57 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:14:57 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:14:57 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:14:57 --> Final output sent to browser
+DEBUG - 2015-04-13 13:14:57 --> Total execution time: 0.0063
+INFO - 2015-04-13 13:14:57 --> Config Class Initialized
+INFO - 2015-04-13 13:14:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:57 --> URI Class Initialized
+INFO - 2015-04-13 13:14:57 --> Router Class Initialized
+INFO - 2015-04-13 13:14:57 --> Output Class Initialized
+INFO - 2015-04-13 13:14:57 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:57 --> Input Class Initialized
+INFO - 2015-04-13 13:14:57 --> Language Class Initialized
+INFO - 2015-04-13 13:14:57 --> Loader Class Initialized
+INFO - 2015-04-13 13:14:57 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:14:57 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:14:57 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:14:57 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:14:57 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:14:57 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:14:57 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:14:57 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:14:57 --> Model Class Initialized
+INFO - 2015-04-13 13:14:57 --> Model Class Initialized
+INFO - 2015-04-13 13:14:57 --> Searching author with id 79
+INFO - 2015-04-13 13:14:58 --> Config Class Initialized
+INFO - 2015-04-13 13:14:58 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:58 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:58 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:58 --> URI Class Initialized
+INFO - 2015-04-13 13:14:58 --> Router Class Initialized
+INFO - 2015-04-13 13:14:58 --> Output Class Initialized
+INFO - 2015-04-13 13:14:58 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:58 --> Input Class Initialized
+INFO - 2015-04-13 13:14:58 --> Language Class Initialized
+INFO - 2015-04-13 13:14:58 --> Loader Class Initialized
+INFO - 2015-04-13 13:14:58 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:14:58 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:14:58 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:14:58 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:14:58 --> Controller Class Initialized
+INFO - 2015-04-13 13:14:58 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:14:58 --> Model Class Initialized
+INFO - 2015-04-13 13:14:58 --> Model Class Initialized
+INFO - 2015-04-13 13:14:58 --> Parser Class Initialized
+INFO - 2015-04-13 13:14:58 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:14:58 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:14:58 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:14:58 --> Final output sent to browser
+DEBUG - 2015-04-13 13:14:58 --> Total execution time: 0.0082
+INFO - 2015-04-13 13:14:58 --> Config Class Initialized
+INFO - 2015-04-13 13:14:58 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:14:58 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:14:58 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:14:58 --> URI Class Initialized
+INFO - 2015-04-13 13:14:58 --> Router Class Initialized
+INFO - 2015-04-13 13:14:58 --> Output Class Initialized
+INFO - 2015-04-13 13:14:58 --> Security Class Initialized
+DEBUG - 2015-04-13 13:14:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:14:58 --> Input Class Initialized
+INFO - 2015-04-13 13:14:58 --> Language Class Initialized
+INFO - 2015-04-13 13:14:58 --> Loader Class Initialized
+INFO - 2015-04-13 13:14:58 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:14:58 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:14:58 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:14:58 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:14:58 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:14:58 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:14:58 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:14:58 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:14:58 --> Model Class Initialized
+INFO - 2015-04-13 13:14:58 --> Model Class Initialized
+INFO - 2015-04-13 13:15:01 --> Config Class Initialized
+INFO - 2015-04-13 13:15:01 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:01 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:01 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:01 --> URI Class Initialized
+DEBUG - 2015-04-13 13:15:01 --> No URI present. Default controller set.
+INFO - 2015-04-13 13:15:01 --> Router Class Initialized
+INFO - 2015-04-13 13:15:01 --> Output Class Initialized
+INFO - 2015-04-13 13:15:01 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:01 --> Input Class Initialized
+INFO - 2015-04-13 13:15:01 --> Language Class Initialized
+INFO - 2015-04-13 13:15:01 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:01 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:01 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:01 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:01 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:01 --> Controller Class Initialized
+INFO - 2015-04-13 13:15:01 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:01 --> Model Class Initialized
+INFO - 2015-04-13 13:15:01 --> Model Class Initialized
+INFO - 2015-04-13 13:15:01 --> Parser Class Initialized
+INFO - 2015-04-13 13:15:01 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:15:01 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:15:01 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:15:01 --> Final output sent to browser
+DEBUG - 2015-04-13 13:15:01 --> Total execution time: 0.0078
+INFO - 2015-04-13 13:15:01 --> Config Class Initialized
+INFO - 2015-04-13 13:15:01 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:01 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:01 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:01 --> URI Class Initialized
+INFO - 2015-04-13 13:15:01 --> Router Class Initialized
+INFO - 2015-04-13 13:15:01 --> Output Class Initialized
+INFO - 2015-04-13 13:15:01 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:01 --> Input Class Initialized
+INFO - 2015-04-13 13:15:01 --> Language Class Initialized
+INFO - 2015-04-13 13:15:01 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:01 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:01 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:01 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:01 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:01 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:15:01 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:15:01 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:15:01 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:01 --> Model Class Initialized
+INFO - 2015-04-13 13:15:01 --> Model Class Initialized
+INFO - 2015-04-13 13:15:17 --> Config Class Initialized
+INFO - 2015-04-13 13:15:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:17 --> URI Class Initialized
+DEBUG - 2015-04-13 13:15:17 --> No URI present. Default controller set.
+INFO - 2015-04-13 13:15:17 --> Router Class Initialized
+INFO - 2015-04-13 13:15:17 --> Output Class Initialized
+INFO - 2015-04-13 13:15:17 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:17 --> Input Class Initialized
+INFO - 2015-04-13 13:15:17 --> Language Class Initialized
+INFO - 2015-04-13 13:15:17 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:17 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:17 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:17 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:17 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:17 --> Controller Class Initialized
+INFO - 2015-04-13 13:15:17 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:17 --> Model Class Initialized
+INFO - 2015-04-13 13:15:17 --> Model Class Initialized
+INFO - 2015-04-13 13:15:17 --> Parser Class Initialized
+INFO - 2015-04-13 13:15:17 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:15:17 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:15:17 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:15:17 --> Final output sent to browser
+DEBUG - 2015-04-13 13:15:17 --> Total execution time: 0.0077
+INFO - 2015-04-13 13:15:17 --> Config Class Initialized
+INFO - 2015-04-13 13:15:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:17 --> URI Class Initialized
+INFO - 2015-04-13 13:15:17 --> Router Class Initialized
+INFO - 2015-04-13 13:15:17 --> Output Class Initialized
+INFO - 2015-04-13 13:15:17 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:17 --> Input Class Initialized
+INFO - 2015-04-13 13:15:17 --> Language Class Initialized
+INFO - 2015-04-13 13:15:17 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:17 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:17 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:17 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:17 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:17 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:15:17 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:15:17 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:15:17 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:17 --> Model Class Initialized
+INFO - 2015-04-13 13:15:17 --> Model Class Initialized
+INFO - 2015-04-13 13:15:20 --> Config Class Initialized
+INFO - 2015-04-13 13:15:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:20 --> URI Class Initialized
+INFO - 2015-04-13 13:15:20 --> Router Class Initialized
+INFO - 2015-04-13 13:15:20 --> Output Class Initialized
+INFO - 2015-04-13 13:15:20 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:20 --> Input Class Initialized
+INFO - 2015-04-13 13:15:20 --> Language Class Initialized
+INFO - 2015-04-13 13:15:20 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:20 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:20 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:20 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:20 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:20 --> Controller Class Initialized
+INFO - 2015-04-13 13:15:20 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:20 --> Model Class Initialized
+INFO - 2015-04-13 13:15:20 --> Model Class Initialized
+INFO - 2015-04-13 13:15:20 --> Parser Class Initialized
+INFO - 2015-04-13 13:15:20 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:15:20 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:15:20 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:15:20 --> Final output sent to browser
+DEBUG - 2015-04-13 13:15:20 --> Total execution time: 0.0122
+INFO - 2015-04-13 13:15:20 --> Config Class Initialized
+INFO - 2015-04-13 13:15:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:20 --> URI Class Initialized
+INFO - 2015-04-13 13:15:20 --> Router Class Initialized
+INFO - 2015-04-13 13:15:20 --> Output Class Initialized
+INFO - 2015-04-13 13:15:20 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:20 --> Input Class Initialized
+INFO - 2015-04-13 13:15:20 --> Language Class Initialized
+INFO - 2015-04-13 13:15:20 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:20 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:20 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:20 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:20 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:20 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:15:20 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:15:20 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:15:20 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:20 --> Model Class Initialized
+INFO - 2015-04-13 13:15:20 --> Model Class Initialized
+INFO - 2015-04-13 13:15:21 --> Config Class Initialized
+INFO - 2015-04-13 13:15:21 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:21 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:21 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:21 --> URI Class Initialized
+INFO - 2015-04-13 13:15:21 --> Router Class Initialized
+INFO - 2015-04-13 13:15:21 --> Output Class Initialized
+INFO - 2015-04-13 13:15:21 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:21 --> Input Class Initialized
+INFO - 2015-04-13 13:15:21 --> Language Class Initialized
+INFO - 2015-04-13 13:15:21 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:21 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:21 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:21 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:21 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:21 --> Controller Class Initialized
+INFO - 2015-04-13 13:15:21 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:21 --> Model Class Initialized
+INFO - 2015-04-13 13:15:21 --> Model Class Initialized
+INFO - 2015-04-13 13:15:21 --> Parser Class Initialized
+INFO - 2015-04-13 13:15:21 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:15:21 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:15:21 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:15:21 --> Final output sent to browser
+DEBUG - 2015-04-13 13:15:21 --> Total execution time: 0.0057
+INFO - 2015-04-13 13:15:21 --> Config Class Initialized
+INFO - 2015-04-13 13:15:21 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:21 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:21 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:21 --> URI Class Initialized
+INFO - 2015-04-13 13:15:21 --> Router Class Initialized
+INFO - 2015-04-13 13:15:21 --> Output Class Initialized
+INFO - 2015-04-13 13:15:21 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:21 --> Input Class Initialized
+INFO - 2015-04-13 13:15:21 --> Language Class Initialized
+ERROR - 2015-04-13 13:15:21 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:15:21 --> Config Class Initialized
+INFO - 2015-04-13 13:15:21 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:21 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:21 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:21 --> URI Class Initialized
+INFO - 2015-04-13 13:15:21 --> Router Class Initialized
+INFO - 2015-04-13 13:15:21 --> Output Class Initialized
+INFO - 2015-04-13 13:15:21 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:21 --> Input Class Initialized
+INFO - 2015-04-13 13:15:21 --> Language Class Initialized
+INFO - 2015-04-13 13:15:21 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:21 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:21 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:21 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:21 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:21 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:15:21 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:15:21 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:15:21 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:21 --> Model Class Initialized
+INFO - 2015-04-13 13:15:21 --> Model Class Initialized
+INFO - 2015-04-13 13:15:21 --> Searching author with id 16
+INFO - 2015-04-13 13:15:23 --> Config Class Initialized
+INFO - 2015-04-13 13:15:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:23 --> URI Class Initialized
+INFO - 2015-04-13 13:15:23 --> Router Class Initialized
+INFO - 2015-04-13 13:15:23 --> Output Class Initialized
+INFO - 2015-04-13 13:15:23 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:23 --> Input Class Initialized
+INFO - 2015-04-13 13:15:23 --> Language Class Initialized
+INFO - 2015-04-13 13:15:23 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:23 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:23 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:23 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:23 --> Controller Class Initialized
+INFO - 2015-04-13 13:15:23 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:23 --> Model Class Initialized
+INFO - 2015-04-13 13:15:23 --> Model Class Initialized
+INFO - 2015-04-13 13:15:23 --> Parser Class Initialized
+INFO - 2015-04-13 13:15:23 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:15:23 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:15:23 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:15:23 --> Final output sent to browser
+DEBUG - 2015-04-13 13:15:23 --> Total execution time: 0.0076
+INFO - 2015-04-13 13:15:25 --> Config Class Initialized
+INFO - 2015-04-13 13:15:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:25 --> URI Class Initialized
+INFO - 2015-04-13 13:15:25 --> Router Class Initialized
+INFO - 2015-04-13 13:15:25 --> Output Class Initialized
+INFO - 2015-04-13 13:15:25 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:25 --> Input Class Initialized
+INFO - 2015-04-13 13:15:25 --> Language Class Initialized
+INFO - 2015-04-13 13:15:25 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:25 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:25 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:25 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:25 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:25 --> Controller Class Initialized
+INFO - 2015-04-13 13:15:25 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:25 --> Model Class Initialized
+INFO - 2015-04-13 13:15:25 --> Model Class Initialized
+INFO - 2015-04-13 13:15:25 --> Helper loaded: form_helper
+INFO - 2015-04-13 13:15:25 --> Model Class Initialized
+INFO - 2015-04-13 13:15:25 --> Parser Class Initialized
+INFO - 2015-04-13 13:15:25 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:15:25 --> File loaded: /home/ubuntu/workspace/application/views/books/edit.php
+INFO - 2015-04-13 13:15:25 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:15:25 --> Final output sent to browser
+DEBUG - 2015-04-13 13:15:25 --> Total execution time: 0.0086
+INFO - 2015-04-13 13:15:25 --> Config Class Initialized
+INFO - 2015-04-13 13:15:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:25 --> URI Class Initialized
+INFO - 2015-04-13 13:15:25 --> Router Class Initialized
+INFO - 2015-04-13 13:15:25 --> Output Class Initialized
+INFO - 2015-04-13 13:15:25 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:25 --> Input Class Initialized
+INFO - 2015-04-13 13:15:25 --> Language Class Initialized
+INFO - 2015-04-13 13:15:25 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:25 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:25 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:25 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:25 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:25 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:15:25 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:15:25 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:15:25 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:25 --> Model Class Initialized
+INFO - 2015-04-13 13:15:25 --> Model Class Initialized
+INFO - 2015-04-13 13:15:25 --> Searching book with id 48
+INFO - 2015-04-13 13:15:28 --> Config Class Initialized
+INFO - 2015-04-13 13:15:28 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:28 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:28 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:28 --> URI Class Initialized
+INFO - 2015-04-13 13:15:28 --> Router Class Initialized
+INFO - 2015-04-13 13:15:28 --> Output Class Initialized
+INFO - 2015-04-13 13:15:28 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:28 --> Input Class Initialized
+INFO - 2015-04-13 13:15:28 --> Language Class Initialized
+INFO - 2015-04-13 13:15:28 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:28 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:28 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:28 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:28 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:28 --> Controller Class Initialized
+INFO - 2015-04-13 13:15:28 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:28 --> Model Class Initialized
+INFO - 2015-04-13 13:15:28 --> Model Class Initialized
+INFO - 2015-04-13 13:15:28 --> Parser Class Initialized
+INFO - 2015-04-13 13:15:28 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:15:28 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:15:28 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:15:28 --> Final output sent to browser
+DEBUG - 2015-04-13 13:15:28 --> Total execution time: 0.0082
+INFO - 2015-04-13 13:15:30 --> Config Class Initialized
+INFO - 2015-04-13 13:15:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:30 --> URI Class Initialized
+INFO - 2015-04-13 13:15:30 --> Router Class Initialized
+INFO - 2015-04-13 13:15:30 --> Output Class Initialized
+INFO - 2015-04-13 13:15:30 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:30 --> Input Class Initialized
+INFO - 2015-04-13 13:15:30 --> Language Class Initialized
+INFO - 2015-04-13 13:15:30 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:30 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:30 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:30 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:30 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:30 --> Controller Class Initialized
+INFO - 2015-04-13 13:15:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:30 --> Model Class Initialized
+INFO - 2015-04-13 13:15:30 --> Model Class Initialized
+INFO - 2015-04-13 13:15:30 --> Parser Class Initialized
+INFO - 2015-04-13 13:15:30 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:15:30 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:15:30 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:15:30 --> Final output sent to browser
+DEBUG - 2015-04-13 13:15:30 --> Total execution time: 0.0068
+INFO - 2015-04-13 13:15:30 --> Config Class Initialized
+INFO - 2015-04-13 13:15:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:30 --> URI Class Initialized
+INFO - 2015-04-13 13:15:30 --> Router Class Initialized
+INFO - 2015-04-13 13:15:30 --> Output Class Initialized
+INFO - 2015-04-13 13:15:30 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:30 --> Input Class Initialized
+INFO - 2015-04-13 13:15:30 --> Language Class Initialized
+INFO - 2015-04-13 13:15:30 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:30 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:30 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:30 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:30 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:30 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:15:30 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:15:30 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:15:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:30 --> Model Class Initialized
+INFO - 2015-04-13 13:15:30 --> Model Class Initialized
+INFO - 2015-04-13 13:15:31 --> Config Class Initialized
+INFO - 2015-04-13 13:15:31 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:31 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:31 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:31 --> URI Class Initialized
+DEBUG - 2015-04-13 13:15:31 --> No URI present. Default controller set.
+INFO - 2015-04-13 13:15:31 --> Router Class Initialized
+INFO - 2015-04-13 13:15:31 --> Output Class Initialized
+INFO - 2015-04-13 13:15:31 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:31 --> Input Class Initialized
+INFO - 2015-04-13 13:15:31 --> Language Class Initialized
+INFO - 2015-04-13 13:15:31 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:31 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:31 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:31 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:31 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:31 --> Controller Class Initialized
+INFO - 2015-04-13 13:15:31 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:31 --> Model Class Initialized
+INFO - 2015-04-13 13:15:31 --> Model Class Initialized
+INFO - 2015-04-13 13:15:31 --> Parser Class Initialized
+INFO - 2015-04-13 13:15:31 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:15:31 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:15:31 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:15:31 --> Final output sent to browser
+DEBUG - 2015-04-13 13:15:31 --> Total execution time: 0.0084
+INFO - 2015-04-13 13:15:31 --> Config Class Initialized
+INFO - 2015-04-13 13:15:31 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:31 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:31 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:31 --> URI Class Initialized
+INFO - 2015-04-13 13:15:31 --> Router Class Initialized
+INFO - 2015-04-13 13:15:31 --> Output Class Initialized
+INFO - 2015-04-13 13:15:31 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:31 --> Input Class Initialized
+INFO - 2015-04-13 13:15:31 --> Language Class Initialized
+INFO - 2015-04-13 13:15:31 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:31 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:31 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:31 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:31 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:31 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:15:31 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:15:31 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:15:31 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:31 --> Model Class Initialized
+INFO - 2015-04-13 13:15:31 --> Model Class Initialized
+INFO - 2015-04-13 13:15:51 --> Config Class Initialized
+INFO - 2015-04-13 13:15:51 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:51 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:51 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:51 --> URI Class Initialized
+DEBUG - 2015-04-13 13:15:51 --> No URI present. Default controller set.
+INFO - 2015-04-13 13:15:51 --> Router Class Initialized
+INFO - 2015-04-13 13:15:51 --> Output Class Initialized
+INFO - 2015-04-13 13:15:51 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:51 --> Input Class Initialized
+INFO - 2015-04-13 13:15:51 --> Language Class Initialized
+INFO - 2015-04-13 13:15:51 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:51 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:51 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:51 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:51 --> Controller Class Initialized
+INFO - 2015-04-13 13:15:51 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:51 --> Model Class Initialized
+INFO - 2015-04-13 13:15:51 --> Model Class Initialized
+INFO - 2015-04-13 13:15:51 --> Parser Class Initialized
+INFO - 2015-04-13 13:15:51 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:15:51 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:15:51 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:15:51 --> Final output sent to browser
+DEBUG - 2015-04-13 13:15:51 --> Total execution time: 0.0072
+INFO - 2015-04-13 13:15:51 --> Config Class Initialized
+INFO - 2015-04-13 13:15:51 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:51 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:51 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:51 --> URI Class Initialized
+INFO - 2015-04-13 13:15:51 --> Router Class Initialized
+INFO - 2015-04-13 13:15:51 --> Output Class Initialized
+INFO - 2015-04-13 13:15:51 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:51 --> Input Class Initialized
+INFO - 2015-04-13 13:15:51 --> Language Class Initialized
+INFO - 2015-04-13 13:15:51 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:51 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:51 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:51 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:51 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:15:51 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:15:51 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:15:51 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:51 --> Model Class Initialized
+INFO - 2015-04-13 13:15:51 --> Model Class Initialized
+INFO - 2015-04-13 13:15:52 --> Config Class Initialized
+INFO - 2015-04-13 13:15:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:15:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:15:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:15:52 --> URI Class Initialized
+INFO - 2015-04-13 13:15:52 --> Router Class Initialized
+INFO - 2015-04-13 13:15:52 --> Output Class Initialized
+INFO - 2015-04-13 13:15:52 --> Security Class Initialized
+DEBUG - 2015-04-13 13:15:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:15:52 --> Input Class Initialized
+INFO - 2015-04-13 13:15:52 --> Language Class Initialized
+INFO - 2015-04-13 13:15:52 --> Loader Class Initialized
+INFO - 2015-04-13 13:15:52 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:15:52 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:15:52 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:15:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:15:52 --> Controller Class Initialized
+INFO - 2015-04-13 13:15:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:15:52 --> Model Class Initialized
+INFO - 2015-04-13 13:15:52 --> Model Class Initialized
+INFO - 2015-04-13 13:15:52 --> Helper loaded: form_helper
+INFO - 2015-04-13 13:15:52 --> Model Class Initialized
+INFO - 2015-04-13 13:15:52 --> Parser Class Initialized
+INFO - 2015-04-13 13:15:52 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:15:52 --> File loaded: /home/ubuntu/workspace/application/views/books/new.php
+INFO - 2015-04-13 13:15:52 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:15:52 --> Final output sent to browser
+DEBUG - 2015-04-13 13:15:52 --> Total execution time: 0.0076
+INFO - 2015-04-13 13:16:00 --> Config Class Initialized
+INFO - 2015-04-13 13:16:00 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:16:00 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:16:00 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:16:00 --> URI Class Initialized
+INFO - 2015-04-13 13:16:00 --> Router Class Initialized
+INFO - 2015-04-13 13:16:00 --> Output Class Initialized
+INFO - 2015-04-13 13:16:00 --> Security Class Initialized
+DEBUG - 2015-04-13 13:16:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:16:00 --> Input Class Initialized
+INFO - 2015-04-13 13:16:00 --> Language Class Initialized
+INFO - 2015-04-13 13:16:00 --> Loader Class Initialized
+INFO - 2015-04-13 13:16:00 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:16:00 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:16:00 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:16:00 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:16:00 --> Controller Class Initialized
+INFO - 2015-04-13 13:16:00 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:16:00 --> Model Class Initialized
+INFO - 2015-04-13 13:16:00 --> Model Class Initialized
+INFO - 2015-04-13 13:16:00 --> Helper loaded: form_helper
+INFO - 2015-04-13 13:16:00 --> Model Class Initialized
+INFO - 2015-04-13 13:16:00 --> Parser Class Initialized
+INFO - 2015-04-13 13:16:00 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:16:00 --> File loaded: /home/ubuntu/workspace/application/views/books/new.php
+INFO - 2015-04-13 13:16:00 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:16:00 --> Final output sent to browser
+DEBUG - 2015-04-13 13:16:00 --> Total execution time: 0.0074
+INFO - 2015-04-13 13:16:01 --> Config Class Initialized
+INFO - 2015-04-13 13:16:01 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:16:01 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:16:01 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:16:01 --> URI Class Initialized
+INFO - 2015-04-13 13:16:01 --> Router Class Initialized
+INFO - 2015-04-13 13:16:01 --> Output Class Initialized
+INFO - 2015-04-13 13:16:01 --> Security Class Initialized
+DEBUG - 2015-04-13 13:16:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:16:01 --> Input Class Initialized
+INFO - 2015-04-13 13:16:01 --> Language Class Initialized
+ERROR - 2015-04-13 13:16:01 --> 404 Page Not Found: Authors/create
+INFO - 2015-04-13 13:17:26 --> Config Class Initialized
+INFO - 2015-04-13 13:17:26 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:17:26 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:17:26 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:17:26 --> URI Class Initialized
+INFO - 2015-04-13 13:17:26 --> Router Class Initialized
+INFO - 2015-04-13 13:17:26 --> Output Class Initialized
+INFO - 2015-04-13 13:17:26 --> Security Class Initialized
+DEBUG - 2015-04-13 13:17:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:17:26 --> Input Class Initialized
+INFO - 2015-04-13 13:17:26 --> Language Class Initialized
+ERROR - 2015-04-13 13:17:26 --> 404 Page Not Found: Authors/create
+INFO - 2015-04-13 13:17:54 --> Config Class Initialized
+INFO - 2015-04-13 13:17:54 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:17:54 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:17:54 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:17:54 --> URI Class Initialized
+INFO - 2015-04-13 13:17:54 --> Router Class Initialized
+INFO - 2015-04-13 13:17:54 --> Output Class Initialized
+INFO - 2015-04-13 13:17:54 --> Security Class Initialized
+DEBUG - 2015-04-13 13:17:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:17:54 --> Input Class Initialized
+INFO - 2015-04-13 13:17:54 --> Language Class Initialized
+INFO - 2015-04-13 13:17:54 --> Loader Class Initialized
+INFO - 2015-04-13 13:17:54 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:17:54 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:17:54 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:17:54 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:17:54 --> Controller Class Initialized
+INFO - 2015-04-13 13:17:54 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:17:54 --> Model Class Initialized
+INFO - 2015-04-13 13:17:54 --> Model Class Initialized
+INFO - 2015-04-13 13:17:54 --> Parser Class Initialized
+INFO - 2015-04-13 13:17:54 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:17:54 --> File loaded: /home/ubuntu/workspace/application/views/authors/create.php
+INFO - 2015-04-13 13:17:54 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:17:54 --> Final output sent to browser
+DEBUG - 2015-04-13 13:17:54 --> Total execution time: 0.0071
+INFO - 2015-04-13 13:26:14 --> Config Class Initialized
+INFO - 2015-04-13 13:26:14 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:26:14 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:26:14 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:26:14 --> URI Class Initialized
+INFO - 2015-04-13 13:26:14 --> Router Class Initialized
+INFO - 2015-04-13 13:26:14 --> Output Class Initialized
+INFO - 2015-04-13 13:26:14 --> Security Class Initialized
+DEBUG - 2015-04-13 13:26:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:26:14 --> Input Class Initialized
+INFO - 2015-04-13 13:26:14 --> Language Class Initialized
+INFO - 2015-04-13 13:26:14 --> Loader Class Initialized
+INFO - 2015-04-13 13:26:14 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:26:14 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:26:14 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:26:14 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:26:14 --> Controller Class Initialized
+INFO - 2015-04-13 13:26:14 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:26:14 --> Model Class Initialized
+INFO - 2015-04-13 13:26:14 --> Model Class Initialized
+INFO - 2015-04-13 13:26:14 --> Parser Class Initialized
+INFO - 2015-04-13 13:26:14 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:26:14 --> File loaded: /home/ubuntu/workspace/application/views/authors/create.php
+INFO - 2015-04-13 13:26:14 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:26:14 --> Final output sent to browser
+DEBUG - 2015-04-13 13:26:14 --> Total execution time: 0.0062
+INFO - 2015-04-13 13:26:18 --> Config Class Initialized
+INFO - 2015-04-13 13:26:18 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:26:18 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:26:18 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:26:18 --> URI Class Initialized
+INFO - 2015-04-13 13:26:18 --> Router Class Initialized
+INFO - 2015-04-13 13:26:18 --> Output Class Initialized
+INFO - 2015-04-13 13:26:18 --> Security Class Initialized
+DEBUG - 2015-04-13 13:26:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:26:18 --> Input Class Initialized
+INFO - 2015-04-13 13:26:18 --> Language Class Initialized
+ERROR - 2015-04-13 13:26:18 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:26:18 --> Config Class Initialized
+INFO - 2015-04-13 13:26:18 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:26:18 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:26:18 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:26:18 --> URI Class Initialized
+INFO - 2015-04-13 13:26:18 --> Router Class Initialized
+INFO - 2015-04-13 13:26:18 --> Output Class Initialized
+INFO - 2015-04-13 13:26:18 --> Security Class Initialized
+DEBUG - 2015-04-13 13:26:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:26:18 --> Input Class Initialized
+INFO - 2015-04-13 13:26:18 --> Language Class Initialized
+ERROR - 2015-04-13 13:26:18 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:26:43 --> Config Class Initialized
+INFO - 2015-04-13 13:26:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:26:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:26:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:26:43 --> URI Class Initialized
+INFO - 2015-04-13 13:26:43 --> Router Class Initialized
+INFO - 2015-04-13 13:26:43 --> Output Class Initialized
+INFO - 2015-04-13 13:26:43 --> Security Class Initialized
+DEBUG - 2015-04-13 13:26:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:26:43 --> Input Class Initialized
+INFO - 2015-04-13 13:26:43 --> Language Class Initialized
+INFO - 2015-04-13 13:26:43 --> Loader Class Initialized
+INFO - 2015-04-13 13:26:43 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:26:43 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:26:43 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:26:43 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:26:43 --> Controller Class Initialized
+INFO - 2015-04-13 13:26:43 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:26:43 --> Model Class Initialized
+INFO - 2015-04-13 13:26:43 --> Model Class Initialized
+INFO - 2015-04-13 13:26:43 --> Parser Class Initialized
+INFO - 2015-04-13 13:26:43 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:26:43 --> File loaded: /home/ubuntu/workspace/application/views/authors/create.php
+INFO - 2015-04-13 13:26:43 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:26:43 --> Final output sent to browser
+DEBUG - 2015-04-13 13:26:43 --> Total execution time: 0.0064
+INFO - 2015-04-13 13:26:44 --> Config Class Initialized
+INFO - 2015-04-13 13:26:44 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:26:44 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:26:44 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:26:44 --> URI Class Initialized
+INFO - 2015-04-13 13:26:44 --> Router Class Initialized
+INFO - 2015-04-13 13:26:44 --> Output Class Initialized
+INFO - 2015-04-13 13:26:44 --> Security Class Initialized
+DEBUG - 2015-04-13 13:26:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:26:44 --> Input Class Initialized
+INFO - 2015-04-13 13:26:44 --> Language Class Initialized
+ERROR - 2015-04-13 13:26:44 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:26:44 --> Config Class Initialized
+INFO - 2015-04-13 13:26:44 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:26:44 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:26:44 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:26:44 --> URI Class Initialized
+INFO - 2015-04-13 13:26:44 --> Router Class Initialized
+INFO - 2015-04-13 13:26:44 --> Output Class Initialized
+INFO - 2015-04-13 13:26:44 --> Security Class Initialized
+DEBUG - 2015-04-13 13:26:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:26:44 --> Input Class Initialized
+INFO - 2015-04-13 13:26:44 --> Language Class Initialized
+ERROR - 2015-04-13 13:26:44 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:32:26 --> Config Class Initialized
+INFO - 2015-04-13 13:32:26 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:32:26 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:32:26 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:32:26 --> URI Class Initialized
+INFO - 2015-04-13 13:32:26 --> Router Class Initialized
+INFO - 2015-04-13 13:32:26 --> Output Class Initialized
+INFO - 2015-04-13 13:32:26 --> Security Class Initialized
+DEBUG - 2015-04-13 13:32:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:32:26 --> Input Class Initialized
+INFO - 2015-04-13 13:32:26 --> Language Class Initialized
+INFO - 2015-04-13 13:32:26 --> Loader Class Initialized
+INFO - 2015-04-13 13:32:26 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:32:26 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:32:26 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:32:26 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:32:26 --> Controller Class Initialized
+INFO - 2015-04-13 13:32:26 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:32:26 --> Model Class Initialized
+INFO - 2015-04-13 13:32:26 --> Model Class Initialized
+INFO - 2015-04-13 13:32:26 --> Parser Class Initialized
+INFO - 2015-04-13 13:32:26 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:32:26 --> File loaded: /home/ubuntu/workspace/application/views/authors/create.php
+INFO - 2015-04-13 13:32:26 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:32:26 --> Final output sent to browser
+DEBUG - 2015-04-13 13:32:26 --> Total execution time: 0.0060
+INFO - 2015-04-13 13:32:27 --> Config Class Initialized
+INFO - 2015-04-13 13:32:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:32:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:32:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:32:27 --> URI Class Initialized
+INFO - 2015-04-13 13:32:27 --> Router Class Initialized
+INFO - 2015-04-13 13:32:27 --> Config Class Initialized
+INFO - 2015-04-13 13:32:27 --> Hooks Class Initialized
+INFO - 2015-04-13 13:32:27 --> Output Class Initialized
+INFO - 2015-04-13 13:32:27 --> Security Class Initialized
+DEBUG - 2015-04-13 13:32:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:32:27 --> Utf8 Class Initialized
+DEBUG - 2015-04-13 13:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:32:27 --> Input Class Initialized
+INFO - 2015-04-13 13:32:27 --> URI Class Initialized
+INFO - 2015-04-13 13:32:27 --> Language Class Initialized
+INFO - 2015-04-13 13:32:27 --> Router Class Initialized
+ERROR - 2015-04-13 13:32:27 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:32:27 --> Output Class Initialized
+INFO - 2015-04-13 13:32:27 --> Security Class Initialized
+DEBUG - 2015-04-13 13:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:32:27 --> Input Class Initialized
+INFO - 2015-04-13 13:32:27 --> Language Class Initialized
+ERROR - 2015-04-13 13:32:27 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:32:31 --> Config Class Initialized
+INFO - 2015-04-13 13:32:31 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:32:31 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:32:31 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:32:31 --> URI Class Initialized
+INFO - 2015-04-13 13:32:31 --> Router Class Initialized
+INFO - 2015-04-13 13:32:31 --> Output Class Initialized
+INFO - 2015-04-13 13:32:31 --> Security Class Initialized
+DEBUG - 2015-04-13 13:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:32:31 --> Input Class Initialized
+INFO - 2015-04-13 13:32:31 --> Language Class Initialized
+INFO - 2015-04-13 13:32:31 --> Loader Class Initialized
+INFO - 2015-04-13 13:32:31 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:32:31 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:32:31 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:32:31 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:32:31 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:32:31 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:32:31 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:32:31 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:32:31 --> Model Class Initialized
+INFO - 2015-04-13 13:32:31 --> Model Class Initialized
+ERROR - 2015-04-13 13:32:31 --> Query error: Duplicate entry '1' for key 'PRIMARY' - Invalid query: INSERT INTO `authors` (`name`, `id`) VALUES ('Stephen King', 1)
+INFO - 2015-04-13 13:32:31 --> Language file loaded: language/english/db_lang.php
+INFO - 2015-04-13 13:33:18 --> Config Class Initialized
+INFO - 2015-04-13 13:33:18 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:18 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:18 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:18 --> URI Class Initialized
+INFO - 2015-04-13 13:33:18 --> Router Class Initialized
+INFO - 2015-04-13 13:33:18 --> Output Class Initialized
+INFO - 2015-04-13 13:33:18 --> Security Class Initialized
+DEBUG - 2015-04-13 13:33:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:33:18 --> Input Class Initialized
+INFO - 2015-04-13 13:33:18 --> Language Class Initialized
+INFO - 2015-04-13 13:33:18 --> Loader Class Initialized
+INFO - 2015-04-13 13:33:18 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:33:18 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:33:18 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:33:18 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:33:18 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:33:18 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:33:18 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:33:18 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:33:18 --> Model Class Initialized
+INFO - 2015-04-13 13:33:18 --> Model Class Initialized
+INFO - 2015-04-13 13:33:18 --> Config Class Initialized
+INFO - 2015-04-13 13:33:18 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:18 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:18 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:18 --> URI Class Initialized
+INFO - 2015-04-13 13:33:18 --> Router Class Initialized
+INFO - 2015-04-13 13:33:18 --> Output Class Initialized
+INFO - 2015-04-13 13:33:18 --> Security Class Initialized
+DEBUG - 2015-04-13 13:33:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:33:18 --> Input Class Initialized
+INFO - 2015-04-13 13:33:18 --> Language Class Initialized
+INFO - 2015-04-13 13:33:18 --> Loader Class Initialized
+INFO - 2015-04-13 13:33:18 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:33:18 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:33:18 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:33:18 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:33:18 --> Controller Class Initialized
+INFO - 2015-04-13 13:33:18 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:33:18 --> Model Class Initialized
+INFO - 2015-04-13 13:33:18 --> Model Class Initialized
+INFO - 2015-04-13 13:33:18 --> Parser Class Initialized
+INFO - 2015-04-13 13:33:18 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:33:18 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:33:18 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:33:18 --> Final output sent to browser
+DEBUG - 2015-04-13 13:33:18 --> Total execution time: 0.0058
+INFO - 2015-04-13 13:33:18 --> Config Class Initialized
+INFO - 2015-04-13 13:33:18 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:18 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:18 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:18 --> URI Class Initialized
+INFO - 2015-04-13 13:33:18 --> Router Class Initialized
+INFO - 2015-04-13 13:33:18 --> Output Class Initialized
+INFO - 2015-04-13 13:33:18 --> Security Class Initialized
+DEBUG - 2015-04-13 13:33:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:33:18 --> Input Class Initialized
+INFO - 2015-04-13 13:33:18 --> Language Class Initialized
+ERROR - 2015-04-13 13:33:18 --> 404 Page Not Found: Authors/undefined
+INFO - 2015-04-13 13:33:24 --> Config Class Initialized
+INFO - 2015-04-13 13:33:24 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:24 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:24 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:24 --> URI Class Initialized
+INFO - 2015-04-13 13:33:24 --> Router Class Initialized
+INFO - 2015-04-13 13:33:24 --> Output Class Initialized
+INFO - 2015-04-13 13:33:24 --> Security Class Initialized
+DEBUG - 2015-04-13 13:33:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:33:24 --> Input Class Initialized
+INFO - 2015-04-13 13:33:24 --> Language Class Initialized
+ERROR - 2015-04-13 13:33:24 --> 404 Page Not Found: Authors/undefined
+INFO - 2015-04-13 13:33:27 --> Config Class Initialized
+INFO - 2015-04-13 13:33:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:27 --> URI Class Initialized
+INFO - 2015-04-13 13:33:27 --> Router Class Initialized
+INFO - 2015-04-13 13:33:27 --> Output Class Initialized
+INFO - 2015-04-13 13:33:27 --> Security Class Initialized
+DEBUG - 2015-04-13 13:33:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:33:27 --> Input Class Initialized
+INFO - 2015-04-13 13:33:27 --> Language Class Initialized
+INFO - 2015-04-13 13:33:27 --> Loader Class Initialized
+INFO - 2015-04-13 13:33:27 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:33:27 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:33:27 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:33:27 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:33:27 --> Controller Class Initialized
+INFO - 2015-04-13 13:33:27 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:33:27 --> Model Class Initialized
+INFO - 2015-04-13 13:33:27 --> Model Class Initialized
+INFO - 2015-04-13 13:33:27 --> Parser Class Initialized
+INFO - 2015-04-13 13:33:27 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:33:27 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:33:27 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:33:27 --> Final output sent to browser
+DEBUG - 2015-04-13 13:33:27 --> Total execution time: 0.0066
+INFO - 2015-04-13 13:33:27 --> Config Class Initialized
+INFO - 2015-04-13 13:33:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:27 --> URI Class Initialized
+INFO - 2015-04-13 13:33:27 --> Router Class Initialized
+INFO - 2015-04-13 13:33:27 --> Output Class Initialized
+INFO - 2015-04-13 13:33:27 --> Security Class Initialized
+DEBUG - 2015-04-13 13:33:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:33:27 --> Input Class Initialized
+INFO - 2015-04-13 13:33:27 --> Language Class Initialized
+ERROR - 2015-04-13 13:33:27 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:33:27 --> Config Class Initialized
+INFO - 2015-04-13 13:33:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:27 --> URI Class Initialized
+INFO - 2015-04-13 13:33:27 --> Router Class Initialized
+INFO - 2015-04-13 13:33:27 --> Output Class Initialized
+INFO - 2015-04-13 13:33:27 --> Security Class Initialized
+DEBUG - 2015-04-13 13:33:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:33:27 --> Input Class Initialized
+INFO - 2015-04-13 13:33:27 --> Language Class Initialized
+ERROR - 2015-04-13 13:33:27 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:33:27 --> Config Class Initialized
+INFO - 2015-04-13 13:33:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:27 --> URI Class Initialized
+INFO - 2015-04-13 13:33:27 --> Router Class Initialized
+INFO - 2015-04-13 13:33:27 --> Output Class Initialized
+INFO - 2015-04-13 13:33:27 --> Security Class Initialized
+DEBUG - 2015-04-13 13:33:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:33:27 --> Input Class Initialized
+INFO - 2015-04-13 13:33:27 --> Language Class Initialized
+INFO - 2015-04-13 13:33:27 --> Loader Class Initialized
+INFO - 2015-04-13 13:33:27 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:33:27 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:33:27 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:33:27 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:33:27 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:33:27 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:33:27 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:33:27 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:33:27 --> Model Class Initialized
+INFO - 2015-04-13 13:33:27 --> Model Class Initialized
+INFO - 2015-04-13 13:33:32 --> Config Class Initialized
+INFO - 2015-04-13 13:33:32 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:32 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:32 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:32 --> URI Class Initialized
+INFO - 2015-04-13 13:33:32 --> Router Class Initialized
+INFO - 2015-04-13 13:33:32 --> Output Class Initialized
+INFO - 2015-04-13 13:33:32 --> Security Class Initialized
+DEBUG - 2015-04-13 13:33:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:33:32 --> Input Class Initialized
+INFO - 2015-04-13 13:33:32 --> Language Class Initialized
+INFO - 2015-04-13 13:33:32 --> Loader Class Initialized
+INFO - 2015-04-13 13:33:32 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:33:32 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:33:32 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:33:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:33:32 --> Controller Class Initialized
+INFO - 2015-04-13 13:33:32 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:33:32 --> Model Class Initialized
+INFO - 2015-04-13 13:33:32 --> Model Class Initialized
+INFO - 2015-04-13 13:33:32 --> Parser Class Initialized
+INFO - 2015-04-13 13:33:32 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:33:32 --> File loaded: /home/ubuntu/workspace/application/views/authors/create.php
+INFO - 2015-04-13 13:33:32 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:33:32 --> Final output sent to browser
+DEBUG - 2015-04-13 13:33:32 --> Total execution time: 0.0067
+INFO - 2015-04-13 13:33:32 --> Config Class Initialized
+INFO - 2015-04-13 13:33:32 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:32 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:32 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:32 --> URI Class Initialized
+INFO - 2015-04-13 13:33:32 --> Router Class Initialized
+INFO - 2015-04-13 13:33:32 --> Output Class Initialized
+INFO - 2015-04-13 13:33:32 --> Security Class Initialized
+INFO - 2015-04-13 13:33:32 --> Config Class Initialized
+INFO - 2015-04-13 13:33:32 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-04-13 13:33:32 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:32 --> Input Class Initialized
+INFO - 2015-04-13 13:33:32 --> Language Class Initialized
+ERROR - 2015-04-13 13:33:32 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:33:32 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:32 --> URI Class Initialized
+INFO - 2015-04-13 13:33:32 --> Router Class Initialized
+INFO - 2015-04-13 13:33:32 --> Output Class Initialized
+INFO - 2015-04-13 13:33:32 --> Security Class Initialized
+DEBUG - 2015-04-13 13:33:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:33:32 --> Input Class Initialized
+INFO - 2015-04-13 13:33:32 --> Language Class Initialized
+ERROR - 2015-04-13 13:33:32 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:33:39 --> Config Class Initialized
+INFO - 2015-04-13 13:33:39 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:39 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:39 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:39 --> URI Class Initialized
+INFO - 2015-04-13 13:33:39 --> Router Class Initialized
+INFO - 2015-04-13 13:33:39 --> Output Class Initialized
+INFO - 2015-04-13 13:33:39 --> Security Class Initialized
+DEBUG - 2015-04-13 13:33:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:33:39 --> Input Class Initialized
+INFO - 2015-04-13 13:33:39 --> Language Class Initialized
+INFO - 2015-04-13 13:33:39 --> Loader Class Initialized
+INFO - 2015-04-13 13:33:39 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:33:39 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:33:39 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:33:39 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:33:39 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:33:39 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:33:39 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:33:39 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:33:39 --> Model Class Initialized
+INFO - 2015-04-13 13:33:39 --> Model Class Initialized
+INFO - 2015-04-13 13:33:39 --> Config Class Initialized
+INFO - 2015-04-13 13:33:39 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:39 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:39 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:39 --> URI Class Initialized
+INFO - 2015-04-13 13:33:39 --> Router Class Initialized
+INFO - 2015-04-13 13:33:39 --> Output Class Initialized
+INFO - 2015-04-13 13:33:39 --> Security Class Initialized
+DEBUG - 2015-04-13 13:33:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:33:39 --> Input Class Initialized
+INFO - 2015-04-13 13:33:39 --> Language Class Initialized
+INFO - 2015-04-13 13:33:39 --> Loader Class Initialized
+INFO - 2015-04-13 13:33:39 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:33:39 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:33:39 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:33:39 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:33:39 --> Controller Class Initialized
+INFO - 2015-04-13 13:33:39 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:33:39 --> Model Class Initialized
+INFO - 2015-04-13 13:33:39 --> Model Class Initialized
+INFO - 2015-04-13 13:33:39 --> Parser Class Initialized
+INFO - 2015-04-13 13:33:39 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:33:39 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:33:39 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:33:39 --> Final output sent to browser
+DEBUG - 2015-04-13 13:33:39 --> Total execution time: 0.0061
+INFO - 2015-04-13 13:33:39 --> Config Class Initialized
+INFO - 2015-04-13 13:33:39 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:33:39 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:33:39 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:33:39 --> URI Class Initialized
+INFO - 2015-04-13 13:33:39 --> Router Class Initialized
+INFO - 2015-04-13 13:33:39 --> Output Class Initialized
+INFO - 2015-04-13 13:33:39 --> Security Class Initialized
+DEBUG - 2015-04-13 13:33:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:33:39 --> Input Class Initialized
+INFO - 2015-04-13 13:33:39 --> Language Class Initialized
+ERROR - 2015-04-13 13:33:39 --> 404 Page Not Found: Authors/undefined
+INFO - 2015-04-13 13:34:16 --> Config Class Initialized
+INFO - 2015-04-13 13:34:16 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:16 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:16 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:16 --> URI Class Initialized
+INFO - 2015-04-13 13:34:16 --> Router Class Initialized
+INFO - 2015-04-13 13:34:16 --> Output Class Initialized
+INFO - 2015-04-13 13:34:16 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:16 --> Input Class Initialized
+INFO - 2015-04-13 13:34:16 --> Language Class Initialized
+INFO - 2015-04-13 13:34:16 --> Loader Class Initialized
+INFO - 2015-04-13 13:34:16 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:34:16 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:34:16 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:34:16 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:34:16 --> Controller Class Initialized
+INFO - 2015-04-13 13:34:16 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:34:16 --> Model Class Initialized
+INFO - 2015-04-13 13:34:16 --> Model Class Initialized
+INFO - 2015-04-13 13:34:16 --> Parser Class Initialized
+INFO - 2015-04-13 13:34:16 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:34:16 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:34:16 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:34:16 --> Final output sent to browser
+DEBUG - 2015-04-13 13:34:16 --> Total execution time: 0.0070
+INFO - 2015-04-13 13:34:16 --> Config Class Initialized
+INFO - 2015-04-13 13:34:16 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:16 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:16 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:16 --> URI Class Initialized
+INFO - 2015-04-13 13:34:16 --> Router Class Initialized
+INFO - 2015-04-13 13:34:16 --> Output Class Initialized
+INFO - 2015-04-13 13:34:16 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:16 --> Input Class Initialized
+INFO - 2015-04-13 13:34:16 --> Language Class Initialized
+ERROR - 2015-04-13 13:34:16 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:34:17 --> Config Class Initialized
+INFO - 2015-04-13 13:34:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:17 --> URI Class Initialized
+INFO - 2015-04-13 13:34:17 --> Router Class Initialized
+INFO - 2015-04-13 13:34:17 --> Output Class Initialized
+INFO - 2015-04-13 13:34:17 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:17 --> Input Class Initialized
+INFO - 2015-04-13 13:34:17 --> Language Class Initialized
+ERROR - 2015-04-13 13:34:17 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:34:17 --> Config Class Initialized
+INFO - 2015-04-13 13:34:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:17 --> URI Class Initialized
+INFO - 2015-04-13 13:34:17 --> Router Class Initialized
+INFO - 2015-04-13 13:34:17 --> Output Class Initialized
+INFO - 2015-04-13 13:34:17 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:17 --> Input Class Initialized
+INFO - 2015-04-13 13:34:17 --> Language Class Initialized
+ERROR - 2015-04-13 13:34:17 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:34:17 --> Config Class Initialized
+INFO - 2015-04-13 13:34:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:17 --> URI Class Initialized
+INFO - 2015-04-13 13:34:17 --> Router Class Initialized
+INFO - 2015-04-13 13:34:17 --> Output Class Initialized
+INFO - 2015-04-13 13:34:17 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:17 --> Input Class Initialized
+INFO - 2015-04-13 13:34:17 --> Language Class Initialized
+INFO - 2015-04-13 13:34:17 --> Loader Class Initialized
+INFO - 2015-04-13 13:34:17 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:34:17 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:34:17 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:34:17 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:34:17 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:34:17 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:34:17 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:34:17 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:34:17 --> Model Class Initialized
+INFO - 2015-04-13 13:34:17 --> Model Class Initialized
+INFO - 2015-04-13 13:34:17 --> Searching author with id 102
+INFO - 2015-04-13 13:34:19 --> Config Class Initialized
+INFO - 2015-04-13 13:34:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:19 --> URI Class Initialized
+INFO - 2015-04-13 13:34:19 --> Router Class Initialized
+INFO - 2015-04-13 13:34:19 --> Output Class Initialized
+INFO - 2015-04-13 13:34:19 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:19 --> Input Class Initialized
+INFO - 2015-04-13 13:34:19 --> Language Class Initialized
+INFO - 2015-04-13 13:34:19 --> Loader Class Initialized
+INFO - 2015-04-13 13:34:19 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:34:19 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:34:19 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:34:19 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:34:19 --> Controller Class Initialized
+INFO - 2015-04-13 13:34:19 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:34:19 --> Model Class Initialized
+INFO - 2015-04-13 13:34:19 --> Model Class Initialized
+INFO - 2015-04-13 13:34:19 --> Parser Class Initialized
+INFO - 2015-04-13 13:34:19 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:34:19 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:34:19 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:34:19 --> Final output sent to browser
+DEBUG - 2015-04-13 13:34:19 --> Total execution time: 0.0095
+INFO - 2015-04-13 13:34:19 --> Config Class Initialized
+INFO - 2015-04-13 13:34:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:19 --> URI Class Initialized
+INFO - 2015-04-13 13:34:19 --> Router Class Initialized
+INFO - 2015-04-13 13:34:19 --> Output Class Initialized
+INFO - 2015-04-13 13:34:19 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:19 --> Input Class Initialized
+INFO - 2015-04-13 13:34:19 --> Language Class Initialized
+INFO - 2015-04-13 13:34:19 --> Loader Class Initialized
+INFO - 2015-04-13 13:34:19 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:34:19 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:34:19 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:34:19 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:34:19 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:34:19 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:34:19 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:34:19 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:34:19 --> Model Class Initialized
+INFO - 2015-04-13 13:34:19 --> Model Class Initialized
+INFO - 2015-04-13 13:34:20 --> Config Class Initialized
+INFO - 2015-04-13 13:34:20 --> Hooks Class Initialized
+INFO - 2015-04-13 13:34:20 --> Config Class Initialized
+INFO - 2015-04-13 13:34:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:20 --> Utf8 Class Initialized
+DEBUG - 2015-04-13 13:34:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:20 --> URI Class Initialized
+INFO - 2015-04-13 13:34:20 --> URI Class Initialized
+INFO - 2015-04-13 13:34:20 --> Router Class Initialized
+INFO - 2015-04-13 13:34:20 --> Router Class Initialized
+INFO - 2015-04-13 13:34:20 --> Output Class Initialized
+INFO - 2015-04-13 13:34:20 --> Output Class Initialized
+INFO - 2015-04-13 13:34:20 --> Security Class Initialized
+INFO - 2015-04-13 13:34:20 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:20 --> Input Class Initialized
+DEBUG - 2015-04-13 13:34:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:20 --> Language Class Initialized
+INFO - 2015-04-13 13:34:20 --> Input Class Initialized
+INFO - 2015-04-13 13:34:20 --> Language Class Initialized
+ERROR - 2015-04-13 13:34:20 --> 404 Page Not Found: Assets/js
+ERROR - 2015-04-13 13:34:20 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:34:27 --> Config Class Initialized
+INFO - 2015-04-13 13:34:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:27 --> URI Class Initialized
+INFO - 2015-04-13 13:34:27 --> Router Class Initialized
+INFO - 2015-04-13 13:34:27 --> Output Class Initialized
+INFO - 2015-04-13 13:34:27 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:27 --> Input Class Initialized
+INFO - 2015-04-13 13:34:27 --> Language Class Initialized
+INFO - 2015-04-13 13:34:27 --> Loader Class Initialized
+INFO - 2015-04-13 13:34:27 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:34:27 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:34:27 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:34:27 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:34:27 --> Controller Class Initialized
+INFO - 2015-04-13 13:34:27 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:34:27 --> Model Class Initialized
+INFO - 2015-04-13 13:34:27 --> Model Class Initialized
+INFO - 2015-04-13 13:34:27 --> Parser Class Initialized
+INFO - 2015-04-13 13:34:27 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:34:27 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:34:27 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:34:27 --> Final output sent to browser
+DEBUG - 2015-04-13 13:34:27 --> Total execution time: 0.0065
+INFO - 2015-04-13 13:34:27 --> Config Class Initialized
+INFO - 2015-04-13 13:34:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:27 --> URI Class Initialized
+INFO - 2015-04-13 13:34:27 --> Router Class Initialized
+INFO - 2015-04-13 13:34:27 --> Output Class Initialized
+INFO - 2015-04-13 13:34:27 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:27 --> Input Class Initialized
+INFO - 2015-04-13 13:34:27 --> Language Class Initialized
+INFO - 2015-04-13 13:34:27 --> Loader Class Initialized
+INFO - 2015-04-13 13:34:27 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:34:27 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:34:27 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:34:27 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:34:27 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:34:27 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:34:27 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:34:27 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:34:27 --> Model Class Initialized
+INFO - 2015-04-13 13:34:27 --> Model Class Initialized
+INFO - 2015-04-13 13:34:27 --> Config Class Initialized
+INFO - 2015-04-13 13:34:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:27 --> URI Class Initialized
+INFO - 2015-04-13 13:34:27 --> Router Class Initialized
+INFO - 2015-04-13 13:34:27 --> Output Class Initialized
+INFO - 2015-04-13 13:34:27 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:27 --> Input Class Initialized
+INFO - 2015-04-13 13:34:27 --> Language Class Initialized
+ERROR - 2015-04-13 13:34:27 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:34:27 --> Config Class Initialized
+INFO - 2015-04-13 13:34:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:27 --> URI Class Initialized
+INFO - 2015-04-13 13:34:27 --> Router Class Initialized
+INFO - 2015-04-13 13:34:27 --> Output Class Initialized
+INFO - 2015-04-13 13:34:27 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:27 --> Input Class Initialized
+INFO - 2015-04-13 13:34:27 --> Language Class Initialized
+ERROR - 2015-04-13 13:34:27 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:34:31 --> Config Class Initialized
+INFO - 2015-04-13 13:34:31 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:31 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:31 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:31 --> URI Class Initialized
+INFO - 2015-04-13 13:34:31 --> Router Class Initialized
+INFO - 2015-04-13 13:34:31 --> Output Class Initialized
+INFO - 2015-04-13 13:34:31 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:31 --> Input Class Initialized
+INFO - 2015-04-13 13:34:31 --> Language Class Initialized
+INFO - 2015-04-13 13:34:31 --> Loader Class Initialized
+INFO - 2015-04-13 13:34:31 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:34:31 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:34:31 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:34:31 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:34:31 --> Controller Class Initialized
+INFO - 2015-04-13 13:34:31 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:34:31 --> Model Class Initialized
+INFO - 2015-04-13 13:34:31 --> Model Class Initialized
+INFO - 2015-04-13 13:34:31 --> Parser Class Initialized
+INFO - 2015-04-13 13:34:31 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:34:31 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:34:31 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:34:31 --> Final output sent to browser
+DEBUG - 2015-04-13 13:34:31 --> Total execution time: 0.0139
+INFO - 2015-04-13 13:34:31 --> Config Class Initialized
+INFO - 2015-04-13 13:34:31 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:34:31 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:34:31 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:34:31 --> URI Class Initialized
+INFO - 2015-04-13 13:34:31 --> Router Class Initialized
+INFO - 2015-04-13 13:34:31 --> Output Class Initialized
+INFO - 2015-04-13 13:34:31 --> Security Class Initialized
+DEBUG - 2015-04-13 13:34:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:34:31 --> Input Class Initialized
+INFO - 2015-04-13 13:34:31 --> Language Class Initialized
+INFO - 2015-04-13 13:34:31 --> Loader Class Initialized
+INFO - 2015-04-13 13:34:31 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:34:31 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:34:31 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:34:31 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:34:31 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:34:31 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:34:31 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:34:31 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:34:31 --> Model Class Initialized
+INFO - 2015-04-13 13:34:31 --> Model Class Initialized
+INFO - 2015-04-13 13:35:14 --> Config Class Initialized
+INFO - 2015-04-13 13:35:14 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:35:14 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:35:14 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:35:14 --> URI Class Initialized
+INFO - 2015-04-13 13:35:14 --> Router Class Initialized
+INFO - 2015-04-13 13:35:14 --> Output Class Initialized
+INFO - 2015-04-13 13:35:14 --> Security Class Initialized
+DEBUG - 2015-04-13 13:35:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:35:14 --> Input Class Initialized
+INFO - 2015-04-13 13:35:14 --> Language Class Initialized
+ERROR - 2015-04-13 13:35:14 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:35:14 --> Config Class Initialized
+INFO - 2015-04-13 13:35:14 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:35:14 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:35:14 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:35:14 --> URI Class Initialized
+INFO - 2015-04-13 13:35:14 --> Router Class Initialized
+INFO - 2015-04-13 13:35:14 --> Output Class Initialized
+INFO - 2015-04-13 13:35:14 --> Security Class Initialized
+DEBUG - 2015-04-13 13:35:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:35:14 --> Input Class Initialized
+INFO - 2015-04-13 13:35:14 --> Language Class Initialized
+ERROR - 2015-04-13 13:35:14 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:35:18 --> Config Class Initialized
+INFO - 2015-04-13 13:35:18 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:35:18 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:35:18 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:35:18 --> URI Class Initialized
+INFO - 2015-04-13 13:35:18 --> Router Class Initialized
+INFO - 2015-04-13 13:35:18 --> Output Class Initialized
+INFO - 2015-04-13 13:35:18 --> Security Class Initialized
+DEBUG - 2015-04-13 13:35:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:35:18 --> Input Class Initialized
+INFO - 2015-04-13 13:35:18 --> Language Class Initialized
+INFO - 2015-04-13 13:35:18 --> Loader Class Initialized
+INFO - 2015-04-13 13:35:18 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:35:18 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:35:18 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:35:18 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:35:18 --> Controller Class Initialized
+INFO - 2015-04-13 13:35:18 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:35:18 --> Model Class Initialized
+INFO - 2015-04-13 13:35:18 --> Model Class Initialized
+INFO - 2015-04-13 13:35:18 --> Parser Class Initialized
+INFO - 2015-04-13 13:35:18 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:35:18 --> File loaded: /home/ubuntu/workspace/application/views/authors/create.php
+INFO - 2015-04-13 13:35:18 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:35:18 --> Final output sent to browser
+DEBUG - 2015-04-13 13:35:18 --> Total execution time: 0.0073
+INFO - 2015-04-13 13:35:19 --> Config Class Initialized
+INFO - 2015-04-13 13:35:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:35:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:35:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:35:19 --> URI Class Initialized
+INFO - 2015-04-13 13:35:19 --> Router Class Initialized
+INFO - 2015-04-13 13:35:19 --> Output Class Initialized
+INFO - 2015-04-13 13:35:19 --> Security Class Initialized
+DEBUG - 2015-04-13 13:35:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:35:19 --> Input Class Initialized
+INFO - 2015-04-13 13:35:19 --> Language Class Initialized
+ERROR - 2015-04-13 13:35:19 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:35:19 --> Config Class Initialized
+INFO - 2015-04-13 13:35:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:35:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:35:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:35:19 --> URI Class Initialized
+INFO - 2015-04-13 13:35:19 --> Router Class Initialized
+INFO - 2015-04-13 13:35:19 --> Output Class Initialized
+INFO - 2015-04-13 13:35:19 --> Security Class Initialized
+DEBUG - 2015-04-13 13:35:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:35:19 --> Input Class Initialized
+INFO - 2015-04-13 13:35:19 --> Language Class Initialized
+ERROR - 2015-04-13 13:35:19 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:35:25 --> Config Class Initialized
+INFO - 2015-04-13 13:35:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:35:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:35:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:35:25 --> URI Class Initialized
+INFO - 2015-04-13 13:35:25 --> Router Class Initialized
+INFO - 2015-04-13 13:35:25 --> Output Class Initialized
+INFO - 2015-04-13 13:35:25 --> Security Class Initialized
+DEBUG - 2015-04-13 13:35:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:35:25 --> Input Class Initialized
+INFO - 2015-04-13 13:35:25 --> Language Class Initialized
+INFO - 2015-04-13 13:35:25 --> Loader Class Initialized
+INFO - 2015-04-13 13:35:25 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:35:25 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:35:25 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:35:25 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:35:25 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:35:25 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:35:25 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:35:25 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:35:25 --> Model Class Initialized
+INFO - 2015-04-13 13:35:25 --> Model Class Initialized
+INFO - 2015-04-13 13:35:25 --> Config Class Initialized
+INFO - 2015-04-13 13:35:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:35:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:35:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:35:25 --> URI Class Initialized
+INFO - 2015-04-13 13:35:25 --> Router Class Initialized
+INFO - 2015-04-13 13:35:25 --> Output Class Initialized
+INFO - 2015-04-13 13:35:25 --> Security Class Initialized
+DEBUG - 2015-04-13 13:35:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:35:25 --> Input Class Initialized
+INFO - 2015-04-13 13:35:25 --> Language Class Initialized
+INFO - 2015-04-13 13:35:25 --> Loader Class Initialized
+INFO - 2015-04-13 13:35:25 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:35:25 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:35:25 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:35:25 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:35:25 --> Controller Class Initialized
+INFO - 2015-04-13 13:35:25 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:35:25 --> Model Class Initialized
+INFO - 2015-04-13 13:35:25 --> Model Class Initialized
+INFO - 2015-04-13 13:35:25 --> Parser Class Initialized
+INFO - 2015-04-13 13:35:25 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:35:25 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:35:25 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:35:25 --> Final output sent to browser
+DEBUG - 2015-04-13 13:35:25 --> Total execution time: 0.0059
+INFO - 2015-04-13 13:35:25 --> Config Class Initialized
+INFO - 2015-04-13 13:35:25 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:35:25 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:35:25 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:35:25 --> URI Class Initialized
+INFO - 2015-04-13 13:35:25 --> Router Class Initialized
+INFO - 2015-04-13 13:35:25 --> Output Class Initialized
+INFO - 2015-04-13 13:35:25 --> Security Class Initialized
+DEBUG - 2015-04-13 13:35:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:35:25 --> Input Class Initialized
+INFO - 2015-04-13 13:35:25 --> Language Class Initialized
+ERROR - 2015-04-13 13:35:25 --> 404 Page Not Found: Authors/undefined
+INFO - 2015-04-13 13:36:39 --> Config Class Initialized
+INFO - 2015-04-13 13:36:39 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:36:39 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:36:39 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:36:39 --> URI Class Initialized
+INFO - 2015-04-13 13:36:39 --> Router Class Initialized
+INFO - 2015-04-13 13:36:39 --> Output Class Initialized
+INFO - 2015-04-13 13:36:39 --> Security Class Initialized
+DEBUG - 2015-04-13 13:36:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:36:39 --> Input Class Initialized
+INFO - 2015-04-13 13:36:39 --> Language Class Initialized
+INFO - 2015-04-13 13:36:39 --> Loader Class Initialized
+INFO - 2015-04-13 13:36:39 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:36:39 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:36:39 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:36:39 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:36:39 --> Controller Class Initialized
+INFO - 2015-04-13 13:36:39 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:36:39 --> Model Class Initialized
+INFO - 2015-04-13 13:36:39 --> Model Class Initialized
+INFO - 2015-04-13 13:36:39 --> Parser Class Initialized
+INFO - 2015-04-13 13:36:39 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:36:39 --> File loaded: /home/ubuntu/workspace/application/views/authors/create.php
+INFO - 2015-04-13 13:36:39 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:36:39 --> Final output sent to browser
+DEBUG - 2015-04-13 13:36:39 --> Total execution time: 0.0058
+INFO - 2015-04-13 13:36:39 --> Config Class Initialized
+INFO - 2015-04-13 13:36:39 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:36:39 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:36:39 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:36:39 --> URI Class Initialized
+INFO - 2015-04-13 13:36:39 --> Router Class Initialized
+INFO - 2015-04-13 13:36:39 --> Output Class Initialized
+INFO - 2015-04-13 13:36:39 --> Security Class Initialized
+DEBUG - 2015-04-13 13:36:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:36:39 --> Input Class Initialized
+INFO - 2015-04-13 13:36:39 --> Language Class Initialized
+ERROR - 2015-04-13 13:36:39 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:36:39 --> Config Class Initialized
+INFO - 2015-04-13 13:36:39 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:36:39 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:36:39 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:36:39 --> URI Class Initialized
+INFO - 2015-04-13 13:36:39 --> Router Class Initialized
+INFO - 2015-04-13 13:36:39 --> Output Class Initialized
+INFO - 2015-04-13 13:36:39 --> Security Class Initialized
+DEBUG - 2015-04-13 13:36:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:36:39 --> Input Class Initialized
+INFO - 2015-04-13 13:36:39 --> Language Class Initialized
+ERROR - 2015-04-13 13:36:39 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:36:40 --> Config Class Initialized
+INFO - 2015-04-13 13:36:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:36:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:36:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:36:40 --> URI Class Initialized
+INFO - 2015-04-13 13:36:40 --> Router Class Initialized
+INFO - 2015-04-13 13:36:40 --> Output Class Initialized
+INFO - 2015-04-13 13:36:40 --> Security Class Initialized
+DEBUG - 2015-04-13 13:36:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:36:40 --> Input Class Initialized
+INFO - 2015-04-13 13:36:40 --> Language Class Initialized
+INFO - 2015-04-13 13:36:40 --> Loader Class Initialized
+INFO - 2015-04-13 13:36:40 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:36:40 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:36:40 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:36:40 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:36:40 --> Controller Class Initialized
+INFO - 2015-04-13 13:36:40 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:36:40 --> Model Class Initialized
+INFO - 2015-04-13 13:36:40 --> Model Class Initialized
+INFO - 2015-04-13 13:36:40 --> Parser Class Initialized
+INFO - 2015-04-13 13:36:40 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:36:40 --> File loaded: /home/ubuntu/workspace/application/views/authors/create.php
+INFO - 2015-04-13 13:36:40 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:36:40 --> Final output sent to browser
+DEBUG - 2015-04-13 13:36:40 --> Total execution time: 0.0048
+INFO - 2015-04-13 13:36:40 --> Config Class Initialized
+INFO - 2015-04-13 13:36:40 --> Hooks Class Initialized
+INFO - 2015-04-13 13:36:40 --> Config Class Initialized
+INFO - 2015-04-13 13:36:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:36:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:36:40 --> Utf8 Class Initialized
+DEBUG - 2015-04-13 13:36:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:36:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:36:40 --> URI Class Initialized
+INFO - 2015-04-13 13:36:40 --> URI Class Initialized
+INFO - 2015-04-13 13:36:40 --> Router Class Initialized
+INFO - 2015-04-13 13:36:40 --> Router Class Initialized
+INFO - 2015-04-13 13:36:40 --> Output Class Initialized
+INFO - 2015-04-13 13:36:40 --> Output Class Initialized
+INFO - 2015-04-13 13:36:40 --> Security Class Initialized
+INFO - 2015-04-13 13:36:40 --> Security Class Initialized
+DEBUG - 2015-04-13 13:36:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-04-13 13:36:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:36:40 --> Input Class Initialized
+INFO - 2015-04-13 13:36:40 --> Input Class Initialized
+INFO - 2015-04-13 13:36:40 --> Language Class Initialized
+INFO - 2015-04-13 13:36:40 --> Language Class Initialized
+ERROR - 2015-04-13 13:36:40 --> 404 Page Not Found: Assets/js
+ERROR - 2015-04-13 13:36:40 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:36:48 --> Config Class Initialized
+INFO - 2015-04-13 13:36:48 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:36:48 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:36:48 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:36:48 --> URI Class Initialized
+INFO - 2015-04-13 13:36:48 --> Router Class Initialized
+INFO - 2015-04-13 13:36:48 --> Output Class Initialized
+INFO - 2015-04-13 13:36:48 --> Security Class Initialized
+DEBUG - 2015-04-13 13:36:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:36:48 --> Input Class Initialized
+INFO - 2015-04-13 13:36:48 --> Language Class Initialized
+INFO - 2015-04-13 13:36:48 --> Loader Class Initialized
+INFO - 2015-04-13 13:36:48 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:36:48 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:36:48 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:36:48 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:36:48 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:36:48 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:36:48 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:36:48 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:36:48 --> Model Class Initialized
+INFO - 2015-04-13 13:36:48 --> Model Class Initialized
+INFO - 2015-04-13 13:36:48 --> Config Class Initialized
+INFO - 2015-04-13 13:36:48 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:36:48 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:36:48 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:36:48 --> URI Class Initialized
+INFO - 2015-04-13 13:36:48 --> Router Class Initialized
+INFO - 2015-04-13 13:36:48 --> Output Class Initialized
+INFO - 2015-04-13 13:36:48 --> Security Class Initialized
+DEBUG - 2015-04-13 13:36:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:36:48 --> Input Class Initialized
+INFO - 2015-04-13 13:36:48 --> Language Class Initialized
+INFO - 2015-04-13 13:36:48 --> Loader Class Initialized
+INFO - 2015-04-13 13:36:48 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:36:48 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:36:48 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:36:48 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:36:48 --> Controller Class Initialized
+INFO - 2015-04-13 13:36:48 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:36:48 --> Model Class Initialized
+INFO - 2015-04-13 13:36:48 --> Model Class Initialized
+INFO - 2015-04-13 13:36:48 --> Parser Class Initialized
+INFO - 2015-04-13 13:36:48 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:36:48 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:36:48 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:36:48 --> Final output sent to browser
+DEBUG - 2015-04-13 13:36:48 --> Total execution time: 0.0058
+INFO - 2015-04-13 13:36:48 --> Config Class Initialized
+INFO - 2015-04-13 13:36:48 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:36:48 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:36:48 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:36:48 --> URI Class Initialized
+INFO - 2015-04-13 13:36:48 --> Router Class Initialized
+INFO - 2015-04-13 13:36:48 --> Output Class Initialized
+INFO - 2015-04-13 13:36:48 --> Security Class Initialized
+DEBUG - 2015-04-13 13:36:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:36:49 --> Input Class Initialized
+INFO - 2015-04-13 13:36:49 --> Language Class Initialized
+ERROR - 2015-04-13 13:36:49 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:36:49 --> Config Class Initialized
+INFO - 2015-04-13 13:36:49 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:36:49 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:36:49 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:36:49 --> URI Class Initialized
+INFO - 2015-04-13 13:36:49 --> Router Class Initialized
+INFO - 2015-04-13 13:36:49 --> Output Class Initialized
+INFO - 2015-04-13 13:36:49 --> Security Class Initialized
+DEBUG - 2015-04-13 13:36:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:36:49 --> Input Class Initialized
+INFO - 2015-04-13 13:36:49 --> Language Class Initialized
+INFO - 2015-04-13 13:36:49 --> Loader Class Initialized
+INFO - 2015-04-13 13:36:49 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:36:49 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:36:49 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:36:49 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:36:49 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:36:49 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:36:49 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:36:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:36:49 --> Model Class Initialized
+INFO - 2015-04-13 13:36:49 --> Model Class Initialized
+INFO - 2015-04-13 13:36:49 --> Searching author with id 104
+INFO - 2015-04-13 13:36:49 --> Config Class Initialized
+INFO - 2015-04-13 13:36:49 --> Config Class Initialized
+INFO - 2015-04-13 13:36:49 --> Hooks Class Initialized
+INFO - 2015-04-13 13:36:49 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:36:49 --> UTF-8 Support Enabled
+DEBUG - 2015-04-13 13:36:49 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:36:49 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:36:49 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:36:49 --> URI Class Initialized
+INFO - 2015-04-13 13:36:49 --> URI Class Initialized
+INFO - 2015-04-13 13:36:49 --> Router Class Initialized
+INFO - 2015-04-13 13:36:49 --> Router Class Initialized
+INFO - 2015-04-13 13:36:49 --> Output Class Initialized
+INFO - 2015-04-13 13:36:49 --> Output Class Initialized
+INFO - 2015-04-13 13:36:49 --> Security Class Initialized
+INFO - 2015-04-13 13:36:49 --> Security Class Initialized
+DEBUG - 2015-04-13 13:36:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-04-13 13:36:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:36:49 --> Input Class Initialized
+INFO - 2015-04-13 13:36:49 --> Input Class Initialized
+INFO - 2015-04-13 13:36:49 --> Language Class Initialized
+INFO - 2015-04-13 13:36:49 --> Language Class Initialized
+ERROR - 2015-04-13 13:36:49 --> 404 Page Not Found: Assets/js
+ERROR - 2015-04-13 13:36:49 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:38:30 --> Config Class Initialized
+INFO - 2015-04-13 13:38:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:30 --> URI Class Initialized
+INFO - 2015-04-13 13:38:30 --> Router Class Initialized
+INFO - 2015-04-13 13:38:30 --> Output Class Initialized
+INFO - 2015-04-13 13:38:30 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:30 --> Input Class Initialized
+INFO - 2015-04-13 13:38:30 --> Language Class Initialized
+INFO - 2015-04-13 13:38:30 --> Loader Class Initialized
+INFO - 2015-04-13 13:38:30 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:38:30 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:38:30 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:38:30 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:38:30 --> Controller Class Initialized
+INFO - 2015-04-13 13:38:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:38:30 --> Model Class Initialized
+INFO - 2015-04-13 13:38:30 --> Model Class Initialized
+INFO - 2015-04-13 13:38:30 --> Parser Class Initialized
+INFO - 2015-04-13 13:38:30 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:38:30 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:38:30 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:38:30 --> Final output sent to browser
+DEBUG - 2015-04-13 13:38:30 --> Total execution time: 0.0099
+INFO - 2015-04-13 13:38:30 --> Config Class Initialized
+INFO - 2015-04-13 13:38:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:30 --> URI Class Initialized
+INFO - 2015-04-13 13:38:30 --> Router Class Initialized
+INFO - 2015-04-13 13:38:30 --> Output Class Initialized
+INFO - 2015-04-13 13:38:30 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:30 --> Input Class Initialized
+INFO - 2015-04-13 13:38:30 --> Language Class Initialized
+ERROR - 2015-04-13 13:38:30 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:38:30 --> Config Class Initialized
+INFO - 2015-04-13 13:38:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:30 --> URI Class Initialized
+INFO - 2015-04-13 13:38:30 --> Router Class Initialized
+INFO - 2015-04-13 13:38:30 --> Output Class Initialized
+INFO - 2015-04-13 13:38:30 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:30 --> Input Class Initialized
+INFO - 2015-04-13 13:38:30 --> Language Class Initialized
+INFO - 2015-04-13 13:38:30 --> Loader Class Initialized
+INFO - 2015-04-13 13:38:30 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:38:30 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:38:30 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:38:30 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:38:30 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:38:30 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:38:30 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:38:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:38:30 --> Model Class Initialized
+INFO - 2015-04-13 13:38:30 --> Model Class Initialized
+INFO - 2015-04-13 13:38:30 --> Searching author with id 104
+INFO - 2015-04-13 13:38:30 --> Config Class Initialized
+INFO - 2015-04-13 13:38:30 --> Config Class Initialized
+INFO - 2015-04-13 13:38:30 --> Hooks Class Initialized
+INFO - 2015-04-13 13:38:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:30 --> UTF-8 Support Enabled
+DEBUG - 2015-04-13 13:38:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:30 --> URI Class Initialized
+INFO - 2015-04-13 13:38:30 --> URI Class Initialized
+INFO - 2015-04-13 13:38:30 --> Router Class Initialized
+INFO - 2015-04-13 13:38:30 --> Router Class Initialized
+INFO - 2015-04-13 13:38:30 --> Output Class Initialized
+INFO - 2015-04-13 13:38:30 --> Output Class Initialized
+INFO - 2015-04-13 13:38:30 --> Security Class Initialized
+INFO - 2015-04-13 13:38:30 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-04-13 13:38:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:30 --> Input Class Initialized
+INFO - 2015-04-13 13:38:30 --> Input Class Initialized
+INFO - 2015-04-13 13:38:30 --> Language Class Initialized
+INFO - 2015-04-13 13:38:30 --> Language Class Initialized
+ERROR - 2015-04-13 13:38:30 --> 404 Page Not Found: Assets/js
+ERROR - 2015-04-13 13:38:30 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:38:33 --> Config Class Initialized
+INFO - 2015-04-13 13:38:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:33 --> URI Class Initialized
+INFO - 2015-04-13 13:38:33 --> Router Class Initialized
+INFO - 2015-04-13 13:38:33 --> Output Class Initialized
+INFO - 2015-04-13 13:38:33 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:33 --> Input Class Initialized
+INFO - 2015-04-13 13:38:33 --> Language Class Initialized
+INFO - 2015-04-13 13:38:33 --> Loader Class Initialized
+INFO - 2015-04-13 13:38:33 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:38:33 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:38:33 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:38:33 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:38:33 --> Controller Class Initialized
+INFO - 2015-04-13 13:38:33 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:38:33 --> Model Class Initialized
+INFO - 2015-04-13 13:38:33 --> Model Class Initialized
+INFO - 2015-04-13 13:38:33 --> Parser Class Initialized
+INFO - 2015-04-13 13:38:33 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:38:33 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:38:33 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:38:33 --> Final output sent to browser
+DEBUG - 2015-04-13 13:38:33 --> Total execution time: 0.0061
+INFO - 2015-04-13 13:38:33 --> Config Class Initialized
+INFO - 2015-04-13 13:38:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:33 --> URI Class Initialized
+INFO - 2015-04-13 13:38:33 --> Router Class Initialized
+INFO - 2015-04-13 13:38:33 --> Output Class Initialized
+INFO - 2015-04-13 13:38:33 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:33 --> Input Class Initialized
+INFO - 2015-04-13 13:38:33 --> Language Class Initialized
+ERROR - 2015-04-13 13:38:33 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:38:33 --> Config Class Initialized
+INFO - 2015-04-13 13:38:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:33 --> URI Class Initialized
+INFO - 2015-04-13 13:38:33 --> Router Class Initialized
+INFO - 2015-04-13 13:38:33 --> Output Class Initialized
+INFO - 2015-04-13 13:38:33 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:33 --> Input Class Initialized
+INFO - 2015-04-13 13:38:33 --> Language Class Initialized
+ERROR - 2015-04-13 13:38:33 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:38:33 --> Config Class Initialized
+INFO - 2015-04-13 13:38:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:33 --> URI Class Initialized
+INFO - 2015-04-13 13:38:33 --> Router Class Initialized
+INFO - 2015-04-13 13:38:33 --> Output Class Initialized
+INFO - 2015-04-13 13:38:33 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:33 --> Input Class Initialized
+INFO - 2015-04-13 13:38:33 --> Language Class Initialized
+INFO - 2015-04-13 13:38:33 --> Loader Class Initialized
+INFO - 2015-04-13 13:38:33 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:38:33 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:38:33 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:38:33 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:38:33 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:38:33 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:38:33 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:38:33 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:38:33 --> Model Class Initialized
+INFO - 2015-04-13 13:38:33 --> Model Class Initialized
+INFO - 2015-04-13 13:38:34 --> Config Class Initialized
+INFO - 2015-04-13 13:38:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:34 --> URI Class Initialized
+INFO - 2015-04-13 13:38:34 --> Router Class Initialized
+INFO - 2015-04-13 13:38:34 --> Output Class Initialized
+INFO - 2015-04-13 13:38:34 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:34 --> Input Class Initialized
+INFO - 2015-04-13 13:38:34 --> Language Class Initialized
+INFO - 2015-04-13 13:38:34 --> Loader Class Initialized
+INFO - 2015-04-13 13:38:34 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:38:34 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:38:34 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:38:34 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:38:34 --> Controller Class Initialized
+INFO - 2015-04-13 13:38:34 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:38:34 --> Model Class Initialized
+INFO - 2015-04-13 13:38:34 --> Model Class Initialized
+INFO - 2015-04-13 13:38:34 --> Parser Class Initialized
+INFO - 2015-04-13 13:38:34 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:38:34 --> File loaded: /home/ubuntu/workspace/application/views/authors/create.php
+INFO - 2015-04-13 13:38:34 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:38:34 --> Final output sent to browser
+DEBUG - 2015-04-13 13:38:34 --> Total execution time: 0.0060
+INFO - 2015-04-13 13:38:34 --> Config Class Initialized
+INFO - 2015-04-13 13:38:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:34 --> URI Class Initialized
+INFO - 2015-04-13 13:38:34 --> Router Class Initialized
+INFO - 2015-04-13 13:38:34 --> Output Class Initialized
+INFO - 2015-04-13 13:38:34 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:34 --> Input Class Initialized
+INFO - 2015-04-13 13:38:34 --> Language Class Initialized
+ERROR - 2015-04-13 13:38:34 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:38:34 --> Config Class Initialized
+INFO - 2015-04-13 13:38:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:34 --> URI Class Initialized
+INFO - 2015-04-13 13:38:34 --> Router Class Initialized
+INFO - 2015-04-13 13:38:34 --> Output Class Initialized
+INFO - 2015-04-13 13:38:34 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:34 --> Input Class Initialized
+INFO - 2015-04-13 13:38:34 --> Language Class Initialized
+ERROR - 2015-04-13 13:38:34 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:38:45 --> Config Class Initialized
+INFO - 2015-04-13 13:38:45 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:45 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:45 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:45 --> URI Class Initialized
+INFO - 2015-04-13 13:38:45 --> Router Class Initialized
+INFO - 2015-04-13 13:38:45 --> Output Class Initialized
+INFO - 2015-04-13 13:38:45 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:45 --> Input Class Initialized
+INFO - 2015-04-13 13:38:45 --> Language Class Initialized
+INFO - 2015-04-13 13:38:45 --> Loader Class Initialized
+INFO - 2015-04-13 13:38:45 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:38:45 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:38:45 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:38:45 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:38:45 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:38:45 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:38:45 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:38:45 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:38:45 --> Model Class Initialized
+INFO - 2015-04-13 13:38:45 --> Model Class Initialized
+INFO - 2015-04-13 13:38:45 --> Config Class Initialized
+INFO - 2015-04-13 13:38:45 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:45 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:45 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:45 --> URI Class Initialized
+INFO - 2015-04-13 13:38:45 --> Router Class Initialized
+INFO - 2015-04-13 13:38:45 --> Output Class Initialized
+INFO - 2015-04-13 13:38:45 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:45 --> Input Class Initialized
+INFO - 2015-04-13 13:38:45 --> Language Class Initialized
+INFO - 2015-04-13 13:38:45 --> Loader Class Initialized
+INFO - 2015-04-13 13:38:45 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:38:45 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:38:45 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:38:45 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:38:45 --> Controller Class Initialized
+INFO - 2015-04-13 13:38:45 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:38:45 --> Model Class Initialized
+INFO - 2015-04-13 13:38:45 --> Model Class Initialized
+INFO - 2015-04-13 13:38:45 --> Parser Class Initialized
+INFO - 2015-04-13 13:38:45 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:38:45 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:38:45 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:38:45 --> Final output sent to browser
+DEBUG - 2015-04-13 13:38:45 --> Total execution time: 0.0053
+INFO - 2015-04-13 13:38:45 --> Config Class Initialized
+INFO - 2015-04-13 13:38:45 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:38:45 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:38:45 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:38:45 --> URI Class Initialized
+INFO - 2015-04-13 13:38:45 --> Router Class Initialized
+INFO - 2015-04-13 13:38:45 --> Output Class Initialized
+INFO - 2015-04-13 13:38:45 --> Security Class Initialized
+DEBUG - 2015-04-13 13:38:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:38:45 --> Input Class Initialized
+INFO - 2015-04-13 13:38:45 --> Language Class Initialized
+ERROR - 2015-04-13 13:38:45 --> 404 Page Not Found: Authors/undefined
+INFO - 2015-04-13 13:40:31 --> Config Class Initialized
+INFO - 2015-04-13 13:40:31 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:31 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:31 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:31 --> URI Class Initialized
+INFO - 2015-04-13 13:40:31 --> Router Class Initialized
+INFO - 2015-04-13 13:40:31 --> Output Class Initialized
+INFO - 2015-04-13 13:40:31 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:31 --> Input Class Initialized
+INFO - 2015-04-13 13:40:31 --> Language Class Initialized
+INFO - 2015-04-13 13:40:31 --> Loader Class Initialized
+INFO - 2015-04-13 13:40:31 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:40:31 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:40:31 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:40:31 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:40:31 --> Controller Class Initialized
+INFO - 2015-04-13 13:40:31 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:40:31 --> Model Class Initialized
+INFO - 2015-04-13 13:40:31 --> Model Class Initialized
+INFO - 2015-04-13 13:40:31 --> Parser Class Initialized
+INFO - 2015-04-13 13:40:31 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:40:31 --> File loaded: /home/ubuntu/workspace/application/views/authors/create.php
+INFO - 2015-04-13 13:40:31 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:40:31 --> Final output sent to browser
+DEBUG - 2015-04-13 13:40:31 --> Total execution time: 0.0057
+INFO - 2015-04-13 13:40:31 --> Config Class Initialized
+INFO - 2015-04-13 13:40:31 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:31 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:31 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:31 --> URI Class Initialized
+INFO - 2015-04-13 13:40:31 --> Router Class Initialized
+INFO - 2015-04-13 13:40:31 --> Output Class Initialized
+INFO - 2015-04-13 13:40:31 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:31 --> Input Class Initialized
+INFO - 2015-04-13 13:40:31 --> Language Class Initialized
+ERROR - 2015-04-13 13:40:31 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:40:32 --> Config Class Initialized
+INFO - 2015-04-13 13:40:32 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:32 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:32 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:32 --> URI Class Initialized
+INFO - 2015-04-13 13:40:32 --> Router Class Initialized
+INFO - 2015-04-13 13:40:32 --> Output Class Initialized
+INFO - 2015-04-13 13:40:32 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:32 --> Input Class Initialized
+INFO - 2015-04-13 13:40:32 --> Language Class Initialized
+ERROR - 2015-04-13 13:40:32 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:40:32 --> Config Class Initialized
+INFO - 2015-04-13 13:40:32 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:32 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:32 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:32 --> URI Class Initialized
+INFO - 2015-04-13 13:40:32 --> Router Class Initialized
+INFO - 2015-04-13 13:40:32 --> Output Class Initialized
+INFO - 2015-04-13 13:40:32 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:32 --> Input Class Initialized
+INFO - 2015-04-13 13:40:32 --> Language Class Initialized
+INFO - 2015-04-13 13:40:32 --> Loader Class Initialized
+INFO - 2015-04-13 13:40:32 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:40:32 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:40:32 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:40:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:40:32 --> Controller Class Initialized
+INFO - 2015-04-13 13:40:32 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:40:32 --> Model Class Initialized
+INFO - 2015-04-13 13:40:32 --> Model Class Initialized
+INFO - 2015-04-13 13:40:32 --> Parser Class Initialized
+INFO - 2015-04-13 13:40:32 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:40:32 --> File loaded: /home/ubuntu/workspace/application/views/authors/create.php
+INFO - 2015-04-13 13:40:32 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:40:32 --> Final output sent to browser
+DEBUG - 2015-04-13 13:40:32 --> Total execution time: 0.0054
+INFO - 2015-04-13 13:40:33 --> Config Class Initialized
+INFO - 2015-04-13 13:40:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:33 --> URI Class Initialized
+INFO - 2015-04-13 13:40:33 --> Router Class Initialized
+INFO - 2015-04-13 13:40:33 --> Output Class Initialized
+INFO - 2015-04-13 13:40:33 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:33 --> Input Class Initialized
+INFO - 2015-04-13 13:40:33 --> Language Class Initialized
+ERROR - 2015-04-13 13:40:33 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:40:33 --> Config Class Initialized
+INFO - 2015-04-13 13:40:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:33 --> URI Class Initialized
+INFO - 2015-04-13 13:40:33 --> Router Class Initialized
+INFO - 2015-04-13 13:40:33 --> Output Class Initialized
+INFO - 2015-04-13 13:40:33 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:33 --> Input Class Initialized
+INFO - 2015-04-13 13:40:33 --> Language Class Initialized
+ERROR - 2015-04-13 13:40:33 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:40:39 --> Config Class Initialized
+INFO - 2015-04-13 13:40:39 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:39 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:39 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:39 --> URI Class Initialized
+INFO - 2015-04-13 13:40:39 --> Router Class Initialized
+INFO - 2015-04-13 13:40:39 --> Output Class Initialized
+INFO - 2015-04-13 13:40:39 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:39 --> Input Class Initialized
+INFO - 2015-04-13 13:40:39 --> Language Class Initialized
+INFO - 2015-04-13 13:40:39 --> Loader Class Initialized
+INFO - 2015-04-13 13:40:39 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:40:39 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:40:39 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:40:39 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:40:39 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:40:39 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:40:39 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:40:39 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:40:39 --> Model Class Initialized
+INFO - 2015-04-13 13:40:39 --> Model Class Initialized
+INFO - 2015-04-13 13:40:39 --> Config Class Initialized
+INFO - 2015-04-13 13:40:39 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:39 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:39 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:39 --> URI Class Initialized
+INFO - 2015-04-13 13:40:39 --> Router Class Initialized
+INFO - 2015-04-13 13:40:39 --> Output Class Initialized
+INFO - 2015-04-13 13:40:39 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:39 --> Input Class Initialized
+INFO - 2015-04-13 13:40:39 --> Language Class Initialized
+INFO - 2015-04-13 13:40:39 --> Loader Class Initialized
+INFO - 2015-04-13 13:40:39 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:40:39 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:40:39 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:40:39 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:40:39 --> Controller Class Initialized
+INFO - 2015-04-13 13:40:39 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:40:39 --> Model Class Initialized
+INFO - 2015-04-13 13:40:39 --> Model Class Initialized
+INFO - 2015-04-13 13:40:39 --> Parser Class Initialized
+INFO - 2015-04-13 13:40:39 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:40:39 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:40:39 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:40:39 --> Final output sent to browser
+DEBUG - 2015-04-13 13:40:39 --> Total execution time: 0.0055
+INFO - 2015-04-13 13:40:39 --> Config Class Initialized
+INFO - 2015-04-13 13:40:39 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:39 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:39 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:39 --> URI Class Initialized
+INFO - 2015-04-13 13:40:39 --> Router Class Initialized
+INFO - 2015-04-13 13:40:39 --> Output Class Initialized
+INFO - 2015-04-13 13:40:39 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:39 --> Input Class Initialized
+INFO - 2015-04-13 13:40:39 --> Language Class Initialized
+ERROR - 2015-04-13 13:40:39 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:40:40 --> Config Class Initialized
+INFO - 2015-04-13 13:40:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:40 --> URI Class Initialized
+INFO - 2015-04-13 13:40:40 --> Router Class Initialized
+INFO - 2015-04-13 13:40:40 --> Output Class Initialized
+INFO - 2015-04-13 13:40:40 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:40 --> Input Class Initialized
+INFO - 2015-04-13 13:40:40 --> Language Class Initialized
+ERROR - 2015-04-13 13:40:40 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:40:40 --> Config Class Initialized
+INFO - 2015-04-13 13:40:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:40 --> URI Class Initialized
+INFO - 2015-04-13 13:40:40 --> Router Class Initialized
+INFO - 2015-04-13 13:40:40 --> Output Class Initialized
+INFO - 2015-04-13 13:40:40 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:40 --> Input Class Initialized
+INFO - 2015-04-13 13:40:40 --> Language Class Initialized
+ERROR - 2015-04-13 13:40:40 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:40:40 --> Config Class Initialized
+INFO - 2015-04-13 13:40:40 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:40 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:40 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:40 --> URI Class Initialized
+INFO - 2015-04-13 13:40:40 --> Router Class Initialized
+INFO - 2015-04-13 13:40:40 --> Output Class Initialized
+INFO - 2015-04-13 13:40:40 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:40 --> Input Class Initialized
+INFO - 2015-04-13 13:40:40 --> Language Class Initialized
+INFO - 2015-04-13 13:40:40 --> Loader Class Initialized
+INFO - 2015-04-13 13:40:40 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:40:40 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:40:40 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:40:40 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:40:40 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:40:40 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:40:40 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:40:40 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:40:40 --> Model Class Initialized
+INFO - 2015-04-13 13:40:40 --> Model Class Initialized
+INFO - 2015-04-13 13:40:40 --> Searching author with id 106
+INFO - 2015-04-13 13:40:42 --> Config Class Initialized
+INFO - 2015-04-13 13:40:42 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:42 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:42 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:42 --> URI Class Initialized
+INFO - 2015-04-13 13:40:42 --> Router Class Initialized
+INFO - 2015-04-13 13:40:42 --> Output Class Initialized
+INFO - 2015-04-13 13:40:42 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:42 --> Input Class Initialized
+INFO - 2015-04-13 13:40:42 --> Language Class Initialized
+INFO - 2015-04-13 13:40:42 --> Loader Class Initialized
+INFO - 2015-04-13 13:40:42 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:40:42 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:40:42 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:40:42 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:40:42 --> Controller Class Initialized
+INFO - 2015-04-13 13:40:42 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:40:42 --> Model Class Initialized
+INFO - 2015-04-13 13:40:42 --> Model Class Initialized
+INFO - 2015-04-13 13:40:42 --> Parser Class Initialized
+INFO - 2015-04-13 13:40:42 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:40:42 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:40:42 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:40:42 --> Final output sent to browser
+DEBUG - 2015-04-13 13:40:42 --> Total execution time: 0.0077
+INFO - 2015-04-13 13:40:42 --> Config Class Initialized
+INFO - 2015-04-13 13:40:42 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:42 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:42 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:42 --> URI Class Initialized
+INFO - 2015-04-13 13:40:42 --> Router Class Initialized
+INFO - 2015-04-13 13:40:42 --> Output Class Initialized
+INFO - 2015-04-13 13:40:42 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:42 --> Input Class Initialized
+INFO - 2015-04-13 13:40:42 --> Language Class Initialized
+ERROR - 2015-04-13 13:40:42 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:40:42 --> Config Class Initialized
+INFO - 2015-04-13 13:40:42 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:42 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:42 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:42 --> URI Class Initialized
+INFO - 2015-04-13 13:40:42 --> Router Class Initialized
+INFO - 2015-04-13 13:40:42 --> Output Class Initialized
+INFO - 2015-04-13 13:40:42 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:42 --> Input Class Initialized
+INFO - 2015-04-13 13:40:42 --> Language Class Initialized
+ERROR - 2015-04-13 13:40:42 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:40:42 --> Config Class Initialized
+INFO - 2015-04-13 13:40:42 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:40:42 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:40:42 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:40:42 --> URI Class Initialized
+INFO - 2015-04-13 13:40:42 --> Router Class Initialized
+INFO - 2015-04-13 13:40:42 --> Output Class Initialized
+INFO - 2015-04-13 13:40:42 --> Security Class Initialized
+DEBUG - 2015-04-13 13:40:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:40:42 --> Input Class Initialized
+INFO - 2015-04-13 13:40:42 --> Language Class Initialized
+INFO - 2015-04-13 13:40:42 --> Loader Class Initialized
+INFO - 2015-04-13 13:40:42 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:40:42 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:40:42 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:40:42 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:40:42 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:40:42 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:40:42 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:40:42 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:40:42 --> Model Class Initialized
+INFO - 2015-04-13 13:40:42 --> Model Class Initialized
+INFO - 2015-04-13 13:47:09 --> Config Class Initialized
+INFO - 2015-04-13 13:47:09 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:09 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:09 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:09 --> URI Class Initialized
+DEBUG - 2015-04-13 13:47:09 --> No URI present. Default controller set.
+INFO - 2015-04-13 13:47:09 --> Router Class Initialized
+INFO - 2015-04-13 13:47:09 --> Output Class Initialized
+INFO - 2015-04-13 13:47:09 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:09 --> Input Class Initialized
+INFO - 2015-04-13 13:47:09 --> Language Class Initialized
+INFO - 2015-04-13 13:47:09 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:09 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:09 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:09 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:09 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:09 --> Controller Class Initialized
+INFO - 2015-04-13 13:47:09 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:09 --> Model Class Initialized
+INFO - 2015-04-13 13:47:09 --> Model Class Initialized
+INFO - 2015-04-13 13:47:09 --> Parser Class Initialized
+INFO - 2015-04-13 13:47:09 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:47:09 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:47:09 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:47:09 --> Final output sent to browser
+DEBUG - 2015-04-13 13:47:09 --> Total execution time: 0.0075
+INFO - 2015-04-13 13:47:09 --> Config Class Initialized
+INFO - 2015-04-13 13:47:09 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:09 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:09 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:09 --> URI Class Initialized
+INFO - 2015-04-13 13:47:09 --> Router Class Initialized
+INFO - 2015-04-13 13:47:09 --> Output Class Initialized
+INFO - 2015-04-13 13:47:09 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:09 --> Input Class Initialized
+INFO - 2015-04-13 13:47:09 --> Language Class Initialized
+INFO - 2015-04-13 13:47:09 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:09 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:09 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:09 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:09 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:09 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:47:09 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:47:09 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:47:09 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:09 --> Model Class Initialized
+INFO - 2015-04-13 13:47:09 --> Model Class Initialized
+INFO - 2015-04-13 13:47:09 --> Config Class Initialized
+INFO - 2015-04-13 13:47:09 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:09 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:09 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:09 --> URI Class Initialized
+INFO - 2015-04-13 13:47:09 --> Router Class Initialized
+INFO - 2015-04-13 13:47:09 --> Output Class Initialized
+INFO - 2015-04-13 13:47:09 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:09 --> Input Class Initialized
+INFO - 2015-04-13 13:47:09 --> Language Class Initialized
+ERROR - 2015-04-13 13:47:09 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:47:09 --> Config Class Initialized
+INFO - 2015-04-13 13:47:09 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:09 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:09 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:09 --> URI Class Initialized
+INFO - 2015-04-13 13:47:09 --> Router Class Initialized
+INFO - 2015-04-13 13:47:09 --> Output Class Initialized
+INFO - 2015-04-13 13:47:09 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:09 --> Input Class Initialized
+INFO - 2015-04-13 13:47:09 --> Language Class Initialized
+ERROR - 2015-04-13 13:47:09 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:47:10 --> Config Class Initialized
+INFO - 2015-04-13 13:47:10 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:10 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:10 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:10 --> URI Class Initialized
+DEBUG - 2015-04-13 13:47:10 --> No URI present. Default controller set.
+INFO - 2015-04-13 13:47:10 --> Router Class Initialized
+INFO - 2015-04-13 13:47:10 --> Output Class Initialized
+INFO - 2015-04-13 13:47:10 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:10 --> Input Class Initialized
+INFO - 2015-04-13 13:47:10 --> Language Class Initialized
+INFO - 2015-04-13 13:47:10 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:10 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:10 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:10 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:10 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:10 --> Controller Class Initialized
+INFO - 2015-04-13 13:47:10 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:10 --> Model Class Initialized
+INFO - 2015-04-13 13:47:10 --> Model Class Initialized
+INFO - 2015-04-13 13:47:10 --> Parser Class Initialized
+INFO - 2015-04-13 13:47:10 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:47:10 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:47:10 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:47:10 --> Final output sent to browser
+DEBUG - 2015-04-13 13:47:10 --> Total execution time: 0.0077
+INFO - 2015-04-13 13:47:10 --> Config Class Initialized
+INFO - 2015-04-13 13:47:10 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:10 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:10 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:10 --> URI Class Initialized
+INFO - 2015-04-13 13:47:10 --> Router Class Initialized
+INFO - 2015-04-13 13:47:10 --> Output Class Initialized
+INFO - 2015-04-13 13:47:10 --> Config Class Initialized
+INFO - 2015-04-13 13:47:10 --> Hooks Class Initialized
+INFO - 2015-04-13 13:47:10 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:10 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:10 --> Utf8 Class Initialized
+DEBUG - 2015-04-13 13:47:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:10 --> URI Class Initialized
+INFO - 2015-04-13 13:47:10 --> Input Class Initialized
+INFO - 2015-04-13 13:47:10 --> Language Class Initialized
+INFO - 2015-04-13 13:47:10 --> Router Class Initialized
+INFO - 2015-04-13 13:47:10 --> Output Class Initialized
+ERROR - 2015-04-13 13:47:10 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:47:10 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:10 --> Input Class Initialized
+INFO - 2015-04-13 13:47:10 --> Language Class Initialized
+ERROR - 2015-04-13 13:47:10 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:47:10 --> Config Class Initialized
+INFO - 2015-04-13 13:47:10 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:10 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:10 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:10 --> URI Class Initialized
+INFO - 2015-04-13 13:47:10 --> Router Class Initialized
+INFO - 2015-04-13 13:47:10 --> Output Class Initialized
+INFO - 2015-04-13 13:47:10 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:10 --> Input Class Initialized
+INFO - 2015-04-13 13:47:10 --> Language Class Initialized
+INFO - 2015-04-13 13:47:10 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:10 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:10 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:10 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:10 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:10 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:47:10 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:47:10 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:47:10 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:10 --> Model Class Initialized
+INFO - 2015-04-13 13:47:10 --> Model Class Initialized
+INFO - 2015-04-13 13:47:12 --> Config Class Initialized
+INFO - 2015-04-13 13:47:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:12 --> URI Class Initialized
+DEBUG - 2015-04-13 13:47:12 --> No URI present. Default controller set.
+INFO - 2015-04-13 13:47:12 --> Router Class Initialized
+INFO - 2015-04-13 13:47:12 --> Output Class Initialized
+INFO - 2015-04-13 13:47:12 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:12 --> Input Class Initialized
+INFO - 2015-04-13 13:47:12 --> Language Class Initialized
+INFO - 2015-04-13 13:47:12 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:12 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:12 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:12 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:12 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:12 --> Controller Class Initialized
+INFO - 2015-04-13 13:47:12 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:12 --> Model Class Initialized
+INFO - 2015-04-13 13:47:12 --> Model Class Initialized
+INFO - 2015-04-13 13:47:12 --> Parser Class Initialized
+INFO - 2015-04-13 13:47:12 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:47:12 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:47:12 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:47:12 --> Final output sent to browser
+DEBUG - 2015-04-13 13:47:12 --> Total execution time: 0.0076
+INFO - 2015-04-13 13:47:12 --> Config Class Initialized
+INFO - 2015-04-13 13:47:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:12 --> URI Class Initialized
+INFO - 2015-04-13 13:47:12 --> Router Class Initialized
+INFO - 2015-04-13 13:47:12 --> Output Class Initialized
+INFO - 2015-04-13 13:47:12 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:12 --> Input Class Initialized
+INFO - 2015-04-13 13:47:12 --> Language Class Initialized
+INFO - 2015-04-13 13:47:12 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:12 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:12 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:12 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:12 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:12 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:47:12 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:47:12 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:47:12 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:12 --> Model Class Initialized
+INFO - 2015-04-13 13:47:12 --> Model Class Initialized
+INFO - 2015-04-13 13:47:12 --> Config Class Initialized
+INFO - 2015-04-13 13:47:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:12 --> Config Class Initialized
+INFO - 2015-04-13 13:47:12 --> URI Class Initialized
+INFO - 2015-04-13 13:47:12 --> Hooks Class Initialized
+INFO - 2015-04-13 13:47:12 --> Router Class Initialized
+DEBUG - 2015-04-13 13:47:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:12 --> Output Class Initialized
+INFO - 2015-04-13 13:47:12 --> URI Class Initialized
+INFO - 2015-04-13 13:47:12 --> Security Class Initialized
+INFO - 2015-04-13 13:47:12 --> Router Class Initialized
+DEBUG - 2015-04-13 13:47:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:12 --> Input Class Initialized
+INFO - 2015-04-13 13:47:12 --> Output Class Initialized
+INFO - 2015-04-13 13:47:12 --> Language Class Initialized
+INFO - 2015-04-13 13:47:12 --> Security Class Initialized
+ERROR - 2015-04-13 13:47:12 --> 404 Page Not Found: Assets/js
+DEBUG - 2015-04-13 13:47:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:12 --> Input Class Initialized
+INFO - 2015-04-13 13:47:12 --> Language Class Initialized
+ERROR - 2015-04-13 13:47:12 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:47:12 --> Config Class Initialized
+INFO - 2015-04-13 13:47:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:12 --> URI Class Initialized
+INFO - 2015-04-13 13:47:12 --> Router Class Initialized
+INFO - 2015-04-13 13:47:12 --> Output Class Initialized
+INFO - 2015-04-13 13:47:12 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:12 --> Input Class Initialized
+INFO - 2015-04-13 13:47:12 --> Language Class Initialized
+INFO - 2015-04-13 13:47:12 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:12 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:12 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:12 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:12 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:12 --> Controller Class Initialized
+INFO - 2015-04-13 13:47:12 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:12 --> Model Class Initialized
+INFO - 2015-04-13 13:47:12 --> Model Class Initialized
+INFO - 2015-04-13 13:47:12 --> Parser Class Initialized
+INFO - 2015-04-13 13:47:12 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:47:12 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:47:12 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:47:12 --> Final output sent to browser
+DEBUG - 2015-04-13 13:47:12 --> Total execution time: 0.0070
+INFO - 2015-04-13 13:47:13 --> Config Class Initialized
+INFO - 2015-04-13 13:47:13 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:13 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:13 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:13 --> URI Class Initialized
+INFO - 2015-04-13 13:47:13 --> Router Class Initialized
+INFO - 2015-04-13 13:47:13 --> Output Class Initialized
+INFO - 2015-04-13 13:47:13 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:13 --> Input Class Initialized
+INFO - 2015-04-13 13:47:13 --> Language Class Initialized
+INFO - 2015-04-13 13:47:13 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:13 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:13 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:13 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:13 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:13 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:47:13 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:47:13 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:47:13 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:13 --> Model Class Initialized
+INFO - 2015-04-13 13:47:13 --> Model Class Initialized
+INFO - 2015-04-13 13:47:13 --> Config Class Initialized
+INFO - 2015-04-13 13:47:13 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:13 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:13 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:13 --> URI Class Initialized
+INFO - 2015-04-13 13:47:13 --> Router Class Initialized
+INFO - 2015-04-13 13:47:13 --> Output Class Initialized
+INFO - 2015-04-13 13:47:13 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:13 --> Input Class Initialized
+INFO - 2015-04-13 13:47:13 --> Language Class Initialized
+ERROR - 2015-04-13 13:47:13 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:47:13 --> Config Class Initialized
+INFO - 2015-04-13 13:47:13 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:13 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:13 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:13 --> URI Class Initialized
+INFO - 2015-04-13 13:47:13 --> Router Class Initialized
+INFO - 2015-04-13 13:47:13 --> Output Class Initialized
+INFO - 2015-04-13 13:47:13 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:13 --> Input Class Initialized
+INFO - 2015-04-13 13:47:13 --> Language Class Initialized
+ERROR - 2015-04-13 13:47:13 --> 404 Page Not Found: Assets/js
+INFO - 2015-04-13 13:47:21 --> Config Class Initialized
+INFO - 2015-04-13 13:47:21 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:21 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:21 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:21 --> URI Class Initialized
+INFO - 2015-04-13 13:47:21 --> Router Class Initialized
+INFO - 2015-04-13 13:47:21 --> Output Class Initialized
+INFO - 2015-04-13 13:47:21 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:21 --> Input Class Initialized
+INFO - 2015-04-13 13:47:21 --> Language Class Initialized
+INFO - 2015-04-13 13:47:21 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:21 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:21 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:21 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:21 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:21 --> Controller Class Initialized
+INFO - 2015-04-13 13:47:21 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:21 --> Model Class Initialized
+INFO - 2015-04-13 13:47:21 --> Model Class Initialized
+INFO - 2015-04-13 13:47:21 --> Parser Class Initialized
+INFO - 2015-04-13 13:47:21 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:47:21 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:47:21 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:47:21 --> Final output sent to browser
+DEBUG - 2015-04-13 13:47:21 --> Total execution time: 0.0097
+INFO - 2015-04-13 13:47:22 --> Config Class Initialized
+INFO - 2015-04-13 13:47:22 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:22 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:22 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:22 --> URI Class Initialized
+INFO - 2015-04-13 13:47:22 --> Router Class Initialized
+INFO - 2015-04-13 13:47:22 --> Output Class Initialized
+INFO - 2015-04-13 13:47:22 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:22 --> Input Class Initialized
+INFO - 2015-04-13 13:47:22 --> Language Class Initialized
+ERROR - 2015-04-13 13:47:22 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:47:22 --> Config Class Initialized
+INFO - 2015-04-13 13:47:22 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:22 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:22 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:22 --> URI Class Initialized
+INFO - 2015-04-13 13:47:22 --> Router Class Initialized
+INFO - 2015-04-13 13:47:22 --> Output Class Initialized
+INFO - 2015-04-13 13:47:22 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:22 --> Input Class Initialized
+INFO - 2015-04-13 13:47:22 --> Language Class Initialized
+INFO - 2015-04-13 13:47:22 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:22 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:22 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:22 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:22 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:22 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:47:22 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:47:22 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:47:22 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:22 --> Model Class Initialized
+INFO - 2015-04-13 13:47:22 --> Model Class Initialized
+INFO - 2015-04-13 13:47:22 --> Searching author with id 97
+INFO - 2015-04-13 13:47:23 --> Config Class Initialized
+INFO - 2015-04-13 13:47:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:23 --> URI Class Initialized
+INFO - 2015-04-13 13:47:23 --> Router Class Initialized
+INFO - 2015-04-13 13:47:23 --> Output Class Initialized
+INFO - 2015-04-13 13:47:23 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:23 --> Input Class Initialized
+INFO - 2015-04-13 13:47:23 --> Language Class Initialized
+INFO - 2015-04-13 13:47:23 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:23 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:23 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:23 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:23 --> Controller Class Initialized
+INFO - 2015-04-13 13:47:23 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:23 --> Model Class Initialized
+INFO - 2015-04-13 13:47:23 --> Model Class Initialized
+INFO - 2015-04-13 13:47:23 --> Parser Class Initialized
+INFO - 2015-04-13 13:47:23 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:47:23 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:47:23 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:47:23 --> Final output sent to browser
+DEBUG - 2015-04-13 13:47:23 --> Total execution time: 0.0123
+INFO - 2015-04-13 13:47:27 --> Config Class Initialized
+INFO - 2015-04-13 13:47:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:27 --> URI Class Initialized
+INFO - 2015-04-13 13:47:27 --> Router Class Initialized
+INFO - 2015-04-13 13:47:27 --> Output Class Initialized
+INFO - 2015-04-13 13:47:27 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:27 --> Input Class Initialized
+INFO - 2015-04-13 13:47:27 --> Language Class Initialized
+INFO - 2015-04-13 13:47:27 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:27 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:27 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:27 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:27 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:27 --> Controller Class Initialized
+INFO - 2015-04-13 13:47:27 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:27 --> Model Class Initialized
+INFO - 2015-04-13 13:47:27 --> Model Class Initialized
+INFO - 2015-04-13 13:47:27 --> Helper loaded: form_helper
+INFO - 2015-04-13 13:47:27 --> Model Class Initialized
+INFO - 2015-04-13 13:47:27 --> Parser Class Initialized
+INFO - 2015-04-13 13:47:27 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:47:27 --> File loaded: /home/ubuntu/workspace/application/views/books/edit.php
+INFO - 2015-04-13 13:47:27 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:47:27 --> Final output sent to browser
+DEBUG - 2015-04-13 13:47:27 --> Total execution time: 0.0107
+INFO - 2015-04-13 13:47:27 --> Config Class Initialized
+INFO - 2015-04-13 13:47:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:27 --> URI Class Initialized
+INFO - 2015-04-13 13:47:27 --> Router Class Initialized
+INFO - 2015-04-13 13:47:27 --> Output Class Initialized
+INFO - 2015-04-13 13:47:27 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:27 --> Input Class Initialized
+INFO - 2015-04-13 13:47:27 --> Language Class Initialized
+INFO - 2015-04-13 13:47:27 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:27 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:27 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:27 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:27 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:27 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:47:27 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:47:27 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:47:27 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:27 --> Model Class Initialized
+INFO - 2015-04-13 13:47:27 --> Model Class Initialized
+INFO - 2015-04-13 13:47:27 --> Searching book with id 5
+INFO - 2015-04-13 13:47:32 --> Config Class Initialized
+INFO - 2015-04-13 13:47:32 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:32 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:32 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:32 --> URI Class Initialized
+INFO - 2015-04-13 13:47:32 --> Router Class Initialized
+INFO - 2015-04-13 13:47:32 --> Output Class Initialized
+INFO - 2015-04-13 13:47:32 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:32 --> Input Class Initialized
+INFO - 2015-04-13 13:47:32 --> Language Class Initialized
+INFO - 2015-04-13 13:47:32 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:32 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:32 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:32 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:32 --> Controller Class Initialized
+INFO - 2015-04-13 13:47:32 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:32 --> Model Class Initialized
+INFO - 2015-04-13 13:47:32 --> Model Class Initialized
+INFO - 2015-04-13 13:47:32 --> Parser Class Initialized
+INFO - 2015-04-13 13:47:32 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:47:32 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:47:32 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:47:32 --> Final output sent to browser
+DEBUG - 2015-04-13 13:47:32 --> Total execution time: 0.0094
+INFO - 2015-04-13 13:47:32 --> Config Class Initialized
+INFO - 2015-04-13 13:47:32 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:47:32 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:47:32 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:47:32 --> URI Class Initialized
+INFO - 2015-04-13 13:47:32 --> Router Class Initialized
+INFO - 2015-04-13 13:47:32 --> Output Class Initialized
+INFO - 2015-04-13 13:47:32 --> Security Class Initialized
+DEBUG - 2015-04-13 13:47:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:47:32 --> Input Class Initialized
+INFO - 2015-04-13 13:47:32 --> Language Class Initialized
+INFO - 2015-04-13 13:47:32 --> Loader Class Initialized
+INFO - 2015-04-13 13:47:32 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:47:32 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:47:32 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:47:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:47:32 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:47:32 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:47:32 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:47:32 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:47:32 --> Model Class Initialized
+INFO - 2015-04-13 13:47:32 --> Model Class Initialized
+INFO - 2015-04-13 13:48:54 --> Config Class Initialized
+INFO - 2015-04-13 13:48:54 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:48:54 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:48:54 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:48:54 --> URI Class Initialized
+INFO - 2015-04-13 13:48:54 --> Router Class Initialized
+INFO - 2015-04-13 13:48:54 --> Output Class Initialized
+INFO - 2015-04-13 13:48:54 --> Security Class Initialized
+DEBUG - 2015-04-13 13:48:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:48:54 --> Input Class Initialized
+INFO - 2015-04-13 13:48:54 --> Language Class Initialized
+INFO - 2015-04-13 13:48:54 --> Loader Class Initialized
+INFO - 2015-04-13 13:48:54 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:48:54 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:48:54 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:48:54 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:48:54 --> Controller Class Initialized
+INFO - 2015-04-13 13:48:54 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:48:54 --> Model Class Initialized
+INFO - 2015-04-13 13:48:54 --> Model Class Initialized
+INFO - 2015-04-13 13:48:54 --> Parser Class Initialized
+INFO - 2015-04-13 13:48:54 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:48:54 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:48:54 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:48:54 --> Final output sent to browser
+DEBUG - 2015-04-13 13:48:54 --> Total execution time: 0.0138
+INFO - 2015-04-13 13:48:55 --> Config Class Initialized
+INFO - 2015-04-13 13:48:55 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:48:55 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:48:55 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:48:55 --> URI Class Initialized
+INFO - 2015-04-13 13:48:55 --> Router Class Initialized
+INFO - 2015-04-13 13:48:55 --> Output Class Initialized
+INFO - 2015-04-13 13:48:55 --> Security Class Initialized
+DEBUG - 2015-04-13 13:48:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:48:55 --> Input Class Initialized
+INFO - 2015-04-13 13:48:55 --> Language Class Initialized
+INFO - 2015-04-13 13:48:55 --> Loader Class Initialized
+INFO - 2015-04-13 13:48:55 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:48:55 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:48:55 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:48:55 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:48:55 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:48:55 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:48:55 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:48:55 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:48:55 --> Model Class Initialized
+INFO - 2015-04-13 13:48:55 --> Model Class Initialized
+INFO - 2015-04-13 13:48:58 --> Config Class Initialized
+INFO - 2015-04-13 13:48:58 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:48:58 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:48:58 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:48:58 --> URI Class Initialized
+INFO - 2015-04-13 13:48:58 --> Router Class Initialized
+INFO - 2015-04-13 13:48:58 --> Output Class Initialized
+INFO - 2015-04-13 13:48:58 --> Security Class Initialized
+DEBUG - 2015-04-13 13:48:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:48:58 --> Input Class Initialized
+INFO - 2015-04-13 13:48:58 --> Language Class Initialized
+INFO - 2015-04-13 13:48:58 --> Loader Class Initialized
+INFO - 2015-04-13 13:48:58 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:48:58 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:48:58 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:48:58 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:48:58 --> Controller Class Initialized
+INFO - 2015-04-13 13:48:58 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:48:58 --> Model Class Initialized
+INFO - 2015-04-13 13:48:58 --> Model Class Initialized
+INFO - 2015-04-13 13:48:58 --> Parser Class Initialized
+INFO - 2015-04-13 13:48:58 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:48:58 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:48:58 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:48:58 --> Final output sent to browser
+DEBUG - 2015-04-13 13:48:58 --> Total execution time: 0.0067
+INFO - 2015-04-13 13:48:58 --> Config Class Initialized
+INFO - 2015-04-13 13:48:58 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:48:58 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:48:58 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:48:58 --> URI Class Initialized
+INFO - 2015-04-13 13:48:58 --> Router Class Initialized
+INFO - 2015-04-13 13:48:58 --> Output Class Initialized
+INFO - 2015-04-13 13:48:58 --> Security Class Initialized
+DEBUG - 2015-04-13 13:48:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:48:58 --> Input Class Initialized
+INFO - 2015-04-13 13:48:58 --> Language Class Initialized
+ERROR - 2015-04-13 13:48:58 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:48:58 --> Config Class Initialized
+INFO - 2015-04-13 13:48:58 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:48:58 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:48:58 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:48:58 --> URI Class Initialized
+INFO - 2015-04-13 13:48:58 --> Router Class Initialized
+INFO - 2015-04-13 13:48:58 --> Output Class Initialized
+INFO - 2015-04-13 13:48:58 --> Security Class Initialized
+DEBUG - 2015-04-13 13:48:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:48:58 --> Input Class Initialized
+INFO - 2015-04-13 13:48:58 --> Language Class Initialized
+INFO - 2015-04-13 13:48:58 --> Loader Class Initialized
+INFO - 2015-04-13 13:48:58 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:48:58 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:48:58 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:48:58 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:48:58 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:48:58 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:48:58 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:48:58 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:48:58 --> Model Class Initialized
+INFO - 2015-04-13 13:48:58 --> Model Class Initialized
+INFO - 2015-04-13 13:48:58 --> Searching author with id 104
+INFO - 2015-04-13 13:49:05 --> Config Class Initialized
+INFO - 2015-04-13 13:49:05 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:05 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:05 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:05 --> URI Class Initialized
+INFO - 2015-04-13 13:49:05 --> Router Class Initialized
+INFO - 2015-04-13 13:49:05 --> Output Class Initialized
+INFO - 2015-04-13 13:49:05 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:05 --> Input Class Initialized
+INFO - 2015-04-13 13:49:05 --> Language Class Initialized
+INFO - 2015-04-13 13:49:05 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:05 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:05 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:05 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:05 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:05 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:05 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:05 --> Model Class Initialized
+INFO - 2015-04-13 13:49:05 --> Model Class Initialized
+INFO - 2015-04-13 13:49:05 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:05 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:05 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:49:05 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:05 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:05 --> Total execution time: 0.0103
+INFO - 2015-04-13 13:49:05 --> Config Class Initialized
+INFO - 2015-04-13 13:49:05 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:05 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:05 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:05 --> URI Class Initialized
+INFO - 2015-04-13 13:49:05 --> Router Class Initialized
+INFO - 2015-04-13 13:49:05 --> Output Class Initialized
+INFO - 2015-04-13 13:49:05 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:05 --> Input Class Initialized
+INFO - 2015-04-13 13:49:05 --> Language Class Initialized
+INFO - 2015-04-13 13:49:05 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:05 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:05 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:05 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:05 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:05 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:49:05 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:49:05 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:49:05 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:05 --> Model Class Initialized
+INFO - 2015-04-13 13:49:05 --> Model Class Initialized
+INFO - 2015-04-13 13:49:09 --> Config Class Initialized
+INFO - 2015-04-13 13:49:09 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:09 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:09 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:09 --> URI Class Initialized
+DEBUG - 2015-04-13 13:49:09 --> No URI present. Default controller set.
+INFO - 2015-04-13 13:49:09 --> Router Class Initialized
+INFO - 2015-04-13 13:49:09 --> Output Class Initialized
+INFO - 2015-04-13 13:49:09 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:09 --> Input Class Initialized
+INFO - 2015-04-13 13:49:09 --> Language Class Initialized
+INFO - 2015-04-13 13:49:09 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:09 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:09 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:09 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:09 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:09 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:09 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:09 --> Model Class Initialized
+INFO - 2015-04-13 13:49:09 --> Model Class Initialized
+INFO - 2015-04-13 13:49:09 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:09 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:09 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:49:09 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:09 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:09 --> Total execution time: 0.0077
+INFO - 2015-04-13 13:49:10 --> Config Class Initialized
+INFO - 2015-04-13 13:49:10 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:10 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:10 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:10 --> URI Class Initialized
+INFO - 2015-04-13 13:49:10 --> Router Class Initialized
+INFO - 2015-04-13 13:49:10 --> Output Class Initialized
+INFO - 2015-04-13 13:49:10 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:10 --> Input Class Initialized
+INFO - 2015-04-13 13:49:10 --> Language Class Initialized
+INFO - 2015-04-13 13:49:10 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:10 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:10 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:10 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:10 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:10 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:49:10 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:49:10 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:49:10 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:10 --> Model Class Initialized
+INFO - 2015-04-13 13:49:10 --> Model Class Initialized
+INFO - 2015-04-13 13:49:10 --> Config Class Initialized
+INFO - 2015-04-13 13:49:10 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:10 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:10 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:10 --> URI Class Initialized
+INFO - 2015-04-13 13:49:10 --> Router Class Initialized
+INFO - 2015-04-13 13:49:10 --> Output Class Initialized
+INFO - 2015-04-13 13:49:10 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:10 --> Input Class Initialized
+INFO - 2015-04-13 13:49:10 --> Language Class Initialized
+INFO - 2015-04-13 13:49:10 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:10 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:10 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:10 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:10 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:10 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:10 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:10 --> Model Class Initialized
+INFO - 2015-04-13 13:49:10 --> Model Class Initialized
+INFO - 2015-04-13 13:49:10 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:10 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:10 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:49:10 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:10 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:10 --> Total execution time: 0.0105
+INFO - 2015-04-13 13:49:10 --> Config Class Initialized
+INFO - 2015-04-13 13:49:10 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:10 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:10 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:10 --> URI Class Initialized
+INFO - 2015-04-13 13:49:10 --> Router Class Initialized
+INFO - 2015-04-13 13:49:10 --> Output Class Initialized
+INFO - 2015-04-13 13:49:10 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:10 --> Input Class Initialized
+INFO - 2015-04-13 13:49:10 --> Language Class Initialized
+INFO - 2015-04-13 13:49:10 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:10 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:10 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:10 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:10 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:10 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:49:10 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:49:10 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:49:10 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:10 --> Model Class Initialized
+INFO - 2015-04-13 13:49:10 --> Model Class Initialized
+INFO - 2015-04-13 13:49:11 --> Config Class Initialized
+INFO - 2015-04-13 13:49:11 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:11 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:11 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:11 --> URI Class Initialized
+INFO - 2015-04-13 13:49:11 --> Router Class Initialized
+INFO - 2015-04-13 13:49:11 --> Output Class Initialized
+INFO - 2015-04-13 13:49:11 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:11 --> Input Class Initialized
+INFO - 2015-04-13 13:49:11 --> Language Class Initialized
+INFO - 2015-04-13 13:49:11 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:11 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:11 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:11 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:11 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:11 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:11 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:11 --> Model Class Initialized
+INFO - 2015-04-13 13:49:11 --> Model Class Initialized
+INFO - 2015-04-13 13:49:11 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:11 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:11 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:49:11 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:11 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:11 --> Total execution time: 0.0072
+INFO - 2015-04-13 13:49:12 --> Config Class Initialized
+INFO - 2015-04-13 13:49:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:12 --> URI Class Initialized
+INFO - 2015-04-13 13:49:12 --> Router Class Initialized
+INFO - 2015-04-13 13:49:12 --> Output Class Initialized
+INFO - 2015-04-13 13:49:12 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:12 --> Input Class Initialized
+INFO - 2015-04-13 13:49:12 --> Language Class Initialized
+ERROR - 2015-04-13 13:49:12 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:49:12 --> Config Class Initialized
+INFO - 2015-04-13 13:49:12 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:12 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:12 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:12 --> URI Class Initialized
+INFO - 2015-04-13 13:49:12 --> Router Class Initialized
+INFO - 2015-04-13 13:49:12 --> Output Class Initialized
+INFO - 2015-04-13 13:49:12 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:12 --> Input Class Initialized
+INFO - 2015-04-13 13:49:12 --> Language Class Initialized
+INFO - 2015-04-13 13:49:12 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:12 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:12 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:12 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:12 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:12 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:49:12 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:49:12 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:49:12 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:12 --> Model Class Initialized
+INFO - 2015-04-13 13:49:12 --> Model Class Initialized
+INFO - 2015-04-13 13:49:12 --> Searching author with id 89
+INFO - 2015-04-13 13:49:13 --> Config Class Initialized
+INFO - 2015-04-13 13:49:13 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:13 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:13 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:13 --> URI Class Initialized
+INFO - 2015-04-13 13:49:13 --> Router Class Initialized
+INFO - 2015-04-13 13:49:13 --> Output Class Initialized
+INFO - 2015-04-13 13:49:13 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:13 --> Input Class Initialized
+INFO - 2015-04-13 13:49:13 --> Language Class Initialized
+INFO - 2015-04-13 13:49:13 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:13 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:13 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:13 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:13 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:13 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:13 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:13 --> Model Class Initialized
+INFO - 2015-04-13 13:49:13 --> Model Class Initialized
+INFO - 2015-04-13 13:49:13 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:13 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:13 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:49:13 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:13 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:13 --> Total execution time: 0.0060
+INFO - 2015-04-13 13:49:16 --> Config Class Initialized
+INFO - 2015-04-13 13:49:16 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:16 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:16 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:16 --> URI Class Initialized
+INFO - 2015-04-13 13:49:16 --> Router Class Initialized
+INFO - 2015-04-13 13:49:16 --> Output Class Initialized
+INFO - 2015-04-13 13:49:16 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:16 --> Input Class Initialized
+INFO - 2015-04-13 13:49:16 --> Language Class Initialized
+INFO - 2015-04-13 13:49:16 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:16 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:16 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:16 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:16 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:16 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:16 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:16 --> Model Class Initialized
+INFO - 2015-04-13 13:49:16 --> Model Class Initialized
+INFO - 2015-04-13 13:49:16 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:16 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:16 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:49:16 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:16 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:16 --> Total execution time: 0.0083
+INFO - 2015-04-13 13:49:16 --> Config Class Initialized
+INFO - 2015-04-13 13:49:16 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:16 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:16 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:16 --> URI Class Initialized
+INFO - 2015-04-13 13:49:16 --> Router Class Initialized
+INFO - 2015-04-13 13:49:16 --> Output Class Initialized
+INFO - 2015-04-13 13:49:16 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:16 --> Input Class Initialized
+INFO - 2015-04-13 13:49:16 --> Language Class Initialized
+INFO - 2015-04-13 13:49:16 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:16 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:16 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:16 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:16 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:16 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:49:16 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:49:16 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:49:16 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:16 --> Model Class Initialized
+INFO - 2015-04-13 13:49:16 --> Model Class Initialized
+INFO - 2015-04-13 13:49:17 --> Config Class Initialized
+INFO - 2015-04-13 13:49:17 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:17 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:17 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:17 --> URI Class Initialized
+INFO - 2015-04-13 13:49:17 --> Router Class Initialized
+INFO - 2015-04-13 13:49:17 --> Output Class Initialized
+INFO - 2015-04-13 13:49:17 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:17 --> Input Class Initialized
+INFO - 2015-04-13 13:49:17 --> Language Class Initialized
+INFO - 2015-04-13 13:49:17 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:17 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:17 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:17 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:17 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:17 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:17 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:17 --> Model Class Initialized
+INFO - 2015-04-13 13:49:17 --> Model Class Initialized
+INFO - 2015-04-13 13:49:17 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:17 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:17 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:49:17 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:17 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:17 --> Total execution time: 0.0062
+INFO - 2015-04-13 13:49:18 --> Config Class Initialized
+INFO - 2015-04-13 13:49:18 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:18 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:18 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:18 --> URI Class Initialized
+INFO - 2015-04-13 13:49:18 --> Router Class Initialized
+INFO - 2015-04-13 13:49:18 --> Output Class Initialized
+INFO - 2015-04-13 13:49:18 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:18 --> Input Class Initialized
+INFO - 2015-04-13 13:49:18 --> Language Class Initialized
+ERROR - 2015-04-13 13:49:18 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:49:18 --> Config Class Initialized
+INFO - 2015-04-13 13:49:18 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:18 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:18 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:18 --> URI Class Initialized
+INFO - 2015-04-13 13:49:18 --> Router Class Initialized
+INFO - 2015-04-13 13:49:18 --> Output Class Initialized
+INFO - 2015-04-13 13:49:18 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:18 --> Input Class Initialized
+INFO - 2015-04-13 13:49:18 --> Language Class Initialized
+INFO - 2015-04-13 13:49:18 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:18 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:18 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:18 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:18 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:18 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:49:18 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:49:18 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:49:18 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:18 --> Model Class Initialized
+INFO - 2015-04-13 13:49:18 --> Model Class Initialized
+INFO - 2015-04-13 13:49:18 --> Searching author with id 9
+INFO - 2015-04-13 13:49:19 --> Config Class Initialized
+INFO - 2015-04-13 13:49:19 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:19 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:19 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:19 --> URI Class Initialized
+INFO - 2015-04-13 13:49:19 --> Router Class Initialized
+INFO - 2015-04-13 13:49:19 --> Output Class Initialized
+INFO - 2015-04-13 13:49:19 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:19 --> Input Class Initialized
+INFO - 2015-04-13 13:49:19 --> Language Class Initialized
+INFO - 2015-04-13 13:49:19 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:19 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:19 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:19 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:19 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:19 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:19 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:19 --> Model Class Initialized
+INFO - 2015-04-13 13:49:19 --> Model Class Initialized
+INFO - 2015-04-13 13:49:19 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:19 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:19 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:49:19 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:19 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:19 --> Total execution time: 0.0073
+INFO - 2015-04-13 13:49:20 --> Config Class Initialized
+INFO - 2015-04-13 13:49:20 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:20 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:20 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:20 --> URI Class Initialized
+INFO - 2015-04-13 13:49:20 --> Router Class Initialized
+INFO - 2015-04-13 13:49:20 --> Output Class Initialized
+INFO - 2015-04-13 13:49:20 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:20 --> Input Class Initialized
+INFO - 2015-04-13 13:49:20 --> Language Class Initialized
+INFO - 2015-04-13 13:49:20 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:20 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:20 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:20 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:20 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:20 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:20 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:20 --> Model Class Initialized
+INFO - 2015-04-13 13:49:20 --> Model Class Initialized
+INFO - 2015-04-13 13:49:20 --> Helper loaded: form_helper
+INFO - 2015-04-13 13:49:20 --> Model Class Initialized
+INFO - 2015-04-13 13:49:20 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:20 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:20 --> File loaded: /home/ubuntu/workspace/application/views/books/edit.php
+INFO - 2015-04-13 13:49:20 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:20 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:20 --> Total execution time: 0.0121
+INFO - 2015-04-13 13:49:21 --> Config Class Initialized
+INFO - 2015-04-13 13:49:21 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:21 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:21 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:21 --> URI Class Initialized
+INFO - 2015-04-13 13:49:21 --> Router Class Initialized
+INFO - 2015-04-13 13:49:21 --> Output Class Initialized
+INFO - 2015-04-13 13:49:21 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:21 --> Input Class Initialized
+INFO - 2015-04-13 13:49:21 --> Language Class Initialized
+INFO - 2015-04-13 13:49:21 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:21 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:21 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:21 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:21 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:21 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:49:21 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:49:21 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:49:21 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:21 --> Model Class Initialized
+INFO - 2015-04-13 13:49:21 --> Model Class Initialized
+INFO - 2015-04-13 13:49:21 --> Searching book with id 73
+INFO - 2015-04-13 13:49:23 --> Config Class Initialized
+INFO - 2015-04-13 13:49:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:23 --> URI Class Initialized
+INFO - 2015-04-13 13:49:23 --> Router Class Initialized
+INFO - 2015-04-13 13:49:23 --> Output Class Initialized
+INFO - 2015-04-13 13:49:23 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:23 --> Input Class Initialized
+INFO - 2015-04-13 13:49:23 --> Language Class Initialized
+INFO - 2015-04-13 13:49:23 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:23 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:23 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:23 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:23 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:49:23 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:49:23 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:49:23 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:23 --> Model Class Initialized
+INFO - 2015-04-13 13:49:23 --> Model Class Initialized
+INFO - 2015-04-13 13:49:23 --> Updating book with id 73
+INFO - 2015-04-13 13:49:23 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:23 --> Total execution time: 0.0112
+INFO - 2015-04-13 13:49:23 --> Config Class Initialized
+INFO - 2015-04-13 13:49:23 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:23 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:23 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:23 --> URI Class Initialized
+INFO - 2015-04-13 13:49:23 --> Router Class Initialized
+INFO - 2015-04-13 13:49:23 --> Output Class Initialized
+INFO - 2015-04-13 13:49:23 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:23 --> Input Class Initialized
+INFO - 2015-04-13 13:49:23 --> Language Class Initialized
+INFO - 2015-04-13 13:49:23 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:23 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:23 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:23 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:23 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:23 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:23 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:23 --> Model Class Initialized
+INFO - 2015-04-13 13:49:23 --> Model Class Initialized
+INFO - 2015-04-13 13:49:23 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:23 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:23 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:49:23 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:23 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:23 --> Total execution time: 0.0071
+INFO - 2015-04-13 13:49:26 --> Config Class Initialized
+INFO - 2015-04-13 13:49:26 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:26 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:26 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:26 --> URI Class Initialized
+INFO - 2015-04-13 13:49:26 --> Router Class Initialized
+INFO - 2015-04-13 13:49:26 --> Output Class Initialized
+INFO - 2015-04-13 13:49:26 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:26 --> Input Class Initialized
+INFO - 2015-04-13 13:49:26 --> Language Class Initialized
+INFO - 2015-04-13 13:49:26 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:26 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:26 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:26 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:26 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:26 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:26 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:26 --> Model Class Initialized
+INFO - 2015-04-13 13:49:26 --> Model Class Initialized
+INFO - 2015-04-13 13:49:26 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:26 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:26 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:49:26 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:26 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:26 --> Total execution time: 0.0110
+INFO - 2015-04-13 13:49:27 --> Config Class Initialized
+INFO - 2015-04-13 13:49:27 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:27 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:27 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:27 --> URI Class Initialized
+INFO - 2015-04-13 13:49:27 --> Router Class Initialized
+INFO - 2015-04-13 13:49:27 --> Output Class Initialized
+INFO - 2015-04-13 13:49:27 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:27 --> Input Class Initialized
+INFO - 2015-04-13 13:49:27 --> Language Class Initialized
+INFO - 2015-04-13 13:49:27 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:27 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:27 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:27 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:27 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:27 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:49:27 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:49:27 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:49:27 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:27 --> Model Class Initialized
+INFO - 2015-04-13 13:49:27 --> Model Class Initialized
+INFO - 2015-04-13 13:49:32 --> Config Class Initialized
+INFO - 2015-04-13 13:49:32 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:32 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:32 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:32 --> URI Class Initialized
+INFO - 2015-04-13 13:49:32 --> Router Class Initialized
+INFO - 2015-04-13 13:49:32 --> Output Class Initialized
+INFO - 2015-04-13 13:49:32 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:32 --> Input Class Initialized
+INFO - 2015-04-13 13:49:32 --> Language Class Initialized
+INFO - 2015-04-13 13:49:32 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:32 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:32 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:32 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:32 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:32 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:32 --> Model Class Initialized
+INFO - 2015-04-13 13:49:32 --> Model Class Initialized
+INFO - 2015-04-13 13:49:32 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:32 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:32 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:49:32 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:32 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:32 --> Total execution time: 0.0076
+INFO - 2015-04-13 13:49:33 --> Config Class Initialized
+INFO - 2015-04-13 13:49:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:33 --> URI Class Initialized
+INFO - 2015-04-13 13:49:33 --> Router Class Initialized
+INFO - 2015-04-13 13:49:33 --> Output Class Initialized
+INFO - 2015-04-13 13:49:33 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:33 --> Input Class Initialized
+INFO - 2015-04-13 13:49:33 --> Language Class Initialized
+INFO - 2015-04-13 13:49:33 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:33 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:33 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:33 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:33 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:33 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:33 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:33 --> Model Class Initialized
+INFO - 2015-04-13 13:49:33 --> Model Class Initialized
+INFO - 2015-04-13 13:49:33 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:33 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:33 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:49:33 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:33 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:33 --> Total execution time: 0.0087
+INFO - 2015-04-13 13:49:33 --> Config Class Initialized
+INFO - 2015-04-13 13:49:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:33 --> URI Class Initialized
+INFO - 2015-04-13 13:49:33 --> Router Class Initialized
+INFO - 2015-04-13 13:49:33 --> Output Class Initialized
+INFO - 2015-04-13 13:49:33 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:33 --> Input Class Initialized
+INFO - 2015-04-13 13:49:33 --> Language Class Initialized
+INFO - 2015-04-13 13:49:33 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:33 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:33 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:33 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:33 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:33 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:49:33 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:49:33 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:49:33 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:33 --> Model Class Initialized
+INFO - 2015-04-13 13:49:33 --> Model Class Initialized
+INFO - 2015-04-13 13:49:35 --> Config Class Initialized
+INFO - 2015-04-13 13:49:35 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:49:35 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:49:35 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:49:35 --> URI Class Initialized
+INFO - 2015-04-13 13:49:35 --> Router Class Initialized
+INFO - 2015-04-13 13:49:35 --> Output Class Initialized
+INFO - 2015-04-13 13:49:35 --> Security Class Initialized
+DEBUG - 2015-04-13 13:49:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:49:35 --> Input Class Initialized
+INFO - 2015-04-13 13:49:35 --> Language Class Initialized
+INFO - 2015-04-13 13:49:35 --> Loader Class Initialized
+INFO - 2015-04-13 13:49:35 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:49:35 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:49:35 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:49:35 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:49:35 --> Controller Class Initialized
+INFO - 2015-04-13 13:49:35 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:49:35 --> Model Class Initialized
+INFO - 2015-04-13 13:49:35 --> Model Class Initialized
+INFO - 2015-04-13 13:49:35 --> Parser Class Initialized
+INFO - 2015-04-13 13:49:35 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:49:35 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:49:35 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:49:35 --> Final output sent to browser
+DEBUG - 2015-04-13 13:49:35 --> Total execution time: 0.0084
+INFO - 2015-04-13 13:50:44 --> Config Class Initialized
+INFO - 2015-04-13 13:50:44 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:44 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:44 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:44 --> URI Class Initialized
+INFO - 2015-04-13 13:50:44 --> Router Class Initialized
+INFO - 2015-04-13 13:50:44 --> Output Class Initialized
+INFO - 2015-04-13 13:50:44 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:44 --> Input Class Initialized
+INFO - 2015-04-13 13:50:44 --> Language Class Initialized
+INFO - 2015-04-13 13:50:44 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:44 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:44 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:44 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:44 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:44 --> Controller Class Initialized
+INFO - 2015-04-13 13:50:44 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:44 --> Model Class Initialized
+INFO - 2015-04-13 13:50:44 --> Model Class Initialized
+INFO - 2015-04-13 13:50:44 --> Parser Class Initialized
+INFO - 2015-04-13 13:50:44 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:50:44 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:50:44 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:50:44 --> Final output sent to browser
+DEBUG - 2015-04-13 13:50:44 --> Total execution time: 0.0073
+INFO - 2015-04-13 13:50:45 --> Config Class Initialized
+INFO - 2015-04-13 13:50:45 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:45 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:45 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:45 --> URI Class Initialized
+INFO - 2015-04-13 13:50:45 --> Router Class Initialized
+INFO - 2015-04-13 13:50:45 --> Output Class Initialized
+INFO - 2015-04-13 13:50:45 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:45 --> Input Class Initialized
+INFO - 2015-04-13 13:50:45 --> Language Class Initialized
+INFO - 2015-04-13 13:50:45 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:45 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:45 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:45 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:45 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:45 --> Controller Class Initialized
+INFO - 2015-04-13 13:50:45 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:45 --> Model Class Initialized
+INFO - 2015-04-13 13:50:45 --> Model Class Initialized
+INFO - 2015-04-13 13:50:45 --> Parser Class Initialized
+INFO - 2015-04-13 13:50:45 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:50:45 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:50:45 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:50:45 --> Final output sent to browser
+DEBUG - 2015-04-13 13:50:45 --> Total execution time: 0.0049
+INFO - 2015-04-13 13:50:45 --> Config Class Initialized
+INFO - 2015-04-13 13:50:45 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:45 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:45 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:45 --> URI Class Initialized
+INFO - 2015-04-13 13:50:45 --> Router Class Initialized
+INFO - 2015-04-13 13:50:45 --> Output Class Initialized
+INFO - 2015-04-13 13:50:45 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:45 --> Input Class Initialized
+INFO - 2015-04-13 13:50:45 --> Language Class Initialized
+ERROR - 2015-04-13 13:50:45 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:50:45 --> Config Class Initialized
+INFO - 2015-04-13 13:50:45 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:45 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:45 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:45 --> URI Class Initialized
+INFO - 2015-04-13 13:50:45 --> Router Class Initialized
+INFO - 2015-04-13 13:50:45 --> Output Class Initialized
+INFO - 2015-04-13 13:50:45 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:45 --> Input Class Initialized
+INFO - 2015-04-13 13:50:45 --> Language Class Initialized
+INFO - 2015-04-13 13:50:45 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:45 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:45 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:45 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:45 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:45 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:50:45 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:50:45 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:50:45 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:45 --> Model Class Initialized
+INFO - 2015-04-13 13:50:45 --> Model Class Initialized
+INFO - 2015-04-13 13:50:45 --> Searching author with id 9
+INFO - 2015-04-13 13:50:48 --> Config Class Initialized
+INFO - 2015-04-13 13:50:48 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:48 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:48 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:48 --> URI Class Initialized
+INFO - 2015-04-13 13:50:48 --> Router Class Initialized
+INFO - 2015-04-13 13:50:48 --> Output Class Initialized
+INFO - 2015-04-13 13:50:48 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:48 --> Input Class Initialized
+INFO - 2015-04-13 13:50:48 --> Language Class Initialized
+INFO - 2015-04-13 13:50:48 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:48 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:48 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:48 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:48 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:48 --> Controller Class Initialized
+INFO - 2015-04-13 13:50:48 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:48 --> Model Class Initialized
+INFO - 2015-04-13 13:50:48 --> Model Class Initialized
+INFO - 2015-04-13 13:50:48 --> Parser Class Initialized
+INFO - 2015-04-13 13:50:48 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:50:48 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:50:48 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:50:48 --> Final output sent to browser
+DEBUG - 2015-04-13 13:50:48 --> Total execution time: 0.0072
+INFO - 2015-04-13 13:50:50 --> Config Class Initialized
+INFO - 2015-04-13 13:50:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:50 --> URI Class Initialized
+DEBUG - 2015-04-13 13:50:50 --> No URI present. Default controller set.
+INFO - 2015-04-13 13:50:50 --> Router Class Initialized
+INFO - 2015-04-13 13:50:50 --> Output Class Initialized
+INFO - 2015-04-13 13:50:50 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:50 --> Input Class Initialized
+INFO - 2015-04-13 13:50:50 --> Language Class Initialized
+INFO - 2015-04-13 13:50:50 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:50 --> Controller Class Initialized
+INFO - 2015-04-13 13:50:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:50 --> Model Class Initialized
+INFO - 2015-04-13 13:50:50 --> Model Class Initialized
+INFO - 2015-04-13 13:50:50 --> Parser Class Initialized
+INFO - 2015-04-13 13:50:50 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:50:50 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:50:50 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:50:50 --> Final output sent to browser
+DEBUG - 2015-04-13 13:50:50 --> Total execution time: 0.0069
+INFO - 2015-04-13 13:50:50 --> Config Class Initialized
+INFO - 2015-04-13 13:50:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:50 --> URI Class Initialized
+INFO - 2015-04-13 13:50:50 --> Router Class Initialized
+INFO - 2015-04-13 13:50:50 --> Output Class Initialized
+INFO - 2015-04-13 13:50:50 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:50 --> Input Class Initialized
+INFO - 2015-04-13 13:50:50 --> Language Class Initialized
+INFO - 2015-04-13 13:50:50 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:50 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:50:50 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:50:50 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:50:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:50 --> Model Class Initialized
+INFO - 2015-04-13 13:50:50 --> Model Class Initialized
+INFO - 2015-04-13 13:50:51 --> Config Class Initialized
+INFO - 2015-04-13 13:50:51 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:51 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:51 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:51 --> URI Class Initialized
+INFO - 2015-04-13 13:50:51 --> Router Class Initialized
+INFO - 2015-04-13 13:50:51 --> Output Class Initialized
+INFO - 2015-04-13 13:50:51 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:51 --> Input Class Initialized
+INFO - 2015-04-13 13:50:51 --> Language Class Initialized
+INFO - 2015-04-13 13:50:51 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:51 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:51 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:51 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:51 --> Controller Class Initialized
+INFO - 2015-04-13 13:50:51 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:51 --> Model Class Initialized
+INFO - 2015-04-13 13:50:51 --> Model Class Initialized
+INFO - 2015-04-13 13:50:51 --> Parser Class Initialized
+INFO - 2015-04-13 13:50:51 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:50:51 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:50:51 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:50:51 --> Final output sent to browser
+DEBUG - 2015-04-13 13:50:51 --> Total execution time: 0.0063
+INFO - 2015-04-13 13:50:53 --> Config Class Initialized
+INFO - 2015-04-13 13:50:53 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:53 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:53 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:53 --> URI Class Initialized
+INFO - 2015-04-13 13:50:53 --> Router Class Initialized
+INFO - 2015-04-13 13:50:53 --> Output Class Initialized
+INFO - 2015-04-13 13:50:53 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:53 --> Input Class Initialized
+INFO - 2015-04-13 13:50:53 --> Language Class Initialized
+INFO - 2015-04-13 13:50:53 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:53 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:53 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:53 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:53 --> Controller Class Initialized
+INFO - 2015-04-13 13:50:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:53 --> Model Class Initialized
+INFO - 2015-04-13 13:50:53 --> Model Class Initialized
+INFO - 2015-04-13 13:50:53 --> Parser Class Initialized
+INFO - 2015-04-13 13:50:53 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:50:53 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:50:53 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:50:53 --> Final output sent to browser
+DEBUG - 2015-04-13 13:50:53 --> Total execution time: 0.0078
+INFO - 2015-04-13 13:50:53 --> Config Class Initialized
+INFO - 2015-04-13 13:50:53 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:53 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:53 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:53 --> URI Class Initialized
+INFO - 2015-04-13 13:50:53 --> Router Class Initialized
+INFO - 2015-04-13 13:50:53 --> Output Class Initialized
+INFO - 2015-04-13 13:50:53 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:53 --> Input Class Initialized
+INFO - 2015-04-13 13:50:53 --> Language Class Initialized
+ERROR - 2015-04-13 13:50:53 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:50:53 --> Config Class Initialized
+INFO - 2015-04-13 13:50:53 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:53 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:53 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:53 --> URI Class Initialized
+INFO - 2015-04-13 13:50:53 --> Router Class Initialized
+INFO - 2015-04-13 13:50:53 --> Output Class Initialized
+INFO - 2015-04-13 13:50:53 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:53 --> Input Class Initialized
+INFO - 2015-04-13 13:50:53 --> Language Class Initialized
+INFO - 2015-04-13 13:50:53 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:53 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:53 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:53 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:53 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:50:53 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:50:53 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:50:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:53 --> Model Class Initialized
+INFO - 2015-04-13 13:50:53 --> Model Class Initialized
+INFO - 2015-04-13 13:50:53 --> Searching author with id 14
+INFO - 2015-04-13 13:50:54 --> Config Class Initialized
+INFO - 2015-04-13 13:50:54 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:54 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:54 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:54 --> URI Class Initialized
+INFO - 2015-04-13 13:50:54 --> Router Class Initialized
+INFO - 2015-04-13 13:50:54 --> Output Class Initialized
+INFO - 2015-04-13 13:50:54 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:54 --> Input Class Initialized
+INFO - 2015-04-13 13:50:54 --> Language Class Initialized
+INFO - 2015-04-13 13:50:54 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:54 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:54 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:54 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:54 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:54 --> Controller Class Initialized
+INFO - 2015-04-13 13:50:54 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:54 --> Model Class Initialized
+INFO - 2015-04-13 13:50:54 --> Model Class Initialized
+INFO - 2015-04-13 13:50:54 --> Parser Class Initialized
+INFO - 2015-04-13 13:50:54 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:50:54 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:50:54 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:50:54 --> Final output sent to browser
+DEBUG - 2015-04-13 13:50:54 --> Total execution time: 0.0065
+INFO - 2015-04-13 13:50:57 --> Config Class Initialized
+INFO - 2015-04-13 13:50:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:57 --> URI Class Initialized
+INFO - 2015-04-13 13:50:57 --> Router Class Initialized
+INFO - 2015-04-13 13:50:57 --> Output Class Initialized
+INFO - 2015-04-13 13:50:57 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:57 --> Input Class Initialized
+INFO - 2015-04-13 13:50:57 --> Language Class Initialized
+INFO - 2015-04-13 13:50:57 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:57 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:57 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:57 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:57 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:57 --> Controller Class Initialized
+INFO - 2015-04-13 13:50:57 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:57 --> Model Class Initialized
+INFO - 2015-04-13 13:50:57 --> Model Class Initialized
+INFO - 2015-04-13 13:50:57 --> Parser Class Initialized
+INFO - 2015-04-13 13:50:57 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:50:57 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:50:57 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:50:57 --> Final output sent to browser
+DEBUG - 2015-04-13 13:50:57 --> Total execution time: 0.0068
+INFO - 2015-04-13 13:50:57 --> Config Class Initialized
+INFO - 2015-04-13 13:50:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:57 --> URI Class Initialized
+INFO - 2015-04-13 13:50:57 --> Router Class Initialized
+INFO - 2015-04-13 13:50:57 --> Output Class Initialized
+INFO - 2015-04-13 13:50:57 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:57 --> Input Class Initialized
+INFO - 2015-04-13 13:50:57 --> Language Class Initialized
+ERROR - 2015-04-13 13:50:57 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:50:57 --> Config Class Initialized
+INFO - 2015-04-13 13:50:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:57 --> URI Class Initialized
+INFO - 2015-04-13 13:50:57 --> Router Class Initialized
+INFO - 2015-04-13 13:50:57 --> Output Class Initialized
+INFO - 2015-04-13 13:50:57 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:57 --> Input Class Initialized
+INFO - 2015-04-13 13:50:57 --> Language Class Initialized
+INFO - 2015-04-13 13:50:57 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:57 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:57 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:57 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:57 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:57 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:50:57 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:50:57 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:50:57 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:57 --> Model Class Initialized
+INFO - 2015-04-13 13:50:57 --> Model Class Initialized
+INFO - 2015-04-13 13:50:57 --> Searching author with id 14
+INFO - 2015-04-13 13:50:59 --> Config Class Initialized
+INFO - 2015-04-13 13:50:59 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:59 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:59 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:59 --> URI Class Initialized
+INFO - 2015-04-13 13:50:59 --> Router Class Initialized
+INFO - 2015-04-13 13:50:59 --> Output Class Initialized
+INFO - 2015-04-13 13:50:59 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:59 --> Input Class Initialized
+INFO - 2015-04-13 13:50:59 --> Language Class Initialized
+INFO - 2015-04-13 13:50:59 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:59 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:59 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:59 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:59 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:59 --> Controller Class Initialized
+INFO - 2015-04-13 13:50:59 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:59 --> Model Class Initialized
+INFO - 2015-04-13 13:50:59 --> Model Class Initialized
+INFO - 2015-04-13 13:50:59 --> Parser Class Initialized
+INFO - 2015-04-13 13:50:59 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:50:59 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:50:59 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:50:59 --> Final output sent to browser
+DEBUG - 2015-04-13 13:50:59 --> Total execution time: 0.0123
+INFO - 2015-04-13 13:50:59 --> Config Class Initialized
+INFO - 2015-04-13 13:50:59 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:50:59 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:50:59 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:50:59 --> URI Class Initialized
+INFO - 2015-04-13 13:50:59 --> Router Class Initialized
+INFO - 2015-04-13 13:50:59 --> Output Class Initialized
+INFO - 2015-04-13 13:50:59 --> Security Class Initialized
+DEBUG - 2015-04-13 13:50:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:50:59 --> Input Class Initialized
+INFO - 2015-04-13 13:50:59 --> Language Class Initialized
+INFO - 2015-04-13 13:50:59 --> Loader Class Initialized
+INFO - 2015-04-13 13:50:59 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:50:59 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:50:59 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:50:59 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:50:59 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:50:59 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:50:59 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:50:59 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:50:59 --> Model Class Initialized
+INFO - 2015-04-13 13:50:59 --> Model Class Initialized
+INFO - 2015-04-13 13:51:00 --> Config Class Initialized
+INFO - 2015-04-13 13:51:00 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:00 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:00 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:00 --> URI Class Initialized
+INFO - 2015-04-13 13:51:00 --> Router Class Initialized
+INFO - 2015-04-13 13:51:00 --> Output Class Initialized
+INFO - 2015-04-13 13:51:00 --> Security Class Initialized
+DEBUG - 2015-04-13 13:51:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:51:00 --> Input Class Initialized
+INFO - 2015-04-13 13:51:00 --> Language Class Initialized
+INFO - 2015-04-13 13:51:00 --> Loader Class Initialized
+INFO - 2015-04-13 13:51:00 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:51:00 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:51:00 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:51:00 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:51:00 --> Controller Class Initialized
+INFO - 2015-04-13 13:51:00 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:51:00 --> Model Class Initialized
+INFO - 2015-04-13 13:51:00 --> Model Class Initialized
+INFO - 2015-04-13 13:51:00 --> Parser Class Initialized
+INFO - 2015-04-13 13:51:00 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:51:00 --> File loaded: /home/ubuntu/workspace/application/views/authors/index.php
+INFO - 2015-04-13 13:51:00 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:51:00 --> Final output sent to browser
+DEBUG - 2015-04-13 13:51:00 --> Total execution time: 0.0150
+INFO - 2015-04-13 13:51:00 --> Config Class Initialized
+INFO - 2015-04-13 13:51:00 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:00 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:00 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:00 --> URI Class Initialized
+INFO - 2015-04-13 13:51:00 --> Router Class Initialized
+INFO - 2015-04-13 13:51:00 --> Output Class Initialized
+INFO - 2015-04-13 13:51:00 --> Security Class Initialized
+DEBUG - 2015-04-13 13:51:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:51:00 --> Input Class Initialized
+INFO - 2015-04-13 13:51:00 --> Language Class Initialized
+INFO - 2015-04-13 13:51:00 --> Loader Class Initialized
+INFO - 2015-04-13 13:51:00 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:51:00 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:51:00 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:51:00 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:51:00 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:51:00 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:51:00 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:51:00 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:51:00 --> Model Class Initialized
+INFO - 2015-04-13 13:51:00 --> Model Class Initialized
+INFO - 2015-04-13 13:51:04 --> Config Class Initialized
+INFO - 2015-04-13 13:51:04 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:04 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:04 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:04 --> URI Class Initialized
+INFO - 2015-04-13 13:51:04 --> Router Class Initialized
+INFO - 2015-04-13 13:51:04 --> Output Class Initialized
+INFO - 2015-04-13 13:51:04 --> Security Class Initialized
+DEBUG - 2015-04-13 13:51:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:51:04 --> Input Class Initialized
+INFO - 2015-04-13 13:51:04 --> Language Class Initialized
+INFO - 2015-04-13 13:51:04 --> Loader Class Initialized
+INFO - 2015-04-13 13:51:04 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:51:04 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:51:04 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:51:04 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:51:04 --> Controller Class Initialized
+INFO - 2015-04-13 13:51:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:51:04 --> Model Class Initialized
+INFO - 2015-04-13 13:51:04 --> Model Class Initialized
+INFO - 2015-04-13 13:51:04 --> Parser Class Initialized
+INFO - 2015-04-13 13:51:04 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:51:04 --> File loaded: /home/ubuntu/workspace/application/views/authors/show.php
+INFO - 2015-04-13 13:51:04 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:51:04 --> Final output sent to browser
+DEBUG - 2015-04-13 13:51:04 --> Total execution time: 0.0065
+INFO - 2015-04-13 13:51:04 --> Config Class Initialized
+INFO - 2015-04-13 13:51:04 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:04 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:04 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:04 --> URI Class Initialized
+INFO - 2015-04-13 13:51:04 --> Router Class Initialized
+INFO - 2015-04-13 13:51:04 --> Output Class Initialized
+INFO - 2015-04-13 13:51:04 --> Security Class Initialized
+DEBUG - 2015-04-13 13:51:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:51:04 --> Input Class Initialized
+INFO - 2015-04-13 13:51:04 --> Language Class Initialized
+ERROR - 2015-04-13 13:51:04 --> 404 Page Not Found: Authors/%7B%7Bbook.cover%7D%7D
+INFO - 2015-04-13 13:51:04 --> Config Class Initialized
+INFO - 2015-04-13 13:51:04 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:04 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:04 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:04 --> URI Class Initialized
+INFO - 2015-04-13 13:51:04 --> Router Class Initialized
+INFO - 2015-04-13 13:51:04 --> Output Class Initialized
+INFO - 2015-04-13 13:51:04 --> Security Class Initialized
+DEBUG - 2015-04-13 13:51:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:51:04 --> Input Class Initialized
+INFO - 2015-04-13 13:51:04 --> Language Class Initialized
+INFO - 2015-04-13 13:51:04 --> Loader Class Initialized
+INFO - 2015-04-13 13:51:04 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:51:04 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:51:04 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:51:04 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:51:04 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:51:04 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:51:04 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:51:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:51:04 --> Model Class Initialized
+INFO - 2015-04-13 13:51:04 --> Model Class Initialized
+INFO - 2015-04-13 13:51:04 --> Searching author with id 14
+INFO - 2015-04-13 13:51:06 --> Config Class Initialized
+INFO - 2015-04-13 13:51:06 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:06 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:06 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:06 --> URI Class Initialized
+INFO - 2015-04-13 13:51:06 --> Router Class Initialized
+INFO - 2015-04-13 13:51:06 --> Output Class Initialized
+INFO - 2015-04-13 13:51:06 --> Security Class Initialized
+DEBUG - 2015-04-13 13:51:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:51:06 --> Input Class Initialized
+INFO - 2015-04-13 13:51:06 --> Language Class Initialized
+INFO - 2015-04-13 13:51:06 --> Loader Class Initialized
+INFO - 2015-04-13 13:51:06 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:51:06 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:51:06 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:51:06 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:51:06 --> Controller Class Initialized
+INFO - 2015-04-13 13:51:06 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:51:06 --> Model Class Initialized
+INFO - 2015-04-13 13:51:06 --> Model Class Initialized
+INFO - 2015-04-13 13:51:06 --> Parser Class Initialized
+INFO - 2015-04-13 13:51:06 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:51:06 --> File loaded: /home/ubuntu/workspace/application/views/authors/create.php
+INFO - 2015-04-13 13:51:06 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:51:06 --> Final output sent to browser
+DEBUG - 2015-04-13 13:51:06 --> Total execution time: 0.0051
+INFO - 2015-04-13 13:51:08 --> Config Class Initialized
+INFO - 2015-04-13 13:51:08 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:08 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:08 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:08 --> URI Class Initialized
+DEBUG - 2015-04-13 13:51:08 --> No URI present. Default controller set.
+INFO - 2015-04-13 13:51:08 --> Router Class Initialized
+INFO - 2015-04-13 13:51:08 --> Output Class Initialized
+INFO - 2015-04-13 13:51:08 --> Security Class Initialized
+DEBUG - 2015-04-13 13:51:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:51:08 --> Input Class Initialized
+INFO - 2015-04-13 13:51:08 --> Language Class Initialized
+INFO - 2015-04-13 13:51:08 --> Loader Class Initialized
+INFO - 2015-04-13 13:51:08 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:51:08 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:51:08 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:51:08 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:51:08 --> Controller Class Initialized
+INFO - 2015-04-13 13:51:08 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:51:08 --> Model Class Initialized
+INFO - 2015-04-13 13:51:08 --> Model Class Initialized
+INFO - 2015-04-13 13:51:08 --> Parser Class Initialized
+INFO - 2015-04-13 13:51:08 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:51:08 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:51:08 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:51:08 --> Final output sent to browser
+DEBUG - 2015-04-13 13:51:08 --> Total execution time: 0.0082
+INFO - 2015-04-13 13:51:08 --> Config Class Initialized
+INFO - 2015-04-13 13:51:08 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:08 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:08 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:08 --> URI Class Initialized
+INFO - 2015-04-13 13:51:08 --> Router Class Initialized
+INFO - 2015-04-13 13:51:08 --> Output Class Initialized
+INFO - 2015-04-13 13:51:08 --> Security Class Initialized
+DEBUG - 2015-04-13 13:51:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:51:08 --> Input Class Initialized
+INFO - 2015-04-13 13:51:08 --> Language Class Initialized
+INFO - 2015-04-13 13:51:08 --> Loader Class Initialized
+INFO - 2015-04-13 13:51:08 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:51:08 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:51:08 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:51:08 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:51:08 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:51:08 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:51:08 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:51:08 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:51:08 --> Model Class Initialized
+INFO - 2015-04-13 13:51:08 --> Model Class Initialized
+INFO - 2015-04-13 13:51:10 --> Config Class Initialized
+INFO - 2015-04-13 13:51:10 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:10 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:10 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:10 --> URI Class Initialized
+INFO - 2015-04-13 13:51:10 --> Router Class Initialized
+INFO - 2015-04-13 13:51:10 --> Output Class Initialized
+INFO - 2015-04-13 13:51:10 --> Security Class Initialized
+DEBUG - 2015-04-13 13:51:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:51:10 --> Input Class Initialized
+INFO - 2015-04-13 13:51:10 --> Language Class Initialized
+INFO - 2015-04-13 13:51:10 --> Loader Class Initialized
+INFO - 2015-04-13 13:51:10 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:51:10 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:51:10 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:51:10 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:51:10 --> Controller Class Initialized
+INFO - 2015-04-13 13:51:10 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:51:10 --> Model Class Initialized
+INFO - 2015-04-13 13:51:10 --> Model Class Initialized
+INFO - 2015-04-13 13:51:10 --> Helper loaded: form_helper
+INFO - 2015-04-13 13:51:10 --> Model Class Initialized
+INFO - 2015-04-13 13:51:10 --> Parser Class Initialized
+INFO - 2015-04-13 13:51:10 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:51:10 --> File loaded: /home/ubuntu/workspace/application/views/books/new.php
+INFO - 2015-04-13 13:51:10 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:51:10 --> Final output sent to browser
+DEBUG - 2015-04-13 13:51:10 --> Total execution time: 0.0097
+INFO - 2015-04-13 13:51:50 --> Config Class Initialized
+INFO - 2015-04-13 13:51:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:50 --> URI Class Initialized
+INFO - 2015-04-13 13:51:50 --> Router Class Initialized
+INFO - 2015-04-13 13:51:50 --> Output Class Initialized
+INFO - 2015-04-13 13:51:50 --> Security Class Initialized
+DEBUG - 2015-04-13 13:51:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:51:50 --> Input Class Initialized
+INFO - 2015-04-13 13:51:50 --> Language Class Initialized
+INFO - 2015-04-13 13:51:50 --> Loader Class Initialized
+INFO - 2015-04-13 13:51:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:51:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:51:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:51:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:51:50 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:51:50 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:51:50 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:51:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:51:50 --> Model Class Initialized
+INFO - 2015-04-13 13:51:50 --> Model Class Initialized
+INFO - 2015-04-13 13:51:50 --> Config Class Initialized
+INFO - 2015-04-13 13:51:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:50 --> URI Class Initialized
+INFO - 2015-04-13 13:51:50 --> Router Class Initialized
+INFO - 2015-04-13 13:51:50 --> Output Class Initialized
+INFO - 2015-04-13 13:51:50 --> Security Class Initialized
+DEBUG - 2015-04-13 13:51:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:51:50 --> Input Class Initialized
+INFO - 2015-04-13 13:51:50 --> Language Class Initialized
+INFO - 2015-04-13 13:51:50 --> Loader Class Initialized
+INFO - 2015-04-13 13:51:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:51:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:51:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:51:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:51:50 --> Controller Class Initialized
+INFO - 2015-04-13 13:51:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:51:50 --> Model Class Initialized
+INFO - 2015-04-13 13:51:50 --> Model Class Initialized
+INFO - 2015-04-13 13:51:50 --> Parser Class Initialized
+INFO - 2015-04-13 13:51:50 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:51:50 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:51:50 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:51:50 --> Final output sent to browser
+DEBUG - 2015-04-13 13:51:50 --> Total execution time: 0.0058
+INFO - 2015-04-13 13:51:50 --> Config Class Initialized
+INFO - 2015-04-13 13:51:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:53 --> Config Class Initialized
+INFO - 2015-04-13 13:51:53 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:53 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:53 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:53 --> URI Class Initialized
+INFO - 2015-04-13 13:51:53 --> Router Class Initialized
+INFO - 2015-04-13 13:51:53 --> Output Class Initialized
+INFO - 2015-04-13 13:51:53 --> Security Class Initialized
+DEBUG - 2015-04-13 13:51:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:51:53 --> Input Class Initialized
+INFO - 2015-04-13 13:51:53 --> Language Class Initialized
+INFO - 2015-04-13 13:51:53 --> Loader Class Initialized
+INFO - 2015-04-13 13:51:53 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:51:53 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:51:53 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:51:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:51:53 --> Controller Class Initialized
+INFO - 2015-04-13 13:51:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:51:53 --> Model Class Initialized
+INFO - 2015-04-13 13:51:53 --> Model Class Initialized
+INFO - 2015-04-13 13:51:53 --> Helper loaded: form_helper
+INFO - 2015-04-13 13:51:53 --> Model Class Initialized
+INFO - 2015-04-13 13:51:53 --> Parser Class Initialized
+INFO - 2015-04-13 13:51:53 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:51:53 --> File loaded: /home/ubuntu/workspace/application/views/books/edit.php
+INFO - 2015-04-13 13:51:53 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:51:53 --> Final output sent to browser
+DEBUG - 2015-04-13 13:51:53 --> Total execution time: 0.0102
+INFO - 2015-04-13 13:51:53 --> Config Class Initialized
+INFO - 2015-04-13 13:51:53 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:51:53 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:51:53 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:51:53 --> URI Class Initialized
+INFO - 2015-04-13 13:51:53 --> Router Class Initialized
+INFO - 2015-04-13 13:51:53 --> Output Class Initialized
+INFO - 2015-04-13 13:51:53 --> Security Class Initialized
+DEBUG - 2015-04-13 13:51:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:51:53 --> Input Class Initialized
+INFO - 2015-04-13 13:51:53 --> Language Class Initialized
+INFO - 2015-04-13 13:51:53 --> Loader Class Initialized
+INFO - 2015-04-13 13:51:53 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:51:53 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:51:53 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:51:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:51:53 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:51:53 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:51:53 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:51:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:51:53 --> Model Class Initialized
+INFO - 2015-04-13 13:51:53 --> Model Class Initialized
+INFO - 2015-04-13 13:51:53 --> Searching book with id 101
+INFO - 2015-04-13 13:52:34 --> Config Class Initialized
+INFO - 2015-04-13 13:52:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:52:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:52:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:52:34 --> URI Class Initialized
+INFO - 2015-04-13 13:52:34 --> Router Class Initialized
+INFO - 2015-04-13 13:52:34 --> Output Class Initialized
+INFO - 2015-04-13 13:52:34 --> Security Class Initialized
+DEBUG - 2015-04-13 13:52:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:52:34 --> Input Class Initialized
+INFO - 2015-04-13 13:52:34 --> Language Class Initialized
+INFO - 2015-04-13 13:52:34 --> Loader Class Initialized
+INFO - 2015-04-13 13:52:34 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:52:34 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:52:34 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:52:34 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:52:34 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:52:34 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:52:34 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:52:34 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:52:34 --> Model Class Initialized
+INFO - 2015-04-13 13:52:34 --> Model Class Initialized
+INFO - 2015-04-13 13:52:34 --> Updating book with id 101
+INFO - 2015-04-13 13:52:34 --> Final output sent to browser
+DEBUG - 2015-04-13 13:52:34 --> Total execution time: 0.0110
+INFO - 2015-04-13 13:52:34 --> Config Class Initialized
+INFO - 2015-04-13 13:52:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:52:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:52:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:52:34 --> URI Class Initialized
+INFO - 2015-04-13 13:52:34 --> Router Class Initialized
+INFO - 2015-04-13 13:52:34 --> Output Class Initialized
+INFO - 2015-04-13 13:52:34 --> Security Class Initialized
+DEBUG - 2015-04-13 13:52:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:52:34 --> Input Class Initialized
+INFO - 2015-04-13 13:52:34 --> Language Class Initialized
+INFO - 2015-04-13 13:52:34 --> Loader Class Initialized
+INFO - 2015-04-13 13:52:34 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:52:34 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:52:34 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:52:34 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:52:34 --> Controller Class Initialized
+INFO - 2015-04-13 13:52:34 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:52:34 --> Model Class Initialized
+INFO - 2015-04-13 13:52:34 --> Model Class Initialized
+INFO - 2015-04-13 13:52:34 --> Parser Class Initialized
+INFO - 2015-04-13 13:52:34 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:52:34 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:52:34 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:52:34 --> Final output sent to browser
+DEBUG - 2015-04-13 13:52:34 --> Total execution time: 0.0080
+INFO - 2015-04-13 13:52:38 --> Config Class Initialized
+INFO - 2015-04-13 13:52:38 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:52:38 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:52:38 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:52:38 --> URI Class Initialized
+INFO - 2015-04-13 13:52:38 --> Router Class Initialized
+INFO - 2015-04-13 13:52:38 --> Output Class Initialized
+INFO - 2015-04-13 13:52:38 --> Security Class Initialized
+DEBUG - 2015-04-13 13:52:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:52:38 --> Input Class Initialized
+INFO - 2015-04-13 13:52:38 --> Language Class Initialized
+INFO - 2015-04-13 13:52:38 --> Loader Class Initialized
+INFO - 2015-04-13 13:52:38 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:52:38 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:52:38 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:52:38 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:52:38 --> Controller Class Initialized
+INFO - 2015-04-13 13:52:38 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:52:38 --> Model Class Initialized
+INFO - 2015-04-13 13:52:38 --> Model Class Initialized
+INFO - 2015-04-13 13:52:38 --> Parser Class Initialized
+INFO - 2015-04-13 13:52:38 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:52:38 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:52:38 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:52:38 --> Final output sent to browser
+DEBUG - 2015-04-13 13:52:38 --> Total execution time: 0.0062
+INFO - 2015-04-13 13:52:38 --> Config Class Initialized
+INFO - 2015-04-13 13:52:38 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:52:38 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:52:38 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:52:38 --> URI Class Initialized
+INFO - 2015-04-13 13:52:38 --> Router Class Initialized
+INFO - 2015-04-13 13:52:38 --> Output Class Initialized
+INFO - 2015-04-13 13:52:38 --> Security Class Initialized
+DEBUG - 2015-04-13 13:52:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:52:38 --> Input Class Initialized
+INFO - 2015-04-13 13:52:38 --> Language Class Initialized
+INFO - 2015-04-13 13:52:38 --> Loader Class Initialized
+INFO - 2015-04-13 13:52:38 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:52:38 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:52:38 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:52:38 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:52:38 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:52:38 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:52:38 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:52:38 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:52:38 --> Model Class Initialized
+INFO - 2015-04-13 13:52:38 --> Model Class Initialized
+INFO - 2015-04-13 13:52:44 --> Config Class Initialized
+INFO - 2015-04-13 13:52:44 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:52:44 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:52:44 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:52:44 --> URI Class Initialized
+INFO - 2015-04-13 13:52:44 --> Router Class Initialized
+INFO - 2015-04-13 13:52:44 --> Output Class Initialized
+INFO - 2015-04-13 13:52:44 --> Security Class Initialized
+DEBUG - 2015-04-13 13:52:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:52:44 --> Input Class Initialized
+INFO - 2015-04-13 13:52:44 --> Language Class Initialized
+INFO - 2015-04-13 13:52:44 --> Loader Class Initialized
+INFO - 2015-04-13 13:52:44 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:52:44 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:52:44 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:52:44 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:52:44 --> Controller Class Initialized
+INFO - 2015-04-13 13:52:44 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:52:44 --> Model Class Initialized
+INFO - 2015-04-13 13:52:44 --> Model Class Initialized
+INFO - 2015-04-13 13:52:44 --> Parser Class Initialized
+INFO - 2015-04-13 13:52:44 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:52:44 --> File loaded: /home/ubuntu/workspace/application/views/books/show.php
+INFO - 2015-04-13 13:52:44 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:52:44 --> Final output sent to browser
+DEBUG - 2015-04-13 13:52:44 --> Total execution time: 0.0065
+INFO - 2015-04-13 13:52:46 --> Config Class Initialized
+INFO - 2015-04-13 13:52:46 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:52:46 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:52:46 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:52:46 --> URI Class Initialized
+INFO - 2015-04-13 13:52:46 --> Router Class Initialized
+INFO - 2015-04-13 13:52:46 --> Output Class Initialized
+INFO - 2015-04-13 13:52:46 --> Security Class Initialized
+DEBUG - 2015-04-13 13:52:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:52:46 --> Input Class Initialized
+INFO - 2015-04-13 13:52:46 --> Language Class Initialized
+INFO - 2015-04-13 13:52:46 --> Loader Class Initialized
+INFO - 2015-04-13 13:52:46 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:52:46 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:52:46 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:52:46 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:52:46 --> Controller Class Initialized
+INFO - 2015-04-13 13:52:46 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:52:46 --> Model Class Initialized
+INFO - 2015-04-13 13:52:46 --> Model Class Initialized
+INFO - 2015-04-13 13:52:46 --> Parser Class Initialized
+INFO - 2015-04-13 13:52:46 --> File loaded: /home/ubuntu/workspace/application/views/navbar.php
+INFO - 2015-04-13 13:52:46 --> File loaded: /home/ubuntu/workspace/application/views/books/index.php
+INFO - 2015-04-13 13:52:46 --> File loaded: /home/ubuntu/workspace/application/views/layout.php
+INFO - 2015-04-13 13:52:46 --> Final output sent to browser
+DEBUG - 2015-04-13 13:52:46 --> Total execution time: 0.0067
+INFO - 2015-04-13 13:52:46 --> Config Class Initialized
+INFO - 2015-04-13 13:52:46 --> Hooks Class Initialized
+DEBUG - 2015-04-13 13:52:46 --> UTF-8 Support Enabled
+INFO - 2015-04-13 13:52:46 --> Utf8 Class Initialized
+INFO - 2015-04-13 13:52:46 --> URI Class Initialized
+INFO - 2015-04-13 13:52:46 --> Router Class Initialized
+INFO - 2015-04-13 13:52:46 --> Output Class Initialized
+INFO - 2015-04-13 13:52:46 --> Security Class Initialized
+DEBUG - 2015-04-13 13:52:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 13:52:46 --> Input Class Initialized
+INFO - 2015-04-13 13:52:46 --> Language Class Initialized
+INFO - 2015-04-13 13:52:46 --> Loader Class Initialized
+INFO - 2015-04-13 13:52:46 --> Helper loaded: url_helper
+INFO - 2015-04-13 13:52:46 --> Helper loaded: html_helper
+INFO - 2015-04-13 13:52:46 --> Helper loaded: assets_helper
+INFO - 2015-04-13 13:52:46 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 13:52:46 --> Controller Class Initialized
+DEBUG - 2015-04-13 13:52:46 --> Config file loaded: /home/ubuntu/workspace/application/config/rest.php
+INFO - 2015-04-13 13:52:46 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 13:52:46 --> Database Driver Class Initialized
+INFO - 2015-04-13 13:52:46 --> Model Class Initialized
+INFO - 2015-04-13 13:52:46 --> Model Class Initialized

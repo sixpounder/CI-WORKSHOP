@@ -54,3 +54,4 @@ $route['404_override'] = 'statics/missing';
 $route['translate_uri_dashes'] = FALSE;
 
 $route['books/(:num)'] = 'books/show/$1';
+$route['authors/(:num)'] = 'authors/show/$1';

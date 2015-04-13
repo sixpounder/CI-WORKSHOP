@@ -4053,3 +4053,953 @@ JOIN `authors` ON `books`.`author_id` = `authors`.`id`
 ORDER BY `title` ASC 
  Execution Time:0.00057697296142578
 
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00055599212646484
+
+SELECT *
+FROM `books`
+WHERE `id` = '87' 
+ Execution Time:0.00042915344238281
+
+SELECT *
+FROM `authors`
+WHERE `id` = '81' 
+ Execution Time:0.00024986267089844
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00069189071655273
+
+SELECT *
+FROM `books`
+WHERE `id` = '95' 
+ Execution Time:0.00032496452331543
+
+SELECT *
+FROM `authors`
+WHERE `id` = '73' 
+ Execution Time:0.00020313262939453
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00073909759521484
+
+SELECT *
+FROM `books`
+WHERE `id` = '10' 
+ Execution Time:0.00030398368835449
+
+SELECT *
+FROM `authors`
+WHERE `id` = '81' 
+ Execution Time:0.0003361701965332
+
+SELECT *
+FROM `books`
+WHERE `id` = '10' 
+ Execution Time:0.00024795532226562
+
+SELECT *
+FROM `authors`
+WHERE `id` = '81' 
+ Execution Time:0.00018501281738281
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00061488151550293
+
+SELECT *
+FROM `books`
+WHERE `id` = '77' 
+ Execution Time:0.00042200088500977
+
+SELECT *
+FROM `authors`
+WHERE `id` = '45' 
+ Execution Time:0.0002439022064209
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00054216384887695
+
+SELECT *
+FROM `books`
+WHERE `id` = '77' 
+ Execution Time:0.00032997131347656
+
+SELECT *
+FROM `authors`
+WHERE `id` = '45' 
+ Execution Time:0.00018000602722168
+
+SELECT *
+FROM `authors`
+ORDER BY `name` ASC 
+ Execution Time:0.00039005279541016
+
+SELECT *
+FROM `books`
+WHERE `id` = '77' 
+ Execution Time:0.00022506713867188
+
+SELECT *
+FROM `authors`
+WHERE `id` = '45' 
+ Execution Time:0.0001678466796875
+
+SELECT *
+FROM `books`
+WHERE `id` = '77' 
+ Execution Time:0.0002899169921875
+
+SELECT *
+FROM `authors`
+WHERE `id` = '45' 
+ Execution Time:0.00018310546875
+
+SELECT *
+FROM `authors`
+ORDER BY `name` ASC 
+ Execution Time:0.00048613548278809
+
+SELECT *
+FROM `books`
+WHERE `id` = '77' 
+ Execution Time:0.00021505355834961
+
+SELECT *
+FROM `authors`
+WHERE `id` = '45' 
+ Execution Time:0.00015997886657715
+
+SELECT *
+FROM `books`
+WHERE `id` = '77' 
+ Execution Time:0.00034999847412109
+
+SELECT *
+FROM `authors`
+WHERE `id` = '45' 
+ Execution Time:0.0001981258392334
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00076103210449219
+
+SELECT *
+FROM `books`
+WHERE `id` = '29' 
+ Execution Time:0.00025105476379395
+
+SELECT *
+FROM `authors`
+WHERE `id` = '16' 
+ Execution Time:0.00032591819763184
+
+SELECT *
+FROM `authors`
+ORDER BY `name` ASC 
+ Execution Time:0.00037193298339844
+
+SELECT *
+FROM `books`
+WHERE `id` = '29' 
+ Execution Time:0.00018000602722168
+
+SELECT *
+FROM `authors`
+WHERE `id` = '16' 
+ Execution Time:0.00018119812011719
+
+SELECT *
+FROM `authors`
+ORDER BY `name` ASC 
+ Execution Time:0.00040793418884277
+
+SELECT *
+FROM `books`
+WHERE `id` = '29' 
+ Execution Time:0.0002131462097168
+
+SELECT *
+FROM `authors`
+WHERE `id` = '16' 
+ Execution Time:0.0001978874206543
+
+SELECT *
+FROM `authors`
+ORDER BY `name` ASC 
+ Execution Time:0.00050091743469238
+
+SELECT *
+FROM `books`
+WHERE `id` = '29' 
+ Execution Time:0.00020599365234375
+
+SELECT *
+FROM `authors`
+WHERE `id` = '16' 
+ Execution Time:0.00020599365234375
+
+UPDATE `books` SET `id` = '29', `title` = 'Art Harris\'s life', `author_id` = '16', `cover` = '/assets/images/c2.jpg'
+WHERE `id` = 29 
+ Execution Time:0.0052628517150879
+
+SELECT *
+FROM `books`
+WHERE `id` = '29' 
+ Execution Time:0.00025010108947754
+
+SELECT *
+FROM `authors`
+WHERE `id` = '16' 
+ Execution Time:0.00014805793762207
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.0006861686706543
+
+SELECT *
+FROM `books`
+WHERE `id` = '45' 
+ Execution Time:0.00025391578674316
+
+SELECT *
+FROM `authors`
+WHERE `id` = '94' 
+ Execution Time:0.00019407272338867
+
+SELECT *
+FROM `authors`
+ORDER BY `name` ASC 
+ Execution Time:0.00046014785766602
+
+SELECT *
+FROM `books`
+WHERE `id` = '45' 
+ Execution Time:0.0002589225769043
+
+SELECT *
+FROM `authors`
+WHERE `id` = '94' 
+ Execution Time:0.00021100044250488
+
+SELECT *
+FROM `books`
+WHERE `id` = '45' 
+ Execution Time:0.00031185150146484
+
+SELECT *
+FROM `authors`
+WHERE `id` = '94' 
+ Execution Time:0.00023794174194336
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00053596496582031
+
+SELECT *
+FROM `books`
+WHERE `id` = '63' 
+ Execution Time:0.00030803680419922
+
+SELECT *
+FROM `authors`
+WHERE `id` = '79' 
+ Execution Time:0.00020408630371094
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00065207481384277
+
+SELECT *
+FROM `books`
+WHERE `id` = '9' 
+ Execution Time:0.00024795532226562
+
+SELECT *
+FROM `authors`
+WHERE `id` = '65' 
+ Execution Time:0.0001838207244873
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00054407119750977
+
+SELECT *
+FROM `books`
+WHERE `id` = '10' 
+ Execution Time:0.00045394897460938
+
+SELECT *
+FROM `authors`
+WHERE `id` = '81' 
+ Execution Time:0.00020384788513184
+
+SELECT *
+FROM `books`
+WHERE `id` = '10' 
+ Execution Time:0.00033283233642578
+
+SELECT *
+FROM `authors`
+WHERE `id` = '81' 
+ Execution Time:0.00014495849609375
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00055289268493652
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00054407119750977
+
+SELECT *
+FROM `books`
+WHERE `id` = '6' 
+ Execution Time:0.00031900405883789
+
+SELECT *
+FROM `authors`
+WHERE `id` = '84' 
+ Execution Time:0.00035786628723145
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00085306167602539
+
+SELECT *
+FROM `books`
+WHERE `id` = '82' 
+ Execution Time:0.00030994415283203
+
+SELECT *
+FROM `authors`
+WHERE `id` = '62' 
+ Execution Time:0.00020003318786621
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00050997734069824
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00065302848815918
+
+SELECT *
+FROM `authors`
+JOIN `books` ON `authors`.`id` = `books`.`author_id`
+ORDER BY `name` ASC 
+ Execution Time:0.00091290473937988
+
+SELECT *
+FROM `authors`
+JOIN `books` ON `authors`.`id` = `books`.`author_id`
+ORDER BY `name` ASC 
+ Execution Time:0.0011770725250244
+
+SELECT *
+FROM `authors`
+JOIN `books` ON `authors`.`id` = `books`.`author_id`
+ORDER BY `name` ASC 
+ Execution Time:0.0011851787567139
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00050878524780273
+
+SELECT *
+FROM `authors`
+JOIN `books` ON `authors`.`id` = `books`.`author_id`
+ORDER BY `name` ASC 
+ Execution Time:0.0009620189666748
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00052690505981445
+
+SELECT *
+FROM `authors`
+ORDER BY `name` ASC 
+ Execution Time:0.00039815902709961
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00059795379638672
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00069880485534668
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00071406364440918
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00092506408691406
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00065112113952637
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.0009000301361084
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00072002410888672
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00066208839416504
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.0008540153503418
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00072383880615234
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00096416473388672
+
+SELECT *
+FROM `books`
+WHERE `id` = '94' 
+ Execution Time:0.00031304359436035
+
+SELECT *
+FROM `authors`
+WHERE `id` = '79' 
+ Execution Time:0.0002598762512207
+
+SELECT *
+FROM `books`
+WHERE `id` = '63' 
+ Execution Time:0.00038909912109375
+
+SELECT *
+FROM `authors`
+WHERE `id` = '79' 
+ Execution Time:0.00018811225891113
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.0010459423065186
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00047016143798828
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.0006709098815918
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00075697898864746
+
+SELECT *
+FROM `books`
+WHERE `id` = '48' 
+ Execution Time:0.00025796890258789
+
+SELECT *
+FROM `authors`
+WHERE `id` = '16' 
+ Execution Time:0.00015997886657715
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00066995620727539
+
+SELECT *
+FROM `books`
+WHERE `id` = '48' 
+ Execution Time:0.00022792816162109
+
+SELECT *
+FROM `authors`
+WHERE `id` = '16' 
+ Execution Time:0.00015902519226074
+
+SELECT *
+FROM `books`
+WHERE `id` = '48' 
+ Execution Time:0.00027990341186523
+
+SELECT *
+FROM `authors`
+WHERE `id` = '16' 
+ Execution Time:0.00017619132995605
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.0007331371307373
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00069618225097656
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00061392784118652
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00066995620727539
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00069022178649902
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00073409080505371
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00069499015808105
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00071096420288086
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.001021146774292
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00068497657775879
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00097179412841797
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00057101249694824
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00072216987609863
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00087594985961914
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00066590309143066
+
+SELECT *
+FROM `books`
+WHERE `id` = '5' 
+ Execution Time:0.00031805038452148
+
+SELECT *
+FROM `authors`
+WHERE `id` = '97' 
+ Execution Time:0.00019097328186035
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.00087308883666992
+
+SELECT *
+FROM `books`
+WHERE `id` = '5' 
+ Execution Time:0.00020694732666016
+
+SELECT *
+FROM `authors`
+WHERE `id` = '97' 
+ Execution Time:0.00022315979003906
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00069093704223633
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+LEFT OUTER JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.0038168430328369
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+LEFT OUTER JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.0031380653381348
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00053906440734863
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+LEFT OUTER JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.0025980472564697
+
+SELECT *
+FROM `books`
+WHERE `id` = '33' 
+ Execution Time:0.00024604797363281
+
+SELECT *
+FROM `authors`
+WHERE `id` = '89' 
+ Execution Time:0.00015711784362793
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+LEFT OUTER JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.0027189254760742
+
+SELECT *
+FROM `books`
+WHERE `id` = '73' 
+ Execution Time:0.00029397010803223
+
+SELECT *
+FROM `authors`
+WHERE `id` = '9' 
+ Execution Time:0.00016903877258301
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+LEFT OUTER JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.0046927928924561
+
+SELECT *
+FROM `books`
+WHERE `id` = '73' 
+ Execution Time:0.00022792816162109
+
+SELECT *
+FROM `authors`
+WHERE `id` = '9' 
+ Execution Time:0.00017809867858887
+
+UPDATE `books` SET `id` = '73', `title` = 'Sit accusantium odio temporibus facere.', `author_id` = '37', `cover` = '/assets/images/c3.jpg'
+WHERE `id` = 73 
+ Execution Time:0.004317045211792
+
+SELECT *
+FROM `books`
+WHERE `id` = '73' 
+ Execution Time:0.00032401084899902
+
+SELECT *
+FROM `authors`
+WHERE `id` = '37' 
+ Execution Time:0.00022482872009277
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00066184997558594
+
+SELECT *
+FROM `books`
+WHERE `id` = '70' 
+ Execution Time:0.00033998489379883
+
+SELECT *
+FROM `authors`
+WHERE `id` = '9' 
+ Execution Time:0.00021791458129883
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+LEFT OUTER JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.0027132034301758
+
+SELECT *
+FROM `books`
+WHERE `id` = '70' 
+ Execution Time:0.00030088424682617
+
+SELECT *
+FROM `authors`
+WHERE `id` = '9' 
+ Execution Time:0.00018095970153809
+
+SELECT *
+FROM `books`
+WHERE `id` = '70' 
+ Execution Time:0.00028300285339355
+
+SELECT *
+FROM `authors`
+WHERE `id` = '9' 
+ Execution Time:0.00018811225891113
+
+SELECT *
+FROM `books`
+WHERE `id` = '81' 
+ Execution Time:0.00052309036254883
+
+SELECT *
+FROM `authors`
+WHERE `id` = '9' 
+ Execution Time:0.00027799606323242
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00071406364440918
+
+SELECT *
+FROM `books`
+WHERE `id` = '79' 
+ Execution Time:0.00027918815612793
+
+SELECT *
+FROM `authors`
+WHERE `id` = '14' 
+ Execution Time:0.00019001960754395
+
+SELECT *
+FROM `books`
+WHERE `id` = '79' 
+ Execution Time:0.00028181076049805
+
+SELECT *
+FROM `authors`
+WHERE `id` = '14' 
+ Execution Time:0.00018215179443359
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+LEFT OUTER JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.0046100616455078
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+LEFT OUTER JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.0081169605255127
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00073099136352539
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+LEFT OUTER JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.0028219223022461
+
+SELECT *
+FROM `books`
+WHERE `id` = '101' 
+ Execution Time:0.00031805038452148
+
+SELECT *
+FROM `authors`
+WHERE `id` = '101' 
+ Execution Time:0.00017786026000977
+
+SELECT `authors`.`id`, `authors`.`name`, COUNT(books.id) as books_authored
+FROM `authors`
+LEFT OUTER JOIN `books` ON `books`.`author_id` = `authors`.`id`
+GROUP BY `authors`.`id`, `authors`.`name`
+ORDER BY `name` ASC 
+ Execution Time:0.0029330253601074
+
+SELECT *
+FROM `books`
+WHERE `id` = '101' 
+ Execution Time:0.00028109550476074
+
+SELECT *
+FROM `authors`
+WHERE `id` = '101' 
+ Execution Time:0.00016617774963379
+
+UPDATE `books` SET `id` = '101', `title` = 'La torre nera', `author_id` = '101', `cover` = 'http://www.mondadoristore.it/img/torre-nera-torre-nera-7-Stephen-King/ea978886061850/BL/BL/01/NZO/?tit=La+torre+nera.+La+torre+nera.+7.&aut=Stephen+King'
+WHERE `id` = 101 
+ Execution Time:0.0039279460906982
+
+SELECT *
+FROM `books`
+WHERE `id` = '101' 
+ Execution Time:0.00039410591125488
+
+SELECT *
+FROM `authors`
+WHERE `id` = '101' 
+ Execution Time:0.00028300285339355
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.0005190372467041
+
+SELECT *
+FROM `books`
+WHERE `id` = '101' 
+ Execution Time:0.00027799606323242
+
+SELECT *
+FROM `authors`
+WHERE `id` = '101' 
+ Execution Time:0.00016212463378906
+
+SELECT `books`.`id` as `id`, `books`.`title` as `title`, `authors`.`id` as `author_id`, `authors`.`name` as `author_name`
+FROM `books`
+JOIN `authors` ON `books`.`author_id` = `authors`.`id`
+ORDER BY `title` ASC 
+ Execution Time:0.00057697296142578
+

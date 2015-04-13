@@ -1,6 +1,6 @@
 <div id="bookshelf" ng-controller="BookshelfController">
   <h1 ng-cloak>
-    Welcome to the bookshelf
+    Library
     <small>{{books.length}} books available</small>
   </h1>
   <div class="form-group">
@@ -20,13 +20,10 @@
 
   <div id="booksList">
     <div ng-repeat="book in books | filter:searchFilter" ng-cloak>
-      <a href="/books/{{book.id}}">
-        <h4>
-          {{book.title}}
-          <small>by {{book.author_name}}</small>
-        </h4>
-      </a>
-      
+      <h4>
+        <a href="/books/{{book.id}}">{{book.title}}</a>
+        <small>by <a href="/authors/{{book.author_id}}">{{book.author_name}}</a></small>
+      </h4>
     </div>
   </div>
 </div>

@@ -1,5 +1,10 @@
 <div ng-controller="BookController" ng-init="init(<?php echo $book->id ?>)">
-  <h1>Edit "<?php echo $book->title ?>"</h1>
+  <h1 ng-cloak>Edit <strong>{{book.title}}</strong></h1>
+  <ol class="breadcrumb">
+    <li><a href="/books">Books</a></li>
+    <li><a href="/books/{{book.id}}">{{book.title}}</a></li>
+    <li class="active">Edit</li>
+  </ol>
   <?php echo form_open('/api/books', array('class'=>"form-horizontal")) ?>
     <div class="form-group">
       <label for="title" class="col-sm-2 control-label">Title</label>

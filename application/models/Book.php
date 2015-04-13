@@ -37,10 +37,19 @@ class Book extends CI_Model {
   }
 
   public function search($match) {
-    $matches = array('title' => $match, 'author' => $match);
+    $matches = array('title' => $match);
     return $this->db->select()
       ->from(self::ENTITY)
       ->like($matches)
+      ->order_by('title ASC')
+      ->get()
+      ->result();
+  }
+
+  public function byAuthorId($author_id) {
+    return $this->db->select()
+      ->from(self::ENTITY)
+      ->where('author_id', $author_id)
       ->order_by('title ASC')
       ->get()
       ->result();

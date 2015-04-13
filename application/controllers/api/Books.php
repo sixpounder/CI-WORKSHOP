@@ -27,8 +27,14 @@ class Books extends REST_Controller {
   }
 
   public function index_get() {
-
-    $this->response($this->books_model->getAll());
+    $res = null;
+    if($this->get('author_id') != null) {
+      $res = $this->books_model->byAuthorId($this->get('author_id'));
+    } else {
+      $res = $this->books_model->getAll();
+    }
+    
+    $this->response($res);
   }
 
   public function index_post() {
@@ -58,7 +64,6 @@ class Books extends REST_Controller {
     $this->restrict();
     
     log_message('info', 'Updating book with id ' . $id);
-    log_message('info', json_encode($this->put()));
     $data = array(
       'id'          =>  $id,
       'title'       =>  $this->put('title'),

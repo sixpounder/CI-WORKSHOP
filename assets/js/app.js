@@ -1,6 +1,10 @@
 var module = angular.module('bookshelf', ['ng', 'ngResource']);
 
 module.config(['$httpProvider', function($httpProvider) {
+  // This makes CI_Input->is_ajax_request() work!
+  $httpProvider.defaults.headers.common["X-Requested-With"] = 'XMLHttpRequest';
+  
+  // This is needed because CI does not handle Request Payloads OOTB
   $httpProvider.defaults.transformRequest = function(data) {
     if (data === undefined) return data;
 
@@ -55,6 +59,75 @@ module.factory('Book', ['$resource', function($resource) {
       }
     }
   });
+}]);
+
+module.factory('Author', ['$resource', function($resource) {
+  var jsonHeader = {'Accept' : 'application/json', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8'};
+  return $resource('/api/authors/:resource/:id', { id: '@id' }, {
+    query: {
+      method: 'get',
+      isArray: true,
+      headers: jsonHeader,
+      params: {
+        id: null,
+        resource: null
+      }
+    },
+    get: {
+      method: 'get',
+      isArray: false,
+      headers: jsonHeader,
+      params: {
+        resource: 'author'
+      }
+    },
+    update: {
+      method: 'PUT',
+      isArray: false,
+      headers: jsonHeader,
+      params: {
+        resource: 'author'
+      }
+    },
+    create: {
+      method: 'POST',
+      isArray: false,
+      headers: jsonHeader
+    },
+    destroy: {
+      method: 'DELETE',
+      isArray: false,
+      headers: jsonHeader,
+      params: {
+        resource: 'author'
+      }
+    }
+  });
+}]);
+
+module.controller('AuthorsController', ['$scope', 'Author', function($scope, Author) {
+  $scope.authors = Author.query();
+}]);
+
+module.controller('AuthorController', ['$scope', '$window', 'Author', function($scope, $window, Author) {
+  $scope.author = null;
+  
+  $scope.init = function(id) {
+    if(id) {
+      $scope.author = Author.get({id: id});  
+    } else {
+      $scope.author = new Author();
+    }
+    
+  };
+  
+  $scope.create = function() {
+    Author.create($scope.author).$promise.then(function(res) {
+      $window.location.href="/authors/" + res.id;
+    }).catch(function(err) {
+      $scope.message = err;
+    });
+  }
 }]);
 
 module.controller('BookshelfController', ["$scope", "Book", function($scope, Book) {
