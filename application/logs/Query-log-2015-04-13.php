@@ -5003,3 +5003,1750 @@ JOIN `authors` ON `books`.`author_id` = `authors`.`id`
 ORDER BY `title` ASC 
  Execution Time:0.00057697296142578
 
+DROP TABLE "migrations" 
+ Execution Time:0.014197111129761
+
+DROP TABLE "authors" 
+ Execution Time:0.0050880908966064
+
+DROP TABLE "users" 
+ Execution Time:0.00088214874267578
+
+DROP TABLE "tags" 
+ Execution Time:0.0080471038818359
+
+DROP TABLE "books_tags" 
+ Execution Time:0.0009770393371582
+
+DROP TABLE "books" 
+ Execution Time:0.0087430477142334
+
+SELECT "NAME" FROM "SQLITE_MASTER" WHERE "TYPE" = 'table' 
+ Execution Time:6.2942504882812E-5
+
+CREATE TABLE IF NOT EXISTS "migrations" (
+	"version" BIGINT NOT NULL
+) 
+ Execution Time:0.00081801414489746
+
+INSERT INTO "migrations" ("version") VALUES (0) 
+ Execution Time:0.00075483322143555
+
+SELECT "version"
+FROM "migrations" 
+ Execution Time:4.1007995605469E-5
+
+CREATE TABLE "books" (
+	"id" INT NOT NULL,
+	"title" VARCHAR NOT NULL,
+	"author_id" INT NOT NULL,
+	"cover" VARCHAR NOT NULL DEFAULT '',
+	CONSTRAINT "pk_books" PRIMARY KEY("id")
+) 
+ Execution Time:0.0011138916015625
+
+UPDATE "migrations" SET "version" = 20150410120000 
+ Execution Time:0.00077295303344727
+
+CREATE TABLE "books_tags" (
+	"book_id" INT NOT NULL,
+	"tag_id" INT NOT NULL,
+	CONSTRAINT "pk_books_tags" PRIMARY KEY("book_id", "tag_id")
+) 
+ Execution Time:0.0011019706726074
+
+UPDATE "migrations" SET "version" = 20150411110000 
+ Execution Time:0.00083088874816895
+
+CREATE TABLE "tags" (
+	"id" INT NOT NULL,
+	"name" VARCHAR NOT NULL,
+	CONSTRAINT "pk_tags" PRIMARY KEY("id")
+) 
+ Execution Time:0.0011708736419678
+
+UPDATE "migrations" SET "version" = 20150411120000 
+ Execution Time:0.0007481575012207
+
+CREATE TABLE "users" (
+	"id" INT NOT NULL,
+	"email" VARCHAR NOT NULL,
+	"password" VARCHAR NOT NULL,
+	"admin" BOOLEAN NOT NULL DEFAULT 0,
+	CONSTRAINT "pk_users" PRIMARY KEY("id")
+) 
+ Execution Time:0.001068115234375
+
+UPDATE "migrations" SET "version" = 20150411130000 
+ Execution Time:0.00079703330993652
+
+CREATE TABLE "authors" (
+	"id" INT NOT NULL,
+	"name" VARCHAR NOT NULL,
+	CONSTRAINT "pk_authors" PRIMARY KEY("id")
+) 
+ Execution Time:0.0012168884277344
+
+UPDATE "migrations" SET "version" = 20150412000000 
+ Execution Time:0.00073790550231934
+
+SELECT "version"
+FROM "migrations" 
+ Execution Time:3.8862228393555E-5
+
+INSERT INTO "users" ("email", "password", "admin", "id") VALUES ('admin@bookshelf.org', 'ed649e5d8d95b412c69424da4ffe2c65', 1, 2) 
+ Execution Time:0.00091814994812012
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:6.2942504882812E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (1, 'Bessie Prohaska') 
+ Execution Time:0.0010700225830078
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (2, 'Kane Padberg') 
+ Execution Time:0.0008091926574707
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (3, 'Santiago Price') 
+ Execution Time:0.0015051364898682
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (4, 'Bernita Bashirian') 
+ Execution Time:0.00090909004211426
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.8889389038086E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (5, 'Joannie Stokes') 
+ Execution Time:0.00090193748474121
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.9829483032227E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (6, 'Geraldine Turner') 
+ Execution Time:0.0007929801940918
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (7, 'Lonzo Schmeler') 
+ Execution Time:0.0024809837341309
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (8, 'Casandra Connelly') 
+ Execution Time:0.00092720985412598
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (9, 'Ken McCullough') 
+ Execution Time:0.00087785720825195
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (10, 'Felton Dicki') 
+ Execution Time:0.00084280967712402
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (11, 'Francesca Rath') 
+ Execution Time:0.0008540153503418
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (12, 'Brayan Mante') 
+ Execution Time:0.00096893310546875
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.6028366088867E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (13, 'Phyllis Gerhold') 
+ Execution Time:0.0008540153503418
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (14, 'Bettye Cassin') 
+ Execution Time:0.00080394744873047
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (15, 'Elmore Baumbach') 
+ Execution Time:0.00079011917114258
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (16, 'Earnest Pagac') 
+ Execution Time:0.00092506408691406
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.9829483032227E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (17, 'Raphael Cronin') 
+ Execution Time:0.00085806846618652
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4822692871094E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (18, 'Kamren Mann') 
+ Execution Time:0.00076103210449219
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (19, 'Thomas Jacobson') 
+ Execution Time:0.00075101852416992
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (20, 'Myah Abbott') 
+ Execution Time:0.001039981842041
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (21, 'Noe Bashirian') 
+ Execution Time:0.00096511840820312
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.1975250244141E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (22, 'Jude Swift') 
+ Execution Time:0.00079894065856934
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (23, 'Antwon Kemmer') 
+ Execution Time:0.00089383125305176
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (24, 'Dino Klocko') 
+ Execution Time:0.0010461807250977
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (25, 'Elwin Tillman') 
+ Execution Time:0.0009300708770752
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (26, 'Claudie Legros') 
+ Execution Time:0.00096702575683594
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (27, 'Madelyn Barton') 
+ Execution Time:0.00093412399291992
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (28, 'Estevan Kuhlman') 
+ Execution Time:0.00094699859619141
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (29, 'Jarod Bechtelar') 
+ Execution Time:0.00079917907714844
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.6968460083008E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (30, 'Eleonore Moore') 
+ Execution Time:0.00092506408691406
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (31, 'Mable Schmeler') 
+ Execution Time:0.00084996223449707
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4822692871094E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (32, 'Ernest Hayes') 
+ Execution Time:0.0010030269622803
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (33, 'Greg Leannon') 
+ Execution Time:0.00085711479187012
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.2928924560547E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (34, 'Meda Morissette') 
+ Execution Time:0.00078487396240234
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (35, 'Dallin Becker') 
+ Execution Time:0.00078821182250977
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (36, 'Wilfredo Lindgren') 
+ Execution Time:0.00082302093505859
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (37, 'Zakary Bauch') 
+ Execution Time:0.0023329257965088
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (38, 'Candida Jaskolski') 
+ Execution Time:0.00090408325195312
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (39, 'Marguerite Kling') 
+ Execution Time:0.00085306167602539
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (40, 'Larry Heaney') 
+ Execution Time:0.00083804130554199
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (41, 'Antonina Schneider') 
+ Execution Time:0.0008080005645752
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (42, 'Karl Dibbert') 
+ Execution Time:0.0008552074432373
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (43, 'Marina Fadel') 
+ Execution Time:0.0020649433135986
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (44, 'Elyssa Walker') 
+ Execution Time:0.00099015235900879
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.9114227294922E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (45, 'Bradford Stokes') 
+ Execution Time:0.00088405609130859
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4822692871094E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (46, 'Jailyn Krajcik') 
+ Execution Time:0.00085687637329102
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.6982040405273E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (47, 'Caleigh Terry') 
+ Execution Time:0.0011200904846191
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (48, 'Anibal Schiller') 
+ Execution Time:0.00093412399291992
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.7922134399414E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (49, 'Rebecca Schmidt') 
+ Execution Time:0.00090479850769043
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (50, 'Andreane Mayer') 
+ Execution Time:0.00095796585083008
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (51, 'Lenore Medhurst') 
+ Execution Time:0.0011169910430908
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4822692871094E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (52, 'Tony Barton') 
+ Execution Time:0.00087618827819824
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (53, 'Scottie Ryan') 
+ Execution Time:0.0009160041809082
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.1975250244141E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (54, 'Leonie Homenick') 
+ Execution Time:0.0010001659393311
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (55, 'Elian D''Amore') 
+ Execution Time:0.0010068416595459
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (56, 'Talia DuBuque') 
+ Execution Time:0.00089311599731445
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.1975250244141E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (57, 'Caleigh Hermiston') 
+ Execution Time:0.0010089874267578
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (58, 'Ford Ritchie') 
+ Execution Time:0.001183032989502
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (59, 'Lonie Jacobs') 
+ Execution Time:0.00099897384643555
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.3153762817383E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (60, 'Earline Kuhic') 
+ Execution Time:0.00098991394042969
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (61, 'Lillian Windler') 
+ Execution Time:0.0010440349578857
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (62, 'Broderick Mertz') 
+ Execution Time:0.0010039806365967
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.1961669921875E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (63, 'Carmine Lakin') 
+ Execution Time:0.0009770393371582
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (64, 'Bethany Price') 
+ Execution Time:0.0010230541229248
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (65, 'Grayson McDermott') 
+ Execution Time:0.00083422660827637
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.2928924560547E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (66, 'Kaylin Stracke') 
+ Execution Time:0.0025150775909424
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.9829483032227E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (67, 'Bessie Marquardt') 
+ Execution Time:0.00092387199401855
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (68, 'Jan Stiedemann') 
+ Execution Time:0.00093817710876465
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (69, 'Reggie Wilderman') 
+ Execution Time:0.00091409683227539
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (70, 'Nadia Brown') 
+ Execution Time:0.0011270046234131
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.9114227294922E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (71, 'Alycia Larkin') 
+ Execution Time:0.0010080337524414
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.6968460083008E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (72, 'Vida Kuphal') 
+ Execution Time:0.00091314315795898
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (73, 'Alayna Kuhlman') 
+ Execution Time:0.00092005729675293
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (74, 'Alda Keebler') 
+ Execution Time:0.0037980079650879
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.9114227294922E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (75, 'Rahsaan Kuvalis') 
+ Execution Time:0.00092506408691406
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (76, 'Richie Bayer') 
+ Execution Time:0.00096702575683594
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:6.0081481933594E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (77, 'Margaretta Crona') 
+ Execution Time:0.001007080078125
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.9829483032227E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (78, 'Silas Smith') 
+ Execution Time:0.0024521350860596
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.1975250244141E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (79, 'Sanford King') 
+ Execution Time:0.00099897384643555
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (80, 'Conner Mraz') 
+ Execution Time:0.00094509124755859
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4822692871094E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (81, 'Amelia Bosco') 
+ Execution Time:0.00091695785522461
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (82, 'Keeley Paucek') 
+ Execution Time:0.0010590553283691
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (83, 'Tabitha Green') 
+ Execution Time:0.00091814994812012
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.9829483032227E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (84, 'Savanah Gleason') 
+ Execution Time:0.00098204612731934
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.6968460083008E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (85, 'Simone Willms') 
+ Execution Time:0.00093483924865723
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4822692871094E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (86, 'Marlene Kuhic') 
+ Execution Time:0.0011389255523682
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (87, 'Hosea Denesik') 
+ Execution Time:0.00088191032409668
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.1975250244141E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (88, 'Landen Schiller') 
+ Execution Time:0.0010521411895752
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (89, 'Alfredo Block') 
+ Execution Time:0.0011961460113525
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.3882598876953E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (90, 'Jordi Gleichner') 
+ Execution Time:0.0009770393371582
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (91, 'Armand Rippin') 
+ Execution Time:0.0010039806365967
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (92, 'Bobbie Dooley') 
+ Execution Time:0.00094699859619141
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (93, 'Natalie Homenick') 
+ Execution Time:0.0011279582977295
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (94, 'Virginie Schneider') 
+ Execution Time:0.0011498928070068
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (95, 'Chelsie Frami') 
+ Execution Time:0.00093698501586914
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (96, 'Jerad Witting') 
+ Execution Time:0.00095391273498535
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (97, 'Bethany Gerlach') 
+ Execution Time:0.00094795227050781
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.2928924560547E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (98, 'Yolanda Reinger') 
+ Execution Time:0.00096702575683594
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:4.9829483032227E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (99, 'Madyson Hermiston') 
+ Execution Time:0.00081610679626465
+
+SELECT MAX("id") AS "id"
+FROM "authors" 
+ Execution Time:5.1975250244141E-5
+
+INSERT INTO "authors" ("id", "name") VALUES (100, 'Clarabelle Littel') 
+ Execution Time:0.0010409355163574
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.9114227294922E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (1, 'Maiores atque libero aut atque.', 57, '/assets/images/c2.jpg') 
+ Execution Time:0.00086593627929688
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (2, 'Sed omnis adipisci ut.', 6, '/assets/images/c3.jpg') 
+ Execution Time:0.00081205368041992
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (3, 'Consequatur maiores molestias cum cum aliquid.', 99, '/assets/images/c2.jpg') 
+ Execution Time:0.00081610679626465
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4822692871094E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (4, 'Et in autem rem.', 32, '/assets/images/c1.jpg') 
+ Execution Time:0.00081706047058105
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (5, 'Commodi esse sunt vel.', 92, '/assets/images/c1.jpg') 
+ Execution Time:0.001060962677002
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.4121017456055E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (6, 'Nostrum inventore maxime suscipit.', 71, '/assets/images/c2.jpg') 
+ Execution Time:0.00086808204650879
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (7, 'Aperiam dignissimos labore voluptatum.', 51, '/assets/images/c3.jpg') 
+ Execution Time:0.00083494186401367
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4822692871094E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (8, 'Non eum qui id incidunt.', 69, '/assets/images/c1.jpg') 
+ Execution Time:0.00083279609680176
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (9, 'Qui iusto tenetur illum.', 54, '/assets/images/c2.jpg') 
+ Execution Time:0.0010828971862793
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6968460083008E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (10, 'Voluptatibus provident eum quod voluptatem ad.', 60, '/assets/images/c3.jpg') 
+ Execution Time:0.00088787078857422
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.1975250244141E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (11, 'Ad deserunt id.', 66, '/assets/images/c3.jpg') 
+ Execution Time:0.00082302093505859
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.7922134399414E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (12, 'Neque odit consequatur necessitatibus fuga earum.', 88, '/assets/images/c1.jpg') 
+ Execution Time:0.00087904930114746
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (13, 'Est sit quia error aut.', 90, '/assets/images/c2.jpg') 
+ Execution Time:0.00099706649780273
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (14, 'Eveniet enim minima dolorum in.', 89, '/assets/images/c3.jpg') 
+ Execution Time:0.00084710121154785
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.7206878662109E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (15, 'Aut aut vitae.', 36, '/assets/images/c2.jpg') 
+ Execution Time:0.00085306167602539
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.9829483032227E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (16, 'Nihil labore et blanditiis veniam.', 69, '/assets/images/c1.jpg') 
+ Execution Time:0.00084710121154785
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (17, 'Sunt doloribus rerum.', 25, '/assets/images/c2.jpg') 
+ Execution Time:0.001295804977417
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (18, 'Occaecati at error delectus.', 93, '/assets/images/c1.jpg') 
+ Execution Time:0.00089097023010254
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (19, 'Sequi consectetur quo repellat.', 45, '/assets/images/c2.jpg') 
+ Execution Time:0.00097393989562988
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (20, 'Quibusdam omnis praesentium possimus natus.', 50, '/assets/images/c3.jpg') 
+ Execution Time:0.00094389915466309
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (21, 'Voluptatem cupiditate temporibus nesciunt.', 95, '/assets/images/c3.jpg') 
+ Execution Time:0.0011289119720459
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (22, 'Accusamus numquam aliquam velit totam.', 81, '/assets/images/c1.jpg') 
+ Execution Time:0.00092601776123047
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (23, 'Necessitatibus praesentium quo.', 65, '/assets/images/c1.jpg') 
+ Execution Time:0.00094318389892578
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6968460083008E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (24, 'Sunt accusantium totam qui dolore.', 2, '/assets/images/c3.jpg') 
+ Execution Time:0.00094199180603027
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (25, 'Occaecati ea autem quisquam.', 37, '/assets/images/c2.jpg') 
+ Execution Time:0.0012519359588623
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (26, 'Neque sit ad et qui.', 71, '/assets/images/c2.jpg') 
+ Execution Time:0.00092196464538574
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:6.9141387939453E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (27, 'Aspernatur rerum et et.', 99, '/assets/images/c1.jpg') 
+ Execution Time:0.000823974609375
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6968460083008E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (28, 'Aut cumque reprehenderit velit vel.', 95, '/assets/images/c1.jpg') 
+ Execution Time:0.00095200538635254
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (29, 'Qui dolorem amet.', 80, '/assets/images/c2.jpg') 
+ Execution Time:0.0010750293731689
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.1961669921875E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (30, 'Sit qui debitis quas.', 98, '/assets/images/c1.jpg') 
+ Execution Time:0.0010089874267578
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (31, 'Quia est sint alias facere neque.', 64, '/assets/images/c1.jpg') 
+ Execution Time:0.0010049343109131
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (32, 'Omnis est consequatur.', 5, '/assets/images/c1.jpg') 
+ Execution Time:0.0010199546813965
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (33, 'Aut consequatur maxime voluptatem.', 73, '/assets/images/c1.jpg') 
+ Execution Time:0.0010979175567627
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (34, 'Laudantium id et.', 7, '/assets/images/c1.jpg') 
+ Execution Time:0.0010120868682861
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (35, 'Velit nihil voluptatem minima ducimus.', 100, '/assets/images/c1.jpg') 
+ Execution Time:0.00087404251098633
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (36, 'Aut quis eum aut quia.', 26, '/assets/images/c1.jpg') 
+ Execution Time:0.0009920597076416
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (37, 'Impedit ipsum sunt qui rem.', 90, '/assets/images/c2.jpg') 
+ Execution Time:0.0011169910430908
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.3153762817383E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (38, 'Numquam et est culpa iure et.', 64, '/assets/images/c3.jpg') 
+ Execution Time:0.0010168552398682
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (39, 'Doloribus qui pariatur quo ut soluta.', 67, '/assets/images/c1.jpg') 
+ Execution Time:0.0007929801940918
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (40, 'Et porro minus.', 64, '/assets/images/c2.jpg') 
+ Execution Time:0.00094389915466309
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.2928924560547E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (41, 'Quae iure quidem nesciunt et et.', 56, '/assets/images/c3.jpg') 
+ Execution Time:0.0010249614715576
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (42, 'Ut fugiat est.', 28, '/assets/images/c1.jpg') 
+ Execution Time:0.00092101097106934
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.3153762817383E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (43, 'Voluptatibus totam iste.', 35, '/assets/images/c1.jpg') 
+ Execution Time:0.00092291831970215
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.9114227294922E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (44, 'Illum rerum voluptatem nihil.', 46, '/assets/images/c1.jpg') 
+ Execution Time:0.00094699859619141
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.3153762817383E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (45, 'Qui quia assumenda nisi.', 77, '/assets/images/c1.jpg') 
+ Execution Time:0.0011968612670898
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.3153762817383E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (46, 'Et qui ut aperiam.', 30, '/assets/images/c3.jpg') 
+ Execution Time:0.00093698501586914
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (47, 'Dolor vel asperiores esse laborum.', 66, '/assets/images/c1.jpg') 
+ Execution Time:0.00091695785522461
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (48, 'Voluptatem tempora quia nihil.', 100, '/assets/images/c2.jpg') 
+ Execution Time:0.00091004371643066
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (49, 'Maxime vero ut.', 29, '/assets/images/c2.jpg') 
+ Execution Time:0.0065779685974121
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (50, 'Beatae eum optio illum ipsa.', 41, '/assets/images/c3.jpg') 
+ Execution Time:0.0010161399841309
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (51, 'Consequatur sit et nulla.', 27, '/assets/images/c3.jpg') 
+ Execution Time:0.00090599060058594
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (52, 'Asperiores illum consequuntur esse modi.', 52, '/assets/images/c3.jpg') 
+ Execution Time:0.00092601776123047
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (53, 'Commodi sint sed culpa.', 58, '/assets/images/c3.jpg') 
+ Execution Time:0.0010280609130859
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4822692871094E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (54, 'Non ut earum non labore.', 54, '/assets/images/c2.jpg') 
+ Execution Time:0.013386011123657
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.9114227294922E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (55, 'Nihil quibusdam eos ipsum molestiae.', 70, '/assets/images/c1.jpg') 
+ Execution Time:0.00099492073059082
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (56, 'Consequatur omnis qui quo.', 89, '/assets/images/c1.jpg') 
+ Execution Time:0.0063681602478027
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.7922134399414E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (57, 'Nesciunt vero quisquam nisi.', 44, '/assets/images/c2.jpg') 
+ Execution Time:0.00097393989562988
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (58, 'Cupiditate in minima.', 60, '/assets/images/c3.jpg') 
+ Execution Time:0.00092601776123047
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (59, 'Reprehenderit quisquam odio.', 11, '/assets/images/c2.jpg') 
+ Execution Time:0.0009770393371582
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (60, 'Omnis temporibus libero ut.', 27, '/assets/images/c2.jpg') 
+ Execution Time:0.00099301338195801
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.0783157348633E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (61, 'Earum ut in maxime.', 31, '/assets/images/c1.jpg') 
+ Execution Time:0.00096988677978516
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (62, 'Natus deserunt ut consequatur.', 74, '/assets/images/c3.jpg') 
+ Execution Time:0.0054149627685547
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.6982040405273E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (63, 'Veniam earum sint est ipsam deleniti.', 25, '/assets/images/c1.jpg') 
+ Execution Time:0.0010550022125244
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.9114227294922E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (64, 'Maxime quidem vel.', 75, '/assets/images/c2.jpg') 
+ Execution Time:0.00093984603881836
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.9114227294922E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (65, 'Nemo aut laborum facilis similique qui.', 9, '/assets/images/c1.jpg') 
+ Execution Time:0.0072450637817383
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.8160552978516E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (66, 'Mollitia laborum minus occaecati.', 60, '/assets/images/c2.jpg') 
+ Execution Time:0.0010738372802734
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6968460083008E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (67, 'Voluptatem ut quia unde voluptatum.', 93, '/assets/images/c1.jpg') 
+ Execution Time:0.00094699859619141
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (68, 'Placeat eum quia repellat aut fuga.', 61, '/assets/images/c1.jpg') 
+ Execution Time:0.00097894668579102
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (69, 'Error cumque sed consectetur vel.', 85, '/assets/images/c3.jpg') 
+ Execution Time:0.00092697143554688
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (70, 'Saepe porro aperiam quia ut maxime.', 32, '/assets/images/c2.jpg') 
+ Execution Time:0.0011341571807861
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (71, 'Quas numquam unde voluptatem esse.', 31, '/assets/images/c1.jpg') 
+ Execution Time:0.00092887878417969
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.6982040405273E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (72, 'Repellendus molestiae placeat recusandae.', 71, '/assets/images/c1.jpg') 
+ Execution Time:0.00092983245849609
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (73, 'Nihil non aspernatur non.', 76, '/assets/images/c3.jpg') 
+ Execution Time:0.00098705291748047
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (74, 'Dolores ad nam illo aliquid.', 88, '/assets/images/c3.jpg') 
+ Execution Time:0.0024380683898926
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.9829483032227E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (75, 'Consequuntur libero ipsa.', 29, '/assets/images/c2.jpg') 
+ Execution Time:0.00211501121521
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (76, 'Quasi quia doloribus eaque omnis.', 29, '/assets/images/c3.jpg') 
+ Execution Time:0.00089907646179199
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (77, 'Doloremque itaque voluptas.', 99, '/assets/images/c1.jpg') 
+ Execution Time:0.00095295906066895
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.5061111450195E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (78, 'Quasi dolorum aut.', 79, '/assets/images/c3.jpg') 
+ Execution Time:0.00099706649780273
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (79, 'Architecto necessitatibus qui eos est.', 74, '/assets/images/c1.jpg') 
+ Execution Time:0.0012521743774414
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.5074691772461E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (80, 'Officia dolorum laudantium inventore ullam.', 64, '/assets/images/c2.jpg') 
+ Execution Time:0.00092792510986328
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (81, 'Quia repudiandae reprehenderit.', 96, '/assets/images/c3.jpg') 
+ Execution Time:0.0010519027709961
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (82, 'Aliquid earum libero cupiditate.', 4, '/assets/images/c3.jpg') 
+ Execution Time:0.0011470317840576
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4822692871094E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (83, 'Et mollitia aut necessitatibus velit.', 48, '/assets/images/c2.jpg') 
+ Execution Time:0.0010018348693848
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (84, 'Ducimus voluptatem eos asperiores quia.', 1, '/assets/images/c1.jpg') 
+ Execution Time:0.012723922729492
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (85, 'Dolore accusantium molestias qui qui ratione.', 18, '/assets/images/c1.jpg') 
+ Execution Time:0.00093388557434082
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.2213668823242E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (86, 'Dolores voluptatem optio.', 58, '/assets/images/c3.jpg') 
+ Execution Time:0.00092077255249023
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (87, 'Voluptatibus qui et voluptatum.', 64, '/assets/images/c3.jpg') 
+ Execution Time:0.00093722343444824
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (88, 'Sit illo vitae est qui.', 32, '/assets/images/c1.jpg') 
+ Execution Time:0.00095486640930176
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (89, 'Qui quo perferendis quisquam odit.', 85, '/assets/images/c3.jpg') 
+ Execution Time:0.00095796585083008
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.6982040405273E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (90, 'Quod voluptas at voluptates.', 73, '/assets/images/c3.jpg') 
+ Execution Time:0.00095891952514648
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.0067901611328E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (91, 'Ipsa eligendi aliquid id facilis.', 65, '/assets/images/c3.jpg') 
+ Execution Time:0.0009300708770752
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.57763671875E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (92, 'Recusandae placeat sequi dolore officia ad.', 6, '/assets/images/c2.jpg') 
+ Execution Time:0.0011799335479736
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:5.1021575927734E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (93, 'Eveniet et aut porro.', 46, '/assets/images/c2.jpg') 
+ Execution Time:0.0010299682617188
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.9829483032227E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (94, 'Quod aut vel magni ullam.', 71, '/assets/images/c2.jpg') 
+ Execution Time:0.00092291831970215
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (95, 'Accusamus quaerat eligendi qui culpa.', 64, '/assets/images/c3.jpg') 
+ Execution Time:0.00093913078308105
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (96, 'Eius doloremque delectus autem.', 80, '/assets/images/c3.jpg') 
+ Execution Time:0.00091695785522461
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.3869018554688E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (97, 'Sunt perspiciatis voluptas ab alias.', 35, '/assets/images/c1.jpg') 
+ Execution Time:0.00084018707275391
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.6014785766602E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (98, 'Vitae voluptates explicabo.', 44, '/assets/images/c1.jpg') 
+ Execution Time:0.00084090232849121
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.4107437133789E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (99, 'Incidunt numquam sit praesentium excepturi.', 75, '/assets/images/c1.jpg') 
+ Execution Time:0.00083589553833008
+
+SELECT MAX("id") AS "id"
+FROM "books" 
+ Execution Time:4.2915344238281E-5
+
+INSERT INTO "books" ("id", "title", "author_id", "cover") VALUES (100, 'Consequatur et quae delectus aliquid.', 21, '/assets/images/c2.jpg') 
+ Execution Time:0.0010111331939697
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00047612190246582
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00023198127746582
+
+SELECT *
+FROM "books"
+WHERE "id" = '95' 
+ Execution Time:9.1075897216797E-5
+
+SELECT *
+FROM "authors"
+WHERE "id" = '64' 
+ Execution Time:4.3153762817383E-5
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00019311904907227
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00022196769714355
+
+SELECT *
+FROM "users"
+WHERE "email" = 'test@liferay.com'
+AND "password" = '098f6bcd4621d373cade4e832627b4f6'
+ LIMIT 1 
+ Execution Time:9.4890594482422E-5
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00022697448730469
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00021815299987793
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.0002288818359375
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00020289421081543
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.0001981258392334
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.0001990795135498
+
+SELECT "authors"."id", "authors"."name", COUNT(books.id) as books_authored
+FROM "authors"
+LEFT OUTER JOIN "books" ON "books"."author_id" = "authors"."id"
+GROUP BY "authors"."id", "authors"."name"
+ORDER BY "name" ASC 
+ Execution Time:0.00034117698669434
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00019407272338867
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00019502639770508
+
+SELECT *
+FROM "books"
+WHERE "id" = '62' 
+ Execution Time:8.2015991210938E-5
+
+SELECT *
+FROM "authors"
+WHERE "id" = '74' 
+ Execution Time:4.1961669921875E-5
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00019693374633789
+
+SELECT "authors"."id", "authors"."name", COUNT(books.id) as books_authored
+FROM "authors"
+LEFT OUTER JOIN "books" ON "books"."author_id" = "authors"."id"
+GROUP BY "authors"."id", "authors"."name"
+ORDER BY "name" ASC 
+ Execution Time:0.00032901763916016
+
+SELECT *
+FROM "books"
+WHERE "id" = '62' 
+ Execution Time:4.887580871582E-5
+
+SELECT *
+FROM "authors"
+WHERE "id" = '74' 
+ Execution Time:3.8862228393555E-5
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00019502639770508
+
+UPDATE "books" SET "id" = '62', "title" = 'Natus deserunt ut consequatur.', "author_id" = '48', "cover" = '/assets/images/c3.jpg'
+WHERE "id" = 62 
+ Execution Time:0.0012860298156738
+
+SELECT *
+FROM "books"
+WHERE "id" = '62' 
+ Execution Time:9.4890594482422E-5
+
+SELECT *
+FROM "authors"
+WHERE "id" = '48' 
+ Execution Time:4.5061111450195E-5
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00021600723266602
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00020408630371094
+
+SELECT *
+FROM "books"
+WHERE "id" = '83' 
+ Execution Time:8.0108642578125E-5
+
+SELECT *
+FROM "authors"
+WHERE "id" = '48' 
+ Execution Time:5.2928924560547E-5
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00020003318786621
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00021195411682129
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00019598007202148
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00019383430480957
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00019216537475586
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00020313262939453
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00048208236694336
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00029802322387695
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00023412704467773
+
+SELECT *
+FROM "books"
+WHERE "id" = '27' 
+ Execution Time:8.082389831543E-5
+
+SELECT *
+FROM "authors"
+WHERE "id" = '99' 
+ Execution Time:4.7922134399414E-5
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00020813941955566
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.0001990795135498
+
+SELECT "books"."id" as "id", "books"."title" as "title", "authors"."id" as "author_id", "authors"."name" as "author_name"
+FROM "books"
+JOIN "authors" ON "books"."author_id" = "authors"."id"
+ORDER BY "title" ASC 
+ Execution Time:0.00020384788513184
+

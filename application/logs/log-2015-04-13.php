@@ -19894,3 +19894,1891 @@ INFO - 2015-04-13 13:52:46 --> Helper loaded: inflector_helper
 INFO - 2015-04-13 13:52:46 --> Database Driver Class Initialized
 INFO - 2015-04-13 13:52:46 --> Model Class Initialized
 INFO - 2015-04-13 13:52:46 --> Model Class Initialized
+INFO - 2015-04-13 15:54:57 --> Config Class Initialized
+INFO - 2015-04-13 15:54:57 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:54:57 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:54:57 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:54:57 --> URI Class Initialized
+INFO - 2015-04-13 15:54:57 --> Router Class Initialized
+INFO - 2015-04-13 15:54:57 --> Output Class Initialized
+INFO - 2015-04-13 15:54:57 --> Security Class Initialized
+DEBUG - 2015-04-13 15:54:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:54:57 --> Input Class Initialized
+INFO - 2015-04-13 15:54:57 --> Language Class Initialized
+INFO - 2015-04-13 15:54:57 --> Loader Class Initialized
+INFO - 2015-04-13 15:54:57 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:54:57 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:54:57 --> Helper loaded: assets_helper
+DEBUG - 2015-04-13 15:54:57 --> Session: Initialization under CLI aborted.
+INFO - 2015-04-13 15:54:57 --> Controller Class Initialized
+INFO - 2015-04-13 15:54:57 --> Database Driver Class Initialized
+ERROR - 2015-04-13 15:54:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /Users/sixpounder/Projects/CI-WORKSHOP/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 2015-04-13 15:54:57 --> Unable to connect to the database
+INFO - 2015-04-13 15:54:57 --> Language file loaded: language/english/db_lang.php
+INFO - 2015-04-13 15:55:18 --> Config Class Initialized
+INFO - 2015-04-13 15:55:18 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:55:18 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:55:18 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:55:18 --> URI Class Initialized
+INFO - 2015-04-13 15:55:18 --> Router Class Initialized
+INFO - 2015-04-13 15:55:18 --> Output Class Initialized
+INFO - 2015-04-13 15:55:18 --> Security Class Initialized
+DEBUG - 2015-04-13 15:55:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:55:18 --> Input Class Initialized
+INFO - 2015-04-13 15:55:18 --> Language Class Initialized
+INFO - 2015-04-13 15:55:18 --> Loader Class Initialized
+INFO - 2015-04-13 15:55:18 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:55:18 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:55:18 --> Helper loaded: assets_helper
+DEBUG - 2015-04-13 15:55:18 --> Session: Initialization under CLI aborted.
+INFO - 2015-04-13 15:55:18 --> Controller Class Initialized
+INFO - 2015-04-13 15:55:18 --> Database Driver Class Initialized
+INFO - 2015-04-13 15:55:18 --> Database Driver Class Initialized
+INFO - 2015-04-13 15:55:18 --> Database Forge Class Initialized
+INFO - 2015-04-13 15:55:18 --> Migrations Class Initialized
+INFO - 2015-04-13 15:55:18 --> Language file loaded: language/english/migration_lang.php
+INFO - 2015-04-13 15:55:18 --> Database Forge Class Initialized
+DEBUG - 2015-04-13 15:55:18 --> Migrating up from version 0 to version 20150410120000
+DEBUG - 2015-04-13 15:55:19 --> Migrating up from version 20150410120000 to version 20150411110000
+DEBUG - 2015-04-13 15:55:19 --> Migrating up from version 20150411110000 to version 20150411120000
+DEBUG - 2015-04-13 15:55:19 --> Migrating up from version 20150411120000 to version 20150411130000
+DEBUG - 2015-04-13 15:55:19 --> Migrating up from version 20150411130000 to version 20150412000000
+DEBUG - 2015-04-13 15:55:19 --> Finished migrating to 20150412000000
+DEBUG - 2015-04-13 15:55:19 --> Finished migrating to 20150412000000
+INFO - 2015-04-13 15:55:19 --> Model Class Initialized
+INFO - 2015-04-13 15:55:19 --> Model Class Initialized
+INFO - 2015-04-13 15:55:19 --> Model Class Initialized
+INFO - 2015-04-13 15:55:19 --> Model Class Initialized
+INFO - 2015-04-13 15:55:19 --> Final output sent to browser
+DEBUG - 2015-04-13 15:55:19 --> Total execution time: 0.5376
+INFO - 2015-04-13 15:55:26 --> Config Class Initialized
+INFO - 2015-04-13 15:55:26 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:55:26 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:55:26 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:55:26 --> URI Class Initialized
+DEBUG - 2015-04-13 15:55:26 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:55:26 --> Router Class Initialized
+INFO - 2015-04-13 15:55:26 --> Output Class Initialized
+INFO - 2015-04-13 15:55:26 --> Security Class Initialized
+DEBUG - 2015-04-13 15:55:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:55:26 --> Input Class Initialized
+INFO - 2015-04-13 15:55:26 --> Language Class Initialized
+INFO - 2015-04-13 15:55:26 --> Loader Class Initialized
+INFO - 2015-04-13 15:55:26 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:55:26 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:55:26 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:55:26 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:55:26 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:55:26 --> Config Class Initialized
+INFO - 2015-04-13 15:55:26 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:55:26 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:55:26 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:55:26 --> URI Class Initialized
+DEBUG - 2015-04-13 15:55:26 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:55:26 --> Router Class Initialized
+INFO - 2015-04-13 15:55:26 --> Output Class Initialized
+INFO - 2015-04-13 15:55:26 --> Security Class Initialized
+DEBUG - 2015-04-13 15:55:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:55:26 --> Input Class Initialized
+INFO - 2015-04-13 15:55:26 --> Language Class Initialized
+INFO - 2015-04-13 15:55:26 --> Loader Class Initialized
+INFO - 2015-04-13 15:55:26 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:55:26 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:55:26 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:55:26 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:55:26 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:57:59 --> Config Class Initialized
+INFO - 2015-04-13 15:57:59 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:57:59 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:57:59 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:57:59 --> URI Class Initialized
+DEBUG - 2015-04-13 15:57:59 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:57:59 --> Router Class Initialized
+INFO - 2015-04-13 15:57:59 --> Output Class Initialized
+INFO - 2015-04-13 15:57:59 --> Security Class Initialized
+DEBUG - 2015-04-13 15:57:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:57:59 --> Input Class Initialized
+INFO - 2015-04-13 15:57:59 --> Language Class Initialized
+INFO - 2015-04-13 15:57:59 --> Loader Class Initialized
+INFO - 2015-04-13 15:57:59 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:57:59 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:57:59 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:57:59 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:57:59 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:57:59 --> Config Class Initialized
+INFO - 2015-04-13 15:57:59 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:57:59 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:57:59 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:57:59 --> URI Class Initialized
+DEBUG - 2015-04-13 15:57:59 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:57:59 --> Router Class Initialized
+INFO - 2015-04-13 15:57:59 --> Output Class Initialized
+INFO - 2015-04-13 15:57:59 --> Security Class Initialized
+DEBUG - 2015-04-13 15:57:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:57:59 --> Input Class Initialized
+INFO - 2015-04-13 15:57:59 --> Language Class Initialized
+INFO - 2015-04-13 15:57:59 --> Loader Class Initialized
+INFO - 2015-04-13 15:57:59 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:57:59 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:57:59 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:57:59 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:57:59 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:58:00 --> Config Class Initialized
+INFO - 2015-04-13 15:58:00 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:58:00 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:58:00 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:58:00 --> URI Class Initialized
+DEBUG - 2015-04-13 15:58:00 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:58:00 --> Router Class Initialized
+INFO - 2015-04-13 15:58:00 --> Output Class Initialized
+INFO - 2015-04-13 15:58:00 --> Security Class Initialized
+DEBUG - 2015-04-13 15:58:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:58:00 --> Input Class Initialized
+INFO - 2015-04-13 15:58:00 --> Language Class Initialized
+INFO - 2015-04-13 15:58:00 --> Loader Class Initialized
+INFO - 2015-04-13 15:58:00 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:58:00 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:58:00 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:58:00 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:58:00 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:58:00 --> Config Class Initialized
+INFO - 2015-04-13 15:58:00 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:58:00 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:58:00 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:58:00 --> URI Class Initialized
+DEBUG - 2015-04-13 15:58:00 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:58:00 --> Router Class Initialized
+INFO - 2015-04-13 15:58:00 --> Output Class Initialized
+INFO - 2015-04-13 15:58:00 --> Security Class Initialized
+DEBUG - 2015-04-13 15:58:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:58:00 --> Input Class Initialized
+INFO - 2015-04-13 15:58:00 --> Language Class Initialized
+INFO - 2015-04-13 15:58:00 --> Loader Class Initialized
+INFO - 2015-04-13 15:58:00 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:58:00 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:58:00 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:58:00 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:58:00 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:58:00 --> Config Class Initialized
+INFO - 2015-04-13 15:58:00 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:58:00 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:58:00 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:58:00 --> URI Class Initialized
+DEBUG - 2015-04-13 15:58:00 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:58:00 --> Router Class Initialized
+INFO - 2015-04-13 15:58:00 --> Output Class Initialized
+INFO - 2015-04-13 15:58:00 --> Security Class Initialized
+DEBUG - 2015-04-13 15:58:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:58:00 --> Input Class Initialized
+INFO - 2015-04-13 15:58:00 --> Language Class Initialized
+INFO - 2015-04-13 15:58:00 --> Loader Class Initialized
+INFO - 2015-04-13 15:58:00 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:58:00 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:58:00 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:58:00 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:58:00 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:58:00 --> Config Class Initialized
+INFO - 2015-04-13 15:58:00 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:58:00 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:58:00 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:58:00 --> URI Class Initialized
+DEBUG - 2015-04-13 15:58:00 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:58:00 --> Router Class Initialized
+INFO - 2015-04-13 15:58:00 --> Output Class Initialized
+INFO - 2015-04-13 15:58:00 --> Security Class Initialized
+DEBUG - 2015-04-13 15:58:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:58:00 --> Input Class Initialized
+INFO - 2015-04-13 15:58:00 --> Language Class Initialized
+INFO - 2015-04-13 15:58:00 --> Loader Class Initialized
+INFO - 2015-04-13 15:58:00 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:58:00 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:58:00 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:58:00 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:58:00 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:58:07 --> Config Class Initialized
+INFO - 2015-04-13 15:58:07 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:58:07 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:58:07 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:58:07 --> URI Class Initialized
+DEBUG - 2015-04-13 15:58:07 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:58:07 --> Router Class Initialized
+INFO - 2015-04-13 15:58:07 --> Output Class Initialized
+INFO - 2015-04-13 15:58:07 --> Security Class Initialized
+DEBUG - 2015-04-13 15:58:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:58:07 --> Input Class Initialized
+INFO - 2015-04-13 15:58:07 --> Language Class Initialized
+INFO - 2015-04-13 15:58:07 --> Loader Class Initialized
+INFO - 2015-04-13 15:58:07 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:58:07 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:58:07 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:58:07 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:58:07 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:58:07 --> Config Class Initialized
+INFO - 2015-04-13 15:58:07 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:58:07 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:58:07 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:58:07 --> URI Class Initialized
+DEBUG - 2015-04-13 15:58:07 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:58:07 --> Router Class Initialized
+INFO - 2015-04-13 15:58:07 --> Output Class Initialized
+INFO - 2015-04-13 15:58:07 --> Security Class Initialized
+DEBUG - 2015-04-13 15:58:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:58:07 --> Input Class Initialized
+INFO - 2015-04-13 15:58:07 --> Language Class Initialized
+INFO - 2015-04-13 15:58:07 --> Loader Class Initialized
+INFO - 2015-04-13 15:58:07 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:58:07 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:58:07 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:58:07 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:58:07 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:58:42 --> Config Class Initialized
+INFO - 2015-04-13 15:58:42 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:58:42 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:58:42 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:58:42 --> URI Class Initialized
+DEBUG - 2015-04-13 15:58:42 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:58:42 --> Router Class Initialized
+INFO - 2015-04-13 15:58:42 --> Output Class Initialized
+INFO - 2015-04-13 15:58:42 --> Security Class Initialized
+DEBUG - 2015-04-13 15:58:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:58:42 --> Input Class Initialized
+INFO - 2015-04-13 15:58:42 --> Language Class Initialized
+INFO - 2015-04-13 15:58:42 --> Loader Class Initialized
+INFO - 2015-04-13 15:58:42 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:58:42 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:58:42 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:58:42 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:58:42 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:58:43 --> Config Class Initialized
+INFO - 2015-04-13 15:58:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:58:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:58:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:58:43 --> URI Class Initialized
+DEBUG - 2015-04-13 15:58:43 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:58:43 --> Router Class Initialized
+INFO - 2015-04-13 15:58:43 --> Output Class Initialized
+INFO - 2015-04-13 15:58:43 --> Security Class Initialized
+DEBUG - 2015-04-13 15:58:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:58:43 --> Input Class Initialized
+INFO - 2015-04-13 15:58:43 --> Language Class Initialized
+INFO - 2015-04-13 15:58:43 --> Loader Class Initialized
+INFO - 2015-04-13 15:58:43 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:58:43 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:58:43 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:58:43 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:58:43 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:58:43 --> Config Class Initialized
+INFO - 2015-04-13 15:58:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:58:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:58:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:58:43 --> URI Class Initialized
+DEBUG - 2015-04-13 15:58:43 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:58:43 --> Router Class Initialized
+INFO - 2015-04-13 15:58:43 --> Output Class Initialized
+INFO - 2015-04-13 15:58:43 --> Security Class Initialized
+DEBUG - 2015-04-13 15:58:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:58:43 --> Input Class Initialized
+INFO - 2015-04-13 15:58:43 --> Language Class Initialized
+INFO - 2015-04-13 15:58:43 --> Loader Class Initialized
+INFO - 2015-04-13 15:58:43 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:58:43 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:58:43 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:58:43 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:58:43 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:58:43 --> Config Class Initialized
+INFO - 2015-04-13 15:58:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:58:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:58:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:58:43 --> URI Class Initialized
+DEBUG - 2015-04-13 15:58:43 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:58:43 --> Router Class Initialized
+INFO - 2015-04-13 15:58:43 --> Output Class Initialized
+INFO - 2015-04-13 15:58:43 --> Security Class Initialized
+DEBUG - 2015-04-13 15:58:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:58:43 --> Input Class Initialized
+INFO - 2015-04-13 15:58:43 --> Language Class Initialized
+INFO - 2015-04-13 15:58:43 --> Loader Class Initialized
+INFO - 2015-04-13 15:58:43 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:58:43 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:58:43 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:58:43 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:58:43 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:59:09 --> Config Class Initialized
+INFO - 2015-04-13 15:59:09 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:59:09 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:59:09 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:59:09 --> URI Class Initialized
+DEBUG - 2015-04-13 15:59:09 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:59:09 --> Router Class Initialized
+INFO - 2015-04-13 15:59:09 --> Output Class Initialized
+INFO - 2015-04-13 15:59:09 --> Security Class Initialized
+DEBUG - 2015-04-13 15:59:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:59:09 --> Input Class Initialized
+INFO - 2015-04-13 15:59:09 --> Language Class Initialized
+INFO - 2015-04-13 15:59:09 --> Loader Class Initialized
+INFO - 2015-04-13 15:59:09 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:59:09 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:59:09 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:59:09 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:59:09 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 15:59:09 --> Config Class Initialized
+INFO - 2015-04-13 15:59:09 --> Hooks Class Initialized
+DEBUG - 2015-04-13 15:59:09 --> UTF-8 Support Enabled
+INFO - 2015-04-13 15:59:09 --> Utf8 Class Initialized
+INFO - 2015-04-13 15:59:09 --> URI Class Initialized
+DEBUG - 2015-04-13 15:59:09 --> No URI present. Default controller set.
+INFO - 2015-04-13 15:59:09 --> Router Class Initialized
+INFO - 2015-04-13 15:59:09 --> Output Class Initialized
+INFO - 2015-04-13 15:59:09 --> Security Class Initialized
+DEBUG - 2015-04-13 15:59:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 15:59:09 --> Input Class Initialized
+INFO - 2015-04-13 15:59:09 --> Language Class Initialized
+INFO - 2015-04-13 15:59:09 --> Loader Class Initialized
+INFO - 2015-04-13 15:59:09 --> Helper loaded: url_helper
+INFO - 2015-04-13 15:59:09 --> Helper loaded: html_helper
+INFO - 2015-04-13 15:59:09 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 15:59:09 --> Severity: Warning --> mkdir(): Invalid path /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 117
+ERROR - 2015-04-13 15:59:09 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_files_driver.php 119
+INFO - 2015-04-13 16:00:02 --> Config Class Initialized
+INFO - 2015-04-13 16:00:02 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:00:02 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:00:02 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:00:02 --> URI Class Initialized
+DEBUG - 2015-04-13 16:00:02 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:00:02 --> Router Class Initialized
+INFO - 2015-04-13 16:00:02 --> Output Class Initialized
+INFO - 2015-04-13 16:00:02 --> Security Class Initialized
+DEBUG - 2015-04-13 16:00:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:00:02 --> Input Class Initialized
+INFO - 2015-04-13 16:00:02 --> Language Class Initialized
+INFO - 2015-04-13 16:00:02 --> Loader Class Initialized
+INFO - 2015-04-13 16:00:02 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:00:02 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:00:02 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 16:00:02 --> Session: No Memcached save path configured.
+ERROR - 2015-04-13 16:00:02 --> Severity: Error --> Class 'Memcached' not found /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_memcached_driver.php 108
+INFO - 2015-04-13 16:00:03 --> Config Class Initialized
+INFO - 2015-04-13 16:00:03 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:00:03 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:00:03 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:00:03 --> URI Class Initialized
+DEBUG - 2015-04-13 16:00:03 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:00:03 --> Router Class Initialized
+INFO - 2015-04-13 16:00:03 --> Output Class Initialized
+INFO - 2015-04-13 16:00:03 --> Security Class Initialized
+DEBUG - 2015-04-13 16:00:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:00:03 --> Input Class Initialized
+INFO - 2015-04-13 16:00:03 --> Language Class Initialized
+INFO - 2015-04-13 16:00:03 --> Loader Class Initialized
+INFO - 2015-04-13 16:00:03 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:00:03 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:00:03 --> Helper loaded: assets_helper
+ERROR - 2015-04-13 16:00:03 --> Session: No Memcached save path configured.
+ERROR - 2015-04-13 16:00:03 --> Severity: Error --> Class 'Memcached' not found /Users/sixpounder/Projects/CI-WORKSHOP/system/libraries/Session/drivers/Session_memcached_driver.php 108
+INFO - 2015-04-13 16:01:48 --> Config Class Initialized
+INFO - 2015-04-13 16:01:48 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:01:48 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:01:48 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:01:48 --> URI Class Initialized
+DEBUG - 2015-04-13 16:01:48 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:01:48 --> Router Class Initialized
+INFO - 2015-04-13 16:01:48 --> Output Class Initialized
+INFO - 2015-04-13 16:01:48 --> Security Class Initialized
+DEBUG - 2015-04-13 16:01:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:01:48 --> Input Class Initialized
+INFO - 2015-04-13 16:01:48 --> Language Class Initialized
+INFO - 2015-04-13 16:01:48 --> Loader Class Initialized
+INFO - 2015-04-13 16:01:48 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:01:48 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:01:48 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:01:48 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:01:48 --> Controller Class Initialized
+INFO - 2015-04-13 16:01:48 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:48 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:48 --> Model Class Initialized
+INFO - 2015-04-13 16:01:48 --> Model Class Initialized
+INFO - 2015-04-13 16:01:48 --> Parser Class Initialized
+INFO - 2015-04-13 16:01:48 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:01:48 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:01:48 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:01:48 --> Final output sent to browser
+DEBUG - 2015-04-13 16:01:48 --> Total execution time: 0.0289
+INFO - 2015-04-13 16:01:49 --> Config Class Initialized
+INFO - 2015-04-13 16:01:49 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:01:49 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:01:49 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:01:49 --> URI Class Initialized
+INFO - 2015-04-13 16:01:49 --> Router Class Initialized
+INFO - 2015-04-13 16:01:49 --> Output Class Initialized
+INFO - 2015-04-13 16:01:49 --> Security Class Initialized
+DEBUG - 2015-04-13 16:01:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:01:49 --> Input Class Initialized
+INFO - 2015-04-13 16:01:49 --> Language Class Initialized
+INFO - 2015-04-13 16:01:49 --> Loader Class Initialized
+INFO - 2015-04-13 16:01:49 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:01:49 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:01:49 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:01:49 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:01:49 --> Controller Class Initialized
+DEBUG - 2015-04-13 16:01:49 --> Config file loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/config/rest.php
+INFO - 2015-04-13 16:01:49 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 16:01:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:49 --> Model Class Initialized
+INFO - 2015-04-13 16:01:49 --> Model Class Initialized
+INFO - 2015-04-13 16:01:49 --> Config Class Initialized
+INFO - 2015-04-13 16:01:49 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:01:49 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:01:49 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:01:49 --> URI Class Initialized
+DEBUG - 2015-04-13 16:01:49 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:01:49 --> Router Class Initialized
+INFO - 2015-04-13 16:01:49 --> Output Class Initialized
+INFO - 2015-04-13 16:01:49 --> Security Class Initialized
+DEBUG - 2015-04-13 16:01:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:01:49 --> Input Class Initialized
+INFO - 2015-04-13 16:01:49 --> Language Class Initialized
+INFO - 2015-04-13 16:01:49 --> Loader Class Initialized
+INFO - 2015-04-13 16:01:49 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:01:49 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:01:49 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:01:49 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:01:49 --> Controller Class Initialized
+INFO - 2015-04-13 16:01:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:49 --> Model Class Initialized
+INFO - 2015-04-13 16:01:49 --> Model Class Initialized
+INFO - 2015-04-13 16:01:49 --> Parser Class Initialized
+INFO - 2015-04-13 16:01:49 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:01:49 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:01:49 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:01:49 --> Final output sent to browser
+DEBUG - 2015-04-13 16:01:49 --> Total execution time: 0.0177
+INFO - 2015-04-13 16:01:50 --> Config Class Initialized
+INFO - 2015-04-13 16:01:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:01:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:01:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:01:50 --> URI Class Initialized
+INFO - 2015-04-13 16:01:50 --> Router Class Initialized
+INFO - 2015-04-13 16:01:50 --> Output Class Initialized
+INFO - 2015-04-13 16:01:50 --> Security Class Initialized
+DEBUG - 2015-04-13 16:01:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:01:50 --> Input Class Initialized
+INFO - 2015-04-13 16:01:50 --> Language Class Initialized
+INFO - 2015-04-13 16:01:50 --> Loader Class Initialized
+INFO - 2015-04-13 16:01:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:01:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:01:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:01:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:01:50 --> Controller Class Initialized
+INFO - 2015-04-13 16:01:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:50 --> Model Class Initialized
+INFO - 2015-04-13 16:01:50 --> Model Class Initialized
+INFO - 2015-04-13 16:01:50 --> Parser Class Initialized
+INFO - 2015-04-13 16:01:50 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:01:50 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/show.php
+INFO - 2015-04-13 16:01:50 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:01:50 --> Final output sent to browser
+DEBUG - 2015-04-13 16:01:50 --> Total execution time: 0.0163
+INFO - 2015-04-13 16:01:50 --> Config Class Initialized
+INFO - 2015-04-13 16:01:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:01:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:01:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:01:50 --> URI Class Initialized
+DEBUG - 2015-04-13 16:01:50 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:01:50 --> Router Class Initialized
+INFO - 2015-04-13 16:01:50 --> Output Class Initialized
+INFO - 2015-04-13 16:01:50 --> Security Class Initialized
+DEBUG - 2015-04-13 16:01:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:01:50 --> Input Class Initialized
+INFO - 2015-04-13 16:01:50 --> Language Class Initialized
+INFO - 2015-04-13 16:01:50 --> Loader Class Initialized
+INFO - 2015-04-13 16:01:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:01:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:01:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:01:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:01:50 --> Controller Class Initialized
+INFO - 2015-04-13 16:01:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:50 --> Model Class Initialized
+INFO - 2015-04-13 16:01:50 --> Model Class Initialized
+INFO - 2015-04-13 16:01:50 --> Parser Class Initialized
+INFO - 2015-04-13 16:01:50 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:01:50 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:01:50 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:01:50 --> Final output sent to browser
+DEBUG - 2015-04-13 16:01:50 --> Total execution time: 0.0159
+INFO - 2015-04-13 16:01:52 --> Config Class Initialized
+INFO - 2015-04-13 16:01:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:01:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:01:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:01:52 --> URI Class Initialized
+INFO - 2015-04-13 16:01:52 --> Router Class Initialized
+INFO - 2015-04-13 16:01:52 --> Output Class Initialized
+INFO - 2015-04-13 16:01:52 --> Security Class Initialized
+DEBUG - 2015-04-13 16:01:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:01:52 --> Input Class Initialized
+INFO - 2015-04-13 16:01:52 --> Language Class Initialized
+INFO - 2015-04-13 16:01:52 --> Loader Class Initialized
+INFO - 2015-04-13 16:01:52 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:01:52 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:01:52 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:01:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:01:52 --> Controller Class Initialized
+INFO - 2015-04-13 16:01:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:52 --> Model Class Initialized
+INFO - 2015-04-13 16:01:52 --> Model Class Initialized
+INFO - 2015-04-13 16:01:52 --> Helper loaded: form_helper
+INFO - 2015-04-13 16:01:52 --> Parser Class Initialized
+INFO - 2015-04-13 16:01:52 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:01:52 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/users/login.php
+INFO - 2015-04-13 16:01:52 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:01:52 --> Final output sent to browser
+DEBUG - 2015-04-13 16:01:52 --> Total execution time: 0.0161
+INFO - 2015-04-13 16:01:52 --> Config Class Initialized
+INFO - 2015-04-13 16:01:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:01:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:01:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:01:52 --> URI Class Initialized
+DEBUG - 2015-04-13 16:01:52 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:01:52 --> Router Class Initialized
+INFO - 2015-04-13 16:01:52 --> Output Class Initialized
+INFO - 2015-04-13 16:01:52 --> Security Class Initialized
+DEBUG - 2015-04-13 16:01:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:01:52 --> Input Class Initialized
+INFO - 2015-04-13 16:01:52 --> Language Class Initialized
+INFO - 2015-04-13 16:01:52 --> Loader Class Initialized
+INFO - 2015-04-13 16:01:52 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:01:52 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:01:52 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:01:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:01:52 --> Controller Class Initialized
+INFO - 2015-04-13 16:01:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:52 --> Model Class Initialized
+INFO - 2015-04-13 16:01:52 --> Model Class Initialized
+INFO - 2015-04-13 16:01:52 --> Parser Class Initialized
+INFO - 2015-04-13 16:01:52 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:01:52 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:01:52 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:01:52 --> Final output sent to browser
+DEBUG - 2015-04-13 16:01:52 --> Total execution time: 0.0183
+INFO - 2015-04-13 16:01:53 --> Config Class Initialized
+INFO - 2015-04-13 16:01:53 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:01:53 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:01:53 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:01:53 --> URI Class Initialized
+INFO - 2015-04-13 16:01:53 --> Router Class Initialized
+INFO - 2015-04-13 16:01:53 --> Output Class Initialized
+INFO - 2015-04-13 16:01:53 --> Security Class Initialized
+DEBUG - 2015-04-13 16:01:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:01:53 --> Input Class Initialized
+INFO - 2015-04-13 16:01:53 --> Language Class Initialized
+INFO - 2015-04-13 16:01:53 --> Loader Class Initialized
+INFO - 2015-04-13 16:01:53 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:01:53 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:01:53 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:01:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:01:53 --> Controller Class Initialized
+INFO - 2015-04-13 16:01:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:53 --> Model Class Initialized
+INFO - 2015-04-13 16:01:53 --> Model Class Initialized
+INFO - 2015-04-13 16:01:53 --> Helper loaded: form_helper
+INFO - 2015-04-13 16:01:53 --> Form Validation Class Initialized
+INFO - 2015-04-13 16:01:53 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2015-04-13 16:01:53 --> Parser Class Initialized
+INFO - 2015-04-13 16:01:53 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:01:53 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/users/login.php
+INFO - 2015-04-13 16:01:53 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:01:53 --> Final output sent to browser
+DEBUG - 2015-04-13 16:01:53 --> Total execution time: 0.0187
+INFO - 2015-04-13 16:01:54 --> Config Class Initialized
+INFO - 2015-04-13 16:01:54 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:01:54 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:01:54 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:01:54 --> URI Class Initialized
+DEBUG - 2015-04-13 16:01:54 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:01:54 --> Router Class Initialized
+INFO - 2015-04-13 16:01:54 --> Output Class Initialized
+INFO - 2015-04-13 16:01:54 --> Security Class Initialized
+DEBUG - 2015-04-13 16:01:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:01:54 --> Input Class Initialized
+INFO - 2015-04-13 16:01:54 --> Language Class Initialized
+INFO - 2015-04-13 16:01:54 --> Loader Class Initialized
+INFO - 2015-04-13 16:01:54 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:01:54 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:01:54 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:01:54 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:01:54 --> Controller Class Initialized
+INFO - 2015-04-13 16:01:54 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:54 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:01:54 --> Model Class Initialized
+INFO - 2015-04-13 16:01:54 --> Model Class Initialized
+INFO - 2015-04-13 16:01:54 --> Parser Class Initialized
+INFO - 2015-04-13 16:01:54 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:01:54 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:01:54 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:01:54 --> Final output sent to browser
+DEBUG - 2015-04-13 16:01:54 --> Total execution time: 0.0167
+INFO - 2015-04-13 16:02:04 --> Config Class Initialized
+INFO - 2015-04-13 16:02:04 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:02:04 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:02:04 --> URI Class Initialized
+INFO - 2015-04-13 16:02:04 --> Router Class Initialized
+INFO - 2015-04-13 16:02:04 --> Output Class Initialized
+INFO - 2015-04-13 16:02:04 --> Security Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:02:04 --> Input Class Initialized
+INFO - 2015-04-13 16:02:04 --> Language Class Initialized
+INFO - 2015-04-13 16:02:04 --> Loader Class Initialized
+INFO - 2015-04-13 16:02:04 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:02:04 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:02:04 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:02:04 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:02:04 --> Controller Class Initialized
+INFO - 2015-04-13 16:02:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:02:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:02:04 --> Model Class Initialized
+INFO - 2015-04-13 16:02:04 --> Model Class Initialized
+INFO - 2015-04-13 16:02:04 --> Helper loaded: form_helper
+INFO - 2015-04-13 16:02:04 --> Form Validation Class Initialized
+INFO - 2015-04-13 16:02:04 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2015-04-13 16:02:04 --> Config Class Initialized
+INFO - 2015-04-13 16:02:04 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:02:04 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:02:04 --> URI Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:02:04 --> Router Class Initialized
+INFO - 2015-04-13 16:02:04 --> Output Class Initialized
+INFO - 2015-04-13 16:02:04 --> Security Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:02:04 --> Input Class Initialized
+INFO - 2015-04-13 16:02:04 --> Language Class Initialized
+INFO - 2015-04-13 16:02:04 --> Loader Class Initialized
+INFO - 2015-04-13 16:02:04 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:02:04 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:02:04 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:02:04 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:02:04 --> Controller Class Initialized
+INFO - 2015-04-13 16:02:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:02:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:02:04 --> Model Class Initialized
+INFO - 2015-04-13 16:02:04 --> Model Class Initialized
+INFO - 2015-04-13 16:02:04 --> Parser Class Initialized
+INFO - 2015-04-13 16:02:04 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:02:04 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:02:04 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:02:04 --> Final output sent to browser
+DEBUG - 2015-04-13 16:02:04 --> Total execution time: 0.0163
+INFO - 2015-04-13 16:02:04 --> Config Class Initialized
+INFO - 2015-04-13 16:02:04 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:02:04 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:02:04 --> URI Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:02:04 --> Router Class Initialized
+INFO - 2015-04-13 16:02:04 --> Output Class Initialized
+INFO - 2015-04-13 16:02:04 --> Security Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:02:04 --> Input Class Initialized
+INFO - 2015-04-13 16:02:04 --> Language Class Initialized
+INFO - 2015-04-13 16:02:04 --> Loader Class Initialized
+INFO - 2015-04-13 16:02:04 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:02:04 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:02:04 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:02:04 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:02:04 --> Controller Class Initialized
+INFO - 2015-04-13 16:02:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:02:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:02:04 --> Model Class Initialized
+INFO - 2015-04-13 16:02:04 --> Model Class Initialized
+INFO - 2015-04-13 16:02:04 --> Parser Class Initialized
+INFO - 2015-04-13 16:02:04 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:02:04 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:02:04 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:02:04 --> Final output sent to browser
+DEBUG - 2015-04-13 16:02:04 --> Total execution time: 0.0177
+INFO - 2015-04-13 16:02:04 --> Config Class Initialized
+INFO - 2015-04-13 16:02:04 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:02:04 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:02:04 --> URI Class Initialized
+INFO - 2015-04-13 16:02:04 --> Router Class Initialized
+INFO - 2015-04-13 16:02:04 --> Output Class Initialized
+INFO - 2015-04-13 16:02:04 --> Security Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:02:04 --> Input Class Initialized
+INFO - 2015-04-13 16:02:04 --> Language Class Initialized
+INFO - 2015-04-13 16:02:04 --> Loader Class Initialized
+INFO - 2015-04-13 16:02:04 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:02:04 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:02:04 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:02:04 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:02:04 --> Controller Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> Config file loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/config/rest.php
+INFO - 2015-04-13 16:02:04 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 16:02:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:02:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:02:04 --> Model Class Initialized
+INFO - 2015-04-13 16:02:04 --> Model Class Initialized
+INFO - 2015-04-13 16:02:04 --> Config Class Initialized
+INFO - 2015-04-13 16:02:04 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:02:04 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:02:04 --> URI Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:02:04 --> Router Class Initialized
+INFO - 2015-04-13 16:02:04 --> Output Class Initialized
+INFO - 2015-04-13 16:02:04 --> Security Class Initialized
+DEBUG - 2015-04-13 16:02:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:02:04 --> Input Class Initialized
+INFO - 2015-04-13 16:02:04 --> Language Class Initialized
+INFO - 2015-04-13 16:02:04 --> Loader Class Initialized
+INFO - 2015-04-13 16:02:04 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:02:04 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:02:04 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:02:04 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:02:04 --> Controller Class Initialized
+INFO - 2015-04-13 16:02:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:02:04 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:02:04 --> Model Class Initialized
+INFO - 2015-04-13 16:02:04 --> Model Class Initialized
+INFO - 2015-04-13 16:02:04 --> Parser Class Initialized
+INFO - 2015-04-13 16:02:04 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:02:04 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:02:04 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:02:04 --> Final output sent to browser
+DEBUG - 2015-04-13 16:02:04 --> Total execution time: 0.0182
+INFO - 2015-04-13 16:03:29 --> Config Class Initialized
+INFO - 2015-04-13 16:03:29 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:29 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:29 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:29 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:29 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:29 --> Router Class Initialized
+INFO - 2015-04-13 16:03:29 --> Output Class Initialized
+INFO - 2015-04-13 16:03:29 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:29 --> Input Class Initialized
+INFO - 2015-04-13 16:03:29 --> Language Class Initialized
+INFO - 2015-04-13 16:03:29 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:29 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:29 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:29 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:29 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:29 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:29 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:29 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:29 --> Model Class Initialized
+INFO - 2015-04-13 16:03:29 --> Model Class Initialized
+INFO - 2015-04-13 16:03:29 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:29 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:29 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:29 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:29 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:29 --> Total execution time: 0.0163
+INFO - 2015-04-13 16:03:29 --> Config Class Initialized
+INFO - 2015-04-13 16:03:29 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:29 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:29 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:29 --> URI Class Initialized
+INFO - 2015-04-13 16:03:29 --> Router Class Initialized
+INFO - 2015-04-13 16:03:29 --> Output Class Initialized
+INFO - 2015-04-13 16:03:29 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:29 --> Input Class Initialized
+INFO - 2015-04-13 16:03:29 --> Language Class Initialized
+INFO - 2015-04-13 16:03:29 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:29 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:29 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:29 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:29 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:29 --> Controller Class Initialized
+DEBUG - 2015-04-13 16:03:29 --> Config file loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/config/rest.php
+INFO - 2015-04-13 16:03:29 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 16:03:29 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:29 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:29 --> Model Class Initialized
+INFO - 2015-04-13 16:03:29 --> Model Class Initialized
+INFO - 2015-04-13 16:03:30 --> Config Class Initialized
+INFO - 2015-04-13 16:03:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:30 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:30 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:30 --> Router Class Initialized
+INFO - 2015-04-13 16:03:30 --> Output Class Initialized
+INFO - 2015-04-13 16:03:30 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:30 --> Input Class Initialized
+INFO - 2015-04-13 16:03:30 --> Language Class Initialized
+INFO - 2015-04-13 16:03:30 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:30 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:30 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:30 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:30 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:30 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:30 --> Model Class Initialized
+INFO - 2015-04-13 16:03:30 --> Model Class Initialized
+INFO - 2015-04-13 16:03:30 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:30 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:30 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:30 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:30 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:30 --> Total execution time: 0.0165
+INFO - 2015-04-13 16:03:30 --> Config Class Initialized
+INFO - 2015-04-13 16:03:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:30 --> URI Class Initialized
+INFO - 2015-04-13 16:03:30 --> Router Class Initialized
+INFO - 2015-04-13 16:03:30 --> Output Class Initialized
+INFO - 2015-04-13 16:03:30 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:30 --> Input Class Initialized
+INFO - 2015-04-13 16:03:30 --> Language Class Initialized
+INFO - 2015-04-13 16:03:30 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:30 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:30 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:30 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:30 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:30 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:30 --> Model Class Initialized
+INFO - 2015-04-13 16:03:30 --> Model Class Initialized
+INFO - 2015-04-13 16:03:30 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:30 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:30 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/authors/index.php
+INFO - 2015-04-13 16:03:30 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:30 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:30 --> Total execution time: 0.0156
+INFO - 2015-04-13 16:03:30 --> Config Class Initialized
+INFO - 2015-04-13 16:03:30 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:30 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:30 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:30 --> URI Class Initialized
+INFO - 2015-04-13 16:03:30 --> Router Class Initialized
+INFO - 2015-04-13 16:03:30 --> Output Class Initialized
+INFO - 2015-04-13 16:03:30 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:30 --> Input Class Initialized
+INFO - 2015-04-13 16:03:30 --> Language Class Initialized
+INFO - 2015-04-13 16:03:30 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:30 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:30 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:30 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:30 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:30 --> Controller Class Initialized
+DEBUG - 2015-04-13 16:03:30 --> Config file loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/config/rest.php
+INFO - 2015-04-13 16:03:30 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 16:03:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:30 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:30 --> Model Class Initialized
+INFO - 2015-04-13 16:03:30 --> Model Class Initialized
+INFO - 2015-04-13 16:03:31 --> Config Class Initialized
+INFO - 2015-04-13 16:03:31 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:31 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:31 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:31 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:31 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:31 --> Router Class Initialized
+INFO - 2015-04-13 16:03:31 --> Output Class Initialized
+INFO - 2015-04-13 16:03:31 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:31 --> Input Class Initialized
+INFO - 2015-04-13 16:03:31 --> Language Class Initialized
+INFO - 2015-04-13 16:03:31 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:31 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:31 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:31 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:31 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:31 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:31 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:31 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:31 --> Model Class Initialized
+INFO - 2015-04-13 16:03:31 --> Model Class Initialized
+INFO - 2015-04-13 16:03:31 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:31 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:31 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:31 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:31 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:31 --> Total execution time: 0.0159
+INFO - 2015-04-13 16:03:31 --> Config Class Initialized
+INFO - 2015-04-13 16:03:31 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:31 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:31 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:31 --> URI Class Initialized
+INFO - 2015-04-13 16:03:31 --> Router Class Initialized
+INFO - 2015-04-13 16:03:31 --> Output Class Initialized
+INFO - 2015-04-13 16:03:31 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:31 --> Input Class Initialized
+INFO - 2015-04-13 16:03:31 --> Language Class Initialized
+INFO - 2015-04-13 16:03:31 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:31 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:31 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:31 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:31 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:31 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:31 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:31 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:31 --> Model Class Initialized
+INFO - 2015-04-13 16:03:31 --> Model Class Initialized
+INFO - 2015-04-13 16:03:31 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:31 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:31 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/authors/show.php
+INFO - 2015-04-13 16:03:31 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:31 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:31 --> Total execution time: 0.0150
+INFO - 2015-04-13 16:03:32 --> Config Class Initialized
+INFO - 2015-04-13 16:03:32 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:32 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:32 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:32 --> URI Class Initialized
+INFO - 2015-04-13 16:03:32 --> Router Class Initialized
+INFO - 2015-04-13 16:03:32 --> Output Class Initialized
+INFO - 2015-04-13 16:03:32 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:32 --> Input Class Initialized
+INFO - 2015-04-13 16:03:32 --> Language Class Initialized
+ERROR - 2015-04-13 16:03:32 --> 404 Page Not Found: %7B%7Bbookcover%7D%7D/index
+INFO - 2015-04-13 16:03:32 --> Config Class Initialized
+INFO - 2015-04-13 16:03:32 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:32 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:32 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:32 --> URI Class Initialized
+INFO - 2015-04-13 16:03:32 --> Router Class Initialized
+INFO - 2015-04-13 16:03:32 --> Output Class Initialized
+INFO - 2015-04-13 16:03:32 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:32 --> Input Class Initialized
+INFO - 2015-04-13 16:03:32 --> Language Class Initialized
+INFO - 2015-04-13 16:03:32 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:32 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:32 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:32 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:32 --> Controller Class Initialized
+DEBUG - 2015-04-13 16:03:32 --> Config file loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/config/rest.php
+INFO - 2015-04-13 16:03:32 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 16:03:32 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:32 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:32 --> Model Class Initialized
+INFO - 2015-04-13 16:03:32 --> Model Class Initialized
+INFO - 2015-04-13 16:03:32 --> Searching author with id 74
+INFO - 2015-04-13 16:03:32 --> Config Class Initialized
+INFO - 2015-04-13 16:03:32 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:32 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:32 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:32 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:32 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:32 --> Router Class Initialized
+INFO - 2015-04-13 16:03:32 --> Output Class Initialized
+INFO - 2015-04-13 16:03:32 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:32 --> Input Class Initialized
+INFO - 2015-04-13 16:03:32 --> Language Class Initialized
+INFO - 2015-04-13 16:03:32 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:32 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:32 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:32 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:32 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:32 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:32 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:32 --> Model Class Initialized
+INFO - 2015-04-13 16:03:32 --> Model Class Initialized
+INFO - 2015-04-13 16:03:32 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:32 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:32 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:32 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:32 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:32 --> Total execution time: 0.0266
+INFO - 2015-04-13 16:03:33 --> Config Class Initialized
+INFO - 2015-04-13 16:03:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:33 --> URI Class Initialized
+INFO - 2015-04-13 16:03:33 --> Router Class Initialized
+INFO - 2015-04-13 16:03:33 --> Output Class Initialized
+INFO - 2015-04-13 16:03:33 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:33 --> Input Class Initialized
+INFO - 2015-04-13 16:03:33 --> Language Class Initialized
+INFO - 2015-04-13 16:03:33 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:33 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:33 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:33 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:33 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:33 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:33 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:33 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:33 --> Model Class Initialized
+INFO - 2015-04-13 16:03:33 --> Model Class Initialized
+INFO - 2015-04-13 16:03:33 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:33 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:33 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/show.php
+INFO - 2015-04-13 16:03:33 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:33 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:33 --> Total execution time: 0.0172
+INFO - 2015-04-13 16:03:33 --> Config Class Initialized
+INFO - 2015-04-13 16:03:33 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:33 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:33 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:33 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:33 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:33 --> Router Class Initialized
+INFO - 2015-04-13 16:03:33 --> Output Class Initialized
+INFO - 2015-04-13 16:03:33 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:33 --> Input Class Initialized
+INFO - 2015-04-13 16:03:33 --> Language Class Initialized
+INFO - 2015-04-13 16:03:33 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:33 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:33 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:33 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:33 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:33 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:33 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:33 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:33 --> Model Class Initialized
+INFO - 2015-04-13 16:03:33 --> Model Class Initialized
+INFO - 2015-04-13 16:03:33 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:33 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:33 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:33 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:33 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:33 --> Total execution time: 0.0163
+INFO - 2015-04-13 16:03:34 --> Config Class Initialized
+INFO - 2015-04-13 16:03:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:34 --> URI Class Initialized
+INFO - 2015-04-13 16:03:34 --> Router Class Initialized
+INFO - 2015-04-13 16:03:34 --> Output Class Initialized
+INFO - 2015-04-13 16:03:34 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:34 --> Input Class Initialized
+INFO - 2015-04-13 16:03:34 --> Language Class Initialized
+INFO - 2015-04-13 16:03:34 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:34 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:34 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:34 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:34 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:34 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:34 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:34 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:34 --> Model Class Initialized
+INFO - 2015-04-13 16:03:34 --> Model Class Initialized
+INFO - 2015-04-13 16:03:34 --> Helper loaded: form_helper
+INFO - 2015-04-13 16:03:34 --> Model Class Initialized
+INFO - 2015-04-13 16:03:34 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:34 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:34 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/edit.php
+INFO - 2015-04-13 16:03:34 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:34 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:34 --> Total execution time: 0.0175
+INFO - 2015-04-13 16:03:34 --> Config Class Initialized
+INFO - 2015-04-13 16:03:34 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:34 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:34 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:34 --> URI Class Initialized
+INFO - 2015-04-13 16:03:34 --> Router Class Initialized
+INFO - 2015-04-13 16:03:34 --> Output Class Initialized
+INFO - 2015-04-13 16:03:34 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:34 --> Input Class Initialized
+INFO - 2015-04-13 16:03:34 --> Language Class Initialized
+INFO - 2015-04-13 16:03:34 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:34 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:34 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:34 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:34 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:34 --> Controller Class Initialized
+DEBUG - 2015-04-13 16:03:34 --> Config file loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/config/rest.php
+INFO - 2015-04-13 16:03:34 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 16:03:34 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:34 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:34 --> Model Class Initialized
+INFO - 2015-04-13 16:03:34 --> Model Class Initialized
+INFO - 2015-04-13 16:03:34 --> Searching book with id 62
+INFO - 2015-04-13 16:03:35 --> Config Class Initialized
+INFO - 2015-04-13 16:03:35 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:35 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:35 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:35 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:35 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:35 --> Router Class Initialized
+INFO - 2015-04-13 16:03:35 --> Output Class Initialized
+INFO - 2015-04-13 16:03:35 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:35 --> Input Class Initialized
+INFO - 2015-04-13 16:03:35 --> Language Class Initialized
+INFO - 2015-04-13 16:03:35 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:35 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:35 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:35 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:35 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:35 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:35 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:35 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:35 --> Model Class Initialized
+INFO - 2015-04-13 16:03:35 --> Model Class Initialized
+INFO - 2015-04-13 16:03:35 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:35 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:35 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:35 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:35 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:35 --> Total execution time: 0.0164
+INFO - 2015-04-13 16:03:37 --> Config Class Initialized
+INFO - 2015-04-13 16:03:37 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:37 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:37 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:37 --> URI Class Initialized
+INFO - 2015-04-13 16:03:37 --> Router Class Initialized
+INFO - 2015-04-13 16:03:37 --> Output Class Initialized
+INFO - 2015-04-13 16:03:37 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:37 --> Input Class Initialized
+INFO - 2015-04-13 16:03:37 --> Language Class Initialized
+INFO - 2015-04-13 16:03:37 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:37 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:37 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:37 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:37 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:37 --> Controller Class Initialized
+DEBUG - 2015-04-13 16:03:37 --> Config file loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/config/rest.php
+INFO - 2015-04-13 16:03:37 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 16:03:37 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:37 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:37 --> Model Class Initialized
+INFO - 2015-04-13 16:03:37 --> Model Class Initialized
+INFO - 2015-04-13 16:03:37 --> Updating book with id 62
+INFO - 2015-04-13 16:03:37 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:37 --> Total execution time: 0.0189
+INFO - 2015-04-13 16:03:37 --> Config Class Initialized
+INFO - 2015-04-13 16:03:37 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:37 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:37 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:37 --> URI Class Initialized
+INFO - 2015-04-13 16:03:37 --> Router Class Initialized
+INFO - 2015-04-13 16:03:37 --> Output Class Initialized
+INFO - 2015-04-13 16:03:37 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:37 --> Input Class Initialized
+INFO - 2015-04-13 16:03:37 --> Language Class Initialized
+INFO - 2015-04-13 16:03:37 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:37 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:37 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:37 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:37 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:37 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:37 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:37 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:37 --> Model Class Initialized
+INFO - 2015-04-13 16:03:37 --> Model Class Initialized
+INFO - 2015-04-13 16:03:37 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:37 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:37 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/show.php
+INFO - 2015-04-13 16:03:37 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:37 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:37 --> Total execution time: 0.0157
+INFO - 2015-04-13 16:03:37 --> Config Class Initialized
+INFO - 2015-04-13 16:03:37 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:37 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:37 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:37 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:37 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:37 --> Router Class Initialized
+INFO - 2015-04-13 16:03:37 --> Output Class Initialized
+INFO - 2015-04-13 16:03:37 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:37 --> Input Class Initialized
+INFO - 2015-04-13 16:03:37 --> Language Class Initialized
+INFO - 2015-04-13 16:03:37 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:37 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:37 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:37 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:37 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:37 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:37 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:37 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:37 --> Model Class Initialized
+INFO - 2015-04-13 16:03:37 --> Model Class Initialized
+INFO - 2015-04-13 16:03:37 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:37 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:37 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:37 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:37 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:37 --> Total execution time: 0.0175
+INFO - 2015-04-13 16:03:38 --> Config Class Initialized
+INFO - 2015-04-13 16:03:38 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:38 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:38 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:38 --> URI Class Initialized
+INFO - 2015-04-13 16:03:38 --> Router Class Initialized
+INFO - 2015-04-13 16:03:38 --> Output Class Initialized
+INFO - 2015-04-13 16:03:38 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:38 --> Input Class Initialized
+INFO - 2015-04-13 16:03:38 --> Language Class Initialized
+INFO - 2015-04-13 16:03:38 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:38 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:38 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:38 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:38 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:38 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:38 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:38 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:38 --> Model Class Initialized
+INFO - 2015-04-13 16:03:38 --> Model Class Initialized
+INFO - 2015-04-13 16:03:38 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:38 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:38 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/authors/show.php
+INFO - 2015-04-13 16:03:38 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:38 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:38 --> Total execution time: 0.0148
+INFO - 2015-04-13 16:03:38 --> Config Class Initialized
+INFO - 2015-04-13 16:03:38 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:38 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:38 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:38 --> URI Class Initialized
+INFO - 2015-04-13 16:03:38 --> Router Class Initialized
+INFO - 2015-04-13 16:03:38 --> Output Class Initialized
+INFO - 2015-04-13 16:03:38 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:38 --> Input Class Initialized
+INFO - 2015-04-13 16:03:38 --> Language Class Initialized
+ERROR - 2015-04-13 16:03:38 --> 404 Page Not Found: %7B%7Bbookcover%7D%7D/index
+INFO - 2015-04-13 16:03:38 --> Config Class Initialized
+INFO - 2015-04-13 16:03:38 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:38 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:38 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:38 --> URI Class Initialized
+INFO - 2015-04-13 16:03:38 --> Router Class Initialized
+INFO - 2015-04-13 16:03:38 --> Output Class Initialized
+INFO - 2015-04-13 16:03:38 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:38 --> Input Class Initialized
+INFO - 2015-04-13 16:03:38 --> Language Class Initialized
+INFO - 2015-04-13 16:03:38 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:38 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:38 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:38 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:38 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:38 --> Controller Class Initialized
+DEBUG - 2015-04-13 16:03:38 --> Config file loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/config/rest.php
+INFO - 2015-04-13 16:03:38 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 16:03:38 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:38 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:38 --> Model Class Initialized
+INFO - 2015-04-13 16:03:38 --> Model Class Initialized
+INFO - 2015-04-13 16:03:38 --> Searching author with id 48
+INFO - 2015-04-13 16:03:38 --> Config Class Initialized
+INFO - 2015-04-13 16:03:38 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:38 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:38 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:38 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:38 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:38 --> Router Class Initialized
+INFO - 2015-04-13 16:03:38 --> Output Class Initialized
+INFO - 2015-04-13 16:03:38 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:38 --> Input Class Initialized
+INFO - 2015-04-13 16:03:38 --> Language Class Initialized
+INFO - 2015-04-13 16:03:38 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:38 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:38 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:38 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:38 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:38 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:38 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:38 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:38 --> Model Class Initialized
+INFO - 2015-04-13 16:03:38 --> Model Class Initialized
+INFO - 2015-04-13 16:03:38 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:38 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:38 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:38 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:38 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:38 --> Total execution time: 0.0169
+INFO - 2015-04-13 16:03:39 --> Config Class Initialized
+INFO - 2015-04-13 16:03:39 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:39 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:39 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:39 --> URI Class Initialized
+INFO - 2015-04-13 16:03:39 --> Router Class Initialized
+INFO - 2015-04-13 16:03:39 --> Output Class Initialized
+INFO - 2015-04-13 16:03:39 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:39 --> Input Class Initialized
+INFO - 2015-04-13 16:03:39 --> Language Class Initialized
+INFO - 2015-04-13 16:03:39 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:39 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:39 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:39 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:39 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:39 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:39 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:39 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:39 --> Model Class Initialized
+INFO - 2015-04-13 16:03:39 --> Model Class Initialized
+INFO - 2015-04-13 16:03:39 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:39 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:39 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/show.php
+INFO - 2015-04-13 16:03:39 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:39 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:39 --> Total execution time: 0.0157
+INFO - 2015-04-13 16:03:39 --> Config Class Initialized
+INFO - 2015-04-13 16:03:39 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:39 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:39 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:39 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:39 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:39 --> Router Class Initialized
+INFO - 2015-04-13 16:03:39 --> Output Class Initialized
+INFO - 2015-04-13 16:03:39 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:39 --> Input Class Initialized
+INFO - 2015-04-13 16:03:39 --> Language Class Initialized
+INFO - 2015-04-13 16:03:39 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:39 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:39 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:39 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:39 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:39 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:39 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:39 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:39 --> Model Class Initialized
+INFO - 2015-04-13 16:03:39 --> Model Class Initialized
+INFO - 2015-04-13 16:03:39 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:39 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:39 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:39 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:39 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:39 --> Total execution time: 0.0172
+INFO - 2015-04-13 16:03:41 --> Config Class Initialized
+INFO - 2015-04-13 16:03:41 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:41 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:41 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:41 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:41 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:41 --> Router Class Initialized
+INFO - 2015-04-13 16:03:41 --> Output Class Initialized
+INFO - 2015-04-13 16:03:41 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:41 --> Input Class Initialized
+INFO - 2015-04-13 16:03:41 --> Language Class Initialized
+INFO - 2015-04-13 16:03:41 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:41 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:41 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:41 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:41 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:41 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:41 --> Model Class Initialized
+INFO - 2015-04-13 16:03:41 --> Model Class Initialized
+INFO - 2015-04-13 16:03:41 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:41 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:41 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:41 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:41 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:41 --> Total execution time: 0.0173
+INFO - 2015-04-13 16:03:41 --> Config Class Initialized
+INFO - 2015-04-13 16:03:41 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:41 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:41 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:41 --> URI Class Initialized
+INFO - 2015-04-13 16:03:41 --> Router Class Initialized
+INFO - 2015-04-13 16:03:41 --> Output Class Initialized
+INFO - 2015-04-13 16:03:41 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:41 --> Input Class Initialized
+INFO - 2015-04-13 16:03:41 --> Language Class Initialized
+INFO - 2015-04-13 16:03:41 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:41 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:41 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:41 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:41 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:41 --> Controller Class Initialized
+DEBUG - 2015-04-13 16:03:41 --> Config file loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/config/rest.php
+INFO - 2015-04-13 16:03:41 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 16:03:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:41 --> Model Class Initialized
+INFO - 2015-04-13 16:03:41 --> Model Class Initialized
+INFO - 2015-04-13 16:03:41 --> Config Class Initialized
+INFO - 2015-04-13 16:03:41 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:41 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:41 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:41 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:41 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:41 --> Router Class Initialized
+INFO - 2015-04-13 16:03:41 --> Output Class Initialized
+INFO - 2015-04-13 16:03:41 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:41 --> Input Class Initialized
+INFO - 2015-04-13 16:03:41 --> Language Class Initialized
+INFO - 2015-04-13 16:03:41 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:41 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:41 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:41 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:41 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:41 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:41 --> Model Class Initialized
+INFO - 2015-04-13 16:03:41 --> Model Class Initialized
+INFO - 2015-04-13 16:03:41 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:41 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:41 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:41 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:41 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:41 --> Total execution time: 0.0172
+INFO - 2015-04-13 16:03:41 --> Config Class Initialized
+INFO - 2015-04-13 16:03:41 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:41 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:41 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:41 --> URI Class Initialized
+INFO - 2015-04-13 16:03:41 --> Router Class Initialized
+INFO - 2015-04-13 16:03:41 --> Output Class Initialized
+INFO - 2015-04-13 16:03:41 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:41 --> Input Class Initialized
+INFO - 2015-04-13 16:03:41 --> Language Class Initialized
+INFO - 2015-04-13 16:03:41 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:41 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:41 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:41 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:41 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:41 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:41 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:41 --> Model Class Initialized
+INFO - 2015-04-13 16:03:41 --> Model Class Initialized
+INFO - 2015-04-13 16:03:41 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:41 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:41 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/authors/create.php
+INFO - 2015-04-13 16:03:41 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:41 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:41 --> Total execution time: 0.0147
+INFO - 2015-04-13 16:03:42 --> Config Class Initialized
+INFO - 2015-04-13 16:03:42 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:42 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:42 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:42 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:42 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:42 --> Router Class Initialized
+INFO - 2015-04-13 16:03:42 --> Output Class Initialized
+INFO - 2015-04-13 16:03:42 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:42 --> Input Class Initialized
+INFO - 2015-04-13 16:03:42 --> Language Class Initialized
+INFO - 2015-04-13 16:03:42 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:42 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:42 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:42 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:42 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:42 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:42 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:42 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:42 --> Model Class Initialized
+INFO - 2015-04-13 16:03:42 --> Model Class Initialized
+INFO - 2015-04-13 16:03:42 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:42 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:42 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:42 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:42 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:42 --> Total execution time: 0.0160
+INFO - 2015-04-13 16:03:43 --> Config Class Initialized
+INFO - 2015-04-13 16:03:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:43 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:43 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:43 --> Router Class Initialized
+INFO - 2015-04-13 16:03:43 --> Output Class Initialized
+INFO - 2015-04-13 16:03:43 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:43 --> Input Class Initialized
+INFO - 2015-04-13 16:03:43 --> Language Class Initialized
+INFO - 2015-04-13 16:03:43 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:43 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:43 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:43 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:43 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:43 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:43 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:43 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:43 --> Model Class Initialized
+INFO - 2015-04-13 16:03:43 --> Model Class Initialized
+INFO - 2015-04-13 16:03:43 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:43 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:43 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:43 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:43 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:43 --> Total execution time: 0.0162
+INFO - 2015-04-13 16:03:43 --> Config Class Initialized
+INFO - 2015-04-13 16:03:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:43 --> URI Class Initialized
+INFO - 2015-04-13 16:03:43 --> Router Class Initialized
+INFO - 2015-04-13 16:03:43 --> Output Class Initialized
+INFO - 2015-04-13 16:03:43 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:43 --> Input Class Initialized
+INFO - 2015-04-13 16:03:43 --> Language Class Initialized
+INFO - 2015-04-13 16:03:43 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:43 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:43 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:43 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:43 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:43 --> Controller Class Initialized
+DEBUG - 2015-04-13 16:03:43 --> Config file loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/config/rest.php
+INFO - 2015-04-13 16:03:43 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 16:03:43 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:43 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:43 --> Model Class Initialized
+INFO - 2015-04-13 16:03:43 --> Model Class Initialized
+INFO - 2015-04-13 16:03:43 --> Config Class Initialized
+INFO - 2015-04-13 16:03:43 --> Hooks Class Initialized
+DEBUG - 2015-04-13 16:03:43 --> UTF-8 Support Enabled
+INFO - 2015-04-13 16:03:43 --> Utf8 Class Initialized
+INFO - 2015-04-13 16:03:43 --> URI Class Initialized
+DEBUG - 2015-04-13 16:03:43 --> No URI present. Default controller set.
+INFO - 2015-04-13 16:03:43 --> Router Class Initialized
+INFO - 2015-04-13 16:03:43 --> Output Class Initialized
+INFO - 2015-04-13 16:03:43 --> Security Class Initialized
+DEBUG - 2015-04-13 16:03:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 16:03:43 --> Input Class Initialized
+INFO - 2015-04-13 16:03:43 --> Language Class Initialized
+INFO - 2015-04-13 16:03:43 --> Loader Class Initialized
+INFO - 2015-04-13 16:03:43 --> Helper loaded: url_helper
+INFO - 2015-04-13 16:03:43 --> Helper loaded: html_helper
+INFO - 2015-04-13 16:03:43 --> Helper loaded: assets_helper
+INFO - 2015-04-13 16:03:43 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 16:03:43 --> Controller Class Initialized
+INFO - 2015-04-13 16:03:43 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:43 --> Database Driver Class Initialized
+INFO - 2015-04-13 16:03:43 --> Model Class Initialized
+INFO - 2015-04-13 16:03:43 --> Model Class Initialized
+INFO - 2015-04-13 16:03:43 --> Parser Class Initialized
+INFO - 2015-04-13 16:03:43 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 16:03:43 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 16:03:43 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 16:03:43 --> Final output sent to browser
+DEBUG - 2015-04-13 16:03:43 --> Total execution time: 0.0172
+INFO - 2015-04-13 17:56:49 --> Config Class Initialized
+INFO - 2015-04-13 17:56:49 --> Hooks Class Initialized
+DEBUG - 2015-04-13 17:56:49 --> UTF-8 Support Enabled
+INFO - 2015-04-13 17:56:49 --> Utf8 Class Initialized
+INFO - 2015-04-13 17:56:49 --> URI Class Initialized
+DEBUG - 2015-04-13 17:56:49 --> No URI present. Default controller set.
+INFO - 2015-04-13 17:56:49 --> Router Class Initialized
+INFO - 2015-04-13 17:56:49 --> Output Class Initialized
+INFO - 2015-04-13 17:56:49 --> Security Class Initialized
+DEBUG - 2015-04-13 17:56:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 17:56:49 --> Input Class Initialized
+INFO - 2015-04-13 17:56:49 --> Language Class Initialized
+INFO - 2015-04-13 17:56:49 --> Loader Class Initialized
+INFO - 2015-04-13 17:56:49 --> Helper loaded: url_helper
+INFO - 2015-04-13 17:56:49 --> Helper loaded: html_helper
+INFO - 2015-04-13 17:56:49 --> Helper loaded: assets_helper
+INFO - 2015-04-13 17:56:49 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 17:56:49 --> Controller Class Initialized
+INFO - 2015-04-13 17:56:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:49 --> Model Class Initialized
+INFO - 2015-04-13 17:56:49 --> Model Class Initialized
+INFO - 2015-04-13 17:56:49 --> Parser Class Initialized
+INFO - 2015-04-13 17:56:49 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 17:56:49 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 17:56:49 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 17:56:49 --> Final output sent to browser
+DEBUG - 2015-04-13 17:56:49 --> Total execution time: 0.0186
+INFO - 2015-04-13 17:56:49 --> Config Class Initialized
+INFO - 2015-04-13 17:56:49 --> Hooks Class Initialized
+DEBUG - 2015-04-13 17:56:49 --> UTF-8 Support Enabled
+INFO - 2015-04-13 17:56:49 --> Utf8 Class Initialized
+INFO - 2015-04-13 17:56:49 --> URI Class Initialized
+INFO - 2015-04-13 17:56:49 --> Router Class Initialized
+INFO - 2015-04-13 17:56:49 --> Output Class Initialized
+INFO - 2015-04-13 17:56:49 --> Security Class Initialized
+DEBUG - 2015-04-13 17:56:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 17:56:49 --> Input Class Initialized
+INFO - 2015-04-13 17:56:49 --> Language Class Initialized
+INFO - 2015-04-13 17:56:49 --> Loader Class Initialized
+INFO - 2015-04-13 17:56:49 --> Helper loaded: url_helper
+INFO - 2015-04-13 17:56:49 --> Helper loaded: html_helper
+INFO - 2015-04-13 17:56:49 --> Helper loaded: assets_helper
+INFO - 2015-04-13 17:56:49 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 17:56:49 --> Controller Class Initialized
+DEBUG - 2015-04-13 17:56:49 --> Config file loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/config/rest.php
+INFO - 2015-04-13 17:56:49 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 17:56:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:49 --> Model Class Initialized
+INFO - 2015-04-13 17:56:49 --> Model Class Initialized
+INFO - 2015-04-13 17:56:49 --> Config Class Initialized
+INFO - 2015-04-13 17:56:49 --> Hooks Class Initialized
+DEBUG - 2015-04-13 17:56:49 --> UTF-8 Support Enabled
+INFO - 2015-04-13 17:56:49 --> Utf8 Class Initialized
+INFO - 2015-04-13 17:56:49 --> URI Class Initialized
+DEBUG - 2015-04-13 17:56:49 --> No URI present. Default controller set.
+INFO - 2015-04-13 17:56:49 --> Router Class Initialized
+INFO - 2015-04-13 17:56:49 --> Output Class Initialized
+INFO - 2015-04-13 17:56:49 --> Security Class Initialized
+DEBUG - 2015-04-13 17:56:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 17:56:49 --> Input Class Initialized
+INFO - 2015-04-13 17:56:49 --> Language Class Initialized
+INFO - 2015-04-13 17:56:49 --> Loader Class Initialized
+INFO - 2015-04-13 17:56:49 --> Helper loaded: url_helper
+INFO - 2015-04-13 17:56:49 --> Helper loaded: html_helper
+INFO - 2015-04-13 17:56:49 --> Helper loaded: assets_helper
+INFO - 2015-04-13 17:56:49 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 17:56:49 --> Controller Class Initialized
+INFO - 2015-04-13 17:56:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:49 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:49 --> Model Class Initialized
+INFO - 2015-04-13 17:56:49 --> Model Class Initialized
+INFO - 2015-04-13 17:56:49 --> Parser Class Initialized
+INFO - 2015-04-13 17:56:49 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 17:56:49 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 17:56:49 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 17:56:49 --> Final output sent to browser
+DEBUG - 2015-04-13 17:56:49 --> Total execution time: 0.0180
+INFO - 2015-04-13 17:56:50 --> Config Class Initialized
+INFO - 2015-04-13 17:56:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 17:56:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 17:56:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 17:56:50 --> URI Class Initialized
+INFO - 2015-04-13 17:56:50 --> Router Class Initialized
+INFO - 2015-04-13 17:56:50 --> Output Class Initialized
+INFO - 2015-04-13 17:56:50 --> Security Class Initialized
+DEBUG - 2015-04-13 17:56:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 17:56:50 --> Input Class Initialized
+INFO - 2015-04-13 17:56:50 --> Language Class Initialized
+INFO - 2015-04-13 17:56:50 --> Loader Class Initialized
+INFO - 2015-04-13 17:56:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 17:56:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 17:56:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 17:56:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 17:56:50 --> Controller Class Initialized
+INFO - 2015-04-13 17:56:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:50 --> Model Class Initialized
+INFO - 2015-04-13 17:56:50 --> Model Class Initialized
+INFO - 2015-04-13 17:56:50 --> Parser Class Initialized
+INFO - 2015-04-13 17:56:50 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 17:56:50 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/authors/show.php
+INFO - 2015-04-13 17:56:50 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 17:56:50 --> Final output sent to browser
+DEBUG - 2015-04-13 17:56:50 --> Total execution time: 0.0149
+INFO - 2015-04-13 17:56:50 --> Config Class Initialized
+INFO - 2015-04-13 17:56:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 17:56:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 17:56:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 17:56:50 --> URI Class Initialized
+INFO - 2015-04-13 17:56:50 --> Router Class Initialized
+INFO - 2015-04-13 17:56:50 --> Output Class Initialized
+INFO - 2015-04-13 17:56:50 --> Security Class Initialized
+DEBUG - 2015-04-13 17:56:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 17:56:50 --> Input Class Initialized
+INFO - 2015-04-13 17:56:50 --> Language Class Initialized
+ERROR - 2015-04-13 17:56:50 --> 404 Page Not Found: %7B%7Bbookcover%7D%7D/index
+INFO - 2015-04-13 17:56:50 --> Config Class Initialized
+INFO - 2015-04-13 17:56:50 --> Hooks Class Initialized
+DEBUG - 2015-04-13 17:56:50 --> UTF-8 Support Enabled
+INFO - 2015-04-13 17:56:50 --> Utf8 Class Initialized
+INFO - 2015-04-13 17:56:50 --> URI Class Initialized
+INFO - 2015-04-13 17:56:50 --> Router Class Initialized
+INFO - 2015-04-13 17:56:50 --> Output Class Initialized
+INFO - 2015-04-13 17:56:50 --> Security Class Initialized
+DEBUG - 2015-04-13 17:56:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 17:56:50 --> Input Class Initialized
+INFO - 2015-04-13 17:56:50 --> Language Class Initialized
+INFO - 2015-04-13 17:56:50 --> Loader Class Initialized
+INFO - 2015-04-13 17:56:50 --> Helper loaded: url_helper
+INFO - 2015-04-13 17:56:50 --> Helper loaded: html_helper
+INFO - 2015-04-13 17:56:50 --> Helper loaded: assets_helper
+INFO - 2015-04-13 17:56:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 17:56:50 --> Controller Class Initialized
+DEBUG - 2015-04-13 17:56:50 --> Config file loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/config/rest.php
+INFO - 2015-04-13 17:56:50 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 17:56:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:50 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:50 --> Model Class Initialized
+INFO - 2015-04-13 17:56:50 --> Model Class Initialized
+INFO - 2015-04-13 17:56:50 --> Searching author with id 99
+INFO - 2015-04-13 17:56:51 --> Config Class Initialized
+INFO - 2015-04-13 17:56:51 --> Hooks Class Initialized
+DEBUG - 2015-04-13 17:56:51 --> UTF-8 Support Enabled
+INFO - 2015-04-13 17:56:51 --> Utf8 Class Initialized
+INFO - 2015-04-13 17:56:51 --> URI Class Initialized
+DEBUG - 2015-04-13 17:56:51 --> No URI present. Default controller set.
+INFO - 2015-04-13 17:56:51 --> Router Class Initialized
+INFO - 2015-04-13 17:56:51 --> Output Class Initialized
+INFO - 2015-04-13 17:56:51 --> Security Class Initialized
+DEBUG - 2015-04-13 17:56:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 17:56:51 --> Input Class Initialized
+INFO - 2015-04-13 17:56:51 --> Language Class Initialized
+INFO - 2015-04-13 17:56:51 --> Loader Class Initialized
+INFO - 2015-04-13 17:56:51 --> Helper loaded: url_helper
+INFO - 2015-04-13 17:56:51 --> Helper loaded: html_helper
+INFO - 2015-04-13 17:56:51 --> Helper loaded: assets_helper
+INFO - 2015-04-13 17:56:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 17:56:51 --> Controller Class Initialized
+INFO - 2015-04-13 17:56:51 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:51 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:51 --> Model Class Initialized
+INFO - 2015-04-13 17:56:51 --> Model Class Initialized
+INFO - 2015-04-13 17:56:51 --> Parser Class Initialized
+INFO - 2015-04-13 17:56:51 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 17:56:51 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 17:56:51 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 17:56:51 --> Final output sent to browser
+DEBUG - 2015-04-13 17:56:51 --> Total execution time: 0.0210
+INFO - 2015-04-13 17:56:52 --> Config Class Initialized
+INFO - 2015-04-13 17:56:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 17:56:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 17:56:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 17:56:52 --> URI Class Initialized
+INFO - 2015-04-13 17:56:52 --> Router Class Initialized
+INFO - 2015-04-13 17:56:52 --> Output Class Initialized
+INFO - 2015-04-13 17:56:52 --> Security Class Initialized
+DEBUG - 2015-04-13 17:56:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 17:56:52 --> Input Class Initialized
+INFO - 2015-04-13 17:56:52 --> Language Class Initialized
+INFO - 2015-04-13 17:56:52 --> Loader Class Initialized
+INFO - 2015-04-13 17:56:52 --> Helper loaded: url_helper
+INFO - 2015-04-13 17:56:52 --> Helper loaded: html_helper
+INFO - 2015-04-13 17:56:52 --> Helper loaded: assets_helper
+INFO - 2015-04-13 17:56:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 17:56:52 --> Controller Class Initialized
+INFO - 2015-04-13 17:56:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:52 --> Model Class Initialized
+INFO - 2015-04-13 17:56:52 --> Model Class Initialized
+INFO - 2015-04-13 17:56:52 --> Parser Class Initialized
+INFO - 2015-04-13 17:56:52 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 17:56:52 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/show.php
+INFO - 2015-04-13 17:56:52 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 17:56:52 --> Final output sent to browser
+DEBUG - 2015-04-13 17:56:52 --> Total execution time: 0.0156
+INFO - 2015-04-13 17:56:52 --> Config Class Initialized
+INFO - 2015-04-13 17:56:52 --> Hooks Class Initialized
+DEBUG - 2015-04-13 17:56:52 --> UTF-8 Support Enabled
+INFO - 2015-04-13 17:56:52 --> Utf8 Class Initialized
+INFO - 2015-04-13 17:56:52 --> URI Class Initialized
+DEBUG - 2015-04-13 17:56:52 --> No URI present. Default controller set.
+INFO - 2015-04-13 17:56:52 --> Router Class Initialized
+INFO - 2015-04-13 17:56:52 --> Output Class Initialized
+INFO - 2015-04-13 17:56:52 --> Security Class Initialized
+DEBUG - 2015-04-13 17:56:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 17:56:52 --> Input Class Initialized
+INFO - 2015-04-13 17:56:52 --> Language Class Initialized
+INFO - 2015-04-13 17:56:52 --> Loader Class Initialized
+INFO - 2015-04-13 17:56:52 --> Helper loaded: url_helper
+INFO - 2015-04-13 17:56:52 --> Helper loaded: html_helper
+INFO - 2015-04-13 17:56:52 --> Helper loaded: assets_helper
+INFO - 2015-04-13 17:56:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 17:56:52 --> Controller Class Initialized
+INFO - 2015-04-13 17:56:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:52 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:52 --> Model Class Initialized
+INFO - 2015-04-13 17:56:52 --> Model Class Initialized
+INFO - 2015-04-13 17:56:52 --> Parser Class Initialized
+INFO - 2015-04-13 17:56:52 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 17:56:52 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 17:56:52 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 17:56:52 --> Final output sent to browser
+DEBUG - 2015-04-13 17:56:52 --> Total execution time: 0.0168
+INFO - 2015-04-13 17:56:53 --> Config Class Initialized
+INFO - 2015-04-13 17:56:53 --> Hooks Class Initialized
+DEBUG - 2015-04-13 17:56:53 --> UTF-8 Support Enabled
+INFO - 2015-04-13 17:56:53 --> Utf8 Class Initialized
+INFO - 2015-04-13 17:56:53 --> URI Class Initialized
+DEBUG - 2015-04-13 17:56:53 --> No URI present. Default controller set.
+INFO - 2015-04-13 17:56:53 --> Router Class Initialized
+INFO - 2015-04-13 17:56:53 --> Output Class Initialized
+INFO - 2015-04-13 17:56:53 --> Security Class Initialized
+DEBUG - 2015-04-13 17:56:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 17:56:53 --> Input Class Initialized
+INFO - 2015-04-13 17:56:53 --> Language Class Initialized
+INFO - 2015-04-13 17:56:53 --> Loader Class Initialized
+INFO - 2015-04-13 17:56:53 --> Helper loaded: url_helper
+INFO - 2015-04-13 17:56:53 --> Helper loaded: html_helper
+INFO - 2015-04-13 17:56:53 --> Helper loaded: assets_helper
+INFO - 2015-04-13 17:56:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 17:56:53 --> Controller Class Initialized
+INFO - 2015-04-13 17:56:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:53 --> Model Class Initialized
+INFO - 2015-04-13 17:56:53 --> Model Class Initialized
+INFO - 2015-04-13 17:56:53 --> Parser Class Initialized
+INFO - 2015-04-13 17:56:53 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 17:56:53 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 17:56:53 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 17:56:53 --> Final output sent to browser
+DEBUG - 2015-04-13 17:56:53 --> Total execution time: 0.0159
+INFO - 2015-04-13 17:56:53 --> Config Class Initialized
+INFO - 2015-04-13 17:56:53 --> Hooks Class Initialized
+DEBUG - 2015-04-13 17:56:53 --> UTF-8 Support Enabled
+INFO - 2015-04-13 17:56:53 --> Utf8 Class Initialized
+INFO - 2015-04-13 17:56:53 --> URI Class Initialized
+INFO - 2015-04-13 17:56:53 --> Router Class Initialized
+INFO - 2015-04-13 17:56:53 --> Output Class Initialized
+INFO - 2015-04-13 17:56:53 --> Security Class Initialized
+DEBUG - 2015-04-13 17:56:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 17:56:53 --> Input Class Initialized
+INFO - 2015-04-13 17:56:53 --> Language Class Initialized
+INFO - 2015-04-13 17:56:53 --> Loader Class Initialized
+INFO - 2015-04-13 17:56:53 --> Helper loaded: url_helper
+INFO - 2015-04-13 17:56:53 --> Helper loaded: html_helper
+INFO - 2015-04-13 17:56:53 --> Helper loaded: assets_helper
+INFO - 2015-04-13 17:56:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 17:56:53 --> Controller Class Initialized
+DEBUG - 2015-04-13 17:56:53 --> Config file loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/config/rest.php
+INFO - 2015-04-13 17:56:53 --> Helper loaded: inflector_helper
+INFO - 2015-04-13 17:56:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:53 --> Model Class Initialized
+INFO - 2015-04-13 17:56:53 --> Model Class Initialized
+INFO - 2015-04-13 17:56:53 --> Config Class Initialized
+INFO - 2015-04-13 17:56:53 --> Hooks Class Initialized
+DEBUG - 2015-04-13 17:56:53 --> UTF-8 Support Enabled
+INFO - 2015-04-13 17:56:53 --> Utf8 Class Initialized
+INFO - 2015-04-13 17:56:53 --> URI Class Initialized
+DEBUG - 2015-04-13 17:56:53 --> No URI present. Default controller set.
+INFO - 2015-04-13 17:56:53 --> Router Class Initialized
+INFO - 2015-04-13 17:56:53 --> Output Class Initialized
+INFO - 2015-04-13 17:56:53 --> Security Class Initialized
+DEBUG - 2015-04-13 17:56:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-04-13 17:56:53 --> Input Class Initialized
+INFO - 2015-04-13 17:56:53 --> Language Class Initialized
+INFO - 2015-04-13 17:56:53 --> Loader Class Initialized
+INFO - 2015-04-13 17:56:53 --> Helper loaded: url_helper
+INFO - 2015-04-13 17:56:53 --> Helper loaded: html_helper
+INFO - 2015-04-13 17:56:53 --> Helper loaded: assets_helper
+INFO - 2015-04-13 17:56:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-04-13 17:56:53 --> Controller Class Initialized
+INFO - 2015-04-13 17:56:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:53 --> Database Driver Class Initialized
+INFO - 2015-04-13 17:56:53 --> Model Class Initialized
+INFO - 2015-04-13 17:56:53 --> Model Class Initialized
+INFO - 2015-04-13 17:56:53 --> Parser Class Initialized
+INFO - 2015-04-13 17:56:53 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/navbar.php
+INFO - 2015-04-13 17:56:53 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/books/index.php
+INFO - 2015-04-13 17:56:53 --> File loaded: /Users/sixpounder/Projects/CI-WORKSHOP/application/views/layout.php
+INFO - 2015-04-13 17:56:53 --> Final output sent to browser
+DEBUG - 2015-04-13 17:56:53 --> Total execution time: 0.0165
