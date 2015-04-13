@@ -63,6 +63,11 @@ class MY_Controller extends CI_Controller {
     }
     
   }
+  
+  public function notFound()
+  {
+    $this->view('404');
+  }
 }
 
 ?>

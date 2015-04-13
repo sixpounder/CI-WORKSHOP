@@ -51,6 +51,13 @@ class Books extends REST_Controller {
   public function book_delete($id) {
     log_message('info', 'Deleting book with id ' . $id);
     $result = $this->books_model->delete($id);
-    $this->response($result);
+    if($result) {
+      log_message('info', 'Book with id ' . $id . ' deleted');
+      $this->response((object)array('status' => FALSE, 'id' => $id), 200);  
+    } else {
+      log_message('error', 'Book with id ' . $id . ' could not be deleted');
+      $this->response((object)array('status' => FALSE, 'message' => 'Could not delete book with id ' . $id), 500);
+    }
+    
   }
 }

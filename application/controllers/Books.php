@@ -20,7 +20,7 @@ class Books extends MY_Controller {
     $book = $this->books_model->get($id);
     $this->setOutputData('book', $book);
     if ($book == null) {
-      show_404();
+      $this->notFound();
     } else {
       $this->setTitle($book->title);
 
@@ -51,5 +51,11 @@ class Books extends MY_Controller {
     $this->setTitle('Edit book');
     
     $this->view('books/edit');
+  }
+  
+  public function delete($id)
+  {
+    $this->setOutputData('book', $this->books_model->get($id));
+    $this->view('books/delete');
   }
 }

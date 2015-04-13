@@ -1,5 +1,8 @@
-<h1>Welcome to the bookshelf</h1>
 <div id="bookshelf" ng-controller="BookshelfController">
+  <h1 ng-cloak>
+    Welcome to the bookshelf
+    <small>{{books.length}} books available</small>
+  </h1>
   <div class="form-group">
     <div class="input-group">
       <input type="text" class="form-control" id="search" placeholder="Filter by title or author" ng-model="searchFilter">

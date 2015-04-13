@@ -23,10 +23,17 @@ class Book extends CI_Model {
       return null;
     }
 
-    $book = $this->db->select()->from(self::ENTITY)->where('id', $id)->get()->result()[0];
-    $book->author = $this->db->select()->from('authors')->where('id', $book->author_id)->get()->result()[0];
-
-    return $book;
+    $book = $this->db->select()->from(self::ENTITY)->where('id', $id)->get();
+    
+    if($book->num_rows() != 0) {
+      $book = $book->result()[0];
+      $book->author = $this->db->select()->from('authors')->where('id', $book->author_id)->get()->result()[0];
+      return $book;
+    } else {
+      return null;
+    }
+    
+    
   }
 
   public function search($match) {
@@ -62,6 +69,11 @@ class Book extends CI_Model {
       return (object)array('status' => FALSE, 'code' => $this->db->_error_number(), 'message' => $this->db->_error_message());
     }
     
+  }
+  
+  public function delete($id) {
+    $this->db->where('id', $id);
+    return $this->db->delete(self::ENTITY);
   }
 
 }

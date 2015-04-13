@@ -45,6 +45,14 @@ module.factory('Book', ['$resource', function($resource) {
       method: 'POST',
       isArray: false,
       headers: jsonHeader
+    },
+    destroy: {
+      method: 'DELETE',
+      isArray: false,
+      headers: jsonHeader,
+      params: {
+        resource: 'book'
+      }
     }
   });
 }]);
@@ -61,13 +69,25 @@ module.controller('BookController', ["$scope", '$window', "Book", function($scop
   $scope.init = function(id) {
     $scope.book = Book.get({id: id});
   };
+  
+  $scope.gotoBookPage = function() {
+    $window.location.href = "/books/" + $scope.book.id;
+  };
 
   $scope.update = function() {
     var data = angular.copy($scope.book);
     delete data.author;
 
     Book.update({id: $scope.book.id}, data).$promise.then(function(response) {
-      $window.location.href = "/books/" + $scope.book.id;
+      $scope.gotoBookPage();
+    }).catch(function(err) {
+      $scope.message = err;
+    });
+  };
+  
+  $scope.destroy = function() {
+    Book.destroy({id: $scope.book.id}).$promise.then(function(response) {
+      $window.location.href = "/books";
     }).catch(function(err) {
       $scope.message = err;
     });
