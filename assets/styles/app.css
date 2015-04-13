@@ -1,7 +1,11 @@
-img.book-cover {
+.book-cover {
   max-width:320px;
 }
 
 .mt60 {
   margin-top: 60px;
+}
+
+.forbidden img {
+  height: 200px;  
 }

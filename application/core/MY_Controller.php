@@ -45,17 +45,30 @@ class MY_Controller extends CI_Controller {
   {
     $this->load->model($modelName, $modelAlias, $autoload);
   }
+  
+  protected function is_logged_in()
+  {
+    return ($this->session->userdata('logged_in') != null);
+  }
 
   public function view($viewName)
   {
     $this->load->library('parser');
+    $this->setOutputData('current_user', $this->session->userdata('logged_in'));
+    $this->setOutputData('is_logged_in', $this->is_logged_in());
     $navbar = $this->load->view('navbar', $this->outputData, TRUE);
     $content = $this->load->view($viewName, $this->outputData, TRUE);
-    $this->parser->parse($this->__layout, array('navbar' => $navbar, 'content' => $content, 'title' => $this->outputData['title'] ? $this->outputData['title'] : 'Bookshelf'));
+    $this->parser->parse($this->__layout, array(
+      'navbar' => $navbar, 
+      'content' => $content, 
+      'title' => $this->outputData['title'] ? $this->outputData['title'] : 'Bookshelf', 
+      'current_user' => $this->session->userdata('logged_in'))
+    );
   }
 
-  public function json($stuff = null)
+  public function json($stuff = null, $status = 200)
   {
+    $this->output->set_status_header($status);
     if ($stuff) {
       $this->output->set_content_type('application/json')->set_output(json_encode($stuff));
     } else {
@@ -64,9 +77,23 @@ class MY_Controller extends CI_Controller {
     
   }
   
-  public function notFound()
+  public function not_found()
   {
-    $this->view('404');
+    if($this->wantsJSON()) {
+      $this->json((object)array('status' => FALSE), 404); 
+    } else {
+      $this->view('404');  
+    }
+  }
+  
+  public function forbidden()
+  {
+    if($this->wantsJSON()) {
+      $this->json((object)array('status' => FALSE), 403);
+    } else {
+      $this->view('403');  
+    }
+    
   }
 }
 

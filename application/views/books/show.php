@@ -6,10 +6,12 @@
     <h1><?php echo $book->title ?></h1>
     <p class="lead">By <?php echo $book->author->name ?></p>
 
-    <div class="mt60">
-      <a class="btn btn-default" href="/books/edit/<?php echo $book->id ?>">Edit book</a>
-      <a class="btn btn-danger" href="/books/delete/<?php echo $book->id ?>">Delete book</a>
-    </div>
+    <?php if ($current_user): ?>
+        <div class="mt60">
+          <a class="btn btn-default" href="/books/edit/<?php echo $book->id ?>">Edit book</a>
+          <a class="btn btn-danger" href="/books/delete/<?php echo $book->id ?>">Delete book</a>
+        </div>
+    <?php endif ?>
   </div>
 
 </div>

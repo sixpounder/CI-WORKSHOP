@@ -20,7 +20,7 @@ class Books extends MY_Controller {
     $book = $this->books_model->get($id);
     $this->setOutputData('book', $book);
     if ($book == null) {
-      $this->notFound();
+      $this->not_found();
     } else {
       $this->setTitle($book->title);
 
@@ -43,19 +43,27 @@ class Books extends MY_Controller {
 
   public function edit($id)
   {
-    $this->load->helper('form');
-    $this->loadModel('Author', 'authors_model');
-
-    $this->setOutputData('authors', $this->authors_model->getAll());
-    $this->setOutputData('book', $this->books_model->get($id));
-    $this->setTitle('Edit book');
-    
-    $this->view('books/edit');
+    if($this->is_logged_in()) {
+      $this->load->helper('form');
+      $this->loadModel('Author', 'authors_model');
+  
+      $this->setOutputData('authors', $this->authors_model->getAll());
+      $this->setOutputData('book', $this->books_model->get($id));
+      $this->setTitle('Edit book');
+      
+      $this->view('books/edit'); 
+    } else {
+      $this->forbidden();
+    }
   }
   
   public function delete($id)
   {
-    $this->setOutputData('book', $this->books_model->get($id));
-    $this->view('books/delete');
+    if($this->is_logged_in()) {
+      $this->setOutputData('book', $this->books_model->get($id));
+      $this->view('books/delete');
+    } else {
+      $this->forbidden();
+    }
   }
 }

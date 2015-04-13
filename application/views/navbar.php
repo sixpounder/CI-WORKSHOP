@@ -17,7 +17,12 @@
         
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="/books/create">New book</a></li>
+        <?php if($current_user): ?>
+          <li><a href="/books/create">New book</a></li>
+          <li><a href="/users/logout"><strong>Logout</strong></a></li>
+        <?php else: ?>
+          <li><a href="/users/login">Login</a></li>
+        <?php endif ?>
         
       </ul>
     </div><!-- /.navbar-collapse -->

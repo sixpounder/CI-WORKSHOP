@@ -14,6 +14,26 @@ class Database extends CI_Controller {
     }
 
     $this->faker = Faker\Factory::create();
+    $this->load->dbforge();
+  }
+  
+  public function down()
+  {
+    $this->dbforge->drop_table('migrations');
+    $this->dbforge->drop_table('authors');
+    $this->dbforge->drop_table('users');
+    $this->dbforge->drop_table('tags');
+    $this->dbforge->drop_table('books_tags');
+    $this->dbforge->drop_table('books');
+    echo "All tables dropped";
+    echo PHP_EOL;
+  }
+  
+  public function reset()
+  {
+    $this->down();
+    $this->migrate();
+    $this->seed();
   }
 
   public function migrate()
@@ -22,7 +42,7 @@ class Database extends CI_Controller {
     if($this->migration->current() === FALSE) {
       echo($this->migration->error_string());
     } else {
-      echo 'Everything is accomplished';
+      echo 'Schema migrated';
       echo PHP_EOL;
     }
   }
@@ -33,7 +53,7 @@ class Database extends CI_Controller {
     echo PHP_EOL;
 
     echo "Seeding admin...";
-    $users = array('email' => 'admin@myblog.org', 'password' => 'hashmeforgodsake', 'admin' => TRUE);
+    $users = array('email' => 'admin@bookshelf.org', 'password' => MD5('hashmeforgodsake'), 'admin' => TRUE);
     $this->load->model('User', 'user_model', TRUE);
     $this->user_model->create($users);
 

@@ -9,6 +9,22 @@ class Books extends REST_Controller {
     parent::__construct();
     $this->load->model('Book', 'books_model', TRUE);
   }
+  
+  protected function is_logged_in()
+  {
+    return $this->session->userdata('logged_in') != null;
+  }
+  
+  protected function restrict()
+  {
+    if(! $this->is_logged_in()) {
+       $this->output->set_status_header(403);
+       $stuff = (object)array('status' => FALSE);
+       $this->output->set_content_type('application/json')->set_output(json_encode($stuff));
+       $this->output->_display();
+       exit();
+    }
+  }
 
   public function index_get() {
 
@@ -16,6 +32,8 @@ class Books extends REST_Controller {
   }
 
   public function index_post() {
+    $this->restrict();
+    
     $created = $this->books_model->create($this->post());
     if ($created) {
       if(!$this->input->is_ajax_request()) {
@@ -37,6 +55,8 @@ class Books extends REST_Controller {
   }
 
   public function book_put($id) {
+    $this->restrict();
+    
     log_message('info', 'Updating book with id ' . $id);
     log_message('info', json_encode($this->put()));
     $data = array(
@@ -49,6 +69,8 @@ class Books extends REST_Controller {
   }
 
   public function book_delete($id) {
+    $this->restrict();
+    
     log_message('info', 'Deleting book with id ' . $id);
     $result = $this->books_model->delete($id);
     if($result) {

@@ -21,4 +21,20 @@ class User extends CI_Model {
     }
     return $this->db->insert(self::ENTITY, $stuff);
   }
+  
+  public function login($identity, $password)
+  {
+    $query = $this->db->select()
+      ->from(self::ENTITY)
+      ->where('email', $identity)
+      ->where('password', MD5($password))
+      ->limit(1)
+      ->get();
+      
+    if($query->num_rows() == 1) {
+      return $query->result();
+    } else {
+      return false;
+    }
+  }
 }
