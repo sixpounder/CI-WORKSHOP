@@ -11,7 +11,7 @@
     <div class="col-sm-10">
       <select name="author_id">
         <?php foreach ($authors as $author): ?>
-          <option value="<?php echo $author->id ?>">
+          <option value="<?php echo $author->id ?>" <?php echo ($author_id == $author->id ? 'selected' : '') ?> >
             <?php echo $author->name ?>
           </option>
           

@@ -15,16 +15,15 @@
 }
 
 .book-list {
-  -webkit-column-count: 3; /* Chrome, Safari, Opera */
-  -moz-column-count: 3; /* Firefox */
-  column-count: 3;
-  -webkit-column-width: auto; /* Chrome, Safari, Opera */
-  -moz-column-width: auto; /* Firefox */
-  column-width: auto;
-  
-  -webkit-column-gap: 5px; /* Chrome, Safari, Opera */
-  -moz-column-gap: 5px; /* Firefox */
-  column-gap: 5px;
+  -webkit-column-count: 3;
+	-webkit-column-gap: 10px;
+	-webkit-column-fill: auto;
+	-moz-column-count: 3;
+	-moz-column-gap: 10px;
+	-moz-column-fill: balance;
+	column-count: 3;
+	column-gap: 15px;
+	column-fill: auto;
 }
 
 .book-list .panel-body {
@@ -34,4 +33,13 @@
 .book-list img {
   max-width: 100%;
   max-height: 400px;
+  vertical-align: middle;
+}
+
+.book {
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  column-break-inside: avoid;
+  display: inline-block;
+  margin-top: 40px;
 }

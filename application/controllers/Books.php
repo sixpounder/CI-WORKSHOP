@@ -38,6 +38,7 @@ class Books extends MY_Controller {
       $this->loadModel('Author', 'authors_model');
   
       $this->setOutputData('authors', $this->authors_model->getAll());
+      $this->setOutputData('author_id', $this->input->get('author_id'));
       $this->setTitle('New book');
       
       $this->view('books/new');

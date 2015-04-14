@@ -3,22 +3,25 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class MY_Controller extends CI_Controller {
   private $__layout = 'layout';
-
+  public $_accepted_output_formats;
+  
   public function __construct()
   {
     parent::__construct();
+    $accept = $this->input->get_request_header('accept') !== '' ? $this->input->get_request_header('accept') : $this->input->get_request_header('Accept');
+    $this->_accepted_output_formats = explode(';', $accept);
 
     $this->outputData = array();
   }
 
   protected function wantsJSON()
   {
-    return $this->__formatSpecified() == 'json';
+    return in_array('application/json', $this->_accepted_output_formats) || $this->__formatSpecified() == 'json';
   }
 
   protected function wantsHTML()
   {
-    return $this->__formatSpecified() == 'html';
+    return (!$this->wantsJSON) || $this->__formatSpecified() == 'html';
   }
 
   private function __formatSpecified()
@@ -79,6 +82,7 @@ class MY_Controller extends CI_Controller {
   
   public function not_found()
   {
+    $this->output->set_status_header(404);
     if($this->wantsJSON()) {
       $this->json((object)array('status' => FALSE), 404); 
     } else {
@@ -88,6 +92,7 @@ class MY_Controller extends CI_Controller {
   
   public function forbidden()
   {
+    $this->output->set_status_header(403);
     if($this->wantsJSON()) {
       $this->json((object)array('status' => FALSE), 403);
     } else {
