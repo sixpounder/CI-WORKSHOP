@@ -1,3 +1,7 @@
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
 .book-cover {
   max-width:320px;
 }
@@ -20,7 +24,7 @@
   
   -webkit-column-gap: 5px; /* Chrome, Safari, Opera */
   -moz-column-gap: 5px; /* Firefox */
-  column-gap: 5px;*
+  column-gap: 5px;
 }
 
 .book-list .panel-body {

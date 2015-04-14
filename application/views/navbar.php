@@ -20,6 +20,9 @@
         <li>
           <a href="/authors">Authors</a>
         </li>
+        <li>
+          <a href="/articles">Articles</a>
+        </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <?php if($current_user): ?>

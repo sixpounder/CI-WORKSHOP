@@ -16,7 +16,8 @@
     <div ng-repeat="author in authors | filter:searchFilter" ng-cloak>
       <h4>
         <a href="/authors/{{author.id}}">{{author.name}}</a>
-        <small>authored {{author.books_authored}} books</small>
+        <small ng-if="author.books_authored > 0">authored {{author.books_authored}} book{{author.books_authored > 1 ? 's' : ''}}</small>
+        <small ng-if="author.books_authored == 0">No books authored</small>
       </h4>
     </div>
   </div>

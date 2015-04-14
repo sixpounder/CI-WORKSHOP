@@ -1,5 +1,5 @@
-<div id="bookshelf" ng-controller="BookshelfController">
-  <h1 ng-cloak>
+<div id="bookshelf" ng-controller="BookshelfController" ng-cloak>
+  <h1>
     Library
     <small>{{books.length}} books available</small>
   </h1>
