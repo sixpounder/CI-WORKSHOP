@@ -17,18 +17,27 @@ class Database extends CI_Controller {
     $this->load->dbforge();
   }
   
-  public function reset()
+  public function reset($transactional = 'trx')
   {
-    $this->db->trans_start();
-    $this->down(FALSE);
-    $this->migrate(FALSE);
-    $this->seed(FALSE);
-    $this->db->trans_complete();
+    echo "Transaction context is ".($transactional == 'trx' ? 'ON' : 'OFF').PHP_EOL;
+    
+    if($transactional == 'trx') {
+      $this->db->trans_start();  
+    }
+    
+    $this->down('notrx');
+    $this->migrate('notrx');
+    $this->seed('notrx');
+    
+    if($transactional == 'trx') {
+      $this->db->trans_complete();
+    }
   }
   
-  public function down($requiresNewTransactionContext = TRUE)
+  public function down($requiresNewTransactionContext = 'trx')
   {
-    if($requiresNewTransactionContext == TRUE) {
+    if($requiresNewTransactionContext == 'trx') {
+      echo 'Using new transaction context for DOWN operation'.PHP_EOL;
       $this->db->trans_start();  
     }
     
@@ -41,15 +50,16 @@ class Database extends CI_Controller {
     echo "All tables dropped";
     echo PHP_EOL;
     
-    if($requiresNewTransactionContext == TRUE) {
+    if($requiresNewTransactionContext == 'trx') {
       $this->db->trans_complete();  
     }
   }
 
-  public function migrate($requiresNewTransactionContext = TRUE)
+  public function migrate($requiresNewTransactionContext = 'trx')
   {
-    if($requiresNewTransactionContext == TRUE) {
-      $this->db->trans_start();  
+    if($requiresNewTransactionContext == 'trx') {
+      echo 'Using new transaction context for MIGRATE operation'.PHP_EOL;
+      $this->db->trans_start();
     }
     $this->load->library('migration');
     if($this->migration->current() === FALSE) {
@@ -59,14 +69,15 @@ class Database extends CI_Controller {
       echo PHP_EOL;
     }
     
-    if($requiresNewTransactionContext == TRUE) {
+    if($requiresNewTransactionContext == 'trx') {
       $this->db->trans_complete();  
     }
   }
 
-  public function seed($requiresNewTransactionContext = TRUE)
+  public function seed($requiresNewTransactionContext = 'trx')
   {
-    if($requiresNewTransactionContext == TRUE) {
+    if($requiresNewTransactionContext == 'trx') {
+      echo 'Using new transaction context for SEED operation'.PHP_EOL;
       $this->db->trans_start();  
     }
     
@@ -130,7 +141,7 @@ class Database extends CI_Controller {
 
     echo PHP_EOL;
     
-    if($requiresNewTransactionContext == TRUE) {
+    if($requiresNewTransactionContext == 'trx') {
       $this->db->trans_complete();  
     }
   }
