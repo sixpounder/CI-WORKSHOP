@@ -5,7 +5,8 @@ class Database extends CI_Controller {
   
   public $_config = array(
     'authors_count' => 20,
-    'books_count' => 100
+    'books_count' => 100,
+    'drops' => array('migrations', 'authors', 'users', 'tags', 'books_tags', 'books')
   );
   
   public function __construct()
@@ -47,12 +48,10 @@ class Database extends CI_Controller {
       $this->db->trans_start();  
     }
     
-    $this->dbforge->drop_table('migrations');
-    $this->dbforge->drop_table('authors');
-    $this->dbforge->drop_table('users');
-    $this->dbforge->drop_table('tags');
-    $this->dbforge->drop_table('books_tags');
-    $this->dbforge->drop_table('books');
+    foreach($this->_config['drops'] as $drop) {
+      $this->dbforge->drop_table($drop);
+      echo "Table $drop dropped".PHP_EOL;
+    }
     echo "All tables dropped";
     echo PHP_EOL;
     
