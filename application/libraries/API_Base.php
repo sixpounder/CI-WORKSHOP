@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-require APPPATH.'/libraries/REST_Controller.php';
+require 'REST_Controller.php';
 
 class API_Base extends REST_Controller {
   
@@ -9,18 +9,26 @@ class API_Base extends REST_Controller {
     parent::__construct();
   }
   
+  /**
+   * Determines if there is a user session
+   * @return TRUE if there is an authenticated session, FALSE otherwise
+   */
   protected function is_logged_in()
   {
     return $this->session->userdata('logged_in') != null;
   }
   
+  /**
+   * Sends a "forbidden" response if there is no session and terminates
+   * the script
+   */
   protected function restrict()
   {
     if(! $this->is_logged_in()) {
-       $this->output->set_status_header(403);
        $stuff = (object)array('status' => FALSE);
-       $this->output->set_content_type('application/json')->set_output(json_encode($stuff));
-       $this->output->_display();
+       //$this->output->set_content_type('application/json')->set_output(json_encode($stuff));
+       //$this->output->_display();
+       $this->response($stuff, 403);
        exit();
     }
   }

@@ -7,10 +7,12 @@ class Books extends API_Base {
 
   public function __construct() {
     parent::__construct();
+    log_message('debug', 'Initializing books api');
     $this->load->model('Book', 'books_model', TRUE);
   }
 
   public function index_get() {
+    log_message('debug', 'Books::index_get');
     $res = null;
     if($this->get('author_id') != null) {
       $res = $this->books_model->byAuthorId($this->get('author_id'));
@@ -22,6 +24,7 @@ class Books extends API_Base {
   }
 
   public function index_post() {
+    log_message('debug', 'Books::index_post');
     $this->restrict();
     
     $created = $this->books_model->create($this->post());
@@ -33,7 +36,7 @@ class Books extends API_Base {
       }
       
     } else {
-      $this->response((object)array('status' => FALSE, 'message' => 'Database insert failed'), 500);
+      $this->response((object)array('status' => FALSE, 'message' => 'Book creation failed'), 500);
     }
     
   }

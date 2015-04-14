@@ -26,8 +26,15 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <?php if($current_user): ?>
-          <li><a href="/books/create">New book</a></li>
-          <li><a href="/authors/create">New Author</a></li>
+          
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Create <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="/books/create">Book</a></li>
+              <li><a href="/authors/create">Author</a></li>
+              <li><a href="/articles/create">Article</a></li>
+            </ul>
+          </li>
           <li><a href="/users/logout"><strong>Logout</strong></a></li>
         <?php else: ?>
           <li><a href="/users/login">Login</a></li>
