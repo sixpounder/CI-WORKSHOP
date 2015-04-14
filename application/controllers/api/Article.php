@@ -3,11 +3,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 require APPPATH.'/libraries/API_Base.php';
 
-class Authors extends API_Base {
+class Article extends API_Base {
 
   public function __construct() {
     parent::__construct();
-    $this->load->model('Author', 'authors_model', TRUE);
+    $this->load->model('Article', 'articles_model', TRUE);
   }
 
   public function index_get() {
