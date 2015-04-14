@@ -18,7 +18,7 @@ class Migration_Add_authors extends CI_Migration {
     ));
 
     $this->dbforge->add_key('id', TRUE);
-    $this->dbforge->create_table('authors');
+    $this->dbforge->create_table('authors', TRUE);
   }
 
   public function down()

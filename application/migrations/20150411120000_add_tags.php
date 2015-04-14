@@ -18,7 +18,7 @@ class Migration_Add_tags extends CI_Migration {
     ));
 
     $this->dbforge->add_key('id', TRUE);
-    $this->dbforge->create_table('tags');
+    $this->dbforge->create_table('tags', TRUE);
   }
 
   public function down()

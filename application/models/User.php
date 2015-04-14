@@ -16,8 +16,9 @@ class User extends CI_Model {
   }
 
   public function create($stuff) {
-    if (!isset($stuff['id'])) {
-      $stuff['id'] = $this->db->insert_id() + 1;
+    if(!isset($stuff['id'])) {
+      $id = $this->db->select_max('id')->from(self::ENTITY)->get()->result()[0]->id + 1;
+      $stuff['id'] = $id;  
     }
     return $this->db->insert(self::ENTITY, $stuff);
   }

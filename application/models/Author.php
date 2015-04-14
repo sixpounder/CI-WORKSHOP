@@ -26,7 +26,7 @@ class Author extends CI_Model {
       return null;
     }
 
-    $author = $this->db->select()->from(self::ENTITY)->where('id', $id)->get();
+    $author = $this->db->select()->from(self::ENTITY)->where('id', $id)->limit(1)->get();
     
     if($author->num_rows() != 0) {
       $author = $author->result()[0];
@@ -43,8 +43,10 @@ class Author extends CI_Model {
   }
 
   public function create($data) {
-    $id = $this->db->select_max('id')->from(self::ENTITY)->get()->result()[0]->id + 1;
-    $data['id'] = $id;
+    if(!isset($data['id'])) {
+      $id = $this->db->select_max('id')->from(self::ENTITY)->get()->result()[0]->id + 1;
+      $data['id'] = $id;  
+    }
     
     if($this->db->insert(self::ENTITY, $data)) {
       return $data;

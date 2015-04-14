@@ -12,8 +12,10 @@ class Tag extends CI_Model {
   
   public function create($data)
   {
-    $id = $this->db->select_max('id')->from(self::ENTITY)->get()->result()[0]->id + 1;
-    $data['id'] = $id;
+    if(!isset($data['id'])) {
+      $id = $this->db->select_max('id')->from(self::ENTITY)->get()->result()[0]->id + 1;
+      $data['id'] = $id;  
+    }
 
     if($this->db->insert(self::ENTITY, $data)) {
       return $data;

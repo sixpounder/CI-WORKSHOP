@@ -23,7 +23,7 @@ class Book extends CI_Model {
       return null;
     }
 
-    $book = $this->db->select()->from(self::ENTITY)->where('id', $id)->get();
+    $book = $this->db->select()->from(self::ENTITY)->where('id', $id)->limit(1)->get();
     
     if($book->num_rows() != 0) {
       $book = $book->result()[0];
@@ -56,11 +56,12 @@ class Book extends CI_Model {
   }
 
   public function create($data) {
-    $data['id'] = $this->db->insert_id(); //<-- This seems to have problems with sqlite, using a workaround
-
-    $id = $this->db->select_max('id')->from(self::ENTITY)->get()->result()[0]->id + 1;
-    $data['id'] = $id;
-
+    //$data['id'] = $this->db->insert_id(); //<-- This seems to have problems with sqlite, using a workaround
+    if(!isset($data['id'])) {
+      $id = $this->db->select_max('id')->from(self::ENTITY)->get()->result()[0]->id + 1;
+      $data['id'] = $id;  
+    }
+    
     if($this->db->insert(self::ENTITY, $data)) {
       return $data;
     } else {

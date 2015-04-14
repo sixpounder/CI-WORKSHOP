@@ -17,7 +17,7 @@ class Migration_Add_books_tags extends CI_Migration {
 
     $this->dbforge->add_key('book_id', TRUE);
     $this->dbforge->add_key('tag_id', TRUE);
-    $this->dbforge->create_table('books_tags');
+    $this->dbforge->create_table('books_tags', TRUE);
   }
 
   public function down()

@@ -26,6 +26,7 @@ class Database extends CI_Controller {
   
   public function reset($transactional = 'trx')
   {
+    $this->benchmark->mark('reset_start');
     echo "Transaction context is ".($transactional == 'trx' ? 'ON' : 'OFF').PHP_EOL;
     
     if($transactional == 'trx') {
@@ -39,29 +40,34 @@ class Database extends CI_Controller {
     if($transactional == 'trx') {
       $this->db->trans_complete();
     }
+    $this->benchmark->mark('reset_end');
+    echo "Overall time: {$this->benchmark->elapsed_time('reset_start', 'reset_end')}s".PHP_EOL.PHP_EOL;
   }
   
   public function down($requiresNewTransactionContext = 'trx')
   {
+    $this->benchmark->mark('down_start');
     if($requiresNewTransactionContext == 'trx') {
       echo 'Using new transaction context for DOWN operation'.PHP_EOL;
       $this->db->trans_start();  
     }
     
     foreach($this->_config['drops'] as $drop) {
-      $this->dbforge->drop_table($drop);
+      $this->dbforge->drop_table($drop, TRUE);
       echo "Table $drop dropped".PHP_EOL;
     }
-    echo "All tables dropped";
-    echo PHP_EOL;
     
     if($requiresNewTransactionContext == 'trx') {
       $this->db->trans_complete();  
     }
+
+    $this->benchmark->mark('code_end');
+    echo "Table drops completed in {$this->benchmark->elapsed_time('down_start', 'down_end')}s".PHP_EOL.PHP_EOL;
   }
 
   public function migrate($requiresNewTransactionContext = 'trx')
   {
+    $this->benchmark->mark('migrate_start');
     if($requiresNewTransactionContext == 'trx') {
       echo 'Using new transaction context for MIGRATE operation'.PHP_EOL;
       $this->db->trans_start();
@@ -69,18 +75,21 @@ class Database extends CI_Controller {
     $this->load->library('migration');
     if($this->migration->current() === FALSE) {
       echo($this->migration->error_string());
-    } else {
-      echo 'Schema migrated';
       echo PHP_EOL;
     }
     
     if($requiresNewTransactionContext == 'trx') {
       $this->db->trans_complete();  
     }
+
+    $this->benchmark->mark('migrate_end');
+
+    echo "Schema migration completed in {$this->benchmark->elapsed_time('migrate_start', 'migrate_end')}s".PHP_EOL.PHP_EOL;
   }
 
   public function seed($requiresNewTransactionContext = 'trx')
   {
+    $this->benchmark->mark('seed_start');
     if($requiresNewTransactionContext == 'trx') {
       echo 'Using new transaction context for SEED operation'.PHP_EOL;
       $this->db->trans_start();  
@@ -149,5 +158,7 @@ class Database extends CI_Controller {
     if($requiresNewTransactionContext == 'trx') {
       $this->db->trans_complete();  
     }
+    $this->benchmark->mark('seed_end');
+    echo "Seed completed in {$this->benchmark->elapsed_time('seed_start', 'seed_end')}s".PHP_EOL;
   }
 }

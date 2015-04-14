@@ -15,6 +15,12 @@ class Migration_Add_books extends CI_Migration {
         'type' => 'VARCHAR',
         'constraint' => '100'
       ),
+      'incipit' => array(
+        'type' => 'VARCHAR',
+        'constraint' => '1000',
+        'default' => null,
+        'null' => true
+      ),
       'author_id' => array(
         'type' => 'INT',
         'constraint' => 11,
@@ -29,7 +35,7 @@ class Migration_Add_books extends CI_Migration {
 
     $this->dbforge->add_key('id', TRUE);
     
-    $this->dbforge->create_table('books');
+    $this->dbforge->create_table('books', TRUE);
   }
 
   public function down()
