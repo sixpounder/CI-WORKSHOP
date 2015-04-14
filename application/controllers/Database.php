@@ -17,8 +17,21 @@ class Database extends CI_Controller {
     $this->load->dbforge();
   }
   
-  public function down()
+  public function reset()
   {
+    $this->db->trans_start();
+    $this->down(FALSE);
+    $this->migrate(FALSE);
+    $this->seed(FALSE);
+    $this->db->trans_complete();
+  }
+  
+  public function down($requiresNewTransactionContext = TRUE)
+  {
+    if($requiresNewTransactionContext == TRUE) {
+      $this->db->trans_start();  
+    }
+    
     $this->dbforge->drop_table('migrations');
     $this->dbforge->drop_table('authors');
     $this->dbforge->drop_table('users');
@@ -27,17 +40,17 @@ class Database extends CI_Controller {
     $this->dbforge->drop_table('books');
     echo "All tables dropped";
     echo PHP_EOL;
-  }
-  
-  public function reset()
-  {
-    $this->down();
-    $this->migrate();
-    $this->seed();
+    
+    if($requiresNewTransactionContext == TRUE) {
+      $this->db->trans_complete();  
+    }
   }
 
-  public function migrate()
+  public function migrate($requiresNewTransactionContext = TRUE)
   {
+    if($requiresNewTransactionContext == TRUE) {
+      $this->db->trans_start();  
+    }
     $this->load->library('migration');
     if($this->migration->current() === FALSE) {
       echo($this->migration->error_string());
@@ -45,11 +58,19 @@ class Database extends CI_Controller {
       echo 'Schema migrated';
       echo PHP_EOL;
     }
+    
+    if($requiresNewTransactionContext == TRUE) {
+      $this->db->trans_complete();  
+    }
   }
 
-  public function seed()
+  public function seed($requiresNewTransactionContext = TRUE)
   {
-    echo "Seeding active database";
+    if($requiresNewTransactionContext == TRUE) {
+      $this->db->trans_start();  
+    }
+    
+    echo "Seeding active database (".$this->db->hostname.")";
     echo PHP_EOL;
 
     echo "Seeding admin...";
@@ -90,7 +111,27 @@ class Database extends CI_Controller {
 
         $this->books_model->create($data);
     }
+    
+    echo PHP_EOL;
+    echo "Seeding tags";
+
+    $this->load->model('Tag', 'tags_model', TRUE);
+
+    for ($i = 0; $i < 100; $i++) {
+        echo ".";
+
+        $data = array(
+            'id' => $i + 1,
+            'name' => $this->faker->word()
+        );
+
+        $this->tags_model->create($data);
+    }
 
     echo PHP_EOL;
+    
+    if($requiresNewTransactionContext == TRUE) {
+      $this->db->trans_complete();  
+    }
   }
 }
