@@ -21,7 +21,7 @@ class MY_Controller extends CI_Controller {
 
   protected function wantsHTML()
   {
-    return (!$this->wantsJSON) || $this->__formatSpecified() == 'html';
+    return (!$this->wantsJSON) || in_array('text/html', $this->_accepted_output_formats) || $this->__formatSpecified() == 'html';
   }
 
   private function __formatSpecified()

@@ -2,6 +2,12 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Database extends CI_Controller {
+  
+  public $_config = array(
+    'authors_count' => 20,
+    'books_count' => 100
+  );
+  
   public function __construct()
   {
     parent::__construct();
@@ -94,7 +100,7 @@ class Database extends CI_Controller {
 
     $this->load->model('Author', 'authors_model', TRUE);
 
-    for ($i = 0; $i < 100; $i++) {
+    for ($i = 0; $i < $this->_config['authors_count']; $i++) {
         echo ".";
 
         $data = array(
@@ -110,14 +116,14 @@ class Database extends CI_Controller {
 
     $this->load->model('Book', 'books_model', TRUE);
 
-    for ($i = 0; $i < 100; $i++) {
+    for ($i = 0; $i < $this->_config['books_count']; $i++) {
         echo ".";
 
         $data = array(
             'id' => $i + 1,
             'title' => $this->faker->sentence(4),
-            'author_id' => $this->faker->numberBetween(1,100),
-            'cover' => $this->faker->randomElement(array('/assets/images/c1.jpg', '/assets/images/c2.jpg', '/assets/images/c3.jpg'))
+            'author_id' => $this->faker->numberBetween(1, $this->_config['authors_count']),
+            'cover' => $this->faker->randomElement(array('/assets/images/c4.jpg', '/assets/images/c5.jpg', '/assets/images/c6.jpg','/assets/images/c7.jpg','/assets/images/c8.jpg'))
         );
 
         $this->books_model->create($data);
