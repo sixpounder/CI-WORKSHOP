@@ -130,6 +130,7 @@ class Database extends CI_Controller {
         $data = array(
             'id' => $i + 1,
             'title' => $this->faker->sentence(4),
+            'synopsis' => $this->faker->paragraph(),
             'author_id' => $this->faker->numberBetween(1, $this->_config['authors_count']),
             'cover' => $this->faker->randomElement(array('/assets/images/c4.jpg', '/assets/images/c5.jpg', '/assets/images/c6.jpg','/assets/images/c7.jpg','/assets/images/c8.jpg'))
         );

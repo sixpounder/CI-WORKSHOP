@@ -9,11 +9,11 @@ class Migration_Add_tags extends CI_Migration {
         'type' => 'INT',
         'constraint' => 11,
         'unsigned' => TRUE,
-        'autoincrement' => TRUE
+        'auto_increment' => TRUE
       ),
       'name' => array(
         'type' => 'VARCHAR',
-        'constraint' => '50'
+        'constraint' => 50
       )
     ));
 

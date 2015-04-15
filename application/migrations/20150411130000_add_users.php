@@ -9,15 +9,15 @@ class Migration_Add_users extends CI_Migration {
         'type' => 'INT',
         'constraint' => 11,
         'unsigned' => TRUE,
-        'autoincrement' => TRUE
+        'auto_increment' => TRUE
       ),
       'email' => array(
         'type' => 'VARCHAR',
-        'constraint' => '100'
+        'constraint' => 100
       ),
       'password' => array(
         'type' => 'VARCHAR',
-        'constraint' => '100'
+        'constraint' => 100
       ),
       'admin' => array(
         'type' => 'BOOLEAN',

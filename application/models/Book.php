@@ -56,13 +56,9 @@ class Book extends CI_Model {
   }
 
   public function create($data) {
-    //$data['id'] = $this->db->insert_id(); //<-- This seems to have problems with sqlite, using a workaround
-    if(!isset($data['id'])) {
-      $id = $this->db->select_max('id')->from(self::ENTITY)->get()->result()[0]->id + 1;
-      $data['id'] = $id;  
-    }
     
     if($this->db->insert(self::ENTITY, $data)) {
+      $data['id'] = $this->db->insert_id();
       return $data;
     } else {
       return (object)array('status' => FALSE, 'code' => $this->db->_error_number(), 'message' => $this->db->_error_message());

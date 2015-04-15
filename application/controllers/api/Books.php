@@ -54,6 +54,7 @@ class Books extends API_Base {
     $data = array(
       'id'          =>  $id,
       'title'       =>  $this->put('title'),
+      'synopsis'    =>  $this->put('synopsis'),
       'author_id'   =>  $this->put('author_id'),
       'cover'       =>  $this->put('cover'),
     );

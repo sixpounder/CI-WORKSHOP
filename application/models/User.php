@@ -15,12 +15,13 @@ class User extends CI_Model {
     return $this->db->get(self::ENTITY)->result();
   }
 
-  public function create($stuff) {
-    if(!isset($stuff['id'])) {
-      $id = $this->db->select_max('id')->from(self::ENTITY)->get()->result()[0]->id + 1;
-      $stuff['id'] = $id;  
+  public function create($data) {
+    if($this->db->insert(self::ENTITY, $data)) {
+      $data['id'] = $this->db->insert_id();
+      return $data;
+    } else {
+      return FALSE;
     }
-    return $this->db->insert(self::ENTITY, $stuff);
   }
   
   public function login($identity, $password)

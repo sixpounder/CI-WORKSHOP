@@ -9,15 +9,15 @@ class Migration_Add_books extends CI_Migration {
         'type' => 'INT',
         'constraint' => 11,
         'unsigned' => TRUE,
-        'autoincrement' => TRUE
+        'auto_increment' => TRUE
       ),
       'title' => array(
         'type' => 'VARCHAR',
-        'constraint' => '100'
+        'constraint' => 100
       ),
-      'incipit' => array(
+      'synopsis' => array(
         'type' => 'VARCHAR',
-        'constraint' => '1000',
+        'constraint' => 1000,
         'default' => null,
         'null' => true
       ),
@@ -28,7 +28,7 @@ class Migration_Add_books extends CI_Migration {
       ),
       'cover' => array(
         'type' => 'VARCHAR',
-        'constraint' => '1024',
+        'constraint' => 1024,
         'default' => ''
       )
     ));

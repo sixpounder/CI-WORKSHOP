@@ -13,6 +13,10 @@
         <?php echo $book->author->name ?>
       </a>
     </p>
+    
+    <p class="lead synopsis">
+      <?php echo $book->synopsis ?>
+    </p>
 
     <?php if ($current_user): ?>
         <div class="mt60">
