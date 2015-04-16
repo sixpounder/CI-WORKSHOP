@@ -26,8 +26,6 @@ class API_Base extends REST_Controller {
   {
     if(! $this->is_logged_in()) {
        $stuff = (object)array('status' => FALSE);
-       //$this->output->set_content_type('application/json')->set_output(json_encode($stuff));
-       //$this->output->_display();
        $this->response($stuff, 403);
        exit();
     }
